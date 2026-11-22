@@ -30,6 +30,12 @@ marked UNVERIFIED or CONFLICT, and anything older than ~6 months, against the of
 4. **Duty is low** (simple average 3.5%; clothing 0%; electronics avg 2.7%; footwear avg 8.4%; toys avg 7.3%),
    and **EU- and Turkish-origin industrial goods are duty-free with proof of origin** (EUR.1 / origin
    declaration, PEM rules). Chinese-made goods pay MFN rates even when bought from an EU/Turkish wholesaler.
+   Averages hide peaks: small kitchen appliances (HS 8516.60 air fryers/ovens, 8509.40 blenders, 8509.80
+   ice-cream makers, 8516.79) pay **10%** MFN; 8418.69 refrigerating equipment 2% (World Bank WITS, 2022 data:
+   `https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/008/partner/000/product/<HS6>/year/2022/datatype/reported`).
+   Always look up the exact HS code. The dogana.gov.al/preferencat search returned nothing for these codes.
+   Also budget per shipment: pallet freight, broker (~€80–150) and the €22 scanning fee; on small orders these
+   fixed costs can wipe out the margin.
 5. **Pending 2027 tax package** (not confirmed law as of 22 Nov 2026): VAT 20% → 21%, VAT registration
    threshold ALL 10m → 5m. Deloitte says importers must register for VAT regardless of turnover (confirm).
 6. **Profit tax 0%** for companies and self-employed with income up to ALL 14m until end-2029.

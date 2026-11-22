@@ -82,7 +82,13 @@ These are assumptions, not quotes. Replace them with real supplier prices before
 | Bugaboo/Joolz stroller (sell €1,090) | €525 | €554 | €908 | €250 | 27% |
 | Gaggia Classic Evo Pro (sell €559) | €268 | €285 | €466 | €121 | 26% |
 | Self-cleaning litter box (sell €529) | €262 | €294 | €441 | €87 | 20% |
-| Ninja Creami / dual air fryer (sell €279) | €128 | €145 | €232 | €52 | 22% |
+| Ninja Creami / dual air fryer (sell €279) | €128 | €145 | €232 | €52 | 22% ⚠️ |
+
+⚠️ **Correction (supplier research, same day):** Ninja is Chinese-made, so the duty is **10%**, not ~3%.
+Fixed costs per shipment also add about €34 per unit on a 16-unit order. Realistic Ninja margins are
+negative for small grey imports and about 12–25% only through the official distributor with 40+ unit
+shipments. See `ninja-suppliers.md`. EU-made goods (for example Gaggia and Lelit from Italy) avoid duty
+with proof of origin.
 | Compressor dehumidifier (sell €269) | €128 | €145 | €224 | €43 | 19% |
 | Padel racket (sell €169) | €88 | €94 | €141 | €25 | 18% |
 | Foldable Pilates reformer (sell €449) | €210 | €262 | €374 | €43 | 11% |
