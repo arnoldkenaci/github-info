@@ -67,6 +67,17 @@ marked UNVERIFIED or CONFLICT, and anything older than ~6 months, against the of
 - Hot, humid coast; long heatwaves; apartment construction boom (many empty, damp flats).
 - Tourism boom (short-term-rental hosts are a B2B channel); no Decathlon or IKEA in Albania.
 
+## Lessons from the Nov 2026 deep research (research/deep-research-beginner-niches.md)
+
+- Treat VAT registration from the first import as near-certain (Grant Thornton, PwC summaries); budget
+  ~€450 per 6 months for accountant, fiscal-invoice software (~7,000–19,000 ALL/yr), packaging and samples.
+- Plan 12–15% COD refusals for a new Instagram/TikTok seller (7% only for phone-confirmed or repeat buyers).
+- Re-check "brand X is missing" claims: a quick scan wrongly said Bugaboo/Joolz/Stokke were absent; baby shops
+  (Bee Kids, Oh Baby, Pink & Blue) sell them at +10–25% over EU prices.
+- Megateksa sells cheap towels and bed sets in-store; textile ideas must compete on quality, not price.
+- Many duties are higher than the averages suggest (WITS 2022): Japanese tea and ceramics 15%, padel rackets 15%,
+  Chinese lockboxes (8301.40) 15%, strollers 10%; towels (6302.60) 0%; bed linen (6302.31) 10%, or 0% with EUR.1.
+
 ## Gaps in this skill
 
 UNVERIFIED: COD fees and remittance times per courier, supplement registration specifics, PayPal for

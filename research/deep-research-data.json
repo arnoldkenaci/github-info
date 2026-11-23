@@ -1,0 +1,1661 @@
+{
+ "research": [
+  {
+   "niche": "Home espresso gear (Italian-made machines, grinders, moka pots and barista accessories)",
+   "summary": "Not a good first niche for a beginner with EUR 1,500-2,500. No local shop sells prosumer Italian gear (Gaggia, Lelit, Rancilio, Eureka), but demand is tiny: in Trends, 'gaggia' scores 0.1 against 22.6 for 'nespresso'. Cheaper buyers are covered by Neptun's DeLonghi, Philips and Bialetti range. Enthusiasts can already order from German and Italian shops that show prices in lek and ship to Albania; naturbohne.de lists the Eureka Specialita from 30,200 ALL before VAT. Priced competitively with those shops, a small first order loses money (about EUR -247 if everything sells). Even priced 15-20% above EU retail it makes only about EUR 167, or 7%. Freight, broker fees, a ~EUR 30-35 ad cost per sale and warranty risk eat the margin on EUR 300-400 machines. The only segment with a positive margin is Italian-made Motta accessories (about 19-26%), and they sell for EUR 25-35, so selling enough units is the problem. If the buyer still wants to try, sell machines on pre-order with a deposit and do not buy stock.",
+   "demand_evidence": [
+    "Google Trends Albania, last 12 months (relative, from brief): nespresso 22.6, espresso machine 10.4, coffee beans 4.0, bialetti 1.4 (rising), delonghi 1.3 (rising; 'delonghi magnifica', 'ekspres delonghi'), gaggia 0.1. Search interest is mostly in capsule and automatic machines, with almost none for prosumer brands. A fresh Trends pull for 'ekspres kafeje'/'espresso'/'moka' failed (Google returned HTML/blocked).",
+    "The specialty coffee scene in Tirana is small but growing. Sprudge describes it as early in its specialty wave and notes that Antigua Caffe closed in Sept 2025: https://sprudge.com/the-sprudge-guide-to-coffee-in-tirana-albania-915072.html",
+    "Barista Magazine, '3 Shining Cafés to Experience in Tirana' (The Coffee Lab, opened 2022, roasts at a partner roastery in Saranda): https://www.baristamagazine.com/three-shining-cafes-to-experience-in-tirana/",
+    "The Back Room, Tirana, serves The Barn Berlin beans: https://sprudge.com/build-outs-of-coffee-the-back-room-in-tirana-albania-1232238.html and https://europeancoffeetrip.com/cafe/thebackroom-tirana/",
+    "Other European Coffee Trip specialty cafe listings in Tirana: Rubi (https://europeancoffeetrip.com/cafe/rubisheshiwilson-tirana/) and Mimoza n'Qoshe (https://europeancoffeetrip.com/cafe/mimoza-nqoshe-tirana/)",
+    "Neptun has a full category of espresso and automatic machines, from 11,999 to 314,999 ALL, plus Bialetti moka pots: https://www.neptun.al/aparate-kafeje.nspx. This shows mass-market demand, not prosumer demand.",
+    "A German roaster/shop (naturbohne.de) runs an Albania storefront priced in lek with Eureka, Fiorenzato, Mahlkoenig and Rocket grinders: https://naturbohne.de/en-al/collections/muhlen. This suggests some Albanian enthusiast demand that is already served cross-border.",
+    "Ubuy.al resells Gaggia, Rancilio and Nuova Simonelli parts and accessories in ALL (e.g. a Rancilio Silvia basket for ALL 2,072, plus shipping and customs): https://www.ubuy.al/sq/product/5G74Z9Q-single-filter-basket-for-rancilio-silvia"
+   ],
+   "local_competition_level": "scarce",
+   "local_sellers": [
+    "Neptun (https://www.neptun.al/aparate-kafeje.nspx, via its category API): Bialetti Moka 2-cup 1,899 ALL (regular 2,399), Bialetti Moka 4-cup 2,999 ALL, Bialetti milk frother 6,499 ALL, DeLonghi EC191CD 11,999 ALL, DeLonghi EC9155.MB (La Specialista) 59,990 ALL, DeLonghi ECAM220 44,499-54,999 ALL, Philips/Krups/Siemens/Miele automatics up to 314,999 ALL. No Gaggia, Lelit, Rancilio or Eureka.",
+    "Zara Home Albania: Bialetti Moka 6-cup 5,950 ALL (https://www.zarahome.com/al/makine-kafeje-bialetti-per-6-filxhane-l42217755), Bialetti 3-cup / Mini Express 4,750 ALL (https://www.zarahome.com/al/mini-ekspres-kafeje-bialetti-l42222755)",
+    "Megateksa (HoReCa/housewares): own-brand Megatek aluminium tamper 58 mm 1,130 ALL (https://www.megateksa.com/en/coffee-tamper-aluminum-silver-dia-5-8-cm), Echo stainless milk jug 450 ml 799 ALL, generic aluminium moka 6-cup 1,349 ALL, Melchioni blade grinder 2,499 ALL, G3 Ferrari grinder 3,490 ALL (search results on megateksa.com)",
+    "naturbohne.de Albania storefront (German, ships in 6-8 business days, prices exclude German VAT, buyer pays Albanian import tax on delivery): Eureka Mignon Specialita 16CR from 30,200 ALL, Mignon Zero 30,500 ALL, Mignon Oro XL 46,000 ALL, Rocket Fausto 58,600 ALL (https://naturbohne.de/en-al/collections/muhlen)",
+    "Ubuy.al (cross-border reseller): Leverpresso spring tamper 7,086 ALL (https://www.ubuy.al/it/product/Q0BE0G5W2-leverpresso-spring-tamper), Rancilio Silvia basket 2,072 ALL. Gaggia brand page exists (https://www.ubuy.al/it/brand/gaggia), but prices could not be read (403).",
+    "Smeg Albania lists the ECF02 manual espresso machine and CGF01 grinder; no price seen (https://www.smeg.com/al/produkte/ECF02RDEU)",
+    "Gjirafa50.al: searches for 'gaggia', 'espresso' and 'bialetti' returned no products (checked Nov 2026)",
+    "Used commercial machines: Mirlir classified in Tirana, Victoria Arduino Athena Leva 2-group at EUR 5,300 (2022 listing): https://mirlir.com/shpallje/Tirane/Teknikdhepaisje/Victoria-Arduino-Athena-Classic-Leva-2-Group-Lever-Commercial-Espresso-Machine-3607626"
+   ],
+   "products": [
+    {
+     "name": "Gaggia Classic Evo Pro (RI9481)",
+     "origin_country": "Italy (Gaggio Montano, Bologna, per Versuni)",
+     "hs_code": "8516.71",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS MFN 2022 = 10%; 0% only with EU proof of origin (EUR.1 or invoice declaration)",
+     "eu_retail_eur": 459,
+     "est_buy_price_eur": 340,
+     "suggested_albania_price_eur": 611,
+     "est_margin_pct": 3.9
+    },
+    {
+     "name": "Eureka Mignon Specialita 16CR grinder",
+     "origin_country": "Italy (Eureka, Florence)",
+     "hs_code": "8509.40",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS MFN 2022 = 10%; 0% with EU proof of origin",
+     "eu_retail_eur": 419,
+     "est_buy_price_eur": 300,
+     "suggested_albania_price_eur": 500,
+     "est_margin_pct": -1
+    },
+    {
+     "name": "Lelit Anna PL41TEM (PID)",
+     "origin_country": "Italy (Castegnato, Brescia)",
+     "hs_code": "8516.71",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS MFN 2022 = 10%; 0% with EU proof of origin",
+     "eu_retail_eur": 548,
+     "est_buy_price_eur": 400,
+     "suggested_albania_price_eur": 723,
+     "est_margin_pct": 6.4
+    },
+    {
+     "name": "Motta Europa 18/10 stainless milk pitcher 500 ml",
+     "origin_country": "Italy (Metallurgica Motta, Omegna)",
+     "hs_code": "7323.93",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS MFN 2022 = 15%; 0% with EU proof of origin",
+     "eu_retail_eur": 33,
+     "est_buy_price_eur": 14,
+     "suggested_albania_price_eur": 38.9,
+     "est_margin_pct": 25.8
+    },
+    {
+     "name": "Motta 8100 58 mm stainless/wood tamper",
+     "origin_country": "Italy (Metallurgica Motta)",
+     "hs_code": "7323.93 (aluminium versions 7615.10)",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS MFN 2022: 7323.93 = 15%, 7615.10 = 0%; 0% with EU proof of origin",
+     "eu_retail_eur": 23.8,
+     "est_buy_price_eur": 13,
+     "suggested_albania_price_eur": 33.3,
+     "est_margin_pct": 18.6
+    },
+    {
+     "name": "Bialetti Moka Express 3-cup (aluminium) - NOT recommended",
+     "origin_country": "Romania/Turkey with final assembly in Italy (Gambero Rosso 2025); check the unit's label",
+     "hs_code": "7615.10",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS MFN 2022 = 0% regardless of origin",
+     "eu_retail_eur": 30,
+     "est_buy_price_eur": 17,
+     "suggested_albania_price_eur": 38.9,
+     "est_margin_pct": -2.7
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "Espresso Coffee Shop Wholesale (B2B arm of espressocoffeeshop.com)",
+     "country": "Italy (Teolo, Padova), Spanish-language B2B site",
+     "url": "https://wholesale.espressocoffeeshop.com/",
+     "public_contact": "wholesale@espressocoffeeshop.com; info@espressocoffeeshop.com",
+     "moq": "None shown (cart config minimalPurchase = 0); trade prices require login",
+     "sells_to_albania": "Albania appears in the retail site's country selector and retail prices are shown ex-tax with 'local duties and VAT paid on delivery'. Wholesale export to Albania not confirmed.",
+     "notes": "Stocks Eureka, Gaggia, Lelit, La Pavoni, Rancilio and Motta. Retail ex-tax reference: Eureka Specialita EUR 344.26 list / EUR 292.62 on sale; Motta 8100 tamper EUR 19.67 ex-tax. A reseller, not the manufacturer, so it adds a margin layer."
+    },
+    {
+     "name": "Eureka (Officine Meccaniche Eureka / Eureka Grinders)",
+     "country": "Italy (Sesto Fiorentino, Florence)",
+     "url": "https://www.eureka.co.it/en",
+     "public_contact": "info@eureka.co.it; +39 055 4200010",
+     "moq": "Unknown - ask for dealer terms",
+     "sells_to_albania": "No Albanian or Balkan dealer found in searches, so the market may be open. Not confirmed whether they would sign up a micro-dealer.",
+     "notes": "Manufacturer. Ask for authorized-reseller pricing, EUR.1 or invoice origin declaration, and spare-parts support. Becoming the first local authorized dealer is the only route to a workable margin on grinders."
+    },
+    {
+     "name": "Metallurgica Motta srl",
+     "country": "Italy (Via Turati 2, 28887 Omegna VB)",
+     "url": "https://ambiente.messefrankfurt.com/frankfurt/en/exhibitor-search.detail.html/metallurgica-motta-srl.html",
+     "public_contact": "+39 0323 862323; info@metallurgicamotta.it (from a 2019 catalogue - verify)",
+     "moq": "Unknown; most likely sells via distributors in cartons",
+     "sells_to_albania": "Unknown",
+     "notes": "Makes Italian-made pitchers, tampers and knock boxes for professionals since 1967. Do not confuse with Motta S.p.A. (motta.it), which is an unrelated logistics firm. Note: the official site domain could not be confirmed."
+    },
+    {
+     "name": "Lelit (Breville/Sage group)",
+     "country": "Italy (manufacturing); EU legal entity Sage Appliances GmbH, Germany",
+     "url": "https://lelit.com/en-gb/support/company-information",
+     "public_contact": "Reseller enquiries by e-mail via the company-information page (address not captured)",
+     "moq": "Unknown",
+     "sells_to_albania": "No Albanian distributor found; support-by-country page has no Albania entry",
+     "notes": "Trustpilot reviews show Lelit sends warranty claims back to the selling distributor. As an unauthorized importer you would carry the 2-year liability yourself."
+    },
+    {
+     "name": "Coffee Circle B2B retailer programme",
+     "country": "Germany",
+     "url": "https://www.coffeecircle.com/en/e/b2b-retailer-info",
+     "public_contact": "Via the B2B page form",
+     "moq": "Unknown",
+     "sells_to_albania": "Unknown",
+     "notes": "Accessories and merchant programme. Check the country of manufacture of each accessory: many third-party barista tools (scales, WDT tools, knock boxes) are made in China, so MFN rates of 10-15% apply even when bought in Germany."
+    }
+   ],
+   "regulation": [
+    "Proof of preferential origin is the key paperwork. Machines (8516.71) and grinders (8509.40) carry 10% MFN duty; stainless pitchers and tampers (7323.93) carry 15%; scales (8423.10) 10%; hand grinders (8210.00) 10%; aluminium moka pots and aluminium tampers (7615.10) 0%; plastic knock boxes (3924.10) 6%. Sources: WITS 2022, reporter 008. The duty falls to 0% only if the EU supplier issues an EUR.1 or an invoice origin declaration (approved-exporter status is needed for consignments over EUR 6,000). Chinese-made accessories bought from EU shops still pay MFN.",
+    "Electrical safety: Albania's Law 10489 on non-food products aims at alignment with EU Regulation 765/2008. Keep the manufacturer's EU Declaration of Conformity (LVD 2014/35/EU, EMC 2014/30/EU, RoHS) and CE marking on file. EU Schuko plugs (type F) suit Albania. Sources: https://www.trade.gov/country-commercial-guides/albania-standards-trade and https://www.gtai.de/de/trade/albanien/zoll/standards-und-normen-764168",
+    "Albanian-language label on every unit (stickers OK) with importer details, plus Albanian safety warnings and instructions for electrical appliances.",
+    "Food-contact items (portafilters, pitchers, moka pots) should come with the supplier's food-contact compliance declaration (EU 1935/2004 equivalent). The specific Albanian requirement was not verified.",
+    "Business import: 20% import VAT (recoverable if VAT-registered), scanning fee EUR 22 per declaration over EUR 1,000, customs broker ~EUR 80-150 per shipment.",
+    "Every sale, including COD, needs a real-time fiscal invoice.",
+    "Consumer law: 14-day withdrawal for distance sales. You can claim for diminished value on a used machine, but a returned espresso machine is hard to resell as new. Two-year seller liability for defects, so you need spare parts (gaskets, pumps, solenoids, burrs) and a technician. Outside an authorized distribution agreement, brands may refuse warranty support.",
+    "Exclude coffee beans and capsules (excise good, and food rules apply). Neptun already sells Bialetti coffee and capsules.",
+    "No product licence (unlike food, cosmetics or medical devices) is needed for espresso hardware. Regulatory burden is low."
+   ],
+   "first_order": {
+    "description": "Test order from an Italian B2B source, shipped as parcels or groupage of about 43.5 kg: 2x Gaggia Classic Evo Pro, 2x Eureka Mignon Specialita, 10x Motta Europa 500 ml pitchers, 10x Motta 58 mm tampers. Accessories are sold mainly as add-ons with the machines. Recommendation: do NOT stock machines. Order the accessories plus 1 demo machine, and take paid deposits for further machines before ordering them.",
+    "units": 24,
+    "cash_needed_eur": 2282,
+    "est_profit_if_all_sold_eur": 167,
+    "calc_notes": "Python model (standard margin model). FX 89.78 ALL/EUR; seller VAT-registered; retail includes 20% VAT. Buy prices are MY ESTIMATES for a small reseller, not published wholesale: Gaggia 340, Eureka 300, pitcher 14, tamper 13 (EU retail references: Gaggia EUR 459 Mediaworld, Eureka EUR 419 Galaxus / 344 ex-tax ECS, Motta tamper 19.67 ex-tax ECS, Motta pitcher ~33-38). Goods EUR 1,550; freight EUR 250 allocated by weight; broker 100 + scanning 22 allocated by value; duty 0% assuming EU origin proof. Cash upfront EUR 2,282, of which EUR 360 is import VAT (recoverable, not a cost), so EUR 1,922 net. Landed per unit: Gaggia 424, Eureka 364, pitcher 18.0, tamper 16.6. Per-order costs: courier EUR 9 per machine + 7% refusals x 2-way + ad EUR 35 (Gaggia) / EUR 30 (Eureka) + 4% warranty reserve. Accessories as add-ons: EUR 3 courier share + EUR 2 ad + 2% reserve. SCENARIO A, priced to match EU cross-border (Gaggia 47,900 ALL, Eureka 39,900, pitcher 2,990, tamper 2,490; accessories as standalone orders with EUR 6 courier and EUR 4 ad): net sales EUR 2,139, profit EUR -247 (-11.5%). SCENARIO B, premium prices (Gaggia 54,900 ALL, Eureka 44,900, pitcher 3,490, tamper 2,990, accessories as add-ons): net EUR 2,454, profit EUR +167 (6.8%). Per-unit B margins: Gaggia 3.9%, Eureka -1.0%, pitcher 25.8%, tamper 18.6%. Break-even retail prices: Gaggia 52,700 ALL, Eureka 45,350 ALL. If no origin proof (MFN 10%/15%): extra EUR 196 duty, and Scenario A falls to EUR -443. If dealer prices are 15% better (unverified): Scenario B rises to EUR +397 (16.2%). With an ad cost of EUR 50 per machine sale, Scenario A falls to EUR -317. Bialetti moka at 3,490 ALL: -2.7%, and Neptun sells the 4-cup at 2,999."
+   },
+   "beginner_scores": {
+    "low_capital": 4,
+    "low_complexity": 4,
+    "low_regulation": 7,
+    "demand": 2,
+    "low_competition": 6,
+    "margin": 2
+   },
+   "risks": [
+    "Very small addressable market: 'gaggia' scores 0.1 in Albanian Trends, and the specialty coffee scene is a handful of Tirana cafes. 4 machines could take months to sell.",
+    "Cross-border competition: naturbohne.de (Albanian storefront in ALL), Espresso Coffee Shop and Ubuy.al let enthusiasts buy direct at EU prices. Albanians in Italy and Germany and the diaspora bring machines back in luggage.",
+    "Bialetti and mass-market machines are already sold by Neptun (official brand presence) at or below EU retail, so there is no margin there.",
+    "Warranty and service: 2-year legal liability on machines with pumps, boilers and solenoids, with no authorized service network in Albania. Brands may refuse warranty for gray imports.",
+    "Returns: 14-day withdrawal on EUR 400-600 machines. A tested or used unit loses value; COD refusal on a 10 kg parcel costs a two-way delivery.",
+    "High ad cost per sale for an unknown seller on a EUR 450+ item. Buyers will want reviews, demos and a physical showroom before paying cash on delivery.",
+    "Missing proof of origin turns 0% into 10-15% duty (7323.93 is 15%). Many accessories (scales, WDT tools, cheap tampers, knock boxes) are Chinese-made and pay MFN even from EU sellers.",
+    "Cash tied up: import VAT (~EUR 360) is recovered only after filing. Slow-moving stock locks up most of the budget.",
+    "Currency and price transparency: buyers can compare with EU prices online instantly."
+   ],
+   "unverified": [
+    "All buy prices (Gaggia 340, Eureka 300, Lelit 400, Motta pitcher 14, tamper 13, Bialetti 17) are estimates. No published wholesale price lists were found, and Espresso Coffee Shop's wholesale prices are behind a login.",
+    "Whether Eureka, Lelit, Gaggia (Versuni) or Metallurgica Motta will sell direct to a micro-reseller in Albania, and their MOQs.",
+    "Whether Espresso Coffee Shop Wholesale or Coffee Circle B2B ship to Albania and issue EUR.1 / origin declarations.",
+    "Metallurgica Motta's current website and e-mail (info@metallurgicamotta.it and the phone number come from a 2019 catalogue and the Messe Frankfurt listing).",
+    "Current manufacturing site of the Gaggia Classic Evo Pro (Versuni says Gaggio Montano for the Classic Evo). Exact origin split for Bialetti Moka Express (Romania/Turkey/Italy). Whether every Eureka model is made in Italy.",
+    "Whether DeLonghi manual machines sold locally (e.g. EC191CD) are China-made.",
+    "Ubuy.al prices for Gaggia machines (page returned 403). MerrJep second-hand listings (site redirect loop). Foleja.al search returned HTTP 400.",
+    "Freight cost of EUR 250 for ~43.5 kg from Italy and courier cost of EUR 9 per 10 kg domestic parcel are estimates.",
+    "Albanian food-contact material rules and any WEEE/EPR obligation for electrical appliances.",
+    "Ad cost per sale (EUR 30-35 per machine) is an assumption for a beginner with no brand.",
+    "Fresh Google Trends pull for Albanian-language terms ('ekspres kafeje', 'moka') failed; relying on the brief's Trends data."
+   ]
+  },
+  {
+   "niche": "Matcha kits and tea-ware (ceremonial matcha tins + bamboo whisk, chawan bowl, whisk holder, scoop) for Albania",
+   "summary": "The demand is real but small. Matcha has the highest Albanian Google Trends score in the comparison list (33.2), and Tirana now has several matcha bars. The niche is already taken, though: Matchai Store, OhMyCha, Bloom The Matcha and Baronesha (Kusmi) sell ceremonial 30 g tins for 3,000-4,500 ALL and kits for 6,000-8,500 ALL, and Matchai also sells wholesale to cafes. Japanese tea (HS 0902.10) and ceramic bowls both pay 15% Albanian duty, even when the matcha is bought from an EU wholesaler. Food imports also need an AKU licence or registration, border checks, Albanian food labels and a label notification. With the standard margin model, a premium kit at 7,500 ALL makes a contribution of about 16-18%, and a standalone tin breaks even or loses money. The best realistic first batch earns about EUR 600 on EUR 2,200 of cash, and that is before any licence or premises costs. For a beginner I would not pick this niche first. If the user goes ahead anyway, it should be a small seasonal test of gift kits (Christmas or Valentine's Day), sold to Tirana buyers at premium prices, after AKU confirms in writing which licence an online seller of pre-packed tea needs.",
+   "demand_evidence": [
+    "Google Trends Albania, 12 months (supplied data): matcha 33.2, the highest in the comparison list (nespresso 22.6, padel 17.3). Rising queries: 'how to make matcha latte', and 'matcha near me' as a breakout. A live re-check with the google-trends skill failed because Google returned an HTML error page.",
+    "Matchai Store, a dedicated Japanese-style matcha bar in Tirana (Rr. Sami Frashëri) with an online shop, ritual kits and a wholesale programme for cafes: https://matchaistore.com/about and https://es.restaurantguru.com/Matchai-Store-Japanese-Matcha-Bar-Tirana-Tirana",
+    "The Blossom Matcha, a matcha bar by the Tirana lake that sells 'Japanese Ceremonial Matcha': https://theblossommatcha.al/",
+    "Bloom The Matcha on Wolt Tirana: matcha lattes at 500-660 ALL and a ceremonial tin at 4,500 ALL: https://wolt.com/en/alb/tirana/restaurant/bloom-the-matcha",
+    "OhMyCha Matcha, a retail-only matcha brand on Wolt Tirana: https://wolt.com/en/alb/tirana/venue/ohmycha-matcha",
+    "Rubi Cakes & Specialty Coffee 'specializes in matcha' (travel blog): https://wheretarawent.com/blog/best-coffee-cafes-in-tirana. Hana Corner in Blloku uses chasen whisks behind the bar: https://sprudge.com/the-sprudge-guide-to-coffee-in-tirana-albania-915072.html",
+    "The Back Room, a specialty cafe that opened in Tirana in May 2026 with specialty matcha on the menu: https://sprudge.com/build-outs-of-coffee-the-back-room-in-tirana-albania-1232238.html",
+    "Matcha outside Tirana: Skuta in Shkodër sells a matcha latte at 350 ALL (https://wolt.com/en/alb/shkoder/restaurant/skuta/items/beverages-4), and Mon Cheri in Vlorë sells a croissant + matcha combo at 660 ALL (https://wolt.com/en/alb/vlora/restaurant/mon-cheri-1)",
+    "A Japanese tea ceremony cultural event was held in Tirana in Oct 2025: https://www.almanart.al/events/java-kulturore-japoneze-ceremonia-e-cajit/",
+    "A Tirana grocery stocks premium imported matcha: Baronesha on Wolt lists Kusmi Organic Ceremonial Matcha 30 g at 3,499 ALL: https://wolt.com/sq/alb/tirana/venue/baronesha/items/kusmi-tea-26"
+   ],
+   "local_competition_level": "available",
+   "local_sellers": [
+    "Matchai Store, https://matchaistore.com (prices read from the site's product data): Matchai Ritual Set (30 g tin + bowl + bamboo whisk + scoop) 8,500 ALL (list 10,000); Ceremonial Grade Matcha 30 g (Uji) 3,230 ALL (list 3,800); bamboo whisk 1,700 ALL; ceramic bowl 1,700 ALL; bamboo scoop 850 ALL; wholesale form for cafes; Instagram @matchaistore",
+    "OhMyCha Matcha (Wolt Tirana), https://wolt.com/en/alb/tirana/venue/ohmycha-matcha: Supreme Ceremonial 30 g 3,000 ALL; 60 g 5,500 ALL; Premium Everyday 100 g 3,500 ALL; Ceremonial Set 6,000 ALL; bamboo whisk 2,000 ALL",
+    "Bloom The Matcha (Wolt Tirana), https://wolt.com/en/alb/tirana/restaurant/bloom-the-matcha: ceremonial matcha tin 4,500 ALL (weight not stated); lattes 500-660 ALL",
+    "Baronesha grocery (Wolt Tirana), https://wolt.com/sq/alb/tirana/venue/baronesha/items/kusmi-tea-26: Kusmi Tea Organic Ceremonial Matcha 30 g 3,499 ALL",
+    "T2 Tea Albania storefront (ships to AL), https://www.t2tea.com/en-al/products/hibi-matcha-whisk-holder-beige: Hibi matcha whisk holder 1,100 ALL",
+    "Temu (dominant cheap channel; consumer parcels under EUR 22 pay no duty or VAT): many 3-5 piece bamboo chasen, scoop, bowl and holder sets, e.g. https://www.temu.com/4-piece-matcha-tea-ceremony-set-with-handmade-bamboo-whisk-ceramic-bowl-tea-scoop-and-holder-traditional-japanese-matcha-making-kit-for-tea-enthusiasts-wood-material-g-601099631441745.html (price not captured)",
+    "No matcha tea found on gjirafa50.al (search 'matcha' only returns green-coloured electronics), merrjep.al (no relevant listings), shpresa.al or megateksa.com. foleja.al search returned HTTP 400/404 and neptun.al search returned 404."
+   ],
+   "products": [
+    {
+     "name": "Ceremonial-grade matcha, 30 g tin (unlabelled wholesale tin, Albanian sticker added)",
+     "origin_country": "Japan (Uji/Aichi), bought via an EU importer (Czech Republic)",
+     "hs_code": "0902.10",
+     "albania_duty_pct": 15,
+     "duty_basis": "WITS TRN MFN 2022 for 090210 = 15% (the same 2019-2023). Japanese origin, so repacking or buying in the EU gives no SAA preference, and there is no FTA with Japan.",
+     "eu_retail_eur": 28,
+     "est_buy_price_eur": 12,
+     "suggested_albania_price_eur": 36.76,
+     "est_margin_pct": 1
+    },
+    {
+     "name": "Matcha starter kit: 30 g ceremonial tin + bamboo chasen + ceramic chawan + ceramic whisk holder + bamboo scoop + gift box",
+     "origin_country": "Mixed: matcha Japan; tea-ware China",
+     "hs_code": "0902.10 / 6912.00 / 4419.19 / 4819.10 (declared per component)",
+     "albania_duty_pct": 15,
+     "duty_basis": "Blended: 15% on matcha and ceramics (0902.10, 6912.00), 0% on bamboo (4419.19) and the cardboard box (4819.10), all WITS MFN 2022. The model applies the duty per component, so the effective duty is about 13% of goods value.",
+     "eu_retail_eur": 79,
+     "est_buy_price_eur": 23.6,
+     "suggested_albania_price_eur": 83.54,
+     "est_margin_pct": 16
+    },
+    {
+     "name": "Bamboo whisk (chasen), 80-100 prongs",
+     "origin_country": "China",
+     "hs_code": "4419.19",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS MFN 2022: 441919 = 0%. Risk: if customs classes it as a brush (9603.90), the duty is 15%.",
+     "eu_retail_eur": 12.95,
+     "est_buy_price_eur": 3,
+     "suggested_albania_price_eur": 16.71,
+     "est_margin_pct": 62
+    },
+    {
+     "name": "Ceramic matcha bowl (chawan), ~12 cm",
+     "origin_country": "China (Japanese-made bowls cost far more; EU- or Turkish-made bowls would pay 0% with EUR.1)",
+     "hs_code": "6912.00",
+     "albania_duty_pct": 15,
+     "duty_basis": "WITS MFN 2022: 691200 = 15% (6911.10 porcelain also 15%)",
+     "eu_retail_eur": 29,
+     "est_buy_price_eur": 5,
+     "suggested_albania_price_eur": 18.94,
+     "est_margin_pct": 42
+    },
+    {
+     "name": "Ceramic whisk holder (kusenaoshi)",
+     "origin_country": "China",
+     "hs_code": "6912.00",
+     "albania_duty_pct": 15,
+     "duty_basis": "WITS MFN 2022: 691200 = 15%",
+     "eu_retail_eur": 12,
+     "est_buy_price_eur": 1.5,
+     "suggested_albania_price_eur": 10.02,
+     "est_margin_pct": 66
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "Kyosun s.r.o. (B2B shop matchab2b.com)",
+     "country": "Czech Republic (EU)",
+     "url": "https://kyosun.com/en/matcha-wholesale",
+     "public_contact": "info@kyosun.com / sales@kyosun.com, +420 773 082 222, Trmická 836/1, 190 00 Praha 9",
+     "moq": "Not public. MOQ and prices show after B2B registration; the site says 'low minimum orders' and 'support for start-ups'",
+     "sells_to_albania": "Says it delivers 'quickly worldwide' to '30+ countries'; Albania not confirmed",
+     "notes": "Japanese-only matcha in 5 grades, with lab test archive and organic CZ-BIO-002. Sells 'Organic Matcha A++ 30 g tin without label' (ideal for an Albanian sticker label), 2 g sachets, private label, and a bamboo chasen. Best fit for a beginner's matcha source. Japanese origin still pays 15% duty in Albania."
+    },
+    {
+     "name": "Moya Matcha",
+     "country": "Poland (EU)",
+     "url": "https://moyamatcha.com/en/?p=4262",
+     "public_contact": "wholesale@moyamatcha.com; +48 792 106 706 (shown on site)",
+     "moq": "Not published for direct wholesale (its Faire listings show a GBP 100 minimum)",
+     "sells_to_albania": "Runs EU, UK and UA storefronts; Albania unverified",
+     "notes": "Could be a one-stop source: matcha (Premium, Traditional, Daily, Culinary), bowls, chasen (retail EUR 12.95-14.95), chashaku, naoshi holders, sets and private label. One EU shipment means one customs declaration."
+    },
+    {
+     "name": "Aiya Europe GmbH",
+     "country": "Germany (EU, Hamburg)",
+     "url": "https://wonnda.com/suppliers/aiya-europe/",
+     "public_contact": "'Request a quote' via the directory listing (no direct email verified)",
+     "moq": "Quoted case by case",
+     "sells_to_albania": "Unverified",
+     "notes": "European arm of the AIYA group (large Japanese matcha producer). Ceremonial and culinary matcha in bulk. Better suited to B2B barista-grade supply for cafes than to small retail tins."
+    },
+    {
+     "name": "Hibiki-an (wholesale)",
+     "country": "Japan (Uji, Kyoto)",
+     "url": "https://www.hibiki-an.com/wholesale/",
+     "public_contact": "22-1 Kuchijodo Iwayama Ujitawara, Kyoto 610-0261, Japan (contact via site)",
+     "moq": "2 kg per item and a minimum total order of 10 kg or US$2,000",
+     "sells_to_albania": "Ships worldwide by EMS (about 7-9 days; EU-zone EMS about JPY 27,700 per 10 kg)",
+     "notes": "Too large for a first order, but a direct-from-Japan option for scaling, also selling chawan, chasen, kusenaoshi and sifters. Wants buyers to sell under their own brand. Duty in Albania 15%."
+    },
+    {
+     "name": "Yunomi.life (wholesale)",
+     "country": "Japan",
+     "url": "https://yunomi.life/wholesale",
+     "public_contact": "Wholesale application form on site",
+     "moq": "Wholesale by application; private label generally 100-300 units for organic",
+     "sells_to_albania": "International shipping to 100+ countries (Albania not checked individually)",
+     "notes": "Aggregator of 200+ Japanese tea farms. Japanese-made matcha bowls, chasen and holders, plus matcha in all grades."
+    },
+    {
+     "name": "Newell (Alibaba store)",
+     "country": "China",
+     "url": "https://neweller.en.alibaba.com/product/60585900629-0/Newell_Hot_selling_Japanese_Matcha_Whisk_Accessory_Set_Including_Bamboo_Whisk_and_Spoon_with_Custom_Logo.html",
+     "public_contact": "Alibaba messaging only",
+     "moq": "Ceramic matcha bowl MOQ 50 pcs; gift-box sets MOQ 500 (US$2.25-6.85/set)",
+     "sells_to_albania": "Alibaba sellers ship globally; freight and forwarder to arrange",
+     "notes": "Cheap source of tea-ware (bamboo whisk + spoon sets, handmade porcelain bowls). Similar Alibaba listings: bamboo chasen US$2.40-2.70 at MOQ 100; ZENRC chawan+whisk set US$14.77 at 50-499 pcs. Check quality and food-contact (lead/cadmium) test reports."
+    }
+   ],
+   "regulation": [
+    "Food business licence: AKU's licensing guide (https://aku.gov.al/wp-content/uploads/2023/04/Licencimi.pdf) puts 'production and/or trade of food' under licence category II.1. Wholesale distribution of food (II.1.A.1) is applied for through QKB/e-Albania and then inspected on site by AKU. It needs a floor plan, premises ownership or lease documents, a technical director with a certificate and employment contract, and a hygiene self-declaration. There is no fee, the decision takes 20 days, and the licence does not expire. Whether a home-based online seller importing small amounts of pre-packed tea must hold II.1.A or a lighter registration is UNVERIFIED. Ask AKU in writing; its request register shows it answers import-procedure questions for free.",
+    "Border control: every food consignment gets documentary, identity and physical checks by AKU border inspection (PIK) inspectors, who check labels and lot or shelf-life details. Doubtful loads are held in a customs warehouse. Certificates must be in Albanian plus the language of origin (https://www.gazetatema.net/ekonomia/blerina-gjylameti-tregon-planin-e-aku-per-te-arritur-sigurine-ushqimore-i557902). Ask the supplier for a certificate of analysis or lab tests (pesticides, heavy metals) and a certificate of origin.",
+    "Food labelling, VKM 434/2018 (EU 1169/2011 equivalent; https://aku.gov.al/wp-content/uploads/2023/02/Broshura-Informacion-mbi-Etiketimin-e-Produkteve-Ushqimore.pdf): in Albanian, a sticker over the foreign label is allowed. Required items: name ('Çaj jeshil pluhur matcha'), ingredients (100% green tea), net weight, best-before date, storage conditions, country of origin (Japan), importer name and address, lot number.",
+    "Label notification ('Notifikim Etikete'): the operator responsible for the label notifies AKU's regional directorate through e-Albania. It is free, AKU answers within 15 days, and silence counts as acceptance. A lab analysis of nutritional values is normally required, except for foods exempt from nutrition labelling. Plain tea with no added ingredients is on that exempt list (brochure annex, item 8), so pure matcha probably needs no lab report. Confirm with AKU; flavoured or sweetened matcha mixes would need one.",
+    "Distance selling: VKM 434/2018 requires all mandatory food information (except the best-before date) to appear on the online listing or Instagram post before purchase.",
+    "Health claims ('detox', 'burns fat', 'boosts immunity') are not allowed unless authorised. Market on taste and ritual.",
+    "Customs duty (WITS MFN 2022, Albania): green tea 0902.10 = 15% (Japanese origin pays 15% even if bought or repacked in the EU); ceramic bowls and holders 6912.00 = 15% (porcelain 6911.10 = 15%); stainless sifter 7323.93 = 15%; glass 7013.37 = 10%; bamboo whisk and scoop 4419.19 = 0% (classification risk: 9603.90 = 15%); cardboard gift box 4819.10 = 0%. EU- or Turkish-made ceramics would be 0% with an EUR.1 or invoice origin declaration. Plus 20% import VAT, recoverable if VAT-registered, and the scanning fee (EUR 22 per declaration over EUR 1,000, EUR 5 below).",
+    "Food-contact materials: ceramic bowls and holders must be lead- and cadmium-safe. Get the supplier's declaration of conformity or migration test, which Chinese ceramics often lack. Albanian FCM rules were not checked (UNVERIFIED, assume EU rules).",
+    "General: VAT registration (importers may have to register regardless of turnover), a real-time fiscal invoice for every COD sale, a 14-day withdrawal right and 2-year seller liability. An opened (unsealed) food tin can probably be excluded from withdrawal for hygiene reasons if the terms say so (UNVERIFIED for Albanian law)."
+   ],
+   "first_order": {
+    "description": "Gift-kit test for the Christmas/Valentine's season, sourced from 2 suppliers. (1) Kyosun (CZ): 60 unlabelled ceremonial 30 g tins, 40 for kits and 20 sold alone, sent as one parcel. (2) China (Alibaba): tea-ware for 40 kits (40 bowls, 40 holders, 40 scoops, 40 gift boxes) plus 60 bamboo whisks (40 for kits, 20 extra add-ons), sent by air/express. Sell the kit at 7,500 ALL (premium positioning: below Matchai's 4-piece set at 8,500 but with an extra whisk holder; OhMyCha's set is 6,000), the tin at 3,300 ALL, and the whisk as an add-on at 1,500 ALL. Ask AKU first which licence applies; do not ship food before that is clear.",
+    "units": 120,
+    "cash_needed_eur": 2182,
+    "est_profit_if_all_sold_eur": 609,
+    "calc_notes": "EUR 1 = 89.78 ALL; USD 1 = EUR 0.86 assumed. The standard margin model is used unchanged: seller is VAT-registered, prices include 20% VAT, net = price/1.2. Shipment 1 (Kyosun): 60 tins x EUR 12 (estimate) = 720; freight 60; duty 15% x 780 = 117; broker 100 + scanning 5 + AKU border/documents contingency 50; total 1,052, so EUR 17.53 per tin landed (18.03 with labels). Shipment 2 (China): goods 524 (whisk 3.00 x 60, bowl 5.00 x 40, holder 1.50 x 40, scoop 0.60 x 40, box 1.50 x 40); freight 160; duty 51 (15% on ceramics incl. freight share, 0% bamboo/box); broker 100 + scanning 5; total 840. Albanian labels 40. Stock cost 1,932 + launch ads 250 = cash 2,182. Per order: courier + COD 6.50; 7% refusals x EUR 12 two-way = 0.90 per delivered order; returns reserve 3% of net. Kit: landed 36.77, net 69.61 (7,500 ALL), ad 12, contribution 11.35 (16.3%). Tin alone: landed 18.03, net 30.63 (3,300 ALL), ad 5, contribution -0.73 (-2.4%). Whisk add-on in the same parcel: net 13.92, landed 5.02, contribution 8.49 (61%). All sold (40 kits + 20 tins + 20 whisk add-ons): net sales 3,676, contribution 609 (16.6%), after all per-sale ad spend (~580 total, 250 of it upfront). Sensitivity: at 6,500/3,000 ALL the profit is 195 (6%); with ads at EUR 18 per kit and 7 per tin it is 329 (9%); a matcha buy price of 15 instead of 12 adds about EUR 3.50 per tin. A larger 50-kit/80-tin order needs about EUR 2,622 and makes 824 (17.6%). Not included: AKU licence costs (premises, technical director), accountant, fiscal software, breakage. A tea-ware-only kit at 3,900 ALL (landed about EUR 18.74) makes about +EUR 1 per sale (about 3%) and competes with Temu, so it was rejected."
+   },
+   "beginner_scores": {
+    "low_capital": 6,
+    "low_complexity": 3,
+    "low_regulation": 3,
+    "demand": 6,
+    "low_competition": 4,
+    "margin": 3
+   },
+   "risks": [
+    "Thin margins: 15% duty on Japanese tea and on ceramics, a fixed ~EUR 100-170 per shipment, 20% VAT built into the price and a ~EUR 7.40 COD cost per order leave about 16% contribution on premium kits. A single tin sold through ads loses money.",
+    "Established local competitors (Matchai Store with online shop, kits and cafe wholesale; OhMyCha; Bloom; Kusmi at Baronesha) already sell at 3,000-3,500 ALL per 30 g, which caps prices. Temu sells tea-ware sets duty-free under EUR 22.",
+    "Food regulation: AKU licence II.1.A may require premises and a technical director. Food consignments can be held at the border, and label notification and Albanian labels must be ready before sale.",
+    "Matcha supply shock: 2026 tencha auction prices were 1.7-2.3x the 2025 level (Uji and Kagoshima), so buy prices may rise further or stock may be rationed. Very cheap 'ceremonial' matcha is often mislabelled or Chinese.",
+    "Freshness: matcha loses colour and flavour within months, and Albanian summer heat in a courier van or a home without climate control speeds this up. Buy small and rotate stock.",
+    "Fragile ceramics shipped COD with view-before-pay can lead to breakage and refusals. Use double boxing.",
+    "It may be a fad: demand is concentrated among young people in Tirana and driven by social media. National demand outside Tirana is thin.",
+    "Tea-ware compliance: Chinese ceramics without lead/cadmium test reports are a liability risk. A bamboo whisk reclassified as a brush (9603.90) would pay 15%."
+   ],
+   "unverified": [
+    "All buy prices are estimates. Kyosun, Moya and Aiya prices and MOQs are hidden behind B2B registration or quotes. The Alibaba chasen price (US$2.40-2.70 at MOQ 100) is from a sourcing-portal snippet, not checked on the listing.",
+    "Whether Kyosun, Moya, Aiya Europe or Yunomi actually ship to Albania and supply EUR.1/origin and lab documents.",
+    "Whether a small online seller importing pre-packed tea needs AKU licence II.1.A (premises, technical director) or only a lighter registration.",
+    "Whether label notification for pure matcha is exempt from lab analysis (the nutrition-declaration exemption for tea suggests it is).",
+    "Duty rates come from WITS 2022 data (unchanged 2019-2023); the 2026 Albanian tariff on dogana.gov.al was not checked. The HS classification of the bamboo chasen (4419.19 at 0% vs 9603.90 at 15%) is not confirmed.",
+    "Whether Albania applies any special controls to Japanese food imports (the EU lifted its Fukushima restrictions in 2023).",
+    "Freight costs: Kyosun parcel EUR 60 and China air/express ~EUR 160-200 are estimates.",
+    "Temu set prices in Albania could not be captured. Competitors' sales volumes are unknown.",
+    "Bloom The Matcha tin weight (4,500 ALL) is not stated.",
+    "The live Google Trends re-run failed (HTML error from Google); the trend figures are from the supplied data.",
+    "Albanian food-contact material rules for ceramics, and whether the 14-day withdrawal can exclude opened food tins.",
+    "The ad cost per sale (EUR 12 per kit, EUR 5 per tin) is an assumption for a new brand.",
+    "The USD/EUR rate of 0.86 is assumed."
+   ]
+  },
+  {
+   "niche": "Padel equipment (rackets, balls, grips, bags) for Albania",
+   "summary": "Padel is growing in Albania: the FIP Platinum tournament ran in Skanderbeg Square in May 2026, the federation opened a centre in Lunder in August 2026, and searches are rising. But only a few hundred to low thousands of people play, almost all at a handful of clubs around Tirana. Rackets, balls, bags and shoes pay 15% Albanian duty. The exception is goods made in the EU (or Turkey) with proof of origin, and most big-brand rackets (Nox, Bullpadel, Head, Adidas, Babolat, Siux) are reportedly made in Asia. The only specialist shop, smash.al, already sells at or below EU street prices (for example a Bullpadel racket at 13,300 ALL against EUR 140-150 in Spain). If a beginner buys from Spanish clearance stock or wholesalers, the margin is about 0-10%, and even good distributor terms only reach about 15-17%. Verdict: a poor first niche for making money. Consider it only as a side add-on (overgrips, ball cartons sold to clubs), or after getting a written quote from a distributor and agreeing a partnership with a club.",
+   "demand_evidence": [
+    "Google Trends Albania, 12 months (from brief): 'padel' scores 17.3 relative interest and is rising; 'padel tirana' is up 80%. A fresh re-run with the google-trends skill failed (Google returned an HTML/rate-limit page), so these figures were not refreshed.",
+    "FIP Platinum Albania was held 26-30 May 2026 on 4 courts in Skanderbeg Square, Tirana: https://www.padelfip.com/2026/05/fip-platinum-albania-the-show-arrives-in-skanderbeg-square-from-26-to-30-may-carraro-padel-as-a-driver-of-tourism-our-champions-will-experience-unique-emotions-in-a-unique-venue/",
+    "The tournament courts moved to the Albanian Padel Federation's new centre in Lunder (opened 5 Aug 2026). The federation aims to add courts nationwide and bring padel into schools; the article gives no player or court numbers: https://shqiptarja.com/lajm/lundra-behet-shtepia-e-re-e-padelit-shqiptar-inaugurohet-qendra-sportive-e-federates-gonxhja-qender-qe-do-tu-mbetet-brezave",
+    "Albania Padel Group opened a 4-court club in Tirana in Dec 2021 and had 600 members by Sept 2022 (80% Albanian residents, 70% new to sport). It planned 250 courts in 5 years, but that has clearly not happened: https://thepadelpaper.com/padel-thriving-in-albania-with-four-court-centre-and-imminent-expansion-plans/",
+    "The Padel Republic (Barbas/Petrele, Tirana) lists 5 courts plus a store and racket rental on Playtomic: https://playtomic.com/clubs/the-padel-republic",
+    "Albania Padel Group on Playtomic: https://playtomic.com/clubs/albania-padel-group",
+    "Regional signal: Kosovo padel participation has tripled (FIP, Sept 2026): https://www.padelfip.com/2026/09/padel-enters-the-university-of-pristina-in-kosovo-a-new-space-for-sport-and-social-interaction-in-a-country-where-participation-has-tripled/",
+    "Weak secondary market: merrjep.al shows only 2 padel racket ads (2022 and 2024), e.g. https://www.merrjep.al/njoftim/raketa-tenisi-dhe-raketa-padel/13691035",
+    "No padel clubs found in Durres, Vlore, Sarande or Shkoder in web searches; demand is concentrated around Tirana."
+   ],
+   "local_competition_level": "scarce",
+   "local_sellers": [
+    "smash.al (Smash Tennis and Padel, Tirane-Shkoder, smashalbania@gmail.com), https://smash.al/3-raketa-padel : 21 padel rackets from 6,500 to 23,300 ALL, mostly earlier-season Bullpadel, Head and Babolat. Examples: Bullpadel Indiga 7,995-9,500; K2 Power 9,495; BP10 Evo 10,710; Hack Advance 13,300 (was 14,000); Head Bolt 9,900; Babolat Contact 6,990; Head Delta 23,300; kit pack 19,800. Babolat 3-ball tube 790 ALL (https://smash.al/5-topa-padel); Bullpadel overgrips 890 ALL; padel bags 3,900-8,190 ALL. No padel shoes listed; no Nox, Siux or StarVie products despite a StarVie brand page. Free delivery from 29,000 ALL.",
+    "Albania Padel Group club shop, https://albaniapadel.com/shop/ : Drop Shot rackets EUR 55 (junior) to EUR 340; listings may be old.",
+    "ubuy.al (cross-border from the US): Bullpadel Hack 04 MX Edition 27,930 ALL, https://www.ubuy.al/sq/product/TYGFOJ50Y-padel-racket-hack-04-mx-edition",
+    "The Padel Republic club store (Playtomic lists a store and rentals); prices not found: https://playtomic.com/clubs/the-padel-republic",
+    "merrjep.al: only used rackets, 2 ads found, no prices shown.",
+    "Decathlon (Kuikma padel rackets) sells in Kosovo (https://decathlonkosovo.com/en/collections/racket-sports.oembed); no Decathlon padel found in Albania.",
+    "Searches for padel on gjirafa50.al, megateksa.com and shpresa.al returned no padel products; foleja.al search returned an error."
+   ],
+   "products": [
+    {
+     "name": "StarVie premium racket, previous season (Astrum+ / Drax+ 2026)",
+     "origin_country": "Spain (StarVie factory in Azuqueca de Henares; low/mid lines reportedly made in China - confirm per model)",
+     "hs_code": "9506.59",
+     "albania_duty_pct": 0,
+     "duty_basis": "Albanian MFN rate is 15% (WITS 2022 for 950659). 0% only if Spanish origin is proven with an EUR.1 or an origin declaration on the invoice; otherwise 15%.",
+     "eu_retail_eur": 145,
+     "est_buy_price_eur": 100,
+     "suggested_albania_price_eur": 177,
+     "est_margin_pct": 4.3
+    },
+    {
+     "name": "Nox ML10 Pro Cup 2027 (best-selling mid-range racket; not stocked in Albania)",
+     "origin_country": "Likely China/Asia (Nox designs in Barcelona; factory location not confirmed)",
+     "hs_code": "9506.59",
+     "albania_duty_pct": 15,
+     "duty_basis": "MFN 15% (WITS 2022, 950659). Bought from a Spanish seller it is still non-EU origin.",
+     "eu_retail_eur": 149.95,
+     "est_buy_price_eur": 78,
+     "suggested_albania_price_eur": 166,
+     "est_margin_pct": 6.3
+    },
+    {
+     "name": "Nox X-Auro 2026 (entry-level racket)",
+     "origin_country": "Likely China/Asia (not confirmed)",
+     "hs_code": "9506.59",
+     "albania_duty_pct": 15,
+     "duty_basis": "MFN 15% (WITS 2022, 950659)",
+     "eu_retail_eur": 79.95,
+     "est_buy_price_eur": 45,
+     "suggested_albania_price_eur": 99,
+     "est_margin_pct": 1.1
+    },
+    {
+     "name": "Head Padel Pro S+ 3-ball can (sold by the 24-can carton)",
+     "origin_country": "Not confirmed (HEAD Sport GmbH brand; assume non-EU manufacture)",
+     "hs_code": "9506.69",
+     "albania_duty_pct": 15,
+     "duty_basis": "MFN 15% (WITS 2022, 950669)",
+     "eu_retail_eur": 6.25,
+     "est_buy_price_eur": 3.5,
+     "suggested_albania_price_eur": 9.91,
+     "est_margin_pct": 16.6
+    },
+    {
+     "name": "Bullpadel GB-1200 overgrip 3-pack",
+     "origin_country": "Likely Asia (not confirmed)",
+     "hs_code": "9506.99 (classification to confirm with broker)",
+     "albania_duty_pct": 15,
+     "duty_basis": "MFN 15% (WITS 2022, 950699)",
+     "eu_retail_eur": 5.95,
+     "est_buy_price_eur": 2.6,
+     "suggested_albania_price_eur": 9.91,
+     "est_margin_pct": 48.5
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "StarVie (brand and factory)",
+     "country": "Spain",
+     "url": "https://starvie.com/en/pages/contact",
+     "public_contact": "pedidosweb@starvie.com, phone 915 901 510 (from the contact page; Spain +34)",
+     "moq": "Unknown; ask for B2B or clearance terms",
+     "sells_to_albania": "Unverified. Its consumer webshop ships only to Spain and listed European countries, and export customs clearance is not included.",
+     "notes": "The only big brand with a documented Spanish factory (in-house production since 2013). It is the one route to 0% duty, but only for models it confirms are Spanish-made, and only if it issues an origin declaration on the invoice (any exporter may do this for consignments up to EUR 6,000)."
+    },
+    {
+     "name": "Tienda Padel Point (B2B wholesale)",
+     "country": "Spain",
+     "url": "https://www.tiendapadelpoint.com/en/requirements-b2b-padel-distribution-en",
+     "public_contact": "Customer service +34 622 129090 (from the site's organisation data)",
+     "moq": "Initial orders often EUR 500-3,000 depending on brand (per their B2B page)",
+     "sells_to_albania": "Unverified; the page does not mention non-EU buyers",
+     "notes": "Multi-brand wholesaler (rackets, balls, shoes, bags, outlet lots). Requires a registered company, tax ID and proof that tax and social-security payments are up to date. As a reseller it probably cannot certify origin for 0% duty."
+    },
+    {
+     "name": "Padel Nuestro",
+     "country": "Spain",
+     "url": "https://www.padelnuestro.com",
+     "public_contact": "Via website only (no B2B contact verified)",
+     "moq": "Unknown",
+     "sells_to_albania": "Unverified",
+     "notes": "Describes itself as the largest padel wholesale group in Spain/Europe with 40+ shops. How a professional or B2B account works could not be confirmed."
+    },
+    {
+     "name": "Royal Padel on Faire (wholesale marketplace)",
+     "country": "Spain (brand)",
+     "url": "https://www.faire.com/brand/b_4hyxggffy4",
+     "public_contact": "Via Faire messaging (wholesale prices after retailer sign-up)",
+     "moq": "Set per brand on Faire; typically low",
+     "sells_to_albania": "Unverified; Faire may not accept retailers based in Albania",
+     "notes": "Small-retailer route with small opening orders. The search result described this Faire brand page as Royal Padel; the page itself and Royal Padel's factory origin were not checked."
+    },
+    {
+     "name": "Bullpadel (Aguirre y Cia S.A., listed as manufacturer)",
+     "country": "Spain",
+     "url": "https://www.bullpadel.com",
+     "public_contact": "Via website (no export contact verified)",
+     "moq": "Unknown",
+     "sells_to_albania": "Probably already supplies smash.al (exclusivity unknown)",
+     "notes": "Strong brand recognition in Albania, but smash.al already sells it at about EU street price."
+    },
+    {
+     "name": "Chinese OEM carbon padel racket factories (Alibaba)",
+     "country": "China",
+     "url": "https://www.alibaba.com/supplier/custom-padel-racket.html",
+     "public_contact": "Via Alibaba messaging",
+     "moq": "10-50 pcs for logo on some listings; 300+ on others",
+     "sells_to_albania": "Yes (ship worldwide)",
+     "notes": "Carbon rackets about GBP 13.6-20.9 each at 50-99 pcs (Alibaba UK listings). Private label pays 15% duty and needs your own brand building; competes with Decathlon Kuikma and Temu."
+    }
+   ],
+   "regulation": [
+    "No product licence is needed for padel equipment (no AKU, cosmetics or medical-device route). General non-food product-safety and consumer-protection rules apply. The law believed to apply is Law 10480/2011 on general safety of non-food products; confirm.",
+    "Albanian-language label on every unit (sticker is fine): product name, importer name and address, country of origin, warnings and care instructions.",
+    "Customs: rackets HS 9506.59, balls 9506.69, grips/accessories 9506.99, textile racket bags 4202.92, padel shoes 6404.11 all pay 15% MFN duty (WITS 2022). Apparel (6110, 6211) is 0%. 20% import VAT applies on top, plus the scanning fee and broker.",
+    "0% duty only for EU-, Turkish- or CEFTA-origin goods with an EUR.1 or an invoice origin declaration (any exporter can make one up to EUR 6,000 per consignment; above that, an approved exporter). A Spanish brand's Chinese-made racket still pays 15%, and a reseller usually cannot certify origin.",
+    "Register for VAT as an importer and issue a real-time fiscal invoice for every sale, including cash on delivery.",
+    "Consumer law: 14-day withdrawal for distance sales (set a clear policy on returns of played or scratched rackets) and 2-year seller liability. Carbon-frame breakage claims are common; brand warranties usually exclude impact damage, so document the process.",
+    "If selling shoes: footwear material labelling and size charts. If selling apparel: textile composition labels in Albanian.",
+    "Trademarks and parallel imports: check whether a brand has an exclusive Albanian distributor or registered trademark before importing outside it, and get permission before using brand or player imagery in ads."
+   ],
+   "first_order": {
+    "description": "Test assortment from Spain by parcel (about 27 kg): 5 StarVie Astrum+/Drax+ 2026 (Spanish-made, 0% duty if origin is declared), 5 Nox ML10 Pro Cup 2027, 8 Nox X-Auro 2026 entry rackets, 48 Head Padel Pro S+ cans (2 cartons, for clubs or add-ons), 30 Bullpadel GB-1200 overgrip 3-packs. Sell online/COD and through 1-2 Tirana clubs. Get a written distributor quote first; with the estimated clearance or wholesale buy prices below, this order roughly breaks even.",
+    "units": 96,
+    "cash_needed_eur": 2490,
+    "est_profit_if_all_sold_eur": 269,
+    "calc_notes": "Python model, EUR 1 = 89.78 ALL. Goods EUR 1,496 (estimated buy prices: 100 / 78 / 45 / 3.5 / 2.6). Freight EUR 180 for 27 kg EU parcel, allocated by weight (adds EUR 5 per racket and EUR 1.25 per ball can). Broker EUR 100 + scanning EUR 22, allocated by value. Duty 15% on goods + freight (StarVie 0%): EUR 173. Import VAT 20% (recoverable): EUR 370. Cash at import EUR 2,340, plus EUR 150 launch ads = EUR 2,490. Landed cost per unit: 113.16 / 101.81 / 61.17 / 6.23 / 3.59. Per racket order: courier + COD EUR 6.5, 7% refusal cost EUR 0.70, ads EUR 15 (premium/mid) or EUR 10 (entry), warranty reserve 4% of net. Change from the standard model: balls and grips are treated as add-ons or club sales with no courier of their own, EUR 0.5 ads and a 2% reserve. RESULTS: (a) Priced at EU street level (13,900 / 13,500 / 7,900 / 790 / 890 ALL): net sales EUR 2,458, profit about EUR 2 (0.1% margin); racket margins are -9%, -3% and -11%. (b) Suggested prices about 10% above EU street (15,900 / 14,900 / 8,900 / 890 / 890 ALL): profit EUR 269, blended margin 9.8% (rackets 4.3% / 6.3% / 1.1%, balls 16.6%, grips 48.5%). (c) If the StarVie rackets are actually Chinese-made (15% duty) at EU-street prices: -EUR 76. (d) Ad cost EUR 7 higher per racket: -EUR 124. (e) Good distributor clearance terms (80 / 62 / 36 / 3.0 / 2.2) at about EU street +5%: cash EUR 2,111, profit EUR 450, margin 17.3%. Break-even prices: 15,190 / 13,917 / 8,795 / 740 / 449 ALL. A 25% margin needs 20,539 / 18,818 / 11,892 / 993 / 603 ALL, well above smash.al's 7,995-13,300 ALL rackets. Only overgrips (and balls at 890+ ALL) earn a healthy margin."
+   },
+   "beginner_scores": {
+    "low_capital": 6,
+    "low_complexity": 5,
+    "low_regulation": 8,
+    "demand": 3,
+    "low_competition": 6,
+    "margin": 2
+   },
+   "risks": [
+    "Margins are thin to negative: smash.al already sells branded rackets at about EU street prices (7,995-13,300 ALL), and a beginner cannot buy much below EU street minus VAT without real distributor terms.",
+    "15% duty on rackets, balls, bags and shoes for anything not EU- or Turkish-made with proof of origin, and most big-brand rackets appear to be made in Asia.",
+    "Small, Tirana-centred player base (a few clubs, roughly 15-20 courts known) and little resale activity; sales may be only a few rackets a month.",
+    "Rackets go out of date every year: when the 2027 models launch, EU shops cut 2026 models by 40-50%, so stock loses value fast.",
+    "Consumers can order from Spanish or US shops (ubuy.al, Padel Market, Tradeinn); for orders over EUR 22 they pay duty and VAT, which gives a local seller only limited protection.",
+    "Warranty and return disputes over cracked carbon frames, and 14-day withdrawal returns of used rackets.",
+    "Brand exclusivity or grey-market conflict with an existing distributor (smash.al with Bullpadel; Albania Padel Group with Drop Shot).",
+    "Clubs control the customer (rentals, pro shops, coaches); without a club partnership, ad costs per racket sale could exceed EUR 15-20.",
+    "Seasonality and weather for outdoor courts; Temu and Decathlon (Kosovo) undercut the entry level."
+   ],
+   "unverified": [
+    "Where each brand's rackets are made: StarVie's in-house Spanish factory is documented, but which models are Spanish-made is not. Nox, Bullpadel, Siux, Adidas, Head and Babolat are assumed Asian-made from retailer and blog sources; no official 'made in' label was found.",
+    "All buy prices (100 / 78 / 45 / 3.5 / 2.6, and the distributor scenario 80 / 62 / 36 / 3.0 / 2.2) are my estimates, not published wholesale prices.",
+    "Whether StarVie, Tienda Padel Point, Padel Nuestro, Faire or Bullpadel will sell to an Albanian business, and their MOQs.",
+    "HS classification of overgrips (9506.99 assumed). WITS rates are 2022 data; check the current Albanian tariff.",
+    "Country of origin of HEAD padel balls.",
+    "Freight cost from Spain to Tirana (EUR 180 for about 27 kg parcel is an estimate) and Spanish export paperwork (DUA) costs.",
+    "Number of padel courts and players in Albania; The Padel Republic shop prices; whether Albania Padel Group shop prices (EUR 55-340) are current.",
+    "Whether smash.al is the official Bullpadel distributor or holds any exclusivity; Albania's trademark exhaustion rules for parallel imports.",
+    "Number of the general non-food product safety law (believed to be Law 10480/2011).",
+    "Google Trends figures could not be refreshed: the CLI failed with an HTML/rate-limit response, so the brief's numbers are used as given.",
+    "Royal Padel's Faire page was seen only through a search result, and its origin of manufacture was not checked."
+   ]
+  },
+  {
+   "niche": "Premium baby gear (strollers, carriers, bouncers, high chairs, smart monitors, breast pumps)",
+   "summary": "Not a good first niche for a beginner. The idea that premium brands are missing in Albania turned out mostly wrong. Bee Kids in Tirana sells Bugaboo, Stokke, Cybex, BabyBjorn, Doona and BeSafe. Oh Baby sells Joolz and BabyBjorn, Panda Baby Shop is an official Cybex reseller, and pharmacies stock Medela, Lansinoh and Momcozy. Local prices are usually only 10-25% above EU prices, and the market is small and shrinking: about 21,400-22,500 births in 2025, with 'karroce' at a Google Trends score of only 1.4. The one gap I confirmed is Ergobaby carriers and bouncers (and Nanit/Owlet monitors). That gap only pays if Ergobaby Europe or a regional distributor sells to you at wholesale (estimated 12-19% margin after ads). If you have to buy at EU retail prices and resell (a grey import), every product I modelled loses money (-8% to -24%).",
+   "demand_evidence": [
+    "Google Trends Albania, last 12 months: 'karroce' (stroller) 1.4, against matcha 33.2 and nespresso 22.6. Search demand for baby gear is low (figure from the brief).",
+    "INSTAT: 22,425 births in 2024, the lowest since 1934 (https://gazetadita.al/lindjet-ne-shqiperi-rane-me-5-me-2024-numri-me-i-ulet-ne-90-vite/). Figures for 2025 differ: 22,541 per INSTAT/CEIC (https://www.instat.gov.al/en/themes/demography-and-social-indicators/births-deaths-and-marriages/publications/2026/demographic-indicators-year-2025-and-q1-2026/) and 21,425 per Euronews Albania (https://euronews.al/en/births-in-albania-are-declining-significantly-2025-recorded-1885-fewer-babies-than-2024/). Either way the customer base is small and falling.",
+    "Strong premium-gear social audiences: Panda Baby Shop has 38K Instagram followers and is an official Cybex/Anex reseller (https://www.instagram.com/babyshop.panda/). Pink & Blue Tirana has 27K followers (https://www.instagram.com/pinkandblue_tirane/).",
+    "Active second-hand market for premium strollers: a used Cybex Priam listed for EUR 1,100 on MirLir (https://mirlir.com/shpallje/Tirane/Pajisjeperbebe-femije/Shitet-CYBEX-PRIAM-1100%E2%82%AC-5551304/), Cybex listings on MerrJep (https://www.merrjep.al/njoftim/karroce-cybex/20201154), and the 'Baby Store Albania' Facebook page with 9,161 followers trading new and used branded strollers (https://www.facebook.com/babystorealbania/).",
+    "Bee Kids, a premium store opened in 2017 with two Tirana shops, runs a gift-registry programme ('Lista e dhuratave'). That points to an affluent Tirana segment that already has a supplier (https://toptani.com.al/en/content/73-brand-bee-kids, https://beekids.al/market/category/karroca)."
+   ],
+   "local_competition_level": "available",
+   "local_sellers": [
+    "Bee Kids (Toptani Center and Blloku, Tirana) - https://beekids.al/market/category/karroca : Bugaboo Donkey 6 Complete 169,900 ALL; Bugaboo Fox 5 Renew frame 156,200 ALL; Bugaboo Butterfly 2 frame 51,400 ALL; Cybex Balios + Fold Carry Cot 98,900 ALL; Cybex Coya 72,900 ALL; Cybex ePriam frame 160,900 ALL; Doona X 69,000 ALL. Stokke (https://beekids.al/market/brand/stokke): Tripp Trapp 25,900 ALL. BabyBjorn (https://beekids.al/market/brand/babybjorn): Harmony carrier 25,200 ALL, Mini 12,400 ALL, Bliss bouncer 22,000 ALL. Also Baby Brezza formula maker 36,000 ALL.",
+    "Oh Baby (Tirana shop + online) - https://ohbaby.al/collections/joolz : Joolz Aer2 buggy 48,510 ALL; Joolz Hub2 with carrycot 107,100 ALL. BabyBjorn (https://ohbaby.al/collections/baby-bjorn): Mini carrier 10,800 ALL, Move 17,550 ALL, Bouncer Bliss/Balance 21,510 ALL.",
+    "Pink & Blue (Toptani Center, Tirana) - https://pinkandblue.al : Cybex Trio Balios 105,000 ALL; Trio Balios + Isofix base 125,000 ALL; Balios S Lux with fold cot 130,000 ALL (listed as the 'original price'). Also BabyBjorn Mini and Anex.",
+    "Panda Baby Shop (Rruga Ferit Xhajko, Tirana) - https://www.instagram.com/babyshop.panda/ : official Cybex and Anex reseller, ships to AL/MK/XK/ME. I did not capture its prices.",
+    "Babylicious - https://babylicious.al/produkt/babybjorn-mini-cotton-black/ : BabyBjorn Mini and Bliss (prices not captured).",
+    "Lorelli Albania (Tirana, exclusive Lorelli/Bertoni distributor since 2007) - https://www.instagram.com/lorelli.albania/ : budget/mid strollers and car seats.",
+    "Farma City - https://www.farma-city.al/?s=medela&post_type=product : Medela Solo Hands Free 19,550 ALL; Medela Easy Single 9,775 ALL; Momcozy M5 11,372 ALL; Lansinoh single electric 14,400 ALL.",
+    "Pink Pharm - https://pinkpharm.al/search?q=medela : Medela Motion InBra 23,900 ALL (sale 21,510); Medela Solo 22,500 ALL (sale 20,250).",
+    "Ninanana - https://ninanana.al/products/momcozy-kangur-ergonomik-per-bebe-airmesh : Momcozy ergonomic carrier 6,661-9,001 ALL (cheap alternative to Ergobaby).",
+    "GjirafaMall (Kosovo; nearest seller of Ergobaby that I found) - https://gjirafamall.com/ergobaby : Ergobaby Omni Deluxe Mesh EUR 221 (regular 260); Omni Classic EUR 179.90 (regular 211.90); Embrace EUR 99.90 (regular 117.90); Evolve 3-in-1 bouncer EUR 199.90 (regular 235.50).",
+    "MIMMO Baby (Prishtina, delivers to Albania) - https://mimmobaby.com/ : strollers, cots, seats."
+   ],
+   "products": [
+    {
+     "name": "Ergobaby Omni Deluxe Mesh baby carrier (0-48 months)",
+     "origin_country": "Asia (Vietnam or China likely; not verified). Duty is 0% whatever the origin.",
+     "hs_code": "6307.90",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS TRN Albania MFN 2022 for HS 630790 = 0%",
+     "eu_retail_eur": 219.9,
+     "est_buy_price_eur": 105,
+     "suggested_albania_price_eur": 243.9,
+     "est_margin_pct": 23.7
+    },
+    {
+     "name": "Ergobaby Embrace newborn carrier",
+     "origin_country": "Asia (not verified)",
+     "hs_code": "6307.90",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS Albania MFN 2022 for HS 630790 = 0%",
+     "eu_retail_eur": 99.9,
+     "est_buy_price_eur": 48,
+     "suggested_albania_price_eur": 117,
+     "est_margin_pct": 14.5
+    },
+    {
+     "name": "Ergobaby Evolve 3-in-1 bouncer",
+     "origin_country": "Asia/China likely (not verified)",
+     "hs_code": "9401.79 (seat with metal frame; could be 9401.71 if upholstered)",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS Albania MFN 2022 for HS 940179 and 940171 = 0%",
+     "eu_retail_eur": 199.9,
+     "est_buy_price_eur": 95,
+     "suggested_albania_price_eur": 232.8,
+     "est_margin_pct": 13.4
+    },
+    {
+     "name": "Nanit Pro camera + Flex Stand (smart baby monitor)",
+     "origin_country": "China (not verified)",
+     "hs_code": "8525.89",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS Albania MFN 2022 for HS 852589 = 0%",
+     "eu_retail_eur": 299,
+     "est_buy_price_eur": 165,
+     "suggested_albania_price_eur": 277.3,
+     "est_margin_pct": -8.1
+    },
+    {
+     "name": "Cybex Balios S Lux stroller (stroller only) - shown to explain why NOT to start here",
+     "origin_country": "China (Cybex/Goodbaby; not verified per model)",
+     "hs_code": "8715.00",
+     "albania_duty_pct": 10,
+     "duty_basis": "WITS Albania MFN 2022 for HS 871500 = 10%; Chinese-made, so no EU preference even if bought in the EU",
+     "eu_retail_eur": 499.95,
+     "est_buy_price_eur": 449.95,
+     "suggested_albania_price_eur": 667.2,
+     "est_margin_pct": -21.6
+    },
+    {
+     "name": "Stokke Tripp Trapp high chair (EU-made) - reference only, local distributor exists",
+     "origin_country": "Europe (Stokke: 'Made in Europe since 1972')",
+     "hs_code": "9401.69 (or 9403.60)",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS Albania MFN 2022: 940169 = 0% and 940360 = 0%; EU origin is 0% anyway with EUR.1",
+     "eu_retail_eur": 229,
+     "est_buy_price_eur": 120,
+     "suggested_albania_price_eur": 288.5,
+     "est_margin_pct": 15
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "Ergobaby Europe GmbH",
+     "country": "Germany (Hamburg)",
+     "url": "https://ergobaby.com/de-de/pages/impressum",
+     "public_contact": "info@ergobaby.eu (shown on the Ergobaby impressum); +49 40 4210650 (Hamburg business directory: https://branchenbuch.meinestadt.de/hamburg/company/501636314)",
+     "moq": "Unknown; dealer opening order not published",
+     "sells_to_albania": "Unknown. Ergobaby is sold in Kosovo through GjirafaMall, so a regional distributor probably exists. Ask whether Albania is unassigned.",
+     "notes": "The only premium brand I found with no Albanian retailer. Ask Ergobaby for a dealer account or the name of its Western Balkans distributor. The whole business case depends on this."
+    },
+    {
+     "name": "Nanit (EU store nanit.de)",
+     "country": "EU storefront (Germany)",
+     "url": "https://nanit.de/en/collections/camera",
+     "public_contact": "Contact form on nanit.de only; I found no B2B contact",
+     "moq": "Unknown",
+     "sells_to_albania": "Not verified; the EU storefront probably ships only inside the EU",
+     "notes": "Pro + Flex Stand RRP EUR 299 (promo EUR 209). At promo retail there is no margin left after reselling. Do this only with distributor pricing, and only after checking app and subscription support in Albania."
+    },
+    {
+     "name": "Qogita (wholesale marketplace)",
+     "country": "Netherlands",
+     "url": "https://www.qogita.com/brands/baby/",
+     "public_contact": "Help centre https://help.qogita.com/international-buyers-guide",
+     "moq": "Low minimum order value (exact amount not published in what I read)",
+     "sells_to_albania": "Not directly: ships to the EU and UK. Non-EU buyers can collect from its Netherlands warehouse or use its export partner, so an Albanian forwarder would have to pick up.",
+     "notes": "Mainly health, beauty and baby consumables. It carries Kikka Boo; I did not confirm Ergobaby or other premium gear."
+    },
+    {
+     "name": "Coslux Distribution",
+     "country": "Germany / Italy",
+     "url": "https://cosluxdistribution.com/en/",
+     "public_contact": "Request-info form on the website",
+     "moq": "Not published",
+     "sells_to_albania": "Unknown; describes itself as supplying specialist retailers across Europe",
+     "notes": "B2B stroller and baby-gear distributor. Its brand list is not visible on the homepage, so ask which brands it holds and whether it exports outside the EU."
+    },
+    {
+     "name": "Sevi Bebe",
+     "country": "Turkey (Istanbul, Esenyurt factory since 1991)",
+     "url": "https://sevibebe.com.tr/en/",
+     "public_contact": "Contact page on sevibebe.com.tr",
+     "moq": "Not published",
+     "sells_to_albania": "Exports widely (per dalil-turkey.com profile); Albania not confirmed",
+     "notes": "Turkish manufacturer of carriers, bath, potty and safety items. Turkish origin with EUR.1 gives 0% duty. This is the mid-market, not premium, but useful for cheap add-on items."
+    },
+    {
+     "name": "BabyCare International",
+     "country": "EU",
+     "url": "https://babycarecare.com/european-baby-care-distributor/",
+     "public_contact": "Website contact form",
+     "moq": "Not published; works with 'qualified' importers and distributors",
+     "sells_to_albania": "States it does international distribution; Albania not confirmed",
+     "notes": "EU-made baby and maternity care consumables (not hard gear). A possible add-on line, but some products may count as cosmetics or medical devices in Albania."
+    }
+   ],
+   "regulation": [
+    "General product safety: Albanian law on the general safety of non-food products (Law 10480/2011) applies to all baby gear. As importer you are responsible for safety and traceability. Buy only CE-marked or EN-tested goods and keep the test reports: strollers EN 1888, soft carriers EN 13209-2, bouncers EN 12790, high chairs EN 14988, cots EN 716.",
+    "Car seats: must carry UN ECE R129 (i-Size) or R44 approval. Check with the Road Police/DPSHTRR whether Albania enforces this at import; I did not verify it. Do not sell car seats with unclear approval.",
+    "Breast pumps (Medela, Elvie, Lansinoh) and the Owlet Dream Sock (CE-certified as an EU medical device in 2024, per https://investors.owletcare.com/news/news-details/2024/Owlet-Announces-European-Medical-Certification-of-Dream-Sock-/default.aspx) count as medical devices. They need AKBPM registration in Albania before sale, which is not practical for a beginner. Breast pumps are also hygiene items that are hard to resell after a return.",
+    "Smart monitors (Nanit, Owlet base station) are radio equipment. Albanian radio-equipment conformity/AKEP rules may apply; not verified.",
+    "Albanian-language label and instructions on every unit (stickers plus a printed Albanian leaflet with the safety warnings). Keep a copy for inspectors.",
+    "Customs: strollers HS 8715 pay 10% MFN when Chinese-made, which most are (Bugaboo, Cybex, Joolz), even if bought from an EU dealer. Carriers (6307.90), bouncers and high chairs (9401.xx) and monitors (8525.89) are 0% MFN. Add 20% import VAT, the EUR 22 scanning fee and a broker.",
+    "Consumer law: 14-day withdrawal right for online/COD sales and 2-year seller liability. Strollers and carriers get tried on and returned, so budget for it. You must arrange warranty repairs yourself, and brand warranties may not be honoured for unauthorised (grey) imports.",
+    "Fiscal invoice in real time for every sale, including COD."
+   ],
+   "first_order": {
+    "description": "Only if Ergobaby Europe or its Balkan distributor gives you a dealer account. Order 6 Ergobaby Omni Deluxe Mesh carriers, 8 Ergobaby Embrace newborn carriers and 3 Ergobaby Evolve bouncers, in one parcel or groupage shipment from Germany. Sell on Instagram/Facebook with COD, priced just under Kosovo's GjirafaMall regular prices. Do NOT start with strollers, breast pumps or smart monitors.",
+    "units": 17,
+    "cash_needed_eur": 2200,
+    "est_profit_if_all_sold_eur": 480,
+    "calc_notes": "python3, standard margin model. FX 89.78 ALL/EUR; seller VAT-registered (import VAT recovered, retail price includes 20% VAT); courier + COD EUR 6.5 per order; 7% COD refusals at EUR 13 two-way cost (adds EUR 0.98 per sale); warranty reserve 3% of net; broker EUR 100 + scanning EUR 22 per shipment spread over units; freight EUR 200 for about 28 kg, allocated by weight; duty 0% for all three lines. Buy prices are ESTIMATES of about 45-48% of EU RRP (Omni EUR 105, Embrace EUR 48, Evolve EUR 95); none of them is a published wholesale price. Scenario A2 (prices Omni 21,900 / Embrace 10,500 / Evolve 20,900 ALL): Omni landed EUR 121.6, net price EUR 203.3, ad EUR 20, contribution EUR 48.1 (23.7%). Embrace landed EUR 61.0, net EUR 97.5, ad EUR 12, contribution EUR 14.1 (14.5%). Evolve landed EUR 134.7, net EUR 194.0, ad EUR 20, contribution EUR 26.0 (13.4%). Goods EUR 1,299 + freight 200 + fixed 122 + import VAT 300 (recoverable) = EUR 1,921 stock cash, plus about EUR 276 in ads = about EUR 2,200. Profit if all sell: EUR 480 (18.6% of EUR 2,581 net sales). Cheaper pricing (19,900 / 9,900 / 19,900 ALL) gives only EUR 301 (12.6%). Grey import at EU promo retail (Omni EUR 176, Embrace EUR 75, Nanit EUR 209) needs EUR 3,102 of cash and LOSES EUR 562 (-22%). Grey-imported Cybex Balios S Lux at the EU promo price of EUR 449.95 with 10% duty: landed EUR 622 against EUR 556 net at 59,900 ALL, -21.6%. Nanit at an estimated distributor price of EUR 165: -8%."
+   },
+   "beginner_scores": {
+    "low_capital": 5,
+    "low_complexity": 3,
+    "low_regulation": 5,
+    "demand": 3,
+    "low_competition": 2,
+    "margin": 3
+   },
+   "risks": [
+    "The premise is wrong: Bugaboo, Stokke, Cybex, BabyBjorn, Joolz, Doona, BeSafe and Medela are all sold in Albania already (Bee Kids, Oh Baby, Pink & Blue, Panda, pharmacies). Only Ergobaby, Nanit/Owlet and Elvie looked absent.",
+    "Brand gatekeeping: premium brands use exclusive or selective distributors and often refuse new online-only or COD sellers. Without an account you have to buy at retail prices and margins go negative.",
+    "Small and shrinking market: about 21-22.5k births a year, most of them outside Tirana's affluent segment. Many parents buy in Italy or Greece, through relatives abroad, from Kosovo shops or second-hand.",
+    "Local prices are close to EU levels (BabyBjorn Mini 10,800 ALL vs about EUR 99.90 in the EU; Joolz Aer2 48,510 ALL vs about EUR 469; Tripp Trapp 25,900 ALL vs EUR 229-269). That leaves little room to undercut.",
+    "Cheap substitutes: Momcozy carriers at 6,661-9,001 ALL locally, plus Temu and AliExpress for anything with goods value under EUR 22.",
+    "High-ticket COD risk: one refused or returned EUR 600-1,500 stroller wipes out the profit on many sales. Big boxes are costly to ship both ways.",
+    "Strollers made in China pay 10% duty. Safety liability (car seats, strollers) and the warranty burden fall on you as importer.",
+    "Breast pumps and the Owlet sock need AKBPM medical-device registration. Smart monitors depend on apps and subscriptions and may raise radio-equipment approval questions.",
+    "Fashion and colour risk: wrong colours or models tie up cash in slow-moving stock."
+   ],
+   "unverified": [
+    "All buy prices (Ergobaby EUR 105/48/95, Nanit EUR 165, Stokke EUR 120) are my estimates, not published wholesale prices. Ergobaby's dealer terms, MOQ and willingness to supply Albania are unknown.",
+    "Country of manufacture for Ergobaby, Nanit and individual Cybex models was not confirmed (duty is 0% for carriers, bouncers and monitors either way).",
+    "EU RRP for the Ergobaby Evolve bouncer (EUR 199.90 assumed; I saw only the Kosovo price of EUR 199.90 on sale / 235.50 regular). Ergobaby Embrace EU RRP EUR 99.90 (also seen at EUR 75 on sale). Omni Deluxe EUR 219.90 per the ergobaby.com DE/IE pages as reported by search snippets, not read directly (site returned 403).",
+    "Whether Bee Kids or Panda is the official distributor for Stokke, Bugaboo or Cybex, and whether Oh Baby is for Joolz.",
+    "Exact HS sub-heading for bouncers (9401.71 vs 9401.79) and for the Tripp Trapp (9401.69 vs 9403.60); all were 0% in WITS 2022.",
+    "Whether Albania enforces ECE R129/R44 at import for car seats, and whether radio-equipment approval is needed for Nanit.",
+    "Whether the Nanit app and subscription work in Albania.",
+    "The Pink & Blue Balios S Lux price of 130,000 ALL is labelled 'original price', so a lower current sale price may exist. Bee Kids prices were read on 23 Nov 2026 and may include promotions.",
+    "Births 2025: sources differ (22,541 per INSTAT/CEIC vs 21,425 per Euronews Albania and BalkanWeb).",
+    "Freight (EUR 200 for about 28 kg) and the EUR 20/12 per-sale ad costs are assumptions from the standard model."
+   ]
+  },
+  {
+   "niche": "Pet tech and premium pet accessories (Albania)",
+   "summary": "This is a small, thin-margin niche, and it is not a good first business for a beginner unless Petkit (or a regional Petkit distributor) gives you a dealer account at about 50-55% of the EU retail price. Albania has only about 98,000 cats and 90,000 dogs (FEDIAF 2026). The one big competitor, PetVille, already sells PetSafe self-cleaning litter boxes (35,700 ALL), smart feeders and Catit fountains, and Temu sells cheap generic fountains and feeders duty-free. The Petkit and Catlink brands were not found at any Albanian shop checked, so there is a real but narrow gap. Most smart devices are Chinese-made and probably pay 10% duty (HS 8509.80). At PetVille-level prices (about 1.3-1.5x EU retail), a Petkit fountain and feeder test order would earn about 16-24% contribution. If you have to buy at EU shop prices instead, you lose money on every sale. Turkish beds and harnesses are duty-free with an origin certificate, but they earn only 11-16% after courier and ad costs, so treat them as add-ons, not the core business.",
+   "demand_evidence": [
+    "Pet population: Albania has 90,000 dogs, 98,000 cats and 210,000 pets in total. The share of households owning a dog or cat is shown as 24% / 25%, but these look like regional estimates because Bosnia, Kosovo, Serbia and North Macedonia have exactly the same figures. Source: FEDIAF Facts & Figures 2026, https://www.zzf.de/fileadmin/ZZF/Dokumente/Heimtiermarkt/FEDIAF_Facts_Figures_2026.pdf",
+    "Google Trends, Albania, last 12 months (data supplied with the task): 'pet shop' scores 2.1, against 33.2 for matcha and 22.6 for nespresso. Search interest is low. A live re-run of the Trends tool failed (blocked), so no Petkit-specific trend figure exists.",
+    "PetVille, the largest pet chain (petville.al, about 3,557 product URLs in its sitemap), stocks premium pet tech and shows it in stock: PetSafe ScoopFree Clumping self-cleaning litter box 35,700 ALL (https://petville.al/product/scoopfree-clumping-litter-box) and PetSafe Smart Feed 27,900 ALL (https://petville.al/product/smart-feed-automatic-pet-feeder). Someone is buying high-priced pet gadgets.",
+    "PetVille announced expansion across Albania and Kosovo (press release, Oct/Nov 2025; sponsored content): https://markets.financialcontent.com/bpas/article/abnewswire-2025-10-9-petville-is-becoming-the-top-pet-supermarket-in-albania-and-a-leader-in-pet-shop-industry and https://ipsnews.net/business/?p=235710",
+    "Tirana pet shops on Wolt delivery: Nature's Protection Pet Store, Aristopets, Petville (https://wolt.com/sq/alb/tirana/brands). Shkoder and Vlore have Pet Spot, Petville Shkoder and 4 Putrat (https://wolt.com/en/alb/shkoder/venue/pet-spot).",
+    "Tractive lists Albania as an officially supported country with direct shipping: https://help.tractive.com/hc/en-us/articles/205664291",
+    "Euromonitor (Nov 2025): cat food is the fastest-growing pet category worldwide (6% CAGR 2020-25). This supports the cat-first focus but is not Albania data. https://www.euromonitor.com/newsroom/press-releases/november-2025/pet-care-market-experiences-shift-as-feline-favouritism-drives-growth"
+   ],
+   "local_competition_level": "scarce",
+   "local_sellers": [
+    "PetVille (https://petville.al), the dominant pet chain. PetSafe ScoopFree Clumping self-cleaning litter box 35,700 ALL; PetSafe ScoopFree auto-clumping small 35,700 ALL; PetSafe Smart Feed Wi-Fi feeder 27,900 ALL; PetSafe 5-meal feeder 7,250 ALL; PetSafe 2-meal feeder 3,050 ALL (2,135 on sale); Flamingo Blido 3 L timer feeder 8,500 ALL; Catit Pixi fountain 7,150 ALL; Lifestyle4Pets Lotus ceramic fountain 5,990 ALL; Flamingo Finto fountain 3,150 ALL; Nuvoletta dog bed L 9,450 ALL; Camon Cubo cat bed 3,490 ALL; lambswool donut bed 2,200 ALL; automatic paw cleaner 3,990 ALL. Brands stocked include PetSafe, Catit, Ferplast, Imac, Stefanplast, Trixie, Flamingo, Kong and Flexi. No Petkit, Catlink or Xiaomi pet products in its sitemap.",
+    "Aristopets (https://aristopets.al): about 224 products, mostly food, snacks and hygiene. No feeders, fountains, smart litter boxes or GPS trackers found.",
+    "Ubuy Albania (https://www.ubuy.al), a cross-border reseller. PetSafe FlexFeed timed feeder 8,851 ALL plus shipping and customs (US 110 V model), https://www.ubuy.al/sq/product/T9DADRUZU-petsafe-timed-cat-and-small-dog-feeder-with-portion-control-flexfeed-automatic-pet-feeder-8-cups-2l-white-4-lbs. It also lists a Catlink self-cleaning litter box (price not retrieved).",
+    "Gjirafa50 (gjirafa50.al) and Foleja (foleja.al): searches for 'petkit', 'litter box', 'ushqyes automatik' (automatic feeder), 'pet feeder' and 'xiaomi pet' returned no pet-tech products.",
+    "Tractive (https://tractive.com) sells its GPS trackers and subscriptions directly to Albanian consumers, so reselling GPS trackers has a built-in direct competitor.",
+    "Temu / AliExpress: generic fountains and feeders under the EUR 22 duty- and VAT-free threshold. This is the main price anchor for cheap gadgets; actual Albanian Temu prices were not checked."
+   ],
+   "products": [
+    {
+     "name": "Petkit Eversweet 3 Pro wireless-pump cat water fountain 1.8 L",
+     "origin_country": "China",
+     "hs_code": "8413.81 (pump) or 8509.80 (domestic appliance), classification uncertain",
+     "albania_duty_pct": 10,
+     "duty_basis": "WITS 2022, Albania MFN: 850980 = 10%, 841381 = 0%. Modelled at 10% (worst case). Chinese origin, so there is no preference even if bought from an EU wholesaler.",
+     "eu_retail_eur": 72,
+     "est_buy_price_eur": 40,
+     "suggested_albania_price_eur": 110,
+     "est_margin_pct": 16
+    },
+    {
+     "name": "Petkit Fresh Element Solo 3 L Wi-Fi automatic feeder",
+     "origin_country": "China",
+     "hs_code": "8509.80 (US CBP ruling N257597 puts automatic pet feeders in heading 8509)",
+     "albania_duty_pct": 10,
+     "duty_basis": "WITS 2022, Albania MFN 850980 = 10% (847989 would be 0%). Chinese origin, so MFN applies.",
+     "eu_retail_eur": 98,
+     "est_buy_price_eur": 53,
+     "suggested_albania_price_eur": 155,
+     "est_margin_pct": 23.7
+    },
+    {
+     "name": "Petkit Pura Max 2 self-cleaning litter box (one demo unit, then pre-order with deposit)",
+     "origin_country": "China",
+     "hs_code": "8509.80",
+     "albania_duty_pct": 10,
+     "duty_basis": "WITS 2022, Albania MFN 850980 = 10%. Chinese origin.",
+     "eu_retail_eur": 544,
+     "est_buy_price_eur": 320,
+     "suggested_albania_price_eur": 723,
+     "est_margin_pct": 15.6
+    },
+    {
+     "name": "Petkit fountain replacement filters, 5-pack (sold only as an add-on to device orders)",
+     "origin_country": "China",
+     "hs_code": "8421.21",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022, Albania MFN 842121 = 0%",
+     "eu_retail_eur": 17,
+     "est_buy_price_eur": 7,
+     "suggested_albania_price_eur": 18.8,
+     "est_margin_pct": 42
+    },
+    {
+     "name": "Turkish-made cushion pet bed, medium (Pet Comfort / Monpeo type)",
+     "origin_country": "Turkey",
+     "hs_code": "6307.90 or 9404.90 (classification uncertain)",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022, Albania MFN: 630790 = 0%, 940490 = 15%. 0% with a EUR.1 or invoice origin declaration under the Albania-Turkey FTA.",
+     "eu_retail_eur": 40,
+     "est_buy_price_eur": 14,
+     "suggested_albania_price_eur": 54.6,
+     "est_margin_pct": 15.6
+    },
+    {
+     "name": "Turkish-made dog harness + leash set (Tailpetz type)",
+     "origin_country": "Turkey",
+     "hs_code": "4201.00",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022, Albania MFN 420100 = 15%. 0% only with Turkish proof of origin (EUR.1).",
+     "eu_retail_eur": 30,
+     "est_buy_price_eur": 7,
+     "suggested_albania_price_eur": 33.3,
+     "est_margin_pct": 10.9
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "PETKIT official dealer (B2B) program",
+     "country": "China (Shanghai Petkit Network Technology); orders through petkit.com",
+     "url": "https://www.petkit.com/pages/petkit-authorized-dealer-agreement",
+     "public_contact": "sales@petkit.com; +1 (888) 851-2770 (from petkit.com)",
+     "moq": "No minimum stated. Orders under US$1,000 pay a 10% delivery charge. You pay the list price shown after a verified dealer login.",
+     "sells_to_albania": "Unconfirmed. The territory is 'determined by PETKIT'. Ask whether Albania is open or already assigned.",
+     "notes": "Non-exclusive dealer agreement. The dealer sets its own retail price with Petkit's suggested price as a reference. Dealer prices are only visible after approval. This is the only route that makes the margins work."
+    },
+    {
+     "name": "Warmako (pet-supplies wholesaler)",
+     "country": "Netherlands (Rotterdam)",
+     "url": "https://www.warmako.com",
+     "public_contact": "info@warmako.com; +31 (0)10 311 8400",
+     "moq": "Prices need a login. Free shipping from EUR 150 (probably within the EU). No MOQ stated.",
+     "sells_to_albania": "Says it serves customers worldwide (US office). Albania not confirmed.",
+     "notes": "B2B webshop with PetSafe and Catit (272 Catit items). Price data in the page code: PetSafe ScoopFree Clumping EUR 200.10, Viva fountain 1.8 L EUR 29.53, 2-meal feeder EUR 21.82, Scruffs Cosy Cat Bed EUR 14 (probably trade prices ex-VAT; not confirmed). No Petkit found. PetSafe and Catit goods are mostly Chinese-made, so MFN duty still applies."
+    },
+    {
+     "name": "SB Supply Europe BV (authorised CATLINK retailer)",
+     "country": "Netherlands (Groenlo)",
+     "url": "https://www.sbsupply.eu/catlink/litter-box",
+     "public_contact": "Via website (not verified)",
+     "moq": "Retail; B2B terms unknown",
+     "sells_to_albania": "Ships to the EU-27 only, so probably not Albania",
+     "notes": "Seller behind the Catlink listings on MediaMarkt NL/BE. Ask about reseller terms or who covers the Western Balkans. ELKO Group is Catlink's distributor for the Baltics only (https://www.elkogroup.com/news/elko-group-becomes-the-official-distributor-of-catlink/)."
+    },
+    {
+     "name": "Pet Comfort (DBM Dis Ticaret ve Mumessillik Ltd Sti)",
+     "country": "Turkey (Istanbul)",
+     "url": "https://www.petcomfort.com.tr",
+     "public_contact": "Through the website (website as given in its Zoomark exhibitor listing); no email verified",
+     "moq": "Described as a 'reasonable MOQ'; figure not published",
+     "sells_to_albania": "Exports (exhibits at Zoomark and Interzoo); Albania not confirmed",
+     "notes": "Own factory (about 3,500 m2, ISO 9001/14001, OEKO-Tex Standard 100 beds). Delta and Alpha beds are sold at Migros Turkey. Ask for an EUR.1 or invoice origin declaration so the goods enter duty-free."
+    },
+    {
+     "name": "Monpeo (dog and cat beds, Teotex brand)",
+     "country": "Turkey (Sultanbeyli, Istanbul)",
+     "url": "https://www.monpeo.com",
+     "public_contact": "+90 532 662 65 92 (from its Interzoo exhibitor page)",
+     "moq": "Unknown",
+     "sells_to_albania": "Exhibits at Interzoo (export-oriented); Albania not confirmed",
+     "notes": "Bed manufacturer. Ask for small mixed-size trial cartons and an EUR.1."
+    },
+    {
+     "name": "Tailpetz Evcil Hayvan Urunleri",
+     "country": "Turkey",
+     "url": "https://www.interzoo.com/en/exhibitors/tailpetz-evcil-hayvan-urunleri-2254649",
+     "public_contact": "Not verified (Interzoo page returned 404 when fetched)",
+     "moq": "Unknown",
+     "sells_to_albania": "Unknown",
+     "notes": "Harness, collar and leash maker founded in 2017, supplying 1,100+ pet shops, vets and groomers. Under HS 4201 the MFN duty is 15%, so the EUR.1 is essential."
+    }
+   ],
+   "regulation": [
+    "No AKU food licence is needed if you sell only hardware and accessories. Avoid pet food, treats and supplements (AKU licence plus label notification) and veterinary medicines or antiparasitic products (veterinary authorisation).",
+    "Electrical and Wi-Fi devices (feeders, fountains, litter boxes) need CE conformity under the EU-aligned Albanian rules (low voltage, EMC, radio equipment). Keep the supplier's Declaration of Conformity. Use EU-plug (type F) versions, not US or China models.",
+    "Each unit needs an Albanian-language sticker (product, importer name and address, safety warnings) plus an Albanian user manual or quick-start sheet.",
+    "Customs classification decides the duty: 8509.80 is 10%, while 8413.81 and 8479.89 are 0%. Ask Albanian customs or your broker for a binding tariff opinion before the first order. Chinese-made goods pay MFN rates even when bought from an EU wholesaler.",
+    "Turkish beds and harnesses are duty-free only with an EUR.1 or invoice origin declaration. Without it, HS 9404.90 and 4201.00 pay 15% MFN.",
+    "Textile pet beds need a fibre-composition label in Albanian.",
+    "Importing makes you a business: VAT registration (importers may have to register whatever their turnover), a real-time fiscal invoice for every COD sale, import VAT paid up front and recovered later.",
+    "Consumer law: 14-day withdrawal right for distance sales and 2-year seller liability. Used litter boxes and feeders coming back are a hygiene and resale problem. Whether a hygiene exception applies in Albania is unverified, so state a clear returns policy.",
+    "Possible WEEE and battery take-back duties for importers of electrical equipment. Albania's current registration requirement for small importers was not verified."
+   ],
+   "first_order": {
+    "description": "One Petkit shipment only, through a Petkit dealer account. The Turkish beds and harnesses are left for phase 2. Contents: 10 Eversweet 3 Pro fountains, 8 Fresh Element Solo feeders, 1 Pura Max 2 (showroom/demo unit, then sell further units on pre-order with a deposit), 20 filter 5-packs sold only as add-ons to device orders. Planned prices: 9,900 / 13,900 / 64,900 / 1,690 ALL including 20% VAT.",
+    "units": 39,
+    "cash_needed_eur": 2333,
+    "est_profit_if_all_sold_eur": 619,
+    "calc_notes": "python3, standard margin model, EUR 1 = 89.78 ALL. Goods at ESTIMATED dealer prices (not published): EUR 40 / 53 / 320 / 7 = EUR 1,284. Freight estimate EUR 200. Duty 10% on goods + freight for the devices (HS 8509.80), 0% for filters = about EUR 132. Broker EUR 100 + scanning fee EUR 22 = EUR 122. Landed cost EUR 1,738; import VAT outlay EUR 323 (recoverable later), so EUR 2,061 at import. Plus an ad float of about EUR 272 (ad cost per sale EUR 12 fountain / 14 feeder / 40 litter box), giving cash needed of about EUR 2,333. Per delivered order: courier + COD EUR 6, 7% refusal cost EUR 0.83 (two legs x EUR 5.5 x 0.07/0.93), warranty reserve 4% of net sales (2% for filters); filter add-ons carry no courier or ad cost. Landed cost per unit: 54.7 / 72.4 / 437.2 / 8.8. Net ex-VAT price: 91.9 / 129.0 / 602.4 / 15.7. Contribution: 14.7 (16.0%) / 30.6 (23.7%) / 94.2 (15.6%) / 6.6 (42%). If all sell: net sales EUR 2,867, contribution EUR 619 (21.6%), before overheads (accountant, fiscal software, company costs). Sensitivities: at 0% duty, contribution is EUR 751 (26.2%). At EU-like retail prices (7,990 / 10,990 ALL), it falls to about 1%. Buying at EU street prices ex-VAT (EUR 57.5 / 75) gives a loss of about 28%. Break-even ad cost per sale: about EUR 27 for the fountain and EUR 45 for the feeder. Phase 2 Turkey test (15 beds at EUR 14 selling at 4,900 ALL, 15 harness sets at EUR 7 selling at 2,990 ALL, freight EUR 90, broker EUR 100 + scanning EUR 5): cash EUR 591, contribution only EUR 152 (13.8%)."
+   },
+   "beginner_scores": {
+    "low_capital": 6,
+    "low_complexity": 4,
+    "low_regulation": 6,
+    "demand": 3,
+    "low_competition": 6,
+    "margin": 4
+   },
+   "risks": [
+    "The market is very small: about 98k cats and 90k dogs nationwide, and only a fraction of owners will pay EUR 100+ for gadgets. Expect only a few sales a week at best.",
+    "Supply is the deciding unknown: Petkit dealer approval, its prices and whether Albania is an open territory are all unconfirmed. Without dealer pricing the margins are negative.",
+    "Temu and AliExpress sell lookalike fountains and feeders for EUR 15-30, duty- and VAT-free under EUR 22, so customers will compare prices.",
+    "PetVille, the incumbent, already sells PetSafe and Catit smart products and could add Petkit or cut prices. Tractive sells GPS trackers to Albanians directly.",
+    "Chinese origin probably means 10% duty (8509.80); a classification dispute could raise landed cost.",
+    "High-ticket COD (a EUR 600-700 litter box) carries refusal and fraud risk. Use deposits or pre-orders for litter boxes.",
+    "Electronics warranty and support: 2-year liability with no local service centre; app or cloud dependence (the Petkit app's region support in Albania is unverified); faulty units must be shipped back to the EU or China at your cost.",
+    "Returned used litter boxes and feeders are hard to resell (hygiene).",
+    "Import VAT ties up cash until it is recovered; importing as a business brings VAT registration and fiscalization overheads.",
+    "Turkish accessories have low ticket prices, so courier and ad costs eat most of the margin."
+   ],
+   "unverified": [
+    "Petkit dealer purchase prices (EUR 40 / 53 / 320 / 7 are estimates at about 50-60% of EU retail ex-VAT) and whether Petkit will appoint an Albanian dealer.",
+    "Whether the Warmako prices in its page data (e.g. ScoopFree EUR 200.10) are trade prices, and whether Warmako ships to Albania.",
+    "The Albanian customs classification of fountains (8413.81 at 0% vs 8509.80 at 10%) and of self-cleaning litter boxes and feeders (8509.80 assumed).",
+    "FEDIAF's Albania household-ownership percentages (24% / 25%) look like regional estimates; the dog and cat counts are national-association or modelled figures.",
+    "MerrJep and Instagram/Facebook sellers of Petkit-type products: the MerrJep fetch failed and the Instagram search found nothing; informal resellers may exist.",
+    "A live Google Trends run for 'petkit', 'mace' or 'qen' failed (blocked); only the supplied 'pet shop' = 2.1 figure is available.",
+    "EU retail prices for filters (about EUR 17), mid-range pet beds (about EUR 40) and harness sets (about EUR 30) are estimates.",
+    "Turkish supplier MOQs, prices, export to Albania and EUR.1 issuance (Pet Comfort, Monpeo, Tailpetz); Pet Comfort and Tailpetz contacts not verified.",
+    "Freight cost (EUR 200 for about 45-60 kg / 0.4 m3 from an EU or China warehouse) depends on where Petkit ships from.",
+    "Temu prices in Albania for generic fountains and feeders.",
+    "WEEE and battery registration duties for small importers, and whether the 14-day withdrawal right has a hygiene exception for litter boxes in Albania.",
+    "Whether the Petkit app and cloud fully support device registration from Albania."
+   ]
+  },
+  {
+   "niche": "Starter kits for short-term-rental hosts (B2B): Turkish hotel-grade bed linen and towels plus key lockboxes, sold to Airbnb/Booking hosts and property managers in Tirana, Durres, Vlora, Saranda and Dhermi",
+   "summary": "Lots of hosts need this: about 31.8k active rental listings (up 15% a year), and 17,225 Booking.com hosts have declared income. But the cheap end is already well supplied. Megateksa, a large Albanian home and hotel-supply chain, sells 500 gsm cotton towels at 859 ALL (70x130) and 459 ALL (50x90), and satin double sheet sets from 1,999 ALL. Temu and Gjirafa50 cover lockboxes. Turkish towels already pay 0% Albanian duty. The Turkish-origin advantage only matters for bed linen (10% duty otherwise), and only if the supplier issues an EUR.1. The first order I modelled (50 cotton bed sets, 200 towels, 30 lockboxes, about EUR 2,200 cash) gives about 30% contribution, or about EUR 1,270 if everything sells at premium prices. If you have to match Megateksa's prices, that falls to about 15% (EUR 526), and most of the profit then comes from the lockboxes. Only go ahead if you can get small-MOQ quotes from Turkish suppliers at or below my estimated buy prices and line up 10-15 hosts or property managers who commit before the March-May pre-season. Treat it as a relationship-led side business. It will not be a quick COD e-commerce win.",
+   "demand_evidence": [
+    "PriceLabs (Albania market, July 2025-June 2026): average ~31,807 active short-term-rental listings, up 15.2% YoY; booked nights up 23.3% (1.81m to 2.23m); ADR down 3.1% to 7,012 ALL, so hosts compete on price and stay cost-conscious - https://hello.pricelabs.co/blog/albania-vacation-rental-market/",
+    "Euronews Albania citing the Tax Administration: 17,225 businesses and individuals earned income on Booking.com, EUR 80m revenue Jan-Sep 2025 - https://euronews.al/en/?p=83465",
+    "AirDNA (June 2026): Tirana 6,761 active STR listings across Airbnb/Vrbo/Booking, +12.2% YoY, revenue +42.9% (other trackers show 2.8-3.1k, so counts vary by method) - https://www.airdna.co/vacation-rental-data/app/al/default/tirana/supply",
+    "Airbtics: biggest 2025 listing additions in Saranda, Tirana (+948) and Durres (+681); new listings each need a full linen set - https://airbtics.com/short-term-rental-market-report-2025-albania",
+    "Scan TV: almost 23k active Airbnb properties in Albania, listings up 70% since 2022 - https://scantv.al/english/lajme/shqiperia/rritje-e-forte-e-airbnb-ne-shqiperi-gati-23-mije-prona-aktive-li-i30051",
+    "Google Trends AL (provided data): 'airbnb' searches concentrate on Tirana, Durres, Saranda, Dhermi. Re-running the google-trends CLI for 'airbnb', 'booking', 'peshqir' and 'key lock box' failed (Google returned HTML instead of JSON), so I have no new trends figures",
+    "Host community: an 'Airbnb Hosts in Albania' Facebook group is referenced on the Airbnb Community forum (group id 1090302918315211; current activity not verified) - https://community.withairbnb.com/t5/Community-cafe/Hosts-In-Albania-You-are-not-alone/m-p/1424188",
+    "Tax pressure on hosts: individuals declare short-term rental income via DIVA at 15% from 2026, which makes invoiced, deductible purchases mildly attractive to formal hosts - https://euronews.al/en/?p=80367"
+   ],
+   "local_competition_level": "available",
+   "local_sellers": [
+    "Megateksa (big Albanian home/HORECA chain) - towels 100% cotton 500 gsm: 70x130 859 ALL, 50x90 459 ALL, 30x50 white 169 ALL, 90x150 1,299 ALL; 450 gsm 70x140 1,259 ALL - https://www.megateksa.com/sq/tekstile-dhe-aksesore/tekstile-per-banjo/peshqire",
+    "Megateksa - sheet sets: double polyester+satin white 4-piece 1,999 ALL; double polyester 1,299 ALL; single 100% cotton set 2,599 ALL; tencel+cotton double 7,599 ALL - https://www.megateksa.com/sq/tekstile-dhe-aksesore/tekstile-per-dhome-fjetje/carcafe",
+    "Zara Home Albania (premium retail) - bath towels 950-4,750 ALL; 70x140 cotton towel 3,250 ALL - https://www.zarahome.com/al/peshqir-banje-pambuk-shume-i-bute-700-gm2-l41527013",
+    "Gjirafa50.al - Nedis 4-digit wall key box 3,950 ALL (was 6,190); Master Lock 5401EURD key safe 5,690 ALL (was 7,966); Aqara U200 smart lock kit 26,590 ALL - https://gjirafa50.al/search?q=kuti%20per%20celesa",
+    "Smart Home Albania - distributor of home/hotel automation and security brands since 2015, sells to hotels; lock prices not public - https://www.smarthome.al/",
+    "Gjergji H Tekstil - Albanian hotel bed-linen supplier since 1994 (claims Melia Durres, Maritim Marina Bay Vlore); prices not public; known only from a low-quality blog post - https://europecompanynews.blogspot.com/2025/05/gjergji-h-tektil-your-reliable.html",
+    "Balkan Laundry (Tirana-Durres highway) - linen hire plus industrial laundry for hotels and guesthouses; a substitute for buying linen - https://www.kryeministria.al/en/?p=36881",
+    "Ubuy Albania - imported US smart key lock boxes (Tuya/Bluetooth), price not shown - https://www.ubuy.al/sq/product/IDCOSQYM8-smart-key-lock-box",
+    "Temu/AliExpress - cheap lockboxes and amenity items enter duty- and VAT-free under the EUR 22 consumer threshold (prices not checked)"
+   ],
+   "products": [
+    {
+     "name": "Hotel bed-linen set, double, white 100% cotton satin/percale (duvet cover 200x220, fitted sheet 160x200, 2 pillowcases)",
+     "origin_country": "Turkey (Denizli/Bursa/Istanbul)",
+     "hs_code": "6302.31",
+     "albania_duty_pct": 0,
+     "duty_basis": "Albanian MFN 10% (WITS 2022, HS 630231). 0% only with EUR.1 or an invoice origin declaration showing Turkish preferential origin (Albania-Turkey FTA). Without it, 10% on goods plus freight.",
+     "eu_retail_eur": 49.95,
+     "est_buy_price_eur": 16,
+     "suggested_albania_price_eur": 44.44,
+     "est_margin_pct": 25.9
+    },
+    {
+     "name": "Hotel bath towel 70x140, 550 gsm, white 100% cotton terry",
+     "origin_country": "Turkey (Denizli)",
+     "hs_code": "6302.60",
+     "albania_duty_pct": 0,
+     "duty_basis": "Albanian MFN already 0% (WITS 2022, HS 630260), so Turkish origin brings no duty advantage",
+     "eu_retail_eur": 13.15,
+     "est_buy_price_eur": 4.6,
+     "suggested_albania_price_eur": 12.14,
+     "est_margin_pct": 22.2
+    },
+    {
+     "name": "Hotel hand/face towel 50x90, 550 gsm, white 100% cotton terry",
+     "origin_country": "Turkey (Denizli)",
+     "hs_code": "6302.60",
+     "albania_duty_pct": 0,
+     "duty_basis": "MFN 0% (WITS 2022, HS 630260)",
+     "eu_retail_eur": 6.5,
+     "est_buy_price_eur": 2.1,
+     "suggested_albania_price_eur": 6.13,
+     "est_margin_pct": 27
+    },
+    {
+     "name": "4-digit wall-mount key lockbox (aluminium/zinc, weatherproof)",
+     "origin_country": "China",
+     "hs_code": "8301.40 (or 8303.00 if classed as a strong-box)",
+     "albania_duty_pct": 15,
+     "duty_basis": "MFN 15% (WITS 2022, HS 830140 and 830300). No FTA with China. Same rate on Chinese-made Master Lock/Nedis bought from EU wholesalers.",
+     "eu_retail_eur": 29.99,
+     "est_buy_price_eur": 4.4,
+     "suggested_albania_price_eur": 33.3,
+     "est_margin_pct": 51.3
+    },
+    {
+     "name": "Later, not in first order: waterproof mattress protector 160x200",
+     "origin_country": "Turkey",
+     "hs_code": "9404.90 (quilted) or 6304.93",
+     "albania_duty_pct": 0,
+     "duty_basis": "MFN 15% (940490) or 10% (630493) per WITS 2022. 0% with Turkish origin proof.",
+     "eu_retail_eur": 25,
+     "est_buy_price_eur": 7,
+     "suggested_albania_price_eur": 22,
+     "est_margin_pct": 30
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "Beyaz Nevresim (wholesale hotel, hospital and dormitory textiles; also amenities/'buklet')",
+     "country": "Turkey (Istanbul, Bagcilar)",
+     "url": "https://beyaznevresim.com/",
+     "public_contact": "destek@beyaznevresim.com; +90 530 215 40 80 (WhatsApp, wa.me/905302154080); +90 532 776 40 80 (from site)",
+     "moq": "Not published; quote-based; site says amenities are sold 'wholesale and retail'",
+     "sells_to_albania": "Not confirmed. Site is multilingual (EN/DE/AR/RU/PT/ES), which suggests it exports.",
+     "notes": "Best first contact for a one-stop quote on bed sets, towels and amenity items. Ask whether it is the manufacturer (it can only issue origin proof for Turkish-made goods), and ask for EUR.1, MOQ per SKU and EXW price."
+    },
+    {
+     "name": "Hursan Havlu (Baltali Grup, brand BAVENO)",
+     "country": "Turkey (Honaz, Denizli)",
+     "url": "https://www.hursan.com.tr",
+     "public_contact": "+90 258 269 13 10 (Heimtextil exhibitor listing); contact form on site",
+     "moq": "Not published; large integrated mill, MOQ likely high",
+     "sells_to_albania": "Exporter with an export-countries page; Albania not confirmed",
+     "notes": "Directory prices (SourceReady, date unknown): 144TC hotel sheet 240x280 $5.88, 157TC 160x240 $3.85, 208TC satin 280x280 $9.52. Good price benchmark; probably too big for a EUR 1,500 buyer. https://www.sourceready.com/supplier/detail/hursan-havlu-uretim-san-ve-tic-a-s"
+    },
+    {
+     "name": "Denizli Exporters Association (DENIB), sourcing channel for Denizli towel makers",
+     "country": "Turkey (Denizli)",
+     "url": "https://www.denib.gov.tr",
+     "public_contact": "denib@denib.gov.tr; +90 258 274 66 88",
+     "moq": "n/a (association with ~5,000 member companies)",
+     "sells_to_albania": "n/a; can point you to member exporters",
+     "notes": "Ask for hotel-towel members that accept 100-300 piece mixed orders and can issue EUR.1. Directory listings show Denizli hotel-towel MOQs of 250-500 pieces, some lower."
+    },
+    {
+     "name": "Ozra Textile Co. (towels, bathrobes, hotel slippers, spa textiles)",
+     "country": "Turkey (Denizli)",
+     "url": "https://www.sourceready.com/supplier/detail/hursan-havlu-uretim-san-ve-tic-a-s",
+     "public_contact": "Not found (no official website verified)",
+     "moq": "Described as 'flexible MOQs'",
+     "sells_to_albania": "Exports internationally; Albania not confirmed",
+     "notes": "Small factory (11-50 staff) and probably a good fit for small orders. Contact details still need verifying, for example via DENIB or Heimtextil."
+    },
+    {
+     "name": "Alibaba / Global Sources key-lockbox factories (e.g. 4-digit aluminium key safe listings)",
+     "country": "China",
+     "url": "https://www.globalsources.com/Key-box/Key-Storage-Lock-Box-1238071669p.htm",
+     "public_contact": "Via platform messaging only",
+     "moq": "2-100 pieces; listed $1.45-5.10/unit (plastic to aluminium)",
+     "sells_to_albania": "Yes, ships worldwide (express or air)",
+     "notes": "Order samples first and check shackle and weatherproofing. 15% Albanian duty applies. Note that hosts can buy similar boxes on Temu duty-free."
+    }
+   ],
+   "regulation": [
+    "Business set-up: register a company or self-employed business (QKB) and register for VAT to import commercially (confirm whether VAT registration is mandatory for importers below the threshold). Issue a real-time fiscal invoice for every sale. Profit tax is 0% up to ALL 14m turnover until 2029.",
+    "Preferential origin: to get 0% on Turkish bed linen (MFN 10%), mattress protectors (MFN 10-15%) and slippers (MFN 15%), the Turkish exporter must supply an EUR.1, or an invoice origin declaration where allowed, under the Albania-Turkey FTA. Goods a Turkish wholesaler resells from Pakistan, India or China are not Turkish origin. Towels are 0% MFN anyway.",
+    "Customs per shipment: Albanian broker ~EUR 80-150, scanning fee EUR 22 per declaration over EUR 1,000 (EUR 5 below), import VAT 20% (recoverable if VAT-registered). Turkish side: export declaration and EUR.1 through the forwarder (~EUR 50-80, my estimate).",
+    "Labelling: Albanian-language label on every unit (stickers OK) showing fibre composition, size, care instructions and importer. Albania's general product safety and market surveillance laws (10489/2011, 10480/2011) apply to textiles. I could not confirm whether Albania has a textile-specific fibre-naming act like EU Reg. 1007/2011; follow the EU format to be safe.",
+    "Lockboxes: Chinese-made, 15% MFN duty. Covered by general product safety. Smart locks with Bluetooth/Wi-Fi are radio equipment: they need EU-style RED/CE conformity documents and an Albanian manual. Avoid smart locks at the start (warranty and installation support burden, 15% duty).",
+    "Amenity kits: shampoo, shower gel and soap are cosmetics under Law 26/2017 (safety report, responsible person, notification) and pay 6% MFN unless of Turkish/EU origin. Keep cosmetics out of the first order. Buy branded amenities locally to resell, or limit kits to non-cosmetic items such as slippers and dental/vanity kits (check classification).",
+    "Consumer law: if the buyer is a private host ordering online, the 14-day withdrawal right and 2-year defect liability apply. Bed linen and towels can be refused on hygiene grounds only if they were sealed and unsealed by the buyer; confirm this applies in Albania. Sales to VAT-registered companies are B2B and do not carry the withdrawal right.",
+    "Host-side: individual hosts declare rental income via DIVA at 15% (2026). Many hosts are informal or individuals, so in practice this is often B2C with invoices, not true B2B. Whether hosts also need a separate tourism licence is reported inconsistently."
+   ],
+   "first_order": {
+    "description": "One mixed Turkish consignment by road groupage: 50 double 100% cotton white bed sets, 100 bath towels 70x140 550 gsm and 100 hand towels 50x90 550 gsm, all from one Denizli/Istanbul supplier with EUR.1. Plus 30 Chinese 4-digit lockboxes by air express. Sold mainly as 25 'host starter kits' (2 bed sets, 4 bath towels, 4 hand towels, 1 lockbox, 17,530 ALL incl. VAT), with single items for top-ups. Pre-sell to 10-15 hosts or property managers using samples before paying the order. Order in Jan-Feb for March-May pre-season set-ups.",
+    "units": 280,
+    "cash_needed_eur": 2217,
+    "est_profit_if_all_sold_eur": 1270,
+    "calc_notes": "python3, standard margin model, EUR 1 = 89.78 ALL, VAT 20% recovered on import and included in retail prices. Turkey consignment: goods EUR 1,420 (50 sets x 16 + 100 bath x 4.60 + 100 hand x 2.10, all estimated EXW prices), freight EUR 300 (estimated groupage for ~160 kg / 1 m3), fixed EUR 182 (AL broker 100 + scanning 22 + TR export docs/EUR.1 60), duty 0% with EUR.1. China lockboxes: 30 x 4.40 = EUR 132, air EUR 60, duty 15% on goods plus freight, clearance and scanning EUR 45. Albanian stickers EUR 0.10 per unit. Landed cost per unit: bed set 21.35, bath towel 6.21, hand towel 2.89, lockbox 8.96. Cash needed EUR 2,217, excluding samples (~EUR 100-150) and any company set-up. Per order (kit): courier EUR 6, COD refusal 7% x 2-way EUR 6 = 0.84, acquisition EUR 15 per B2B order (FB groups, boosted posts, visits), returns reserve 3%. Kit: retail 17,530 ALL (EUR 195 incl. VAT) = net EUR 162.71, landed EUR 88.04, contribution EUR 47.95 = 29.5%. Item margins: bed set 25.9% (3,990 ALL), bath towel 22.2% (1,090 ALL), hand towel 27.0% (550 ALL), lockbox 51.3% (2,990 ALL). All 280 units sold: net sales EUR 4,207, contribution EUR 1,270 (30.2%), before your own time, accountant or overheads. Sensitivity 1: without valid EUR.1, bed linen pays 10% duty and total contribution drops to EUR 1,174 (27.9%). Sensitivity 2: price-matching Megateksa (towels 859/459 ALL, bed set 2,990 ALL) cuts contribution to EUR 526 (15.3%). Bed sets fall to 3.6% and bath towels to 2.6%, so only lockboxes carry the profit."
+   },
+   "beginner_scores": {
+    "low_capital": 7,
+    "low_complexity": 4,
+    "low_regulation": 7,
+    "demand": 6,
+    "low_competition": 4,
+    "margin": 4
+   },
+   "risks": [
+    "Price competition: Megateksa already sells 500 gsm cotton towels at 859 ALL (70x130) and 459 ALL (50x90), and satin double sheet sets at 1,999 ALL. 'Hotel-grade Turkish' must be visibly better, for example 550-600 gsm and 100% cotton percale, or margins fall to ~15%.",
+    "Hosts are cutting costs: Albanian STR ADR fell 3.1% while supply grew 15%, so hosts are under price pressure and many buy the cheapest linen or polyester.",
+    "Duty is not an advantage for towels: towels are 0% MFN from any country, so Chinese, Pakistani and Indian towels pay the same 0%. Turkish origin only helps on bed linen, mattress protectors and slippers.",
+    "Small-MOQ access: Denizli mills often quote 250-500+ pieces per item. A EUR 1,500 buyer may have to use an Istanbul wholesaler, paying more per unit and possibly without origin proof.",
+    "Temu/AliExpress sell lockboxes and amenity items duty- and VAT-free under EUR 22, so retail lockbox margins depend on bundling into kits and same-day local delivery.",
+    "Seasonality: hosts buy mainly Feb-May before the season and in autumn for replacements. Stock bought at the wrong time ties up cash for months.",
+    "Slow B2B sales: it is relationship selling (Facebook host groups, property managers, cleaning companies). Hosts may ask for credit, and white-textile complaints (stains, shrinkage, GSM below spec) lead to returns.",
+    "Substitutes: linen-hire or laundry services such as Balkan Laundry, and existing hotel suppliers such as Gjergji H, can serve larger property managers.",
+    "Freight estimates are unverified: Turkey-Tirana groupage could be EUR 200-500, and a second China shipment adds a separate broker cost.",
+    "Currency: Turkish suppliers quote in USD/EUR while TRY moves fast, which helps buyers but makes quotes short-lived."
+   ],
+   "unverified": [
+    "All buy prices are my estimates: bed set EUR 16, bath towel EUR 4.60, hand towel EUR 2.10, based on Hursan directory prices ($3.85-9.52 per sheet) and Turkish retail of ~367 TL per 500 gsm 70x140 towel (n11 6-pack 2,199.90 TL) at 55.5 TRY/EUR. Lockbox EUR 4.40 is based on Alibaba/Global Sources listings of $3.29-5.10. Get real quotes.",
+    "Freight Turkey to Tirana groupage (EUR 300) and Turkish export/EUR.1 cost (EUR 60) are estimates; no published Turkey-Albania LTL rates were found.",
+    "MOQs, export to Albania and origin-proof ability are not confirmed for Beyaz Nevresim, Hursan, Ozra Textile or DENIB members. No verified contact found for Ozra.",
+    "EMA Hotelling/Sprint and 2LB TEX (named in earlier findings) could not be found online in this pass; Gjergji H is known only from a low-quality blog post.",
+    "Megateksa prices may be promotional; checked 23 Nov 2026.",
+    "EU retail for the 50x90 hand towel (EUR 6.50) and the mattress protector figures are estimates. Bed set EU retail EUR 49.95 is Inhofer's white cotton satin 135x200 set; Lidl's satin set is EUR 17.99.",
+    "Temu lockbox prices were not checked.",
+    "The google-trends CLI failed (Google returned HTML instead of JSON), so I have no new Albania trends data for host-related keywords.",
+    "Whether Albania requires a separate licence or registration for individual STR hosts, beyond declaring income in DIVA, is reported inconsistently.",
+    "Whether Albania has a textile fibre-labelling act equivalent to EU Reg. 1007/2011 was not confirmed.",
+    "Whether the 'Airbnb Hosts in Albania' Facebook group is still active was not verified.",
+    "WITS duty figures are 2022 reported HS6 averages; check national tariff lines at clearance. No WITS preferential data was returned for Turkey."
+   ]
+  }
+ ],
+ "reviews": [
+  {
+   "advisor": "Beginner Business Coach: protects a first-time entrepreneur with EUR 1,500-2,500 and a day job. I weigh capital at risk, how much unsold stock is worth if sales are slow, how complex operations get (customs, VAT returns, fiscal invoices, COD, returns, warranty), regulatory traps, how fast they learn, and how cheaply they can stop. Spot-checks done on 23 Nov 2026: (1) Megateksa's towel category page, confirmed: 500 gsm 100% cotton at 859 ALL (70x130, beige) and 459 ALL (50x90, green); 450 gsm 70x140 at 1,259 ALL; white 500 gsm only in 30x50 (169 ALL); 62 towel items, no discount prices shown. (2) Albanian VAT for importers: secondary guides (Grant Thornton, PwC and others) say taxpayers who import must register for VAT whatever their turnover, and file monthly returns. The general threshold is ALL 10m in most sources (the tax authority page says 5m). (3) Petkit's dealer agreement: non-exclusive, territory set by Petkit, orders only through petkit.com with a verified dealer account, Petkit can reject orders (15 business days to decide), no MOQ stated. (4) Accountant cost: one consultancy says EUR 100-500/month (probably aimed at foreign-owned companies). Fiscal invoicing software is about 7,000-19,000 ALL/year. Live Matchai price check and Google Trends re-runs were not possible.",
+   "ranking": [
+    {
+     "niche": "Starter kits for short-term-rental hosts (Turkish bed linen and towels plus lockboxes)",
+     "score": 58,
+     "verdict": "The best of a weak field for a cautious beginner. Go ahead only as a pre-sold, relationship-led test, and smaller than the dossier's order: samples first, then a first consignment of about EUR 1,000-1,200 sold to hosts who have already said yes.",
+     "key_reasons": [
+      "Cheapest mistakes: white towels and cotton sheets do not expire, break, go out of date or need warranty service. Unsold stock can be sold off near cost to hosts, guesthouses or cleaning companies, so the downside is small.",
+      "Lowest regulatory burden of the six: no licence, towels pay 0% duty from any origin, and bed linen pays 0% with an EUR.1. The only paperwork is Albanian fibre and care labels.",
+      "Clear, countable demand (about 31.8k active listings, up 15% a year; about 17k hosts declare Booking income) concentrated in a few towns, so they can sell by direct outreach rather than paid ads.",
+      "Teaches the whole import cycle (supplier, EUR.1, groupage, broker, VAT, fiscal invoices) on low-risk goods.",
+      "Weaknesses: Megateksa caps prices on ordinary towels. Hosts are cutting costs (average nightly rate down 3.1%). Sales are seasonal (Feb-May), and B2B selling is slow for someone with a day job."
+     ],
+     "must_check_before_buying": [
+      "Written EXW quotes from 2-3 Turkish suppliers (Beyaz Nevresim, DENIB members) for 50-100 pieces per item, white, at or below EUR 16 per bed set / 4.60 per bath towel / 2.10 per hand towel, plus confirmation that the supplier makes the goods and will issue an EUR.1.",
+      "Real samples: weigh them to check the GSM and wash them 3 times to check shrinkage before ordering. Compare them side by side with Megateksa's 450-500 gsm towels and its 2,599 ALL single cotton set.",
+      "At least 10 hosts or property managers committed, ideally with a deposit, at the planned prices (bed set about 3,990 ALL, kit about 17,500 ALL), before paying the supplier.",
+      "A Turkey-Tirana groupage quote (dossier assumes EUR 300) and the broker fee, in writing.",
+      "Whether customers are VAT-registered businesses (no withdrawal right) or individual hosts (14-day withdrawal; hygiene exception for unsealed textiles unconfirmed).",
+      "Temu prices for lockboxes before adding 30 of them; consider buying lockboxes locally or leaving them out of the first shipment to avoid a second clearance from China."
+     ]
+    },
+    {
+     "niche": "Pet tech and premium pet accessories (Petkit fountains and feeders)",
+     "score": 33,
+     "verdict": "Possible second step, not a first business. Everything depends on Petkit approving a dealer account at about 50-55% of EU retail; without it every sale loses money.",
+     "key_reasons": [
+      "Real but narrow gap: Petkit and Catlink are absent locally, and PetVille proves people pay 27,900-35,700 ALL for pet gadgets.",
+      "Tiny market (about 98k cats and 90k dogs) and direct competition from Temu lookalikes that enter duty-free under EUR 22.",
+      "Electronics bring the worst beginner burdens: 2-year liability with no service centre, app and cloud dependence, EU-plug versions, CE/RED documents, possible WEEE duties, and returned used litter boxes and feeders that cannot be resold.",
+      "The planned demo litter box (EUR 437 landed) ties up about 19% of the budget in one unit.",
+      "Petkit orders go through petkit.com, can be rejected, and pay a 10% delivery charge under US$1,000. Where the goods ship from, and whether EU-plug units are available, is unknown."
+     ],
+     "must_check_before_buying": [
+      "A written dealer approval from Petkit (or its EU or Balkan distributor), the real dealer price list, the shipping origin, and EU-plug versions.",
+      "A binding tariff opinion from customs or the broker: fountains 8413.81 (0%) or 8509.80 (10%).",
+      "That the Petkit app registers and works from Albania.",
+      "Temu Albania prices for generic fountains and feeders.",
+      "Drop the litter box from the first order; take deposits or pre-orders only."
+     ]
+    },
+    {
+     "niche": "Padel equipment (rackets, balls, grips, bags)",
+     "score": 26,
+     "verdict": "Not as a business. At most a tiny side test of overgrips and ball cartons sold to one club. Rackets lose value every season and margins at market prices are close to zero.",
+     "key_reasons": [
+      "Simple regulation (no licence) and goods that do not break in transit are the only positives.",
+      "smash.al already sells rackets at or below EU street prices, so a beginner without distributor terms makes 0-10% before overheads.",
+      "Rackets lose 40-50% of their value when next year's models launch. Unsold stock is the single biggest way a beginner loses money here.",
+      "Most rackets pay 15% duty (Asian-made). Only StarVie's Spanish-made models (to be confirmed per model) can enter at 0%.",
+      "Clubs control the customers, and a club will want a 15-30% commission for selling or consignment, which the 9.8% blended margin cannot pay."
+     ],
+     "must_check_before_buying": [
+      "A written distributor quote at the dossier's 'good terms' prices (80 / 62 / 36 / 3.0 / 2.2) or better. Below that, do not buy rackets.",
+      "StarVie confirmation of which models are made in Spain, plus an origin declaration on the invoice.",
+      "A club partner agreement (commission, consignment, who handles returns) before ordering.",
+      "Whether smash.al holds Bullpadel exclusivity, and the trademark position on parallel imports."
+     ]
+    },
+    {
+     "niche": "Matcha kits and tea-ware",
+     "score": 24,
+     "verdict": "Avoid as a first niche. The demand signal is the strongest, but food licensing, 15% duty, 2 suppliers and 2 customs clearances, and established local sellers make it the most complex and fragile option for a beginner.",
+     "key_reasons": [
+      "Highest Google Trends interest (33.2) with rising queries, but Matchai, OhMyCha, Bloom and Kusmi already sell at 3,000-4,500 ALL per 30 g tin and 6,000-8,500 ALL per kit.",
+      "An AKU food licence may require premises plus a technical director with an employment contract. That alone could cost more than the EUR 609 'if all sold' profit.",
+      "Two shipments (CZ and China), food border checks and label notification make the most moving parts of any niche here.",
+      "Perishable stock (colour and flavour fade in months, and Albanian summer heat speeds this up) plus breakable ceramics. Mistakes here are expensive.",
+      "The plan depends on a Christmas or Valentine's season. It is 23 Nov 2026, so Christmas is impossible once AKU letters, supplier onboarding, shipping and the 15-day label notification are added."
+     ],
+     "must_check_before_buying": [
+      "A written answer from AKU on which licence or registration an online seller of pre-packed tea needs, and what it costs in premises and staff.",
+      "Kyosun or Moya: real prices, shipping to Albania, a certificate of analysis, and the 2026-27 price trend after the tencha price spike.",
+      "Lead and cadmium test reports for any ceramics.",
+      "Whether a tea-ware-only offer (no food) partnering with an existing matcha seller makes more sense than importing tea."
+     ]
+    },
+    {
+     "niche": "Premium baby gear (Ergobaby carriers and bouncers)",
+     "score": 18,
+     "verdict": "Not for a beginner. The 'missing brands' premise was mostly wrong, the market is shrinking, and the only gap (Ergobaby) needs a brand dealer account that a new COD-only seller is unlikely to get.",
+     "key_reasons": [
+      "Bugaboo, Stokke, Cybex, BabyBjorn, Joolz, Doona and Medela are already sold locally at 10-25% above EU prices.",
+      "About 21-22.5k births a year and falling; Kosovo's GjirafaMall already sells Ergobaby into the region.",
+      "Infant-safety products put real liability on the importer (EN standards, recalls). For a beginner the regulatory and liability risk is higher than the dossier's score of 5 suggests.",
+      "Bought at EU retail prices (a grey import), every modelled line loses 8-24%.",
+      "High-value COD refusals and tried-and-returned carriers add risk."
+     ],
+     "must_check_before_buying": [
+      "Ergobaby Europe: written dealer terms, MOQ and whether Albania is unassigned, or whether the Kosovo or Balkan distributor covers it.",
+      "Exact EU safety test documents (EN 13209-2, EN 12790) for each SKU.",
+      "Whether Ergobaby honours warranty claims for an Albanian dealer."
+     ]
+    },
+    {
+     "niche": "Home espresso gear (Italian machines, grinders, barista accessories)",
+     "score": 14,
+     "verdict": "Reject. Almost no demand for prosumer machines, cross-border EU shops already serve the few enthusiasts, and EUR 400-600 machines bring warranty and return risk with negative or near-zero margins.",
+     "key_reasons": [
+      "'gaggia' scores 0.1 in Trends. Mass-market demand (Nespresso, DeLonghi) is served by Neptun at or below EU prices.",
+      "naturbohne.de and other EU shops sell to Albanians in lek; diaspora luggage imports compete too.",
+      "The modelled order loses EUR 247 at competitive prices and makes EUR 167 at premium prices, which is wiped out by any overhead.",
+      "2-year liability on pumps, boilers and solenoids with no authorised service network; a returned machine cannot be resold as new.",
+      "Only the Motta accessories make a margin, and at EUR 25-35 they cannot carry ad and courier costs on their own."
+     ],
+     "must_check_before_buying": [
+      "Only if they insist: a Eureka or Lelit authorised-dealer offer in writing, and only pre-order with a deposit. Do not stock machines."
+     ]
+    }
+   ],
+   "challenged_claims": [
+    {
+     "niche": "All niches",
+     "claim": "est_profit_if_all_sold_eur (167 / 609 / 269 / 480 / 619 / 1,270) shows what the beginner earns.",
+     "problem": "Every figure assumes 100% sell-through and leaves out fixed overheads that a VAT-registered importer has from day one: an accountant for monthly VAT returns (about EUR 50-150/month for a micro-business is my assumption; one consultancy quotes EUR 100-500), fiscal invoicing software (about 7,000-19,000 ALL/year), bank/POS fees, samples and travel. Over a 6-month test that is roughly EUR 400-900, which turns espresso, padel, baby and probably matcha and pet into break-even or losses. Only the host niche at premium prices clearly survives.",
+     "corrected_view": "Report profit after 6 months of overheads, and at 50% and 75% sell-through, with what the unsold stock is worth at cost or as clearance. Judge niches on worst-case cash lost, not on profit if everything sells."
+    },
+    {
+     "niche": "All niches",
+     "claim": "'Importers may have to register for VAT regardless of turnover - confirm.'",
+     "problem": "Several secondary guides (Grant Thornton, PwC and others) say Albanian taxpayers who import must register for VAT whatever their turnover. Treat it as near-certain, not optional. That means monthly VAT returns and accounting costs even at tiny volumes, plus import VAT cash tied up until it is recovered.",
+     "corrected_view": "Assume mandatory VAT registration and monthly filing. Budget the accountant and fiscal software as fixed costs, and confirm with a Tirana accountant before registering."
+    },
+    {
+     "niche": "Host starter kits",
+     "claim": "First order of 280 units gives about 30% contribution (EUR 1,270) with acquisition cost of EUR 15 per B2B order.",
+     "problem": "The 30% relies on bed sets at 3,990 ALL against Megateksa's 1,999 ALL satin-polyester double set and 2,599 ALL single cotton set, and on 25 hosts buying full 17,530 ALL kits. Selling to cost-cutting hosts face to face takes evenings and weekends, so the real cost per order is the seller's time, not EUR 15. The price-matched case (EUR 526, 15%) is the planning case, and overheads reduce it further.",
+     "corrected_view": "Plan on the price-matched case. Cut the first order to about EUR 1,000-1,200, pre-sold to named hosts, and treat premium pricing as an upside to prove with real orders."
+    },
+    {
+     "niche": "Host starter kits",
+     "claim": "Megateksa already sells 500 gsm cotton towels at 859 ALL (70x130) and 459 ALL (50x90), so hotel-grade towels must be visibly better.",
+     "problem": "Confirmed on the live page, but those 500 gsm sizes are coloured (beige/green); white 500 gsm appears only in 30x50. The 450 gsm 70x140 is 1,259 ALL, and Zara Home's 500 gsm 70x140 is 1,750 ALL. Hosts want white, so the price cap on white 550 gsm hotel towels is looser than the dossier implies.",
+     "corrected_view": "Position on white, hotel-spec, bleach-resistant towels and bed sets. Check Megateksa's HORECA catalogue for white hotel lines before setting prices."
+    },
+    {
+     "niche": "Host starter kits",
+     "claim": "The niche is B2B, and sales to companies carry no withdrawal right.",
+     "problem": "The dossier itself notes that most Albanian hosts are individuals declaring through DIVA. In practice these are consumer sales, with the 14-day withdrawal right and 2-year liability. The hygiene exception for unsealed textiles in Albania is unconfirmed.",
+     "corrected_view": "Treat it as B2C with business-like buyers. Seal each item and write a clear returns policy; reserve true B2B terms for property-management companies."
+    },
+    {
+     "niche": "Matcha kits and tea-ware",
+     "claim": "Run a gift-kit test for the Christmas/Valentine's season.",
+     "problem": "It is 23 Nov 2026. A written AKU answer, possible licensing, supplier B2B onboarding, two shipments, food border checks, Albanian labels and the 15-day label notification cannot be finished before Christmas. The AKU licence (premises, technical director) is also left out of the EUR 609 figure and could exceed it.",
+     "corrected_view": "At the earliest, Valentine's 2027, and only after AKU confirms in writing a licence route without premises or staff costs. Otherwise drop matcha."
+    },
+    {
+     "niche": "Pet tech",
+     "claim": "Order 1 Pura Max 2 as a demo unit, then sell more on pre-order.",
+     "problem": "About EUR 437 landed, roughly 19% of the budget, sits in one demo unit that becomes a used, hard-to-resell item. Petkit's dealer route (orders through petkit.com, which can be rejected, with a 10% delivery charge under US$1,000) is not proven for Albania, and the EUR 40/53/320 buy prices are guesses.",
+     "corrected_view": "Skip the demo unit and use Petkit's own media. Order the litter box only against a paid deposit, and only after a written dealer price list and EU-plug supply are confirmed."
+    },
+    {
+     "niche": "Padel equipment",
+     "claim": "Sell online/COD and through 1-2 Tirana clubs; blended margin 9.8% at suggested prices.",
+     "problem": "Clubs that control the customer will ask for a commission or consignment (often 15-30%), which wipes out a 1-6% racket margin. The yearly model change also makes unsold rackets lose value fast.",
+     "corrected_view": "Model club sales with commission. Without distributor terms of at least 20% below the estimates, limit any padel test to overgrips and ball cartons."
+    },
+    {
+     "niche": "Premium baby gear",
+     "claim": "Low-regulation score of 5.",
+     "problem": "Infant carriers and bouncers carry real safety liability (EN 13209-2 / EN 12790, recall duties) for the importer, on top of a brand-gatekeeping problem. For a beginner this is a more serious exposure than padel or textiles.",
+     "corrected_view": "Score low_regulation at about 3-4 for a beginner and keep the niche at the bottom of the list unless Ergobaby offers a full dealer package."
+    }
+   ],
+   "advice_to_beginner": "Start with the host-linen idea, but run it the cautious way. For the next 6-8 weeks, spend no more than about EUR 200: order samples from 2-3 Turkish makers, wash and weigh them, compare them with Megateksa's towels and sheets, and take them to 15-20 hosts and property managers in Tirana and Durres. Place a first consignment of about EUR 1,000-1,200 only when at least 10 of them have committed (ideally with a deposit) at prices that still leave about 20% after courier costs. Time it for the February-May pre-season. Keep the rest of the budget as a reserve for VAT cash flow, an accountant and fiscal software, all of which you will almost certainly need from your first import. White cotton towels and sheets do not expire, break or need warranty repairs, and unsold stock can be sold at cost. That makes it the cheapest place to learn customs, EUR.1 certificates, VAT returns, fiscal invoices and COD. Do not import espresso machines, baby gear, matcha or padel rackets as a first business: each one combines thin or negative margins with warranty, licensing, perishability or obsolescence risks that turn a beginner's mistakes into real losses. Look at Petkit only later, and only with a written dealer price list in hand."
+  },
+  {
+   "advisor": "Albanian consumer and social-commerce marketer (demand among Albanian buyers, COD and trust, how well a product sells in short videos on Instagram/TikTok/Facebook, repeat purchases, competition from Temu, cross-border and Kosovo shops). Spot-checks run on 23 Nov 2026 with WebSearch. (1) No Albanian Instagram or online shop selling matcha whisk-and-bowl sets turned up, apart from the matcha-bar brands already in the dossier; Kusmi ceremonial 30 g now shows at 2,999 ALL on Baronesha/Wolt, not the dossier's 3,499. (2) No Albanian retailer of Ergobaby found. (3) No Albanian Petkit seller found, and no evidence that Trendyol ships to Albania. (4) No national count of padel courts or players exists: the FIP event drew about 20,000 spectators and left 4 courts at Lunder. (5) In US marketplace snapshots, generic 4-5 piece matcha tea-ware kits sell for USD 15-25, so the Temu equivalent will sit under the EUR 22 duty-free line.",
+   "ranking": [
+    {
+     "niche": "Starter kits for short-term-rental hosts (Turkish linen and towels plus lockboxes, B2B)",
+     "score": 52,
+     "verdict": "Best of a weak list, but only as a side business sold person to person to hosts and property managers. It is not a consumer social-media play. Pre-sell before ordering.",
+     "key_reasons": [
+      "The demand is measurable and does not depend on a trend: about 31.8k active listings growing about 15% a year, with Tirana +948 and Durres +681 new listings in 2025, and every new listing needs 2-3 linen sets. Hosts also replace linen every season, which gives natural repeat orders. No other niche on the list has repeat demand from both a growing customer base and wear and tear.",
+      "Trust is easier to win than in any consumer niche. Hosts touch samples, a property manager buying 10-20 sets is one sale instead of 20 COD gambles, and many of those buyers can pay by bank transfer or invoice, which avoids COD refusals.",
+      "It is easy to reach buyers cheaply: host Facebook groups, cleaning companies, property managers in Durres and Saranda, and the people who set up Airbnbs for diaspora owners. Before-and-after 'hotel bed in 5 minutes' reels and room makeovers work on Instagram and TikTok, but they bring in leads, not impulse COD orders.",
+      "It does NOT win on price. Megateksa is a big Albanian home and hotel-supply chain that already sells 500 gsm towels at 859/459 ALL in physical stores in Tirana and Durres. The premium has to come from visibly better quality (600 gsm, percale, consistent white, sizes that fit Albanian mattresses) and from convenience (a kit delivered the same week, invoiced, sizes matched to the apartment).",
+      "Lockboxes carry the margin, but hosts can buy them on Temu duty-free. Sell them bundled with the kit and installation, not on their own.",
+      "The timing is tight: hosts buy in February-May. If stock arrives in June, the cash sits idle until autumn."
+     ],
+     "must_check_before_buying": [
+      "Get 10-15 written or verbal pre-commitments from hosts or property managers, using samples priced at the planned kit price, before ordering. If fewer than 5 hosts agree at 17,500 ALL a kit, re-price or stop.",
+      "Get real Turkish quotes (Beyaz Nevresim, DENIB members) at 50-100 pieces per SKU, with EUR.1, at or below EUR 16 a bed set and EUR 4.60 a bath towel.",
+      "Ask the importer of each Turkish supplier whether the goods are actually woven in Turkey. Istanbul wholesalers often resell Pakistani towels and Chinese polyester sets.",
+      "Check Megateksa, Zara Home and any Turkish home-textile chains in Albanian malls in person: feel their 500 gsm towel and count real price points. Their online prices may be promotional.",
+      "Ask hosts how many are VAT-registered or invoice-based (this decides whether the business is really B2B), and whether they pay by bank transfer.",
+      "Get a Turkey-Tirana groupage quote; EUR 300 is unverified."
+     ]
+    },
+    {
+     "niche": "Matcha kits and tea-ware",
+     "score": 40,
+     "verdict": "Strongest consumer demand and the best fit for short videos, but the market is already crowded locally and the food licence makes it hard for a beginner. Test it only by selling tea-ware or partnering with someone, not by importing food first.",
+     "key_reasons": [
+      "Of all the niches, it sells best on Instagram and TikTok: whisking, the green colour, an aesthetic young Tirana audience, 'make your café latte at home for a third of the price'. Content is cheap to make and spreads easily.",
+      "It is the only niche with a consumable that people reorder (tins every 4-8 weeks), so lifetime value per customer is much higher than the dossier's one-sale model shows.",
+      "However, the rising queries ('matcha near me', 'how to make matcha latte') show people looking for cafés and drinking matcha, not buying ceremonial kits. Many young Albanian buyers drink it at a café for 500-660 ALL and never buy a 7,500 ALL kit.",
+      "The same Instagram customers are already served by Matchai Store, OhMyCha, Bloom and Kusmi at Baronesha (30 g at 2,999-3,500 ALL), and they have cafés where people taste and trust the product. An unknown seller with COD and no café has to beat them on content, not on price.",
+      "Temu caps the tea-ware price (generic 4-5 piece kits around USD 15-25, duty-free). A 'kit' only makes sense when sold with real Japanese matcha.",
+      "The AKU food licence (premises, technical director), Japanese origin at 15% duty and price shocks in the 2026 tencha harvest make the food side hard for someone with a day job.",
+      "It looks like a fad concentrated in Tirana; demand elsewhere is thin. Christmas and Valentine's gifting is the realistic window."
+     ],
+     "must_check_before_buying": [
+      "Ask AKU in writing which licence an online seller of pre-packed tea needs, and whether a home address is allowed. If premises and a technical director are required, drop food imports.",
+      "Do a 2-week content test before buying stock: post 6-10 reels with an Instagram link to a pre-order form or WhatsApp. Count real DMs and deposits, not likes.",
+      "Ask Matchai or OhMyCha about reseller or wholesale terms, or a collaboration, so you sell tea-ware next to their already-licensed matcha. Check the margin.",
+      "Check Temu Albania prices for chasen and bowl sets.",
+      "Decide on positioning: latte or everyday grade at 100 g (what the search queries show) versus ceremonial 30 g. Price both against OhMyCha's 100 g at 3,500 ALL."
+     ]
+    },
+    {
+     "niche": "Pet tech and premium pet accessories",
+     "score": 33,
+     "verdict": "Excellent video content and a real brand gap (Petkit, Catlink), but the paying audience is tiny and lookalikes on Temu set the price expectation. Worth a test only with a Petkit dealer price and demo-led selling.",
+     "key_reasons": [
+      "Videos are excellent: self-cleaning litter boxes, cats at fountains and feeders are proven viral formats, and Petkit's own content can be reused if dealer terms allow.",
+      "There is a real gap: no Albanian shop sells Petkit or Catlink (confirmed again; no evidence Trendyol ships to Albania). PetVille shows that 27,900-35,700 ALL PetSafe gadgets sell to someone.",
+      "But the buyers are a small slice of about 98k cats. Most Albanian cats live outdoors or semi-outdoors and many households keep cats without spending on gadgets. The real target is apartment owners in Tirana with indoor cats: probably a few thousand people.",
+      "Temu sells generic fountains and feeders for EUR 15-30 duty-free, and Albanian shoppers will compare a 9,900 ALL fountain with them in seconds. Only a brand story plus local warranty justifies the premium.",
+      "There are almost no repeat purchases apart from filters, the one consumable that tops up margin. Filter subscriptions could help.",
+      "High-ticket COD (a 64,900 ALL litter box) with view-before-pay and no local service centre is a trust problem. You need deposits and a demo unit people can see in Tirana."
+     ],
+     "must_check_before_buying": [
+      "Ask Petkit whether Albania is an open territory and for real dealer prices for EU-plug models. Without about 50-55% of EU retail, stop.",
+      "Ask the broker for a customs classification of the fountain (8413.81 at 0% vs 8509.80 at 10%).",
+      "Check that the Petkit app works with an Albanian account and region.",
+      "Check Temu Albania prices for fountains and feeders and position against them.",
+      "Gauge demand before ordering: post in Tirana cat groups and adoption pages (likes and DMs per post) and run a 50-100 EUR lead-ad test on the fountain."
+     ]
+    },
+    {
+     "niche": "Padel equipment",
+     "score": 20,
+     "verdict": "Pass as a main niche. The player base is tiny and centred on Tirana, smash.al is already at EU prices, and the clubs control the customer. At most, sell overgrips and balls to clubs as a sideline.",
+     "key_reasons": [
+      "Interest is real but tiny: perhaps 15-25 courts nationwide and a few hundred to low thousands of regular players. The 'padel tirana' search spike rode on the May 2026 FIP Platinum event (about 20,000 spectators) and will partly fade.",
+      "Players buy rackets where they play: from club pro shops, coaches, and abroad when travelling to Italy or Spain. An unknown Instagram seller with COD fits badly.",
+      "smash.al already sells Bullpadel, Head and Babolat at 6,500-13,300 ALL, which leaves no margin for a grey importer paying 15% duty.",
+      "Content works (racket reviews, club clips) but reaches the same small audience; ad costs per racket sale will rise fast once it is saturated.",
+      "Repeat purchases exist only in balls and overgrips, which are cheap, low-value items better sold through clubs than by courier."
+     ],
+     "must_check_before_buying": [
+      "Ask 2-3 Tirana clubs (Albania Padel Group, The Padel Republic, the federation centre in Lunder) for monthly player counts and whether they would stock your balls and grips on consignment.",
+      "Ask StarVie which models are made in Spain and whether it will issue an invoice origin declaration.",
+      "Find out whether smash.al holds Bullpadel exclusivity."
+     ]
+    },
+    {
+     "niche": "Premium baby gear (Ergobaby carriers and bouncers only)",
+     "score": 18,
+     "verdict": "Not for a beginner. Premium brands are already stocked locally, births are falling, and parents will not trust an unknown COD seller with baby safety. The Ergobaby gap only matters if Ergobaby appoints you as a dealer.",
+     "key_reasons": [
+      "Baby is one of the strongest Instagram categories in Albania (Panda Baby Shop 38K followers, Pink & Blue 27K), but those followers belong to trusted shops with showrooms. Parents buy safety-critical items from known stores or relatives abroad, not from a new page.",
+      "The births pool is small and shrinking: about 21-22.5k a year, and the premium segment is a fraction of that, mostly in Tirana.",
+      "No Albanian Ergobaby retailer was found (confirmed again), but carrier use is a niche habit next to strollers. Momcozy at 6,661-9,001 ALL and Temu cover the cheap end.",
+      "Items are bought once per child, so there is little repeat purchase. Gift registries and baby showers help Bee Kids, not a newcomer.",
+      "Grey import at retail prices loses money on every item modelled."
+     ],
+     "must_check_before_buying": [
+      "Ask Ergobaby Europe for a dealer account and Balkan territory terms. Without one, do not proceed.",
+      "Ask Bee Kids, Oh Baby and Panda whether they plan to stock Ergobaby; any of them could close the gap overnight.",
+      "Check GjirafaMall delivery to Albania and its prices."
+     ]
+    },
+    {
+     "niche": "Home espresso gear (prosumer Italian machines, grinders, accessories)",
+     "score": 12,
+     "verdict": "Pass. Albanian home-coffee demand is for capsules and DeLonghi automatics sold by Neptun; the prosumer audience is a few dozen people who already buy from EU shops.",
+     "key_reasons": [
+      "Albanian coffee culture is café-based: espresso costs 80-150 ALL at the café on every corner, so making café-quality espresso at home has a weak appeal. Home searches go to 'nespresso' (22.6) and DeLonghi, not prosumer brands ('gaggia' 0.1).",
+      "A 50,000+ ALL machine on COD from an unknown Instagram page is close to the worst trust case. Buyers want a showroom, a demo and local service.",
+      "Accessories are only bought by machine owners, and naturbohne.de and Ubuy.al already serve the few enthusiasts in lek.",
+      "Videos (latte art, a 'workflow' video) are attractive but bring likes rather than sales in this income bracket (average gross wage about EUR 1,000/month).",
+      "The only repeat item, coffee beans, is excluded (excise duty and food rules)."
+     ],
+     "must_check_before_buying": [
+      "If pursued at all: take 3-5 paid deposits for a machine before ordering anything.",
+      "Ask Eureka whether it would make you its first authorized Albanian dealer.",
+      "Find out whether the specialty cafes (The Back Room, Coffee Lab, Rubi) would sell or recommend gear, since they control the enthusiast audience."
+     ]
+    }
+   ],
+   "challenged_claims": [
+    {
+     "niche": "All niches",
+     "claim": "7% COD refusals is a realistic assumption in the standard margin model.",
+     "problem": "For a brand-new Instagram/TikTok seller in Albania selling impulse items under view-before-pay, 7% is optimistic. Social-ad COD orders in the Balkans commonly see 10-20% refusals or no-shows, higher for fragile ceramics, sized items and high-ticket goods where the buyer can inspect and change their mind at the door. Every niche's margin is overstated, and the thin-margin niches (espresso, padel, the matcha tin) flip negative first.",
+     "corrected_view": "Model 12-15% refusals for unknown-seller social COD, and 7% only for repeat customers or B2B orders confirmed by phone. Always phone-confirm orders before dispatch, and take deposits on anything over about 15,000 ALL."
+    },
+    {
+     "niche": "Matcha kits and tea-ware",
+     "claim": "Matcha has the highest Albanian Trends score (33.2), so the demand for kits is real.",
+     "problem": "'matcha' is a generic word (drink, flavour, colour, café names) while 'nespresso' and 'padel' are narrower, so the scores are not comparable. The rising queries ('matcha near me', 'how to make matcha latte') show café visits and drinking, not demand for 7,500 ALL ceremonial kits. Most of the volume is likely young people looking for a café.",
+     "corrected_view": "Treat 33.2 as evidence of drink popularity among young Tirana people, not of demand for kits. Validate with a pre-order or DM content test, and position around making a matcha latte at home (latte grade, 100 g, whisk plus frother) rather than tea ceremony."
+    },
+    {
+     "niche": "Matcha kits and tea-ware",
+     "claim": "A standalone 30 g tin loses money (-2.4%) and should not be a focus.",
+     "problem": "This applies only to a first purchase bought with ads. Matcha is the only consumable in the whole dossier: a repeat customer reordering through WhatsApp or Instagram DM costs no ad money, which makes the tin about +14% contribution, and kits are mainly a way to win customers who then reorder tins. The one-sale model undervalues the niche's main strength.",
+     "corrected_view": "Judge matcha on customer lifetime value: kit plus 2-4 tin reorders a year. It still faces the AKU licence and local competitors, but the repeat-purchase upside should raise it above pet and padel in a consumer ranking."
+    },
+    {
+     "niche": "Matcha kits and tea-ware",
+     "claim": "Local competitor pricing: Kusmi ceremonial 30 g at Baronesha costs 3,499 ALL.",
+     "problem": "A fresh search shows the same Wolt listing at 2,999 ALL (prices may vary by promotion). The price cap is lower than the dossier assumes, so the 3,300 ALL tin is above a well-known European brand on a popular delivery app.",
+     "corrected_view": "Assume the street price for a 30 g ceremonial tin is 3,000 ALL. A tin at 3,300 ALL needs a clear quality or origin story, or it should be sold only in kits or bundles."
+    },
+    {
+     "niche": "Starter kits for short-term-rental hosts",
+     "claim": "Selling via a COD courier with EUR 6 per kit order and a EUR 15 acquisition cost per kit.",
+     "problem": "A kit of 2 bed sets, 8 towels and a lockbox weighs roughly 5-7 kg, which is above the 1-2 kg published courier rate, especially for Saranda and Dhermi. In practice B2B kits are delivered in person or paid by bank transfer, and getting a host to buy takes samples, visits and phone calls; the EUR 15 assumes a beginner's unpaid time is free.",
+     "corrected_view": "For sales outside Tirana, model the courier at EUR 8-12 per kit, or deliver in person and price it in. The real cost is the seller's own time, which conflicts with a day job during the February-May peak. Budget EUR 100-150 for sample sets."
+    },
+    {
+     "niche": "Starter kits for short-term-rental hosts",
+     "claim": "All 280 units sell at premium prices for about EUR 1,270 contribution.",
+     "problem": "The same dossier says the market's average daily rate fell 3.1%, hosts are cost-cutting, and Megateksa sells similar towels for much less in physical stores. Selling 25 premium kits plus top-ups in one pre-season to strangers is optimistic for a first-year seller without a track record.",
+     "corrected_view": "Plan around the price-matched scenario (about EUR 500) as the base case, and treat the premium result as the upside that pre-commitments must prove. Halve the first order (25 bed sets, 100 towels, 15-20 lockboxes) unless 10+ hosts commit."
+    },
+    {
+     "niche": "Padel equipment",
+     "claim": "Padel is growing and searches are rising ('padel tirana' +80%).",
+     "problem": "Much of the 12-month rise falls in the window of the FIP Platinum event in Skanderbeg Square (May 2026, about 20,000 spectators), so it is largely event interest. Spectators are not racket buyers, and no national court or player count exists. Only about 4 club venues plus the federation's 4 courts at Lunder can be confirmed.",
+     "corrected_view": "Treat padel as a small group of a few hundred to low thousands of players around Tirana. Size demand by asking clubs for monthly active players, not from Trends."
+    },
+    {
+     "niche": "Pet tech and premium pet accessories",
+     "claim": "Ad cost per sale of EUR 12 for a 9,900 ALL Petkit fountain.",
+     "problem": "The audience who will buy (indoor-cat owners in apartments who will pay about 5x a Temu lookalike) is a small slice of 98k cats, many of which are outdoor or semi-outdoor. Targeting that narrow audience saturates fast, and Instagram comments will point to Temu. EUR 12 might hold for the first few dozen sales, but not as a steady rate.",
+     "corrected_view": "Model EUR 18-25 per fountain sale after the first month. With that, the fountain drops toward single-digit margin; the feeder and filter add-ons carry the business, and demo-based selling is needed."
+    },
+    {
+     "niche": "Premium baby gear",
+     "claim": "Ergobaby priced just under GjirafaMall (Kosovo) regular prices will sell on Instagram and Facebook with COD.",
+     "problem": "Baby buyers in Albania put trust and safety first and buy from shops with showrooms and a following (Panda 38K, Pink & Blue 27K, Bee Kids). A new page with no reviews selling a EUR 200-240 carrier on COD will convert poorly whatever the price, and the incumbents can add Ergobaby with one order.",
+     "corrected_view": "Demand for Ergobaby carriers from an unknown seller is unproven and probably small. The only realistic route is wholesale to existing baby shops if you get the distributorship, which is not a beginner retail play."
+    },
+    {
+     "niche": "Home espresso gear",
+     "claim": "Motta accessories (19-26% margin) are the positive segment and can be sold as add-ons with machines.",
+     "problem": "Add-ons need machines to attach to, and the dossier itself expects only 4 machines to sell over months. Standalone pitchers and tampers face Temu (duty-free under EUR 22) and Megateksa's 799-1,130 ALL alternatives, so they would not sell in volume on their own.",
+     "corrected_view": "Without a steady flow of machine sales, the accessories segment has no real sales volume; the whole niche should be dropped rather than rescued through accessories."
+    }
+   ],
+   "advice_to_beginner": "Do not import anything until someone in Albania has promised to buy it. Start with the short-term-rental host kit: it is the only idea here where demand can be counted (tens of thousands of listings, thousands of new ones a year), buyers come back every season, and you can win trust face to face with a sample instead of hoping a stranger accepts a COD parcel. Spend this winter, January-February, contacting Tirana and Durres hosts, cleaning companies and property managers through Facebook host groups with 2-3 sample sets. Price against Megateksa honestly (better weight and quality, plus convenience, not cheaper). Order a half-size Turkish consignment with an EUR.1 only after about 10 hosts commit. In parallel and for almost no money, run a 2-week Instagram/TikTok content test for matcha-latte-at-home and a Petkit fountain using pre-order or WhatsApp DMs. Matcha has the strongest social demand and the only built-in reorders, but do not import food until AKU confirms in writing which licence you need. Pet only makes sense with a real Petkit dealer price. Skip espresso, padel and baby gear for now: shops already sell those at EU prices, too few people buy them, and an unknown COD seller will not win their trust. Keep the day job, register for VAT and fiscal invoicing properly, phone-confirm every COD order, assume 12-15% refusals instead of 7%, and keep at least a third of the budget in reserve for ads and mistakes."
+  },
+  {
+   "advisor": "Skeptical CFO / unit-economics auditor. I re-ran every first order in python3 with the standard margin model and the dossier's own inputs. I then stress-tested each one: buy prices 15% higher for small orders, ad cost per sale 1.5x, 70% sell-through in a 6-month test, and about EUR 450 of 6-month overheads (accountant, fiscal-invoice software, packaging and samples) that no dossier included. I checked 17 duty rates against the WITS TRN API (Albania, MFN 2022) and spot-checked prices and the VAT rule on the web. All 17 rates match the dossier (630231 10%, 630260 0%, 090210 15%, 950659/950669 15%, 850980 10%, 841381 0%, 830140 15%, 851671/850940 10%, 732393 15%, 691200 15%, 441919 0%, 630790 0%, 871500 10%, 420100 15%, 940490 15%). The dossier's arithmetic is internally consistent: my base results come within EUR 10-40 of each dossier figure. Its weak points are the inputs, the price positioning, and the overheads it leaves out. Only the host-kit niche stays positive under my CFO stress case. Grounding: the Albanian VAT rule that importers register regardless of turnover is confirmed (Grant Thornton/PwC summaries), so the VAT-registered model is the right one. Petkit Eversweet 3 Pro sells at EUR 66-93 in EU shops (MediaMarkt BE EUR 69, billiger.de from EUR 66). Nox ML10 Pro Cup 2027 lists at EUR 149.95 at Padel Point and EUR 128.99 at Padelmarket.",
+   "ranking": [
+    {
+     "niche": "Starter kits for short-term-rental hosts (Turkish linen and towels plus lockboxes)",
+     "score": 52,
+     "verdict": "Best of a weak set, and the only niche that survives my stress test. Dossier base: EUR 1,229-1,270 contribution, about 29% if everything sells. Stress case (buy +15%, ads x1.5), all sold: EUR 786 (18.7%). CFO case (70% sold, minus EUR 450 overhead): about +EUR 100. With dossier inputs, 70% sold and overhead: +EUR 411. It is still conditional, because matching Megateksa's prices cuts it to about EUR 526 if everything sells, and that turns negative once stress and overheads are added.",
+     "key_reasons": [
+      "Duty claims verified on WITS: towels 6302.60 = 0% (so Turkey brings no advantage there), bed linen 6302.31 = 10% (0% only with EUR.1), lockboxes 8301.40 = 15%.",
+      "The highest ticket per order (EUR 195 kit) spreads the courier and acquisition cost: per-order costs are about 14% of net, compared with 25-40% in the other niches.",
+      "Demand is countable (about 31.8k active listings, +15% a year) and reachable directly (host groups, property managers), so there is less dependence on cold ads.",
+      "Per-shipment fixed costs (EUR 182 plus EUR 45 for the second China shipment) are about 15% of goods value, which is high but absorbable at these margins.",
+      "Even if an Istanbul wholesaler charges +30% with no EUR.1 (10% duty on linen), the kit contribution falls from about EUR 48 to about EUR 24.5 (about 15%), which is still positive."
+     ],
+     "must_check_before_buying": [
+      "Written EXW quotes and per-SKU MOQs from at least 2 Turkish suppliers at or below EUR 16 per double set / EUR 4.60 per bath towel / EUR 2.10 per hand towel, plus written confirmation that they are the manufacturer and will issue an EUR.1.",
+      "A real Turkey-Tirana groupage quote (dossier: EUR 300 for about 1 m3) and the Turkish export-document cost.",
+      "10-15 hosts or property managers committed (deposit or written order) at about 17,500 ALL per kit before paying the supplier, since the kit is about 15% above a comparable Megateksa + Gjirafa50 basket.",
+      "Fix the stock plan: 50 sets, 100 bath and 100 hand towels are fully used by 25 kits, so nothing is left for the 'single-item top-ups' the plan relies on.",
+      "Samples tested for GSM, shrinkage and colour-fastness before ordering; white-textile complaints are the main return driver."
+     ]
+    },
+    {
+     "niche": "Pet tech (Petkit fountains, feeders, litter box via dealer account)",
+     "score": 34,
+     "verdict": "Workable only on a confirmed Petkit dealer price, and only if Albanians will pay about 1.5x EU street price. Dossier base EUR 618 (21.6%). Stress, all sold: EUR 272 (9.5%), with the fountain at 2.3%. CFO case: -EUR 260. Dossier inputs with 70% sold and overhead: about -EUR 18.",
+     "key_reasons": [
+      "Duty verified: 8509.80 = 10%, 8413.81 = 0%. The fountain's classification is worth about EUR 4-5 a unit, so a binding opinion matters.",
+      "The pricing depends on a 1.5-1.6x mark-up over EU street: the Eversweet 3 Pro is EUR 66-75 at MediaMarkt/billiger.de, against 9,900 ALL (EUR 110) planned. PetVille's Catit Pixi at 7,150 ALL shows about 1.5x is possible locally, but Temu lookalikes at EUR 15-30 cap demand.",
+      "Freight looks understated: EUR 200 for 45-60 kg is unlikely if Petkit ships from China by air or express (often EUR 6-10/kg, so EUR 300-600). An extra EUR 200 of freight plus 10% duty on it cuts about EUR 220, taking base contribution to about EUR 400.",
+      "The fountain's margin is fragile: at a EUR 18 ad cost it is near 2%. The feeder (24%) and filter add-ons carry the order.",
+      "A tiny market (about 98k cats nationally) means slow sell-through, so the 70% case is realistic, not pessimistic."
+     ],
+     "must_check_before_buying": [
+      "Petkit dealer approval for Albania and the actual dealer price list (the dossier assumes EUR 40 / 53 / 320 / 7), plus where it ships from and the freight quote.",
+      "A broker or customs opinion on 8413.81 vs 8509.80 for the fountain and feeder.",
+      "EU-plug (type F) CE versions, and that the Petkit app works for Albanian accounts.",
+      "A small demand test (pre-orders or deposits on Instagram) at 9,900 / 13,900 ALL before stocking."
+     ]
+    },
+    {
+     "niche": "Premium baby gear (Ergobaby carriers and bouncers only)",
+     "score": 28,
+     "verdict": "The model holds only for the Omni Deluxe carrier and only with a direct dealer account. Dossier base EUR 479 (18.6%). Stress, all sold: EUR 146 (5.7%), with Embrace and Evolve at about 1% each. CFO case: -EUR 348. Dossier inputs with 70% sold and overhead: -EUR 115.",
+     "key_reasons": [
+      "Duty claims verified: 6307.90 = 0% (carriers), 8715.00 = 10% (strollers). The stroller rejection is correct.",
+      "Buy prices of about 48% of RRP incl. VAT (EUR 105 / 48 / 95) are first-tier dealer prices. A beginner buying through a Balkan sub-distributor will probably pay 10-25% more, which wipes out Embrace and Evolve.",
+      "The price ceiling is visible to buyers: GjirafaMall Kosovo sells the Omni Deluxe at EUR 221 on sale, and BabyBjorn and Momcozy sell locally from 6,661 ALL.",
+      "Only 17 units and a tiny, shrinking birth cohort (about 21-22.5k a year) put the whole result on 6 Omni sales."
+     ],
+     "must_check_before_buying": [
+      "A written dealer offer from Ergobaby Europe (or the name of the Western Balkans distributor) and confirmation that Albania is unassigned.",
+      "Whether Ergobaby honours warranty for an Albanian dealer.",
+      "A realistic ad cost per sale on a EUR 244 carrier (the model assumes EUR 20; at EUR 30 the Embrace and Evolve lose money)."
+     ]
+    },
+    {
+     "niche": "Matcha kits and tea-ware",
+     "score": 22,
+     "verdict": "Demand signal is the best in the list, but the money does not work for a beginner. The standalone tin loses money even in the base case (-2.3%). Stress, all sold: EUR 109 (3%), with the kit at 1.9%. CFO case: -EUR 374. Dossier inputs with 70% sold and overhead: -EUR 23, and that is before any AKU licence cost.",
+     "key_reasons": [
+      "Duty verified: 0902.10 = 15% and 6912.00 = 15% on Japanese tea and Chinese ceramics. There is no route to preferential duty.",
+      "Two shipments plus an AKU contingency cost about EUR 310 in fixed costs on EUR 1,244 of goods (about 25%). This is the heaviest fixed-cost load of any niche.",
+      "The EUR 12 buy price for 30 g ceremonial looks optimistic after the dossier's own note that 2026 tencha prices are 1.7-2.3x the 2025 level. At EUR 15 the kit margin falls by about 4-5 points.",
+      "The AKU licence (premises plus a technical director under II.1.A) is not costed. A technical-director contract alone could cost more than the whole EUR 610 contribution.",
+      "Local competitors (Matchai, OhMyCha, Kusmi) cap the tin at 3,000-3,500 ALL, which is exactly the price at which it loses money."
+     ],
+     "must_check_before_buying": [
+      "A written answer from AKU on which licence an online seller of pre-packed tea needs, and its cost (premises, technical director).",
+      "Kyosun or Moya B2B prices after registration, at 2026 harvest prices, and whether they ship to Albania with lab certificates.",
+      "Sourcing the tea-ware from the same EU supplier to cut to one declaration (it still pays 15% on Chinese ceramics)."
+     ]
+    },
+    {
+     "niche": "Padel equipment",
+     "score": 14,
+     "verdict": "Thin to negative. Base EUR 269 (9.8%) depends on prices 11-24% above EU street, not the stated 'about 10%'. Stress, all sold: -EUR 113 (-4.1%), with every racket negative. CFO case: -EUR 529.",
+     "key_reasons": [
+      "Duty verified: 9506.59 / 9506.69 = 15%. Only Spanish-made StarVie with origin proof escapes it.",
+      "Rackets earn 1-6% in the base case; the overgrip and ball add-ons carry the profit.",
+      "smash.al already sells branded rackets at 7,995-13,300 ALL. Nox ML10 Pro Cup lists at EUR 128.99-149.95 in EU shops, so a micro-buyer's EUR 78 estimate needs real distributor terms.",
+      "Annual model turnover makes unsold rackets lose value quickly."
+     ],
+     "must_check_before_buying": [
+      "A written distributor quote close to the dossier's 'good terms' (EUR 80 / 62 / 36).",
+      "Factory origin per StarVie model and its willingness to make the invoice origin declaration.",
+      "A pro-shop or consignment agreement with a Tirana club before buying any rackets."
+     ]
+    },
+    {
+     "niche": "Home espresso gear (Italian machines, grinders, accessories)",
+     "score": 7,
+     "verdict": "Refuted. Base EUR 175 (7.1%) depends on a Gaggia priced 33% above EU retail. Eureka is negative even in the base case. Stress, all sold: -EUR 143. CFO case: -EUR 550, the worst result in the set.",
+     "key_reasons": [
+      "Duty verified: 8516.71 / 8509.40 = 10% and 7323.93 = 15% without EUR.1, so origin proof is essential.",
+      "Scenario B's Gaggia price of 54,900 ALL = EUR 611, which is 33% above the EUR 459 EU retail, not the '15-20%' the summary claims. Enthusiasts with naturbohne.de and Espresso Coffee Shop showing lek prices will not pay that.",
+      "A EUR 30-35 ad cost per sale on a EUR 450+ machine from an unknown COD seller is probably low. At 1.5x, both machines go to -9% / -15%.",
+      "Demand is close to zero ('gaggia' 0.1 in Trends), so 4 machines may not sell within the test, and warranty liability sits with the beginner."
+     ],
+     "must_check_before_buying": [
+      "Do not buy machine stock. If pursued at all: pre-orders with deposits, plus Italian-made Motta accessories as a side line with a confirmed EUR.1."
+     ]
+    }
+   ],
+   "challenged_claims": [
+    {
+     "niche": "Home espresso gear",
+     "claim": "'Even priced 15-20% above EU retail it makes only about EUR 167, or 7%.'",
+     "problem": "Scenario B prices the Gaggia at 54,900 ALL = EUR 611 against EUR 459 EU retail, which is +33%. Only the Eureka (44,900 ALL = EUR 500 vs 419) is about +19%. The positive result depends on an implausible machine premium.",
+     "corrected_view": "At a believable +15% Gaggia price (about 47,000-48,000 ALL) the machine loses money, and the order is about EUR -150 to -250 if everything sells. Under my stress test it is -EUR 143 even at the dossier's premium prices."
+    },
+    {
+     "niche": "Padel equipment",
+     "claim": "'Suggested prices about 10% above EU street' produce EUR 269 profit.",
+     "problem": "15,900 / 14,900 / 8,900 ALL = EUR 177 / 166 / 99 against EUR 145 / 149.95 / 79.95 is +22%, +11% and +24%, against a local specialist (smash.al) already at or below EU street price.",
+     "corrected_view": "At true EU-street prices the order is about break-even (EUR 2). With buy +15% and ad cost x1.5 it is -EUR 113. Treat padel as overgrips and balls sold to clubs only."
+    },
+    {
+     "niche": "Pet tech",
+     "claim": "Freight EUR 200 for the Petkit shipment (about 45-60 kg / 0.4 m3).",
+     "problem": "Petkit's dealer programme ships from China (and adds a 10% delivery charge on orders under US$1,000). Express or air for that weight is more likely EUR 300-600. The extra freight also pays 10% duty.",
+     "corrected_view": "Budget EUR 400 freight. Contribution falls from about EUR 618 to about EUR 400 (about 14%), and the fountain line is near zero."
+    },
+    {
+     "niche": "Pet tech",
+     "claim": "'At PetVille-level prices (about 1.3-1.5x EU retail)' the fountain earns 16%.",
+     "problem": "EU street price for the Eversweet 3 Pro is EUR 66-75 (MediaMarkt BE 69, billiger.de from 66), so 9,900 ALL (EUR 110) is 1.5-1.65x. The fountain's 16% needs the top of that range and only a EUR 12 ad cost; its break-even ad cost of about EUR 27 leaves little room.",
+     "corrected_view": "Treat the fountain as a low-margin traffic item (about 2% under stress) and the feeder plus filters as the profit lines."
+    },
+    {
+     "niche": "Matcha kits",
+     "claim": "First batch earns about EUR 609 (16.6%) on EUR 2,182 cash.",
+     "problem": "It leaves out the AKU licence cost (premises, technical director), uses a EUR 12 tin price that predates the 2026 tencha price rise, and carries about 25% fixed per-shipment cost from splitting into two shipments. Under modest stress the profit falls to about EUR 109 (3%).",
+     "corrected_view": "About EUR 0-100 realistic contribution before licence costs, and negative after them. Not viable unless AKU confirms a cost-free registration route."
+    },
+    {
+     "niche": "Starter kits for STR hosts",
+     "claim": "Sell 25 kits 'with single items for top-ups'; the lockbox item margin is 51.3%.",
+     "problem": "50 sets / 100 bath / 100 hand towels divide exactly into 25 kits (2/4/4), so no linen or towels are left for top-ups; only 5 lockboxes are spare. A lockbox sold alone with courier (EUR 6) and ad (EUR 5) earns about 22%, not 51%. The 51% applies only inside a kit.",
+     "corrected_view": "All-sold contribution is about EUR 1,229 (my run) vs EUR 1,270. Add 10-20% extra towel and linen stock if top-ups are part of the plan."
+    },
+    {
+     "niche": "Premium baby gear",
+     "claim": "Ergobaby buy prices of EUR 105 / 48 / 95 (about 45-48% of RRP) give 18.6% contribution.",
+     "problem": "Those are first-tier dealer prices. A beginner is more likely to get a regional sub-distributor price, which is 10-25% higher. At +15%, the Embrace and Evolve fall to about 1% and the order to EUR 146.",
+     "corrected_view": "Only the Omni Deluxe has headroom. Order only the Omni (plus a few Embrace) after a written dealer price."
+    },
+    {
+     "niche": "All niches (cross-cutting)",
+     "claim": "'Est. profit if all sold' is the decision number.",
+     "problem": "Every dossier assumes 100% sell-through and leaves out recurring overheads that are mandatory for a VAT-registered importer (accountant, fiscal-invoicing software, packaging, samples): about EUR 450 over a 6-month test. COD refusals at 7% may also be low for a new, unbranded Instagram shop. Import VAT (EUR 300-370) is recovered only against future output VAT, and cash refunds of excess credit in Albania are slow, so treat it as cash locked up.",
+     "corrected_view": "With dossier inputs, 70% sell-through and EUR 450 overhead: hosts +EUR 411; pet -EUR 18; matcha -EUR 23; baby -EUR 115; padel -EUR 262; espresso -EUR 328. Only hosts clears zero."
+    },
+    {
+     "niche": "All niches (VAT basis)",
+     "claim": "'Importers may have to register for VAT regardless of turnover - confirm.'",
+     "problem": "Not an error but still open. Published summaries (Grant Thornton/PwC) say persons doing import or export activity must register regardless of turnover, while the tax authority's page also mentions an older ALL 5m threshold.",
+     "corrected_view": "Plan as VAT-registered from day one (the standard model is right). That brings monthly returns and accounting costs, which should be counted as overhead."
+    }
+   ],
+   "advice_to_beginner": "I checked every duty rate in the dossier against official World Bank tariff data and found no errors. The real problems are optimistic buying prices, ad costs and selling prices, plus about EUR 450 of running costs over six months that none of the plans include: an accountant, invoicing software and packaging, which you must pay as a VAT-registered importer. Once I add those and assume 70% of the stock sells in six months, only the Airbnb host kits stay in profit. So do not start with espresso machines, padel rackets or matcha. If you want to try something, make it the host kits, and in this order. First, get written prices from two Turkish factories that can provide an EUR.1 origin certificate, plus a real freight quote. Second, collect deposits from 10-15 hosts or property managers at about 17,500 ALL per kit before you pay any supplier. Third, order in January-February so the stock is there for the spring season. Keep everything else to one shipment and under about EUR 1,500 of goods. Pet gadgets (Petkit) are only worth a second step if Petkit approves you as a dealer and its price list matches the estimates. Whatever you do, judge each order on the money you actually have back after six months, not on the profit if everything sells."
+  }
+ ]
+}
