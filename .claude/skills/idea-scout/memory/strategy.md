@@ -1,13 +1,13 @@
 # Idea sources (self-updated each run)
 
 Yield = ideas scoring ≥ 50 ÷ times used (a use = one run that drew ideas from the source). Drop at 0 after 3 uses.
-Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in run 3, 8 of 9 in run 4, 7 of 8 in run 5). Rule 4 says to compare with host kits ≈ 78 for real quality.
+Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in run 3, 8 of 9 in run 4, 7 of 8 in run 5, 8 of 9 in run 6). Rule 4 says to compare with host kits ≈ 78 for real quality.
 
 ## Sources
 
 | Source | Uses | Ideas ≥ 50 | Yield | Notes |
 |---|---|---|---|---|
-| Albanian demand drivers (tourism, construction, outages, EVs, water, diaspora, cafés, cars) | 5 | 5 | 1.0 | run 1: scrubs via dental tourism (67), school uniforms (45, no demand); run 2: interior doors via building permits (68), raki stills (45, no data, legal risk); run 3: glamping bell tents (71; Booking lists 44 glamping sites); run 4: wood pellets for winter heating (45, no demand data, imports tiny); run 5: electric bear fences (66; PPNEA gives fences away), boat fenders/mooring lines (64; no boat count) |
+| Albanian demand drivers (tourism, construction, outages, EVs, water, diaspora, cafés, cars) | 6 | 6 | 1.0 | run 1: scrubs via dental tourism (67), school uniforms (45, no demand); run 2: interior doors via building permits (68), raki stills (45, no data, legal risk); run 3: glamping bell tents (71; Booking lists 44 glamping sites); run 4: wood pellets for winter heating (45, no demand data, imports tiny); run 5: electric bear fences (66; PPNEA gives fences away), boat fenders/mooring lines (64; no boat count); run 6: child car seats for rental fleets (66; Free2Move counts 400+ agencies; gap available at Megateksa) |
 | Trendyol best-sellers / "çok satanlar" in home, HoReCa, auto, textiles | 1 | 0 | 0.0 | run 2: washable rugs (42; Megateksa and Temu already sell them). B2C best-sellers tend to be Temu items: look in Trendyol's B2B/HoReCa categories instead |
 | Skroutz.gr best-sellers and category growth | 1 | 1 | 1.0 | run 5: Cloudflare blocks curl ("Just a moment..."), so reach Skroutz only through WebSearch snippets. Its professional listings (Brita Purity C1000 coffee-machine filters) fed I-069 café filters (74, shared with buyer problems) |
 | Amazon.it best-sellers (Casa e cucina, Auto, Fai da te) | 0 | 0 | – | seed |
@@ -16,17 +16,18 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 | Turkish exporter associations and trade fairs (DENIB, İTKİB, Zuchex, Evteks, Hotel Equipment fairs) | 1 | 1 | 1.0 | run 5: HOSTECH by TUSID (next 10-14 Nov 2026) → buffet chafing dishes (64; one-off hotel fit-outs, 15% MFN without EUR.1). Exhibitor lists are not indexed: pick products the fair covers, then check Albanian demand |
 | Success-stories playbook and stories (what small sellers succeeded with) | 1 | 1 | 1.0 | run 3: custom football kits from S-023 (71); FSHF gives clubs free equipment, so check for free/state supply |
 | Albanian business news (Monitor.al, Euronews Albania, AIDA export brochures) on new demand | 2 | 2 | 1.0 | run 4: MAP herb-export sacks (78, AIDA Biofach 2026: >EUR 60m, 40-50 exporters), takeaway containers via Wolt growth (75). AIDA fair brochures also name exporters (Fragoland); run 5: bakery trays (45, no bakery count found) |
-| Buyer problems: host, café, builder, car-wash, barber Facebook groups and forums | 4 | 4 | 1.0 | run 1: paper cups (72), barber supplies (64); run 2: wedding venues (63), gyms (45, no data); run 3: pastry boxes (45, no pastry-shop count); forums not reached, only web search. Needs a buyer count (INSTAT enterprises by NACE) to pass rule 5; run 5: café water-filter cartridges (74; INSTAT SBS 17,742 food-service firms) |
+| Buyer problems: host, café, builder, car-wash, barber Facebook groups and forums | 5 | 5 | 1.0 | run 1: paper cups (72), barber supplies (64); run 2: wedding venues (63), gyms (45, no data); run 3: pastry boxes (45, no pastry-shop count); forums not reached, only web search. Needs a buyer count (INSTAT enterprises by NACE) to pass rule 5; run 5: café water-filter cartridges (74; INSTAT SBS 17,742 food-service firms); run 6: dental disposables (71; only directory counts), tyre-shop consumables (45; no tyre-shop count, Würth sells weights) |
 | Adjacent products for host-kit buyers (same Turkish supplier, same pallet) | 2 | 3 | 1.5 | run 1: bathrobes/slippers (72), table linen (63); run 2: peshtemal for beach clubs (74) |
-| INSTAT agriculture and livestock statistics (olives, bees, fruit, livestock, greenhouses) | 5 | 12 | 2.4 | run 1: beekeeping (79), olive harvesters (68); run 2: glass jars (81, now 73), winemaking (74, now 66), milking (66, now 58); run 3: crates (78), greenhouse film (75), drip tape (75), pruning shears (70, now 62); run 4: berry punnets (83), anti-hail nets (56); run 5: egg trays (75; hens -8.3%, rule 10). Best source: also look at the producers' consumables (packaging, spares) |
-| INSTAT building permits (quarterly) + public tender specs (openprocurement.al) | 2 | 2 | 1.0 | run 2: interior doors (68); run 4: scaffold netting (78; tender specs require netting on all scaffolding) |
-| Follow-on consumables for shortlisted producer niches (what the same buyers buy every season) | 4 | 6 | 1.5 | run 2: honey/olive-oil jars from I-036 (81, now 73); run 3: wine corks and capsules from I-038 (77, now 69); run 4: cheese moulds/shrink bags from I-039 (84), tomato clips/twine from I-048 (74); run 5: mulch film/groundcover from I-060/I-048 (76), peat and seedling trays for nurseries (73) |
+| INSTAT agriculture and livestock statistics (olives, bees, fruit, livestock, greenhouses) | 6 | 14 | 2.3 | run 1: beekeeping (79), olive harvesters (68); run 2: glass jars (81, now 73), winemaking (74, now 66), milking (66, now 58); run 3: crates (78), greenhouse film (75), drip tape (75), pruning shears (70, now 62); run 4: berry punnets (83), anti-hail nets (56); run 5: egg trays (75; hens -8.3%, rule 10); run 6: olive-mill filters and press mats (74; 480 processing lines, Olive Oil Times), apple trays (74; fruit output -12.8%, rule 10). Best source: also look at the producers' consumables (packaging, spares) |
+| INSTAT building permits (quarterly) + public tender specs (openprocurement.al) | 3 | 3 | 1.0 | run 2: interior doors (68); run 4: scaffold netting (78; tender specs require netting on all scaffolding); run 6: formwork plywood (73; Megateksa sells Dakota panels, big builders import direct) |
+| Follow-on consumables for shortlisted producer niches (what the same buyers buy every season) | 5 | 8 | 1.6 | run 2: honey/olive-oil jars from I-036 (81, now 73); run 3: wine corks and capsules from I-038 (77, now 69); run 4: cheese moulds/shrink bags from I-039 (84), tomato clips/twine from I-048 (74); run 5: mulch film/groundcover from I-060/I-048 (76), peat and seedling trays for nurseries (73); run 6: tinplate olive-oil cans (75) and bag-in-box (75) for olive-oil and wine producers |
 | INSTAT / Eurydice education statistics (private kindergartens and schools) | 1 | 1 | 1.0 | new run 3: kindergarten furniture (62; 9,045 private pre-school pupils). One-off fit-outs score low on buyers |
 | opencorporates.al registry extracts (local makers/traders by activity text) | 2 | 0 | – | new run 3: a competition check, not an idea source. Found a local greenhouse-plastic and crate moulder that web shops missed. PDFs return HTML to curl, so read them through WebSearch snippets. Run 4: found plastics firms only (Albplast, Pol-Fer) |
-| INSTAT fishery statistics | 1 | 1 | 1.0 | new run 4: fishing nets (72; 854 licensed fishing entities 2025). Small buyer base |
+| INSTAT fishery statistics + Eurofish aquaculture reports (eurofish.dk, Harvard Growth Lab) | 2 | 2 | 1.0 | new run 4: fishing nets (72; 854 licensed fishing entities 2025). Small buyer base; run 6: mussel socks for ~25 Butrint farms (71; rule 18) |
 | Megateksa catalogue search via curl (competition check, not an idea source) | 1 | – | – | new run 4: `curl -sL "https://megateksa.com/en/catalogsearch/result/?q=<kw>" \| grep -o -E '"item_name":"[^"]*","item_id":"[0-9]+","price":[0-9.]+'` returns names and ALL prices (product URLs in the same page). Found corks, capsules, presses, oil bottles, jars, milkers, loppers, hail nets, plant clips, fishing nets: 5 scores cut. Use English keywords; Albanian words return little |
 
 | Middle-class consumer goods (EU brands for B2C households; owner request) | 1 | 0 | 0.0 | manual update 2026-11-24: 8 ideas (toys, pet food, cookware, backpacks, camping, cosmetics, organic food, baby food), all capped at 45 by rule 5 (no Albania demand data) and mostly 'available' (Rossmann & Lala, JYSK, Wolt pet shops). B2C one-off buys score low on buyers; only revisit with Trends or sales data |
+| Würth Albania e-shop search (competition check, not an idea source) | 1 | – | – | new run 6: `curl -sL "https://eshop.wurth.al/search?search=<albanian kw>" \| sed 's/<[^>]*>//g'` lists workshop and trade consumables (found adhesive wheel weights that web searches missed). Prices sit behind a B2B login. Use Albanian keywords ("balancim", "valvol") |
 | Government visit pages (kryeministria.al/en "Prime Minister visits ...") for named producers and their output | 1 | – | – | new run 5: a demand-evidence source, not an idea source. Lisar Seedlings: 15m seedlings/yr. curl is blocked (Incapsula), so read through WebSearch snippets |
 
 ## Search queries
@@ -75,6 +76,15 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 | "gardh elektrik bagëti ariu koshere" / "Albania bear attacks beehives" | 1 | 1 | no seller; PPNEA installs fences for free (rule 12) |
 | "Albania eggs production 2025 INSTAT" / "tabaka veze karton shumice" | 1 | 1 | INSTAT: 837m eggs, hens -8.3%; only carton firms in registry |
 | "Albania cafés per capita INSTAT" / "BWT water Albania distributor" | 1 | 1 | INSTAT SBS 2024: 17,742 food-service firms; no BWT dealer found; Albafilters |
+| "Albania olive oil mills number" / "pëlhurë filtri fabrika vaji" / "Pieralisi Albania dealer" | 1 | 1 | Olive Oil Times: 480 processing lines (2022), 160 new; no Albanian Pieralisi dealer or filter seller indexed |
+| "bidona teneqe vaj ulliri 5 litra shumicë" / "ambalazhe metalike teneqe" | 1 | 1 | no can seller or maker found |
+| "bag in box verë vaj ulliri furnizues" / "bag in box Albania wine" | 1 | 1 | only foreign fillers on machineseeker.al |
+| "kompensatë kallëpi beton" / "Doka PERI Ulma Albania" | 1 | 1 | no plywood price indexed; Ales Construction runs 20,000 m of shuttering; Megateksa Dakota panels |
+| "Albania mussel farming Butrint producers" | 1 | 1 | Growth Lab: ~25 approved farmers; EU export ban; 2019 die-offs |
+| "pesha balancimi gomash furnizim" / Würth e-shop "balancim" | 1 | 1 | Würth Albania sells adhesive weights; no tyre-shop count |
+| "materiale stomatologjike Tiranë" / "Albania dental clinics number" | 1 | 1 | only clinic directories (WhatClinic 109 clinics); Delta Dent unverified |
+| "Korçë mollë paketim" / "apple trays Albania supplier" | 1 | 1 | INSTAT fruit -12.8% (2025); Tirana Times below-cost apple prices |
+| "Albania car rental companies number" / "karrige fëmijësh rent a car" | 1 | 1 | Free2Move 400+ agencies; no child-seat law text found |
 | "aksesorë detarë varka parabordo Durrës Vlorë" | 1 | 1 | AVS Global chandlery, Marine Pro Albania (registry) |
 | "pajisje hotelerie bufe chafing dish Tirane" / "HOSTECH by TUSID" | 1 | 1 | Services HORECA sh.p.k.; Durres chamber HoReCa equipment firm |
 | "tava furre perforuar ... Tiranë" / "Albania bakeries number INSTAT" | 1 | 1 | no pro-tray seller; no bakery count |
@@ -123,3 +133,9 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 17. If the biggest buyers in a niche can import full trucks themselves (large nurseries, exporters, chains), give at
     most 10 buyer points and name the smaller tier a beginner would serve. A beginner cannot undercut a buyer's own
     direct import. (run 5)
+18. If a niche has fewer than ~50 identifiable buyers (e.g. ~25 Butrint mussel farms), give at most 8 buyer points and
+    estimate the total yearly spend in `note`. A tiny market cannot carry a business, even with repeat orders; treat it as
+    a side line to a bigger niche with the same supplier. (run 6)
+19. For workshop and trade consumables (tyre shops, garages, builders, joiners), add a Würth Albania e-shop search
+    (see Sources) to the 3 competition searches. Würth already sells these through sales reps, so a hit makes the gap
+    "available". In run 6 it found wheel weights that Albanian web searches missed. (run 6)
