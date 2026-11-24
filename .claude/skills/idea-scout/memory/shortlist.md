@@ -1,6 +1,6 @@
 # Idea shortlist
 
-Updated: run 5, 2026-11-24 18:59 UTC. Benchmark: **host starter kits, advisor score 54** (researched).
+Updated: run 5, 2026-11-24 18:59 UTC; manual backlog update on owner request, 2026-11-24 (middle-class consumer ideas, see below; top 10 unchanged). Benchmark: **host starter kits, advisor score 54** (researched).
 Scores below are rubric quick screens, not advisor scores. **Scored on the same rubric, host kits ≈ 78**
 (learned rule 4). Three open ideas still score above that level: cheese moulds and shrink bags (84), berry punnets (83)
 and beekeeping equipment (79). **All three have unverified gaps**, so under rule 15 they beat host kits "on paper"
@@ -33,7 +33,8 @@ I-047 wine corks (69), I-035 olive harvesters (68), I-044 interior doors (68), I
 I-067 electric bear fences (66), I-031 barber textiles (64), I-070 boat fenders and mooring lines (64),
 I-071 buffet chafing dishes (64), I-033 table linen (63), I-043 wedding venues (63), I-051 pruning shears (62),
 I-054 kindergarten furniture (62), I-039 milking machines (58), I-057 anti-hail nets (56); new (capped at 45 or below):
-I-037, I-045, I-046, I-052, I-063, I-072 bakery trays (45), I-042 (42).
+I-029, I-037, I-045, I-046, I-052, I-063, I-072, I-074, I-075, I-076 (45), I-078 (44), I-042 (42), I-077 (40), I-073 (37),
+I-079 (35).
 
 ## New this run
 
@@ -49,6 +50,20 @@ no Albanian bakery count). None rejected. None scores above ~78.
   direct.
 - I-067 electric bear fences (66): PPNEA installs fences for free (rule 12). Could go with beekeeping.
 - I-070 boat fenders and mooring lines (64) and I-071 Turkish buffet chafing dishes (64): one-off or poorly counted demand.
+
+## Manual backlog update (owner request, 2026-11-24): middle-class consumer goods
+
+Added from an owner-requested research note on EU-brand consumer products for middle-class households. Not a scouting
+run. Every idea lacks Albania-specific demand evidence (no Trends, no stats), so rule 5 caps all at 45 and none is
+shortlisted. Gaps marked "scarce" rest on fewer than 3 searches (unverified). None enters the top 10.
+- Updated I-029 EU educational toys and board games (Ravensburger, HABA, Djeco): brainstormed → new, 45 (rubric 53, capped).
+- Updated I-017 Turkish home goods (researched, 44): IKEA-style storage folded in (JYSK 6 stores, Ubuy, Megatek); verdict unchanged.
+- Cross-reference notes added to I-004, I-008, I-009; their verdicts are unchanged.
+- New: I-074 premium EU pet food (45, rubric 49), I-075 German cookware and knives as gifts (45, rubric 54),
+  I-076 German ergonomic school backpacks (45), I-078 dm-brand cosmetics (44), I-077 family camping gear (40),
+  I-073 German/EU organic food and supplements webshop, Biogermanstore model (37; do not copy as a generalist),
+  I-079 organic baby food and nappies (35).
+- Next step if any is pursued: Google Trends for Albania and 3 competition searches each, starting with I-075 and I-029.
 
 ## Changed this run
 

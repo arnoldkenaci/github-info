@@ -26,6 +26,7 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 | INSTAT fishery statistics | 1 | 1 | 1.0 | new run 4: fishing nets (72; 854 licensed fishing entities 2025). Small buyer base |
 | Megateksa catalogue search via curl (competition check, not an idea source) | 1 | – | – | new run 4: `curl -sL "https://megateksa.com/en/catalogsearch/result/?q=<kw>" \| grep -o -E '"item_name":"[^"]*","item_id":"[0-9]+","price":[0-9.]+'` returns names and ALL prices (product URLs in the same page). Found corks, capsules, presses, oil bottles, jars, milkers, loppers, hail nets, plant clips, fishing nets: 5 scores cut. Use English keywords; Albanian words return little |
 
+| Middle-class consumer goods (EU brands for B2C households; owner request) | 1 | 0 | 0.0 | manual update 2026-11-24: 8 ideas (toys, pet food, cookware, backpacks, camping, cosmetics, organic food, baby food), all capped at 45 by rule 5 (no Albania demand data) and mostly 'available' (Rossmann & Lala, JYSK, Wolt pet shops). B2C one-off buys score low on buyers; only revisit with Trends or sales data |
 | Government visit pages (kryeministria.al/en "Prime Minister visits ...") for named producers and their output | 1 | – | – | new run 5: a demand-evidence source, not an idea source. Lisar Seedlings: 15m seedlings/yr. curl is blocked (Incapsula), so read through WebSearch snippets |
 
 ## Search queries
