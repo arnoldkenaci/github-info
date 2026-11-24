@@ -1,0 +1,1673 @@
+{
+ "research": [
+  {
+   "niche": "Compressor dehumidifiers and home-humidity products (dehumidifiers 10-20 L/day, hygrometers, moisture absorbers) for damp coastal and new-build flats",
+   "summary": "Not recommended. Damp flats are a real problem in Albania, but the earlier scan was wrong to call this market thin. Neptun alone lists 10 compressor dehumidifiers (Beko, Ariston, De'Longhi, Rowenta, Philips) from 12,999 ALL (EUR 145). Megatek lists about 13 (Haier, Argo, Irradio, Ariston, Niklas, Alpina), Shpresa sells a Xiaomi 13 L for 17,990 ALL, and Gjirafa50 and Supermart also stock them, so a 16 L unit already sells for about EUR 190-200 with instalment plans. Duty is not the problem: dehumidifiers fall under HS 8479.89, which is 0% MFN in Albania, so Chinese-made units pay no duty. The problem is the numbers. A small buyer lands a 16 L unit at about EUR 125-142, and after courier, ads, COD refusals and a warranty reserve, the planned first order loses about EUR 170 even if everything sells. The stress test comes out at about -EUR 570, and the best all-B2B case is still about -EUR 175 to -250. It clearly loses to the host-kit benchmark (stress test about +EUR 100, advisor average 54), and the most useful part of it is a small add-on to the host kit rather than a business of its own: an auto-restart dehumidifier plus hygrometer for property managers' empty winter flats, bought only against paid orders.",
+   "demand_evidence": [
+    "Neptun lists 10 compressor dehumidifiers in its 'Thithes Lageshtire' category, one of them (Beko BDP020) added on 2026-10-23, which suggests the big retailers see seasonal demand: https://neptun.al/Thithes_Lageshtire1.nspx",
+    "Megatek search returns about 14 dehumidifier products, about 12 of them compressor units from 10-20 L/day: https://www.megateksa.com/en/catalogsearch/result/?q=dehumidifier",
+    "Gjirafa50 lists 9-13 passive moisture absorbers and refills (Wenko, Pattex/Henkel Aero 360, Ceresit, Soudal) at 550-3,150 ALL, many marked 'E shitur' (sold), which shows steady low-ticket demand: https://gjirafa50.al/search?q=thith%C3%ABs+lag%C3%ABshtie",
+    "Telegrafi publishes repeated how-to articles on household mould, condensation and damp, so the topic has an Albanian-language audience: https://telegrafi.com/si-te-hiqni-mykun-nga-muret-tete-hapa/ , https://telegrafi.com/disa-shenja-qe-tregojne-se-lageshtia-ka-hyre-ne-shtepine-tuaj/ , https://telegrafi.com/a-ju-lagen-dritaret-sapo-te-ftohet-moti-ky-truk-kunder-kondensimit-vertet-funksionon/",
+    "A Durres property-investment guide names coastal-humidity maintenance and winter vacancy among the main costs for rental flats there, which supports a B2B angle with property managers: https://investropa.com/blogs/news/durres-buy-rent-out",
+    "Google Trends, Albania, 'today 12-m' (the tool returned only the last 7 weeks): 'dehumidifier' scored 0 in Oct 2026, then 4, 14 and 14 in Nov 2026, top query 'how to choose a dehumidifier' (+450%). 'lageshtia' and 'myk' show single spikes (100) in mid-Nov. Search volume is very low and seasonal.",
+    "Ubuy.al resells imported Meaco and FreAire units (52,442 and 32,550 ALL), so there is a small premium import niche: https://www.ubuy.al/it/productuk/MBS3XBKTS-meacodry-arete-two-10l"
+   ],
+   "local_competition_level": "saturated",
+   "local_sellers": [
+    "Neptun, Thithes Lageshtire category (https://neptun.al/Thithes_Lageshtire1.nspx), sale price / regular price in ALL, 24-month instalments: Beko BDP010 12,999 / 16,999; Beko BDP016 16,999 / 18,999; Ariston DEOS 10 19,999 / 28,999; Ariston DEO 16 24,999 / 35,999; Rowenta DH5250F0 24,999 / 37,999; Ariston DEO 20 27,999 / 40,999; Beko BDP020 29,999 / 34,999; De'Longhi DEX212SF 29,999 / 37,999; De'Longhi DEP212 35,999; Philips DE3306/11 54,999",
+    "Megatek (https://www.megateksa.com/en/catalogsearch/result/?q=dehumidifier): Haier 16 L 17,999 ALL (was 24,900), Argo 13 L 29,999 ALL, plus Irradio 10/16/20 L WiFi R290, Haier 20 L, Argo 11/17 L, Ariston DEOS 10/16/20, Niklas Dry 10, Alpina 10 L. Visible price points range from 14,999 to 36,999 ALL.",
+    "Shpresa (https://shpresa.al/?s=dehumidifier): Xiaomi Smart Dehumidifier Lite 13 L, 17,990 ALL",
+    "Gjirafa50 (https://gjirafa50.al/search?q=dehumidifikues): Rohnson R-91210 compressor unit 28,190 ALL; Media-tech MT6531 Peltier 9,890 ALL; passive absorbers (Wenko, Pattex Aero 360, Ceresit, Wessper) 550-3,150 ALL; hygrometers such as a 'Humidity Monitor 3' at 1,450 ALL and a Nedis Zigbee sensor at 2,450 ALL",
+    "Supermart.al dehumidifier category (https://supermart.al/ro/climate-control-ro/dehumidifiers-ro/): listings at 17,999 and 23,999 ALL (from search snippet)",
+    "Hisense Albania official site lists the D16CW 16 L dehumidifier (https://al.hisense.com/produktet/trajtues-ajri/dehumidifikues/DEHUMIDIFIER-D16CW-HSN/p/000000000000896866), no price shown",
+    "Ubuy.al cross-border reseller: MeacoDry Arete Two 10 L about 52,442 ALL; FreAire unit about 32,550 ALL (https://www.ubuy.al/it/productuk/MBS3XBKTS-meacodry-arete-two-10l)"
+   ],
+   "products": [
+    {
+     "name": "Comfee (Midea) MDDF-16DEN7 16 L/day compressor dehumidifier (or similar 16 L R290 unit)",
+     "origin_country": "China",
+     "hs_code": "8479.89",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS TRN 2022, Albania reporter 008: HS 847989 simple average 0%, all 4 national lines 0% (min 0 / max 0). Risk: if customs classed it under 8415.82 it would pay 10% (WITS).",
+     "eu_retail_eur": 165,
+     "est_buy_price_eur": 115,
+     "suggested_albania_price_eur": 189,
+     "est_margin_pct": -13
+    },
+    {
+     "name": "De'Longhi Tasciugo AriaDry Multi DEX212SF 12 L/day (grey import)",
+     "origin_country": "China (likely; De'Longhi sources much of its range from China, not confirmed for this model)",
+     "hs_code": "8479.89",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022 HS 847989 = 0% MFN",
+     "eu_retail_eur": 229,
+     "est_buy_price_eur": 165,
+     "suggested_albania_price_eur": 279,
+     "est_margin_pct": -7
+    },
+    {
+     "name": "Trotec TTK 52 E 16 L/day compressor dehumidifier",
+     "origin_country": "China (Galaxus lists China for the sister TTK 66 E and 96 E; only Trotec's TTK 105 S is confirmed made in Germany)",
+     "hs_code": "8479.89",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022 HS 847989 = 0% MFN; origin therefore irrelevant for duty",
+     "eu_retail_eur": 140,
+     "est_buy_price_eur": 115,
+     "suggested_albania_price_eur": 189,
+     "est_margin_pct": -12
+    },
+    {
+     "name": "Digital thermo-hygrometer (ThermoPro TP49 / TFA Dostmann class), add-on or bundle",
+     "origin_country": "China",
+     "hs_code": "9025.80 (or 9025.19)",
+     "albania_duty_pct": 2,
+     "duty_basis": "WITS 2022: HS 902580 simple average 1.33%, max line 2%; HS 902519 0%",
+     "eu_retail_eur": 11,
+     "est_buy_price_eur": 4.5,
+     "suggested_albania_price_eur": 9.9,
+     "est_margin_pct": 29
+    },
+    {
+     "name": "Calcium-chloride moisture absorber refills (Ceresit/Henkel Stop Moisture class)",
+     "origin_country": "EU (Henkel, plant country unverified)",
+     "hs_code": "3824.99 / 2827.20",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022: 382499 average 1.5%, 282720 2%. 0% if EU origin with EUR.1 / origin statement",
+     "eu_retail_eur": 6,
+     "est_buy_price_eur": 3.5,
+     "suggested_albania_price_eur": 7.5,
+     "est_margin_pct": 10
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "BigBuy",
+     "country": "Spain",
+     "url": "https://www.bigbuy.eu",
+     "notes": "B2B wholesaler and dropshipper with price tiers from 1-2 units. It lists many dehumidifiers: UFESA DRY 2000 12 L about EUR 101.95 for 2 units and EUR 101.02 for 4; Daitsu about EUR 136; also De'Longhi, Haeger, Adler and Xiaomi. Prices are visible after free registration. Its page is the cheapest small-quantity EU source found, but even at about EUR 100 the margin is still thin.",
+     "public_contact": "Contact through the website after registering (no public phone confirmed)",
+     "moq": "1-2 units (price tiers)",
+     "sells_to_albania": "Unconfirmed. Its shipping page says it ships to almost every country and that non-EU dropshipping orders need the end-customer invoice attached. Check by entering an Albanian address in the cart."
+    },
+    {
+     "name": "Trotec GmbH",
+     "country": "Germany (Heinsberg); Italian branch trotec.it",
+     "url": "https://www.trotec.com",
+     "notes": "Manufacturer and brand of the TTK dehumidifier range, sold through retailers and a B2B channel. Home TTK models appear to be made in China. No Albanian partner was found, so ask about dealer terms through the Italian branch.",
+     "public_contact": "Via trotec.com / trotec.it contact pages (no specific address verified)",
+     "moq": "Unknown; dealer terms on request",
+     "sells_to_albania": "Unknown; no Albanian distributor found"
+    },
+    {
+     "name": "Meaco (UK) Ltd",
+     "country": "United Kingdom",
+     "url": "https://www.meaco.com/about",
+     "notes": "Premium dehumidifier brand. Half its business is exports, which it sells through exclusive distributors in each market, with distributors collecting from its UK warehouse. It is a possible Albanian distributorship but not a small-trader source. Meaco units are already reaching Albania through Ubuy.al at about 52,000 ALL.",
+     "public_contact": "+44 1483 234900 (shown on meaco.com/about)",
+     "moq": "Distributor-level (not published)",
+     "sells_to_albania": "No Albanian distributor found; it works only through territory distributors"
+    },
+    {
+     "name": "Ningbo Deye Domestic Electrical Appliance Technology Co.",
+     "country": "China",
+     "url": "https://deye.com",
+     "notes": "OEM/ODM dehumidifier factory (R290 12 L models such as DYD-E12B). Its Alibaba listing for the DYD-B12A shows MOQ 500. Because duty is 0% under 8479.89, buying direct from China costs nothing extra at customs, but MOQ, CE/RED paperwork, Albanian labels and warranty make it unsuitable for a first order. At 30 units, LCL freight would push landed cost to about EUR 99 each (estimate).",
+     "public_contact": "Via deye.com contact form or Alibaba storefront (https://www.alibaba.com/product-detail/Deye-DYD-B12A-12L-day-manufacturer_1600848578566.html)",
+     "moq": "500 units (Alibaba listing for DYD-B12A)",
+     "sells_to_albania": "Exports to Europe per its own site; Albania not confirmed"
+    },
+    {
+     "name": "Galaxus / Expert / check24 sellers (retail reference, not wholesale)",
+     "country": "Germany / Switzerland",
+     "url": "https://preisvergleich.check24.de/ul/luftbefeuchter-luftreiniger-und-luftentfeuchter/0A5T1152JJNQ0-comfee-mddf-16den7-luftentfeuchter.html",
+     "notes": "Price references only: Comfee MDDF-16DEN7 from EUR 147.61 incl. shipping on check24 and EUR 179.99 at Expert. This shows how close EU retail sits to Albanian shelf prices. They are not B2B suppliers.",
+     "public_contact": "n/a",
+     "moq": "n/a",
+     "sells_to_albania": "No"
+    }
+   ],
+   "regulation": [
+    "Customs: dehumidifiers with a built-in compressor are normally classed under HS 8479.89 (EU BTI practice 8479 89 97). Albania's MFN rate is 0% on all 4 national lines (WITS 2022), so no proof of origin is needed. Confirm the classification with a broker, because 8415.82 would mean 10% duty.",
+    "Import VAT 20% (recoverable once VAT-registered), scanning fee EUR 22 above EUR 1,000 declared, broker about EUR 80-150 per shipment. Every sale needs a real-time fiscal invoice.",
+    "Electrical safety: the unit must carry CE marking under LVD/EMC/RoHS, plus RED for WiFi models, with EU Declaration of Conformity and Albanian-language labels and instructions on every unit. Grey-imported EU stock usually has the paperwork, but Chinese-direct OEM units need the documents checked.",
+    "Consumer law: 14-day withdrawal for distance sales and 2-year seller liability. A failed compressor in month 18 is the seller's problem, so you need a repair partner or spare units. Grey-imported De'Longhi units may not be covered by the brand's local service network.",
+    "Refrigerant: modern units use R290 (propane, about 40-100 g). Shipping falls under UN3358 with special provision 291, which secondary sources say exempts machines holding less than 12 kg of flammable gas. Couriers and freight forwarders may still ask for a declaration. Older R134a units are F-gas products.",
+    "WEEE / end-of-life take-back obligations for electrical equipment importers in Albania were not verified.",
+    "No product licence is needed for dehumidifiers or hygrometers. Anti-mould sprays and fungicides are biocides and should be avoided (registration needed)."
+   ],
+   "first_order": {
+    "description": "One groupage pallet from Germany or Italy: 10 Comfee/Midea-class 16 L R290 dehumidifiers (buy about EUR 115 ex-VAT, estimate), 4 De'Longhi DEX212SF 12 L (about EUR 165, estimate) and 40 digital hygrometers (about EUR 4.50). Sales split 50% B2C (Instagram/Facebook with COD) and 50% B2B to hosts and property managers at a 10% discount, delivered phone-confirmed. Not recommended; shown to quantify the loss.",
+    "units": 54,
+    "cash_needed_eur": 2930,
+    "est_profit_if_all_sold_eur": -168,
+    "stress_test_profit_eur": -570,
+    "calc_notes": "Python, standard margin model. Goods EUR 1,990 + pallet freight EUR 350 + broker EUR 100 + scanning EUR 22 = EUR 2,462 ex-VAT. Import VAT about EUR 468 paid up front and recovered later, so cash needed is about EUR 2,930. Duty 0% (HS 8479.89, WITS 2022). Landed per unit: 16 L EUR 142.3, DEX212SF EUR 204.1, hygrometer EUR 5.6. Prices incl. 20% VAT: 16 L EUR 189 (16,970 ALL, matching Beko BDP016 16,999 and Haier 16,999-17,999), giving EUR 157.5 net; DEX212SF EUR 279 (25,049 ALL, against Neptun 29,999), giving EUR 232.5 net. Per dehumidifier sale: courier+COD EUR 11 (13 kg), ads EUR 14 per B2C sale, warranty reserve 5% of net (compressor appliance), B2B price -10% with 7% refusals, B2C refusals 13% each costing two-way delivery. Contribution at 100% sold: 16 L -EUR 206 (10 units), DEX212SF -EUR 59 (4), hygrometers +EUR 97; total -EUR 168 on EUR 2,710 net sales (-6.2%). Stress test, 70% sold: 15% refusals give contribution -EUR 120, then minus EUR 450 running costs = -EUR 570; 12% refusals give -EUR 566. Unsold stock worth about EUR 739 at landed cost is left over. Best case: 14 units at EUR 100 (BigBuy tier), EUR 250 Italy pallet, all B2B self-delivered at EUR 189 gives +EUR 20 per unit, +EUR 281 if all sell, stress -EUR 253; at EUR 199 the stress test is -EUR 176. B2C at EUR 189 loses about EUR 5 per unit even at a EUR 100 buy price. Buying direct from China (30 units, LCL) lands at about EUR 99 each, but MOQ and compliance rule it out for a beginner."
+   },
+   "beginner_scores": {
+    "low_capital": 5,
+    "low_complexity": 4,
+    "low_regulation": 6,
+    "demand": 4,
+    "low_competition": 2,
+    "margin": 1
+   },
+   "risks": [
+    "Local shelf prices are at or below EU retail: Neptun's Beko 10 L is EUR 145 and its 16 L units are EUR 189-200, all with 24-month instalments. A small importer cannot undercut these chains.",
+    "Negative contribution after courier (13 kg parcels), ads, COD refusals and warranty reserve. The B2C channel loses money on every unit at competitive prices.",
+    "Two-year seller liability on a compressor appliance, with no brand service network for grey imports. One failure can wipe out the margin on 5-10 units.",
+    "Strongly seasonal (Oct-Mar). Stock bought late arrives after the peak, and unsold bulky units tie up cash for 9 months.",
+    "Bulky goods: a 0.08-0.1 m3 carton, about 13 kg, raises freight share, courier cost and storage needs for someone with a day job.",
+    "Classification risk: if customs choose 8415.82 instead of 8479.89, duty goes from 0% to 10%.",
+    "Power outages (about 40 a year): units without auto-restart will draw complaints, so the spec must include auto-restart and continuous drain for empty flats.",
+    "Passive absorbers and hygrometers are cheap commodities sold by Gjirafa50 and Temu (under the EUR 22 de minimis), so there is no margin in them on their own."
+   ],
+   "unverified": [
+    "Wholesale buy prices for Comfee (EUR 115), De'Longhi DEX212SF (EUR 165) and Trotec TTK 52 E (EUR 115) are estimates from EU retail prices; only BigBuy's UFESA 12 L (about EUR 101-102) and Daitsu (about EUR 136) tier prices were seen, in search snippets.",
+    "Country of manufacture for DEX212SF, Comfee MDDF-16DEN7 and TTK 52 E is assumed to be China (Galaxus shows China for TTK 66 E and 96 E; only TTK 105 S is confirmed made in Germany).",
+    "That Albanian customs class compressor dehumidifiers under 8479.89 (0%) and not 8415.82 (10%).",
+    "Whether BigBuy, Trotec or Meaco will sell and ship to an Albanian business.",
+    "Exact Megatek prices per model: the search page showed mixed sale and regular prices (14,999-36,999 ALL); only Haier 16 L (17,999) and Argo 13 L (29,999) were confirmed on product pages.",
+    "Supermart.al prices (17,999 / 23,999 ALL) come only from a search snippet.",
+    "Merrjep could not be searched (results load by script); the earlier note of generic units at about EUR 190-200 there was not re-checked.",
+    "Instagram and Facebook sellers of dehumidifiers in Albania could not be found through Google; some probably exist.",
+    "R290 shipping exemption (special provision 291, under 12 kg) rests on secondary sources; carriers' own rules were not checked.",
+    "Albanian WEEE take-back obligations for electrical importers were not checked.",
+    "Google Trends returned only the last 7 weeks of data; volume is too low to judge year-on-year demand.",
+    "EU retail price for the ThermoPro or TFA hygrometer (about EUR 11) and for absorber refills (about EUR 6) are estimates without a cited listing."
+   ]
+  },
+  {
+   "niche": "Home backup power: portable LiFePO4 power stations (0.3-2 kWh) and folding solar panels for Albania",
+   "summary": "The need is real. Albania has about 40 outages a year, the June 2024 regional blackout hit it, Tirana neighbourhoods keep reporting cuts, and many homes have water pumps that stop when the power goes. But this is a poor first business for a part-time beginner. Each unit costs EUR 185-420 to buy, so EUR 1,500-2,500 covers only 4-6 units, and the fixed costs land on very few items: dangerous-goods pallet freight of EUR 250-450, a broker, and 10% duty on HS 8507.60. Brands sell direct in the EU at heavy discounts (1 kWh units at EUR 474-599), which leaves almost no room for a small dealer. Contribution margin is about 10-18% even at 1.5-1.6x the EU price, and the stress test comes out at about -EUR 890, or about -EUR 270 if unsold stock is counted at cost. Gjirafa50 and Foleja already sell EcoFlow, Anker SOLIX and other brands at high prices, so the gap is narrow. It loses clearly to the host-kit benchmark (average score about 3.3/10 against 54/100; stress -EUR 890 against +EUR 100). At most, revisit it as a pre-sold, deposit-backed B2B add-on (cafes, rental hosts, home offices) once a dealer account and 0%-duty classification are confirmed.",
+   "demand_evidence": [
+    "Albania has about 40 power outages a year, the worst in Europe (albania-market-context skill, Nov 2026). With power at about EUR 0.09/kWh there is no savings story; demand rests on reliability alone.",
+    "21 June 2024: a cascading grid failure blacked out Albania, Montenegro and Bosnia, plus part of Croatia; Albania's power was back in about 30 minutes. ENTSO-E: https://www.entsoe.eu/news/2024/06/21/grid-incident-report-south-eastern-part-of-the-continental-europe-power-system/ ; https://balkangreenenergynews.com/cascading-power-grid-failure-causes-blackout-in-bih-montenegro-albania-dalmatia/",
+    "19 Jan 2026: several Tirana neighbourhoods (Ali Demi, Fresku, Brryl) lost power after a 110 kV line defect. It lasted only minutes, which shows most outages are short. https://www.voxnews.al/english/aktualitet/disa-zona-ne-tirane-pa-energji-elektrike-reagon-oshee-i108461",
+    "Residents near Qemal Stafa stadium in Tirana complain that repeated interruptions are burning out their appliances: https://shqiptarja.com/lajm/nderprerje-te-vazhdueshme-tw-energjise-elektrike-ne-zonen-prane-stadiumit-qemal-stafa-banoret-po-na-digjen-elektroshtepiaket",
+    "Lezhë was left completely dark overnight in winter (Jan 2025): https://shqiptarja.com/lajm/lezha-e-gjitha-ne-terr-prej-mbremjes-se-djeshme-mijera-banore-pa-energji-elektrike-ne-mes-te-dimrit",
+    "Google Trends AL (12 months, run 24 Nov 2026): 'ecoflow' shows rising queries 'ecoflow delta 2' and 'ecoflow delta 3' (Breakout), but weekly interest is mostly 0, so volume is very low. Top query for 'gjenerator' is 'gjenerator ne shitje' (generator for sale), so fuel generators are the main substitute. 'power station' is dominated by 'battersea power station', meaning almost no buying intent.",
+    "Retailers see some demand: Gjirafa50 and Foleja list several EcoFlow, Anker SOLIX, Platinet, Dedra and Sandberg power stations (see local_sellers).",
+    "Self-producers of electricity are growing: 3,137 in total with 284 MWp installed (https://scantv.al/english/lajme/shqiperia/rriten-veteprodhuesit-e-energjise-elektrike-numri-total-arrin-ne-i27585), a sign of interest in solar and storage.",
+    "Tirana water is on only about 5 h/day in some areas, and homes and rentals depend on electric pumps and tanks. An outage stops the water too, which is the strongest pitch to rental hosts (skill facts; no direct survey found).",
+    "EcoFlow's EU web store does not ship to Albania (its 24-country list excludes it: https://eu.ecoflow.com/pages/shipping-policy), so Albanians cannot buy cheaply from the brand direct."
+   ],
+   "local_competition_level": "available",
+   "local_sellers": [
+    "Gjirafa50 - EcoFlow River 2 Max 512Wh/500W, 54,890 ALL (~EUR 611): https://gjirafa50.al/stacion-portativ-energjie-ecoflow-river-2-max-512wh-500w-gri",
+    "Gjirafa50 - Anker SOLIX C300X power station + PS60 60W panel set, 51,950 ALL (~EUR 579): https://gjirafa50.al/set-stacion-energjie-portabel-anker-solix-c300x-me-panel-diellor-ps60-60w-i-zi",
+    "Gjirafa50 - EcoFlow TRAIL 300 DC 288Wh (DC only), 23,090 ALL; TRAIL 200 DC 192Wh, 19,890 ALL: https://gjirafa50.al/stacion-energjie-portativ-ecoflow-trail-300-dc-pps-288wh-gri",
+    "Gjirafa50 - Platinet PMPS3000 3kWh/2000W, 112,950 ALL (was 132,590): https://gjirafa50.al/stacion-energjie-portativ-platinet-pmps3000-3kwh-2000w-i-zi",
+    "Gjirafa50 - Dedra DEZS0600 640Wh/600W, 87,290 ALL: https://gjirafa50.al/stacion-portativ-energjie-dedra-dezs0600-640wh-600w-i-zi",
+    "Gjirafa50 - RealPower PS-500C 500W, 59,950 ALL; ProXtend PX-300WPS 281Wh, 17,350 ALL (~EUR 193, cheap low end): https://gjirafa50.al/stacion-portativ-energjie-proxtend-px-300wps-281wh-300w-lcd-gri",
+    "Gjirafa50 - EcoFlow WAVE 3 extra battery 1024Wh, 71,950 ALL; RealPower SP-200E 200W folding panel listed at 149,950 ALL (looks mispriced): https://gjirafa50.al/panel-diellor-realpower-sp-200e-200w-4-panele-te-palosshme-i-zi",
+    "Foleja.al - EcoFlow Trail 200 DC, 19,700 ALL; Trail 300 DC, 23,600 ALL: https://www.foleja.al/ELT-200003978/stacion-energjie-portativ-EcoFlow-Trail-300-DC-288Wh-300W-LiFePO4-2x-USB-C-140W-gri-e-erret",
+    "Foleja.al - Sandberg Power Station 300 (300Wh, 230V AC), 26,600 ALL: https://www.foleja.al/ELT-200005548/Stacion-energjie-portativ-Sandberg-Power-Station-300-300Wh-300W-230V-AC-USB-C-PD-60W-i-zi",
+    "Foleja.al - EcoFlow DELTA 3 extra battery 1024Wh, 78,400 ALL; River EB300 extra battery, 32,700 ALL; Anker SOLIX RS40P balcony solar set, 82,500 ALL. Foleja lists DELTA accessories but no DELTA station itself: https://www.foleja.al/search?search=ecoflow",
+    "Shpresa.al - no power stations found (searches 'power station', 'stacion energjie', 'ecoflow', 'bluetti'); sells UPS units such as Power Tree UPS 1500VA: https://shpresa.al/shop/?s=power+station&post_type=product",
+    "Kosprod.com (Kosovo, Albanian-language, +383 45 607 000) - off-grid/hybrid inverters from EUR 150, Growatt SPF 6000 ES Plus EUR 1,250 (substitute: fixed inverter + battery): https://kosprod.com/product-category/invertor-sisteme-solare",
+    "Local solar installers with battery storage (substitute for home systems): Global Power shpk https://www.enfsolar.com/global-power ; EuroElektra (Tirana) https://www.enfsolar.com/euroelektra",
+    "Bluetti and Jackery: no Albanian seller found after 4 checks (Gjirafa50 search, Foleja search, Google 'Bluetti Albania dealer', Google 'EcoFlow/Bluetti Shqipëri' Albanian queries). Merrjep returned 503 and could not be checked."
+   ],
+   "products": [
+    {
+     "name": "1 kWh LiFePO4 power station - Bluetti Elite 100 V2 (1024Wh, 1800W)",
+     "origin_country": "China",
+     "hs_code": "8507.60 (possibly 8504.40; needs a binding ruling)",
+     "albania_duty_pct": 10,
+     "duty_basis": "WITS TRN Albania MFN 2022, HS 850760 = 10% (850440 = 0%). Chinese origin, so no preference.",
+     "eu_retail_eur": 549,
+     "est_buy_price_eur": 420,
+     "suggested_albania_price_eur": 890,
+     "est_margin_pct": 13
+    },
+    {
+     "name": "1 kWh LiFePO4 power station - Jackery Explorer 1000 v2 (1070Wh)",
+     "origin_country": "China",
+     "hs_code": "8507.60",
+     "albania_duty_pct": 10,
+     "duty_basis": "WITS MFN 2022, HS 850760 = 10%. EU retail EUR 474-549 street, EUR 799 list (eu.jackery.com, solarpowersupply.eu, buerklin.com).",
+     "eu_retail_eur": 549,
+     "est_buy_price_eur": 420,
+     "suggested_albania_price_eur": 890,
+     "est_margin_pct": 13
+    },
+    {
+     "name": "1 kWh LiFePO4 power station - Anker SOLIX C1000 Gen 2 (1024Wh, 2000W)",
+     "origin_country": "China",
+     "hs_code": "8507.60",
+     "albania_duty_pct": 10,
+     "duty_basis": "WITS MFN 2022, HS 850760 = 10%. EU street EUR 456-549 (idealo from EUR 503, Amazon.de EUR 499-549 per mydealz/pcwelt).",
+     "eu_retail_eur": 503,
+     "est_buy_price_eur": 420,
+     "suggested_albania_price_eur": 890,
+     "est_margin_pct": 13
+    },
+    {
+     "name": "Small LiFePO4 power station - EcoFlow RIVER 3 Plus (286Wh, 600W)",
+     "origin_country": "China",
+     "hs_code": "8507.60",
+     "albania_duty_pct": 10,
+     "duty_basis": "WITS MFN 2022, HS 850760 = 10%. EU EcoFlow store EUR 299, sale EUR 279.",
+     "eu_retail_eur": 299,
+     "est_buy_price_eur": 185,
+     "suggested_albania_price_eur": 389,
+     "est_margin_pct": 8
+    },
+    {
+     "name": "Folding solar panel 200-220W (EcoFlow 220W bifacial or lightweight; Bluetti PV200D class)",
+     "origin_country": "China",
+     "hs_code": "8541.43",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS MFN 2022, HS 854143 = 0%. EU retail EUR 399 (EcoFlow 220W lightweight, EU store) to EUR 464-499 (bifacial, Viking Direct, Euronics, Offgridtec).",
+     "eu_retail_eur": 399,
+     "est_buy_price_eur": 220,
+     "suggested_albania_price_eur": 366,
+     "est_margin_pct": -2
+    },
+    {
+     "name": "No-brand 1 kWh LiFePO4 power station (Alibaba OEM, 1000W, EU socket)",
+     "origin_country": "China",
+     "hs_code": "8507.60",
+     "albania_duty_pct": 10,
+     "duty_basis": "WITS MFN 2022, HS 850760 = 10%. Alibaba listings USD 290-399, MOQ 1 (https://electronics.alibaba.com/product/1000w-power-station). Plus China dangerous-goods freight of about EUR 90/unit (estimate).",
+     "eu_retail_eur": 0,
+     "est_buy_price_eur": 275,
+     "suggested_albania_price_eur": 667,
+     "est_margin_pct": 11
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "EcoFlow Europe - dealer programme",
+     "country": "Germany (EU HQ Düsseldorf)",
+     "url": "https://www.ecoflow.com/eu/cooperation",
+     "public_contact": "sales.eu@ecoflow.com ('Become a Dealer' form on the page)",
+     "moq": "Not stated",
+     "sells_to_albania": "Unconfirmed. The EU web store's shipping list excludes Albania (https://eu.ecoflow.com/pages/shipping-policy); a dealer application from Albania would need to be tested.",
+     "notes": "Application then eligibility review then contract. Offers marketing and after-sales training. No regional Balkan distributor found for Albania; ASBIS distributes EcoFlow in Serbia, Croatia, BiH, Bulgaria and Slovenia."
+    },
+    {
+     "name": "BLUETTI Europe - wholesale / dropshipping",
+     "country": "EU warehouses (Bluetti is a China-HQ brand)",
+     "url": "https://www.bluettipower.eu/pages/wholesale",
+     "public_contact": "sale-eu@bluettipower.com (inquiry form 'Enroll Now')",
+     "moq": "Global wholesale page states more than 5 units per model (https://bluettipower.com/pages/wholesale); EU MOQ not stated",
+     "sells_to_albania": "Not mentioned on the page; 'Dealers Wanted Worldwide'. Unconfirmed.",
+     "notes": "Offers wholesale or dropship from an EU warehouse. Bluetti covers last-mile shipping in dropship mode and handles after-sales. Dropship could avoid holding stock, but the item still needs customs clearance into Albania."
+    },
+    {
+     "name": "Jackery Europe - reseller / distributor",
+     "country": "EU (brand HQ China/US)",
+     "url": "https://www.jackery.com/pages/become-reseller",
+     "public_contact": "sales.eu@jackery.com (distributor contact on eu.jackery.com)",
+     "moq": "Not stated",
+     "sells_to_albania": "Unconfirmed",
+     "notes": "Registration, application, then eligibility review. Existing EU distributors include ELKO (Baltics/Poland) and Apex Power Supplies (Benelux)."
+    },
+    {
+     "name": "Anker SOLIX EU - partner/distributor channel",
+     "country": "EU",
+     "url": "https://www.ankersolix.com/eu/contact",
+     "public_contact": "vip.support@ankersolix.com (EU wholesale/distributor mailbox per contact page; partner form at https://www.ankersolix.com/partner)",
+     "moq": "Not stated",
+     "sells_to_albania": "Unconfirmed. Sells mainly through distributors (GPC Europe, SegenSolar, Natec Sunergy).",
+     "notes": "Anker's corporate purchase programme forbids resale, so do not use it. Ask for the nearest authorised distributor that will invoice an Albanian VAT-registered company."
+    },
+    {
+     "name": "BigBuy (wholesale/dropship platform)",
+     "country": "Spain",
+     "url": "https://www.bigbuy.eu/en/dropshipping.html",
+     "public_contact": "Via website account registration (no public sales email captured)",
+     "moq": "1 unit. Listings show price tiers at 6 and 12 units and 'contact' at 24 (e.g., https://bigbuy.eu/en/generator-ecoflow_902138.html)",
+     "sells_to_albania": "Claims to ship to 'almost every country'; Albania not confirmed. Check in the cart with an Albanian address.",
+     "notes": "Lists many EcoFlow power stations and panels at wholesale prices after login. Dangerous-goods courier acceptance to Albania unverified."
+    },
+    {
+     "name": "ASBIS Group (EcoFlow regional distributor)",
+     "country": "Cyprus (HQ), subsidiaries across CEE/Balkans",
+     "url": "https://news.asbis.com/news/press/asbis-expands-green-energy-portfolio-entering-the-diy-market-to-meet-consumer-demand/",
+     "public_contact": "Via https://asbis.com contact pages (no Albania-specific contact found)",
+     "moq": "Distributor terms (likely B2B reseller account); not stated",
+     "sells_to_albania": "ASBIS lists Albania as a territory for other brands (Logic3); EcoFlow coverage of Albania unconfirmed.",
+     "notes": "Best chance of a regional dealer price with Balkan logistics. Ask whether its Serbian or Bulgarian entity can supply an Albanian reseller."
+    },
+    {
+     "name": "Alibaba OEM power-station factories",
+     "country": "China",
+     "url": "https://electronics.alibaba.com/product/1000w-power-station",
+     "public_contact": "Per-listing Alibaba messaging (no specific supplier chosen)",
+     "moq": "1 piece on some listings; 100+ for the cheapest (USD 130-140)",
+     "sells_to_albania": "Generally yes (FOB/EXW), but dangerous-goods freight from China must be arranged",
+     "notes": "Cheapest units but no brand trust, CE claims are self-declared, the importer carries all warranty risk, and DG air/sea freight is costly for a few units. Not recommended for a beginner."
+    }
+   ],
+   "regulation": [
+    "Customs: HS 8507.60 (lithium-ion accumulators) carries 10% Albanian MFN duty (WITS 2022). Folding panels HS 8541.43 are 0%. A power station could arguably be classed 8504.40 (static converters, 0%), so ask Albanian customs (DPD) or the broker for a binding tariff ruling before the first import. All main brands are made in China, so EU/CEFTA/Turkish preferences do not apply even when buying from an EU distributor.",
+    "Import VAT of 20% plus scanning fee (EUR 22 over EUR 1,000 declared) plus broker (EUR 100-150, likely higher for dangerous goods). VAT registration from the first import; real-time fiscal invoice on every sale; 0% profit tax up to ALL 14m.",
+    "Dangerous goods: power stations over 100 Wh are fully regulated Class 9 (UN3480, or UN3481 if packed with equipment). Road groupage needs ADR documents and packaging, and the Italy-Durrës ferry leg falls under IMDG. Ask the forwarder (e.g., Dyrrahsped) for DG acceptance and surcharge. Domestic couriers (Posta Shqiptare, ADE, Ultra) must also accept 10-14 kg lithium parcels for COD (unverified).",
+    "Product conformity: CE-type conformity (low voltage, EMC, battery safety tests such as UN38.3) and declarations of conformity from the supplier. Albania has transposed EU New Approach rules, and the importer is responsible for documentation.",
+    "Albanian-language labels and manual or safety leaflet on every unit (importer name and address, ratings, safety warnings).",
+    "Consumer law: 14-day withdrawal for online/COD sales and 2-year seller liability. The brands have no service centre in Albania, so warranty failures mean shipping a dangerous-goods item back to the EU at the seller's cost.",
+    "Waste/extended producer responsibility: Law 74/2025 on extended producer responsibility (https://leap.unep.org/en/countries/al/national-legislation/law-no-742025-extended-responsibilities-producing-entities) applies to importers. Battery and electronics fees or registration under its implementing decisions may apply (details unverified).",
+    "Marketing: do not claim savings (power is cheap) or that a unit can run a whole home. Advertise real run-times only."
+   ],
+   "first_order": {
+    "description": "Pre-sold, deposit-backed B2B starter order: 3 x 1 kWh LiFePO4 stations (Bluetti Elite 100 V2 / Jackery 1000 v2 / Anker C1000 Gen 2 class) + 1 x 200-220W folding panel, sold to cafes, rental hosts and home offices in Tirana/Durrës at 79,900 ALL (station) and 32,900 ALL (panel) incl. VAT. Pallet groupage with dangerous-goods paperwork from Italy or Germany. Scenario A, a B2C mix of 2 x 1 kWh + 2 x 286Wh + 2 panels at 84,900 / 34,900 / 34,900 ALL, needs EUR 2,652 cash, so it is over budget.",
+    "units": 4,
+    "cash_needed_eur": 2459,
+    "est_profit_if_all_sold_eur": 258,
+    "stress_test_profit_eur": -895,
+    "calc_notes": "Python, standard margin model, EUR 1 = 89.78 ALL. Buy prices ex-VAT are estimates (no dealer price list obtained): 1 kWh EUR 420, panel EUR 220. Freight EUR 300 (Italy groupage EUR 150-300 + DG surcharge) split by weight. Duty 10% on (goods + freight) for stations, 0% for panels. Broker EUR 120 + scanning EUR 22 spread over 4 units. Landed cost: 1 kWh EUR 587.5, panel EUR 310. Net price ex-VAT: 1 kWh EUR 741.6, panel EUR 305.4. Per order: courier+COD EUR 12/10; refusals cost 2x courier; ad EUR 5 per sale (warm B2B); warranty reserve 5%. Unit contribution: 1 kWh EUR 98 (13.2%), panel -EUR 36 (-11.9%). Cash = landed EUR 2,073 + import VAT outlay EUR 386 (recoverable) = EUR 2,459. Profit if all sold EUR 258 (10.2% of net sales of EUR 2,530), before running costs. Stress test (70% sold, EUR 450 running costs, unsold stock at zero): -EUR 891 at 7%, -EUR 895 at 12%, -EUR 897 at 15% refusals; -EUR 273 if the unsold 30% is counted as stock at cost. Scenario A (B2C mix, 6 units, ads EUR 8-25/sale): cash EUR 2,652, profit all sold EUR 327 (11.4%), stress -EUR 890/-893 (12%/15% refusals), -EUR 220 with stock at cost. If customs accepted HS 8504.40 (0% duty), Scenario A improves to EUR 468 all sold and -EUR 749 stress. Scenario C (5 no-brand Alibaba 1 kWh at EUR 275 + EUR 450 DG freight, sold at 59,900 ALL): profit all sold EUR 314, stress -EUR 874. Main drivers: few high-value units carry high fixed and dangerous-goods freight costs, and EU street prices (EUR 474-599 for 1 kWh) cap the Albanian price. Suggested Albanian prices are already 1.5-1.6x EU street."
+   },
+   "beginner_scores": {
+    "low_capital": 3,
+    "low_complexity": 2,
+    "low_regulation": 4,
+    "demand": 4,
+    "low_competition": 5,
+    "margin": 2
+   },
+   "risks": [
+    "Thin margins: EU brands sell direct at 40-50% off list all the time (1 kWh at EUR 474-599), so dealer margin is small and Albanian buyers can compare prices online or have diaspora relatives bring units in.",
+    "Dangerous-goods logistics: lithium units over 100 Wh need ADR/IMDG paperwork. Forwarders and couriers may refuse them or add surcharges, and returns or warranty shipments are costly.",
+    "No local service centre: a 2-year seller liability on a EUR 900 battery product with no brand repair network in Albania means one failed unit can erase the margin of the whole order.",
+    "HS classification risk: 10% duty (8507.60) versus 0% (8504.40) decides whether the numbers are only negative or very negative; it needs a binding ruling.",
+    "Dealer access unconfirmed: EcoFlow, Bluetti, Jackery and Anker may refuse a one-person Albanian start-up or impose MOQs; the EcoFlow EU store does not ship to Albania.",
+    "Demand is mostly for short outages (minutes to a few hours). Cheap substitutes such as router UPS units, Temu power banks under the EUR 22 duty-free limit, and fuel generators ('gjenerator ne shitje' is the top Google query) cover much of the need.",
+    "Competition: Gjirafa50 and Foleja already list EcoFlow, Anker SOLIX, Platinet, Dedra, Sandberg and ProXtend, with fast shipping and their own marketing.",
+    "Product cycles are fast: new models and price cuts every few months can leave a small stock overpriced or outdated.",
+    "COD on high-ticket items: a refused EUR 890 parcel ties up cash and adds two-way heavy courier cost; deposits are essential.",
+    "Seasonal and news-driven demand: spikes after blackouts or storms. Do not size stock on spikes."
+   ],
+   "unverified": [
+    "Dealer or distributor buy prices (EUR 420 for 1 kWh, EUR 185 for 286Wh, EUR 220 for panels) are estimates from EU street prices; no price list was obtained.",
+    "Whether EcoFlow, Bluetti, Jackery, Anker, ASBIS or BigBuy will open an account for, or ship to, an Albanian business, and their MOQs (Bluetti's global page says more than 5 units per model).",
+    "HS classification: 8507.60 (10%) versus 8504.40 (0%) for power stations with a built-in inverter in Albanian customs practice; the duty rates come from WITS 2022 data.",
+    "Country of manufacture for each model is assumed to be China (standard for these brands); not checked per unit label.",
+    "Dangerous-goods surcharge for Italy/Germany to Albania groupage, and whether Albanian domestic couriers accept lithium power stations for COD.",
+    "Albania's ADR/IMDG application on the ferry leg, and the battery/electronics fees or registration under Law 74/2025 implementing decisions.",
+    "The '~40 outages/year, worst in Europe' figure comes from the albania-market-context skill; no official 2024-2025 OSHEE SAIDI/SAIFI figure was found.",
+    "Gjirafa50's RealPower SP-200E panel price (149,950 ALL) looks like a listing error.",
+    "Merrjep classifieds could not be checked (HTTP 503), so second-hand or Instagram sellers of EcoFlow/Bluetti may exist that were not found.",
+    "Google Trends interest-over-time output only returned recent weeks (mostly 0), so the seasonal pattern of demand is unknown.",
+    "EU retail prices are snapshots from undated or promotional pages (Nov 2026 prices may differ)."
+   ]
+  },
+  {
+   "niche": "Electric-car charging gear (Type 2 to GB/T adapters, portable mode-2 chargers, Type 2 cables, wallboxes with an electrician partner)",
+   "summary": "This niche does not beat the host-kit benchmark. It roughly matches it on the CFO stress test (+EUR 112 against about +EUR 100) but loses on complexity, safety liability and competition. My beginner scores add up to 29/60.\n\nDemand is real and growing fast. About 4,100 pure EVs were first-registered in January to April 2026 (13.5% of all registrations, 2,830 of them BYD), many are grey imports from China, and diesel costs over ALL 200 per litre. The earlier claim that \"nobody sells chargers\" is wrong. Gjirafa50.al lists a Defenzo Type 2 cable at ALL 11,350, and its Kosovo site lists wallboxes and mobile chargers. AnGroup, Panele Besi, Konekta and more than 20 MerrJep listings sell wallboxes from ALL 23,000, Type 2 to GB/T adapters at ALL 13,300 and portable chargers. Many of these are cheap Chinese units.\n\nDuty is 0% on every relevant HS line (8504.40, 8544.42, 8536.69, 8537.10; WITS 2022), so EU or EFTA origin gives no advantage and Chinese sourcing is fine. That also means anyone can import cheaply. Only light, compatibility-driven items make money. GB/T adapters show about 39% margin and portable Type 2 chargers about 17%. Cables, GB/T portable chargers and stocked wallboxes come out near zero or negative after air freight. A small first order of 15 adapters and 10 portable chargers (about EUR 1,976 cash including recoverable import VAT) shows about EUR 353 profit after running costs if all sell, and +EUR 63 to +EUR 112 at 70% sold.\n\nBest use: a side line sold B2B to Chinese-EV import car lots and electricians, alongside the host kits, rather than a replacement.",
+   "demand_evidence": [
+    "Jan-Apr 2026: about 4,100 pure EVs first-registered in Albania (13.5% of all registrations), 2,830 of them BYD, followed by VW with 221. March 2026 was a record at 1,252. Diesel is over ALL 200 per litre. Source: Monitor via Balkanweb, https://www.balkanweb.com/?p=2965298",
+    "Jan-Feb 2026: 1,712 EVs first-registered (12% of total). EVs were 5.7% of 2025 vehicle imports, and China is the No. 2 import origin. Source: https://www.balkanweb.com/?p=2934092",
+    "BYD fleet in circulation was 5,524 by end of April 2026, and 51% of it was registered in the first four months of 2026. Chinese-market brands such as Fang Cheng Bao (100) and Wuling (96) are entering, which implies GB/T charging ports that need adapters. Source: https://www.balkanweb.com/?p=2965298",
+    "INSTAT 'Karakteristikat e mjeteve rrugore 2025': electric passenger cars +91.2% versus 2024. Source: https://www.instat.gov.al/media/pclliqcz/karakteristikat-e-mjeteve-rrugore-2025.pdf",
+    "About 6,187 EVs registered in 2025. Source: https://scantv.al/english/lajme/shqiperia/makinat-elektrike-ndryshojne-zgjedhjet-e-shqiptareve-rreth-6187--i29049",
+    "OSHEE 'Charge' project: a public charging network, and a promise that EV owners charging at their apartment or house pay the household tariff. The EV fleet grew from under 420 five years ago to over 4,500. 'Private charging points are few, scattered and unstandardised'. Sources: https://shqiptarja.com/lajm/prezantohet-projekti-oshee-charge-rama-brenda-2026-kalojme-edhe-ne-sistemin-inteligjent-te-matesave-elektrike and https://shqiptarja.com/lajm/fatos-cocoli-oshee-kariko-cfare-fitojme",
+    "An active resale market on MerrJep: more than 20 live EV-charging listings (wallboxes, GB/T cables, CCS adapters, DC towers), for example https://www.merrjep.al/njoftim/karikues-makine-elektrike-moreday-type-2-7-4kw-32a/19826785",
+    "Google Trends for Albania (keywords 'karikues makine elektrike', 'wallbox', 'BYD') failed. The endpoint returned HTML instead of JSON, so it was rate-limited or blocked, and there is no trends figure."
+   ],
+   "local_competition_level": "available",
+   "local_sellers": [
+    "Gjirafa50.al: Defenzo Spiro AC11 Type 2 charging cable, 5 m, ALL 11,350 (https://gjirafa50.al/kabllo-karikimi-per-vetura-elektrike-defenzo-spiro-ac11-type-2-11kw-5m-e-zeze). Barkan EV cable wall holder, ALL 9,250.",
+    "Gjirafa50.com (Kosovo, same group, ships to Albania): Defenzo Wallbox Home AC11 EUR 249.50; Green Cell EV16 3.6 kW mobile charger EUR 269.50; PNI EV32 portable charger EUR 377.50; NRGkick wall socket EUR 149.50. Also several Defenzo Type 2 cables (7 kW, 11 kW and 22 kW). Example: https://gjirafa50.com/karikues-per-makine-defenzo-wallbox-home-ac11-11kw",
+    "AnGroup (Tirana), EMA brand, https://angroup.al/product-category/karikues-ev/: Type 2 to GB/T 1-phase 32A adapter about ALL 13,300; Type 2 to Tesla adapter about ALL 9,000; portable AC GB/T charger about ALL 18,000; 3.5 kW GB/T portable charger about ALL 12,000; AC wallboxes (GB/T or Type 2) about ALL 52,000; CCS2 to GB/T DC adapter about ALL 125,000. Also DC chargers.",
+    "Panele Besi, https://www.panelebesi.al/categories/karikues-per-makina-elektrike: Wallbox Pulsar Plus ALL 65,000; Waizida 11 kW 3-phase wallbox ALL 24,000 (prices from a search snippet; the site timed out on a direct fetch).",
+    "Konekta.al: Choetech 7.4 kW 32A Type 2 charger, ALL 20,900, delivery across Albania in 24-48 h (https://konekta.al/products/karikues-per-makine-elektrike-choetech-2).",
+    "MerrJep: MOREDAY Type 2 7.4 kW charger ALL 23,000 (https://www.merrjep.al/njoftim/karikues-makine-elektrike-moreday-type-2-7-4kw-32a/19826785); BYD Wallbox 7 kW new EUR 400; 'EV AC charger 7KW' EUR 390; AC/GB/T cable for VW ID.3/ID.4/ID.6 (China version) EUR 165; GB/T 3.5 kW charger EUR 350; 22 kW AC/GB/T charger EUR 480; Wallbox 22 kW Type 2 EUR 1,100; CCS2 to CCS1 adapter EUR 230; GB/T to CCS2 adapter EUR 700; Type 2 to Type 2 cable ALL 40,000.",
+    "Possible installers or distributors, not confirmed as charger sellers: GES (German-Energy-Solution sh.p.k.), Alba Elettrica (ABB partner, Tirana). I found no confirmed Albanian distributor for Zaptec, Easee, go-e or Juice."
+   ],
+   "products": [
+    {
+     "name": "Type 2 to GB/T AC adapter 32A (for Chinese-market BYD, VW ID China, Geely and similar cars)",
+     "origin_country": "China (Duosida/Akyga-type; Akyga is a Polish brand made in China)",
+     "hs_code": "8536.69",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS TRN 2022 Albania MFN for 853669: 3 national lines, min 0 and max 0",
+     "eu_retail_eur": 77,
+     "est_buy_price_eur": 30,
+     "suggested_albania_price_eur": 110,
+     "est_margin_pct": 39
+    },
+    {
+     "name": "Portable mode-2 Type 2 charger, 3.5-3.7 kW, Schuko 16A, adjustable 8-16A, about 5-6.5 m",
+     "origin_country": "China",
+     "hs_code": "8504.40 or 8544.42 (classification to confirm with broker)",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022: 850440 has 6 lines, all 0%; 854442 has 2 lines, all 0%",
+     "eu_retail_eur": 235,
+     "est_buy_price_eur": 85,
+     "suggested_albania_price_eur": 188,
+     "est_margin_pct": 17
+    },
+    {
+     "name": "Type 2 to Type 2 mode-3 cable, 11 kW, 5 m",
+     "origin_country": "China",
+     "hs_code": "8544.42",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022: 854442, all lines 0%",
+     "eu_retail_eur": 126,
+     "est_buy_price_eur": 55,
+     "suggested_albania_price_eur": 110,
+     "est_margin_pct": -4
+    },
+    {
+     "name": "Wallbox 7.4 kW Type 2 with app, installed by a partner electrician (made to order on deposit only)",
+     "origin_country": "China",
+     "hs_code": "8504.40 or 8537.10",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022: 850440 and 853710 all lines 0%",
+     "eu_retail_eur": 350,
+     "est_buy_price_eur": 170,
+     "suggested_albania_price_eur": 311,
+     "est_margin_pct": 6
+    },
+    {
+     "name": "go-e Charger Gemini flex 11 kW (premium mobile/wall charger, made to order)",
+     "origin_country": "Austria (EU)",
+     "hs_code": "8504.40",
+     "albania_duty_pct": 0,
+     "duty_basis": "0% MFN anyway (WITS 2022), so EU origin brings no extra duty benefit",
+     "eu_retail_eur": 558,
+     "est_buy_price_eur": 450,
+     "suggested_albania_price_eur": 667,
+     "est_margin_pct": 7
+    },
+    {
+     "name": "Portable mode-2 GB/T charger, 3.5 kW, Schuko",
+     "origin_country": "China",
+     "hs_code": "8504.40 or 8544.42",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022: 0%",
+     "eu_retail_eur": 0,
+     "est_buy_price_eur": 75,
+     "suggested_albania_price_eur": 144,
+     "est_margin_pct": 2
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "Akyga Europe Sp. z o.o.",
+     "country": "Poland",
+     "url": "https://b2b.akyga.com/en/ccabpsuaky-08865-ak-sc-e21.html",
+     "public_contact": "Wroclawska 1c, 52-200 Suchy Dwor, Poland (B2B portal contact page)",
+     "moq": "unknown (B2B portal)",
+     "sells_to_albania": "unconfirmed; Akyga products are already sold on Gjirafa50, so there is a Balkan distribution route",
+     "notes": "AK-SC-E21 Type 2 to GB/T 3-phase 32A adapter for BYD, NIO, XPeng and Geely. EU retail from EUR 81.72 (billiger.de). A branded EU importer gives warranty backing, but the goods are probably made in China (no duty impact, since duty is 0%)."
+    },
+    {
+     "name": "Green Cell (GC EV PowerCable range)",
+     "country": "Poland",
+     "url": "https://greencell.global",
+     "public_contact": "via website B2B/contact form",
+     "moq": "unknown",
+     "sells_to_albania": "unconfirmed; its EV16 is listed on Gjirafa50 Kosovo",
+     "notes": "EV16 3.6 kW Schuko to Type 2 mobile charger, EU retail EUR 229-250 (galador.eu, ox.ee). A safer branded alternative to unbranded Chinese mode-2 units."
+    },
+    {
+     "name": "go-e GmbH",
+     "country": "Austria",
+     "url": "https://go-e.com",
+     "public_contact": "via website partner/contact form",
+     "moq": "unknown (reseller/partner programme)",
+     "sells_to_albania": "unconfirmed",
+     "notes": "Gemini flex 11 kW from EUR 558 retail (billiger.de). Premium and made to order only, and the dealer margin is unknown."
+    },
+    {
+     "name": "Juice Technology AG",
+     "country": "Switzerland (EFTA)",
+     "url": "https://juice.world",
+     "public_contact": "via website dealer/contact form",
+     "moq": "unknown (dealer programme)",
+     "sells_to_albania": "unconfirmed",
+     "notes": "Juice Booster 3 air: MSRP EUR 1,299, sets from EUR 799. Too expensive for the Albanian mass market; a niche premium option only."
+    },
+    {
+     "name": "Guangzhou Futong (Alibaba)",
+     "country": "China",
+     "url": "https://guangzhoufutong.en.alibaba.com/company_profile.html",
+     "public_contact": "Alibaba messaging",
+     "moq": "2 pieces (listing)",
+     "sells_to_albania": "ships worldwide via Alibaba (Albania not specifically confirmed)",
+     "notes": "Type 2 to GB/T adapter listed at USD 29-33. Order samples first; check CE and test reports and the CC/CP signal handling."
+    },
+    {
+     "name": "Zhangjiagang Uchen New Energy (Duosida products, Alibaba)",
+     "country": "China",
+     "url": "https://uchen.en.alibaba.com",
+     "public_contact": "Alibaba messaging",
+     "moq": "1 piece on portable EVSE listings",
+     "sells_to_albania": "ships worldwide via Alibaba (unconfirmed for Albania)",
+     "notes": "Duosida portable EVSE. The 3.5 kW listing found is Type 1, so ask for a Type 2/Schuko version. Comparable 3.5 kW Type 2 portable units from other suppliers list at USD 75-125, MOQ 1."
+    }
+   ],
+   "regulation": [
+    "Duty: 0% Albanian MFN on 8504.40, 8544.42, 8536.69, 8536.90 and 8537.10 (WITS 2022, all national lines min = max = 0). Origin proof is not needed, and Chinese goods are fine. You still pay 20% import VAT (recoverable; register for VAT from the first import), the scanning fee (EUR 22 if more than EUR 1,000 is declared, otherwise EUR 5) and a broker (about EUR 80-150).",
+    "Electrical safety: insist on a CE Declaration of Conformity (LVD and EMC) and test reports: IEC 62196 for connectors, IEC 62752 (in-cable protection device) for mode-2 portable chargers, and IEC 61851 for wallboxes. Keep the technical file; Albania follows EU-aligned conformity rules (exact Albanian transposition unverified).",
+    "Albanian-language label and manual on every unit (safety warnings: earthing, no extension leads, use only on a dedicated circuit).",
+    "Consumer law: 14-day withdrawal for online sales, 2-year seller liability. Electronics returns and compatibility disputes are likely, so keep a 4% reserve.",
+    "Wallbox installation must be done by a qualified or licensed electrician. The household connection may need a check or upgrade (single to three phase, contracted power) with OSHEE. The procedure and any permit are unverified. Apartment buildings may need the administrator's consent for shared parking.",
+    "Every sale needs a real-time fiscal invoice (fiscal software about ALL 7,000-19,000 per year). Profit tax is 0% up to ALL 14m until 2029.",
+    "No lithium batteries in these products, so no dangerous-goods shipping. Product-liability insurance is recommended because of fire risk."
+   ],
+   "first_order": {
+    "description": "Air shipment from China (Alibaba suppliers, after paid samples): 15 Type 2 to GB/T AC adapters, 32A (sell at ALL 9,900), and 10 portable mode-2 Type 2 chargers, 3.5 kW Schuko, adjustable (sell at ALL 16,900). Do not stock cables, GB/T portable chargers or wallboxes: they lose money or barely break even against local prices after air freight. Sell wallboxes and go-e units only made to order on a 50% deposit, together with an electrician partner. Sales plan: about 50% B2B (Chinese-EV import car lots that can bundle adapters or chargers, electricians, OSHEE-area installers; phone-confirmed) and 50% B2C (Albanian EV owner Facebook groups, Instagram, MerrJep).",
+    "units": 25,
+    "cash_needed_eur": 1976,
+    "est_profit_if_all_sold_eur": 353,
+    "stress_test_profit_eur": 112,
+    "calc_notes": "python3 model, EUR 1 = ALL 89.78. Goods: 15 x EUR 30 + 10 x EUR 85 = EUR 1,300 (estimated from Alibaba listings at USD 27-33 and USD 75-125). Weight 35 kg x EUR 7/kg air express (estimate) = EUR 245. Duty 0. Broker EUR 100 + scanning EUR 22 = EUR 122. Import VAT 20% on goods plus freight = EUR 309 (cash out now, recovered later). Cash needed EUR 1,976 (samples, about EUR 100, sit in the EUR 450 running budget).\n\nPer unit (net of 20% output VAT): adapter net EUR 91.9, landed EUR 39.1, contribution EUR 35.8 (39%); portable charger net EUR 156.9, landed EUR 108.1, contribution EUR 26.7 (17%). This is after courier + COD at EUR 6/8 per order, refusals (B2C 13.5%, B2B 7%, each costing a two-way delivery), EUR 12 ads per B2C sale and a 4% warranty reserve.\n\nAll sold: net sales EUR 2,947, contribution EUR 803 (27.3%), minus EUR 450 running costs = +EUR 353.\n\nStress test (70% sold): contribution EUR 562 - 450 = +EUR 112. The unsold 30% stays in stock at cost (about EUR 500). With 15% B2C refusals and only 30% B2B: +EUR 63. If the unsold stock is written off entirely: -EUR 388.\n\nDropped lines: Type 2 cable -4% (air freight on a 2.4 kg item, local Defenzo at ALL 11,350); GB/T portable charger 2% (AnGroup at ALL 12,000); stocked wallbox 6% (local sellers at ALL 23,000-24,000)."
+   },
+   "beginner_scores": {
+    "low_capital": 7,
+    "low_complexity": 4,
+    "low_regulation": 5,
+    "demand": 6,
+    "low_competition": 3,
+    "margin": 4
+   },
+   "risks": [
+    "Fire and electrical-safety liability. Cheap mode-2 chargers and adapters can overheat; a single incident with a customer's car or flat is far worse than a bad towel. Buy only certified units, test samples, and consider insurance.",
+    "Compatibility returns. GB/T variants, 1-phase versus 3-phase, car-specific charging limits and CC/CP signalling differences cause 'it doesn't work with my car' returns and support calls, which is heavy for a part-timer with a day job.",
+    "Competition is already there and cheap. AnGroup, Panele Besi, Konekta, Gjirafa50 and many MerrJep sellers price Chinese wallboxes at ALL 20,900-24,000 and adapters at about ALL 13,300. Customers can also buy a GB/T adapter on AliExpress for about EUR 40-70 plus VAT, and EU retail is EUR 72-82, so the price ceiling is low.",
+    "Zero duty cuts both ways: no origin advantage for EU brands, and anyone (car importers, electricians) can import the same goods directly.",
+    "Many new cars come with a charging cable, and car lots may bundle adapters themselves. B2B buyers could become competitors after one order.",
+    "Small absolute market: about 1,000-1,250 EVs per month nationally, and only part of them are GB/T grey imports or need a portable charger.",
+    "Air freight dominates the landed cost of heavy items such as cables and wallboxes; sea groupage needs volume a beginner does not have.",
+    "OSHEE public charging rollout and any household-tariff scheme could change what owners buy: it helps adapters, but may reduce demand for portable chargers.",
+    "Frequent power outages (about 40 a year) and voltage problems may be blamed on the charger, causing warranty claims."
+   ],
+   "unverified": [
+    "All buy prices are estimates from unverified Alibaba listing prices (adapter USD 27-33, MOQ 2; portable 3.5 kW USD 75-125, MOQ 1). No quote was obtained.",
+    "The air-express rate of EUR 7/kg from China to Tirana is an estimate.",
+    "Panele Besi prices (Pulsar Plus ALL 65,000, Waizida ALL 24,000) come from a search snippet; the site timed out on a direct fetch.",
+    "AnGroup prices were parsed from listing HTML and may be offset or show sale prices; confirm on the site.",
+    "Whether BYD has an official Albanian importer or dealer, and whether it bundles wallboxes or cables. This was not found.",
+    "Share of GB/T-port (China-market) cars in the Albanian EV fleet. It is inferred from China being the No. 2 import origin and from GB/T products sold locally, not measured.",
+    "OSHEE procedure and permits for home or three-phase upgrades and for wallbox installation; the electrician licensing category.",
+    "Exact Albanian transposition of the LVD and EMC rules and market-surveillance practice for EV chargers.",
+    "Whether Akyga, Green Cell, go-e, Juice or TME sell to an Albanian business, and their MOQs and dealer discounts.",
+    "HS classification of mode-2 portable chargers (8504.40, 8544.42 or 8537.10). All are 0% in WITS 2022, so the duty outcome is the same; 2022 data could have changed since.",
+    "The 44% EV share of new-car registrations in 2025 from the brief was not re-verified. Monitor data shows 13.5% of all first registrations (new plus used) in Jan-Apr 2026.",
+    "Google Trends could not be run (the endpoint returned HTML, likely rate-limited)."
+   ]
+  },
+  {
+   "niche": "Premium car care and detailing products (Koch-Chemie, Sonax, Gyeon, Meguiar's, Polish and Turkish brands; snow foam, sealants, microfibre, foam lances; 5 L canisters for detailers)",
+   "summary": "Car culture in Albania is real: an estimated 5,000-7,000 car washes (lavazh), 1.07m vehicles and a small number of detailing studios in Tirana. But the premium segment is already covered. Global Resource Trading (GRT) is Koch-Chemie's official Albanian distributor and also runs Ceramic Pro Albania. Top Auto Parts has a Sonax distribution agreement. ADBL and K2 sell on GjirafaMall, Turtle Wax on Tronix and Supermart, Meguiar's comes in through a Kosovo representative, and Instagram shops such as @albaniadetailingofficial (5.7k followers) resell Koch, Rupes and 3M. Lavazh owners compete on price (a wash costs 600-1,000 ALL) and buy cheap bulk shampoo (20 kg for 4,499 ALL), so the B2B channel the brief hoped for barely exists for a newcomer. Duty is not the problem: polishes are 0%, cleaners 2-6%, EU and Turkish origin 0%. The problems are heavy, low-value liquids, Albanian CLP labels and safety data sheets, and ADR rules for flammable or corrosive products. The best first order I could model (48 own-brand kits plus 10 B2B canisters, about EUR 2,540) makes only about +EUR 260 if everything sells (around 10% margin) and about -EUR 1,010 in the standard stress test. That is clearly worse than the host-kit benchmark (about +EUR 100 under stress, average score 54), and it also ranks below the Petkit backup. Verdict: LOSES to the benchmark. Not recommended for this buyer.",
+   "demand_evidence": [
+    "albanianblogger.com (2026): Albania has an estimated 5,000-7,000 car washes, about one per 400-550 people, and a full wash costs 600-1,000 ALL (EUR 6-10). Car culture is strong but very price-driven. https://albanianblogger.com/lavazh-car-wash-in-albania/",
+    "Detailing studios exist in Tirana: RICH detailing Tirana (about 1,228 Facebook followers; paint correction, ceramic coating, PPF) https://www.facebook.com/p/RICH-detailing-Tirana-61574520153601/ ; Detailing PRO Albania (Kashar) https://www.findglocal.com/AL/Tirana/285002085330993/Detailing-PRO-Albania ; Ceramic Pro Albania https://ceramicpro.al/ ; Detailingauto.al mobile detailing https://detailingauto.al/en/ ; Lavazho Lapraka premium wash https://lavazholapraka.com/",
+    "Koch-Chemie judged Albania worth an official distributor. GRT's Facebook post says Koch-Chemie is 'tashmë në Shqipëri' (now in Albania): https://www.facebook.com/kochchemie.albania/ ; distributor list https://www.koch-chemie.com/en/contact/distributors",
+    "Google Trends, Albania, last 12 months (run 24 Nov 2026): 'detailing' scored 0 in most weeks, with 15-16 only in two November 2026 weeks. 'ceramic coating' and 'sonax' each show a single spike week. 'koch chemie' and 'polirim makine' returned no data. Almost all searches for 'lavazh' are 'lavazh me qera' (renting premises). Search volume is very thin.",
+    "Merrjep has many listings of Tirana premises being rented or sold as a lavazh (a sign of supply churn, not product demand): https://www.merrjep.al/njoftime/biznes-pune/ambiente-biznesi/tirane/q-Lavazh",
+    "Vehicle fleet of 1.07m (+9.3%), about 18% Mercedes (albania-market-context skill)."
+   ],
+   "local_competition_level": "available",
+   "local_sellers": [
+    "GRT Albania / Global Resource Trading SHPK: official Koch-Chemie distributor, also Ceramic Pro, Grass, MagnusPro and Golddrop. Prices by quote. https://grt.al/ and https://kochchemie.al/sq ; sales@grt.al, +355 68 808 7147",
+    "Industriale.al Koch-Chemie store: e.g. Koch rust remover L1,550; also stocks Ceramic Allround C0.01 kit. https://industriale.al/store/koch-chemie/",
+    "Top Auto Parts (Tirana): states a distribution agreement with Sonax GmbH. https://topautoparts.al/",
+    "Gjirafa50.al: one Sonax item, wheel brush 04179410, at 3,150 L. Searches for 'meguiars' and 'detailing' returned no results. https://gjirafa50.al/search?q=sonax",
+    "GjirafaMall.al: ADBL Shampoo 500 ml at 1,590 L (was 1,890 L); K2 Flossy Pro 60x90 drying towel (price not captured). https://gjirafamall.al/shampo-per-makina-adbl-shampoo-koncentrat-ph-neutral-500-ml",
+    "Supermart.al: Shine car wash shampoo 20 kg at 4,499 L (the price level a lavazh pays); Turtle Wax range. https://supermart.al/shampo-per-larje-makinash-5312-shine-20kg/",
+    "Tronix Autozone: Turtle Wax range, promoted on Facebook. https://tronix.al/",
+    "Instagram @albaniadetailingofficial (5,747 followers): polishing products from Koch Chemie, Rupes, 3M and Makita. https://www.instagram.com/albaniadetailingofficial/",
+    "Instagram @detailingproduct.al (845 followers, 1,045 posts). https://www.instagram.com/detailingproduct.al/",
+    "Meguiar's Kosovo representative (Merrjep ad, Tirana category): ships to Kosovo, Albania and North Macedonia, also supplies body shops; IG @Meguiarskosovo. https://www.merrjep.al/njoftim/produkte-polirimi-pastrimi-per-makina/7420589",
+    "Sonax Kosovo: e.g. Profiline Perfect Finish 4/6 at EUR 19.99, Cut & Finish 1 L at EUR 54.98. https://sonax-ks.com/product-category/mbrojtje-me-boje-dhe-llak/finish/",
+    "DISTRI: Italian professional chemicals for lavazh and detailing (site blocked our fetch, prices unknown). https://www.distri.al/",
+    "Ceramic Pro Albania shop (same group and address as GRT). https://ceramicpro.al/shop/",
+    "Budget sellers: Buzi Store F332 shampoo 2 L at ALL 549 and P350 500 ml at ALL 200 https://buzistore.com/product/shampo-per-larje-makine-f332/ ; Auto Univers microfibre towel 150 L, polishing sponge 800 L https://autouniversi.com/product/peshqir-mikrofiber/ ; Jumbo microfibre 3-pack https://jumbo.al/sq/products/lecke-mikrofiber-per-makine-3cp",
+    "Ubuy.al: US-imported Meguiar's kits and ceramic coatings. https://www.ubuy.al/sq/category/automotive-10181 ; Liqui Moly has Albanian-language car wash pages. https://www.liqui-moly.com/sq/al/shampo-per-larjen-e-makinave-p001085.html"
+   ],
+   "products": [
+    {
+     "name": "Own-brand 'home-wash starter kit': EU snow foam 1 L + ceramic spray sealant 500 ml + 60x90 drying towel + wash mitt + 3 microfibre cloths + foam lance for Karcher-type washers",
+     "origin_country": "Poland/Germany (chemicals), China (lance, often microfibre)",
+     "hs_code": "mixed: 3402.50 / 3405.30 / 6307.10 / 8424.20",
+     "albania_duty_pct": 0,
+     "duty_basis": "Each component declared separately. Polishes 3405.30 have 0% MFN, microfibre 6307.10 0%, foam lance 8424.x 0%, all per WITS 2022. Snow foam 3402.50 is 6% MFN but 0% with EU origin proof.",
+     "eu_retail_eur": 84,
+     "est_buy_price_eur": 34,
+     "suggested_albania_price_eur": 79,
+     "est_margin_pct": 10
+    },
+    {
+     "name": "Koch-Chemie Gentle Snow Foam 1 L (or a Polish equivalent such as ADBL or Shiny Garage)",
+     "origin_country": "Germany (Poland for alternatives)",
+     "hs_code": "3402.50",
+     "albania_duty_pct": 0,
+     "duty_basis": "MFN 6% (WITS 2022/2023, retail-packed washing preparations); 0% with EU origin invoice declaration",
+     "eu_retail_eur": 12.74,
+     "est_buy_price_eur": 6.5,
+     "suggested_albania_price_eur": 15.5,
+     "est_margin_pct": -83
+    },
+    {
+     "name": "Sonax Xtreme Ceramic Spray sealant 750 ml",
+     "origin_country": "Germany",
+     "hs_code": "3405.30",
+     "albania_duty_pct": 0,
+     "duty_basis": "MFN 0% (WITS 2022, polishes for coachwork)",
+     "eu_retail_eur": 22.99,
+     "est_buy_price_eur": 12,
+     "suggested_albania_price_eur": 27,
+     "est_margin_pct": -30
+    },
+    {
+     "name": "Microfibre drying towel 60x90 cm (K2 Flossy type)",
+     "origin_country": "China/Korea typical (Poland-branded)",
+     "hs_code": "6307.10",
+     "albania_duty_pct": 0,
+     "duty_basis": "MFN 0% (WITS 2020-2023)",
+     "eu_retail_eur": 14,
+     "est_buy_price_eur": 5.5,
+     "suggested_albania_price_eur": 17,
+     "est_margin_pct": -47
+    },
+    {
+     "name": "Snow foam lance, 1 L bottle, for Karcher K-series pressure washers",
+     "origin_country": "China",
+     "hs_code": "8424.20 (or 8424.90 as a part)",
+     "albania_duty_pct": 0,
+     "duty_basis": "MFN 0% for both lines (WITS 2022)",
+     "eu_retail_eur": 24,
+     "est_buy_price_eur": 9,
+     "suggested_albania_price_eur": 25,
+     "est_margin_pct": -22
+    },
+    {
+     "name": "B2B 5 L pH-neutral snow foam/shampoo canister (EU brand) for detailers and premium lavazh",
+     "origin_country": "Poland/Germany",
+     "hs_code": "3402.50 or 3402.90",
+     "albania_duty_pct": 0,
+     "duty_basis": "MFN 6% (3402.50) / 2% (3402.90); 0% with EU origin proof",
+     "eu_retail_eur": 42,
+     "est_buy_price_eur": 22,
+     "suggested_albania_price_eur": 50,
+     "est_margin_pct": 9
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "Global Resource Trading SHPK (GRT Albania), official Koch-Chemie distributor",
+     "country": "Albania",
+     "url": "https://grt.al/",
+     "public_contact": "sales@grt.al, +355 68 808 7147, Rruga 28 Nentori Nr. 57, Mezez, Tirane (Koch-Chemie distributor list shows info@grt.al, +355 688087143)",
+     "moq": "Quote-based, not published",
+     "sells_to_albania": "Yes (local)",
+     "notes": "Useful as a local backup supplier but also the main competitor. Buying Koch from GRT to resell leaves almost no margin, and grey-importing Koch would undercut the brand's official partner."
+    },
+    {
+     "name": "ADBL (B2B distributor platform)",
+     "country": "Poland",
+     "url": "https://en.adbl.eu/b2b/",
+     "public_contact": "+48 22 760 00 55 (B2B); ul. Terespolska 136A, 05-074 Nowy Konik (email is hidden behind Cloudflare on the page)",
+     "moq": "Not published; B2B access is for registered distributors",
+     "sells_to_albania": "ADBL products are already on GjirafaMall.al, so a regional distributor probably exists and exclusivity may block a newcomer",
+     "notes": "EU origin, so 0% duty with an invoice origin declaration. Mid-premium price point."
+    },
+    {
+     "name": "wortek GmbH / KC-Onlineshop (Koch-Chemie online shop with a B2B/trade-customer section)",
+     "country": "Germany",
+     "url": "https://kc-onlineshop.de/",
+     "public_contact": "info@kc-onlineshop.de, +49 8191 9406800",
+     "moq": "None (retail shop); free shipping in Germany over EUR 90",
+     "sells_to_albania": "Has a foreign-shipping page; whether it ships to Albania was not confirmed",
+     "notes": "GSF 1 L EUR 12.74 (EUR 10.71 net); Green Star 11 kg EUR 41.99 (EUR 35.29 net). Its prices are close to retail, so it is a sourcing source for samples, not a wholesale route."
+    },
+    {
+     "name": "Setkim Kimya (Divortex / Vortex brands), manufacturer with export and private label",
+     "country": "Turkey",
+     "url": "https://setkimkimya.com/en",
+     "public_contact": "info@divortex.com.tr, 0850 259 0389 (Tuzla, Istanbul)",
+     "moq": "Private-label minimums are on its site; not checked",
+     "sells_to_albania": "Exports to Europe, the Middle East and Russia; Albania not confirmed",
+     "notes": "Supplies TDS, SDS and ADR documents. Turkish origin means 0% duty with EUR.1. A route to an own-brand kit, but MOQs may exceed the budget."
+    },
+    {
+     "name": "Internova / Interwax, car care manufacturer",
+     "country": "Turkey",
+     "url": "https://www.interwax.com.tr/",
+     "public_contact": "info@internova.com.tr, +90 216 394 1320",
+     "moq": "Not published",
+     "sells_to_albania": "Site lists export countries; Albania not confirmed",
+     "notes": "Budget to mid-range Turkish brand; 0% duty with EUR.1."
+    },
+    {
+     "name": "Detay Gross, detailing wholesaler (Koch Chemie, Gyeon, CarPro, Rupes, Soft99)",
+     "country": "Turkey",
+     "url": "https://www.detaygross.tr/sayfa/bayilik-toptan-satis",
+     "public_contact": "info@detaygross.tr, 0535 487 25 86",
+     "moq": "Dealer prices after approval",
+     "sells_to_albania": "Unlikely: dealer applications need a Turkish tax certificate (vergi levhasi)",
+     "notes": "Products made outside Turkey (German Koch, Korean Gyeon) would not get Turkish-origin 0% duty."
+    }
+   ],
+   "regulation": [
+    "Law No. 27/2016 'On the management of chemicals' (modelled on REACH and CLP) makes the importer the party placing the product on the market. That brings duties to classify the product, label it, provide a safety data sheet (SDS) and possibly enter it in the national chemicals register. https://leap.unep.org/en/countries/al/national-legislation/law-no-272016-management-chemicals",
+    "DCM No. 488 of 29.6.2016 on classification, labelling and packaging is fully aligned with EU CLP Regulation 1272/2008. Hazardous mixtures (most wheel cleaners, alkaline all-purpose cleaners, many sealants and polishes) need Albanian-language CLP labels with pictograms, signal words and H/P statements, plus an SDS in Albanian. https://www.informea.org/en/legislation/regulation-no-488-date-2962016-classification-labelling-and-packaging-chemicals",
+    "DCM No. 665/2016 covers import and export of hazardous chemicals (Rotterdam Convention). Normal car care products are probably outside it, but each product's SDS should be checked.",
+    "ADR (Albania a party since 2005): flammable sealants, solvent-based products, aerosols and corrosive wheel or alkaline cleaners ship as dangerous goods. Groupage carriers may refuse them or add surcharges. Local couriers may refuse aerosols.",
+    "General consumer rules: Albanian label on every unit, 14-day withdrawal right (refusing returns of opened chemicals needs clear terms), 2-year seller liability, a real-time fiscal invoice for every sale, and VAT registration from the first import.",
+    "Duty: polishes 3405.30 0%, microfibre 6307.10 0%, foam lances 8424.x 0%, cleaners 3402.90 2% and 3402.50 6% (WITS MFN). EU or Turkish origin with an invoice declaration or EUR.1 gives 0%. Korean (Gyeon) and Chinese goods pay MFN, which is low anyway."
+   ],
+   "first_order": {
+    "description": "One EU (Polish or German) groupage part-pallet of about 180 kg, non-ADR products only. 48 own-assembled home-wash starter kits (EU snow foam 1 L, ceramic spray sealant 500 ml, 60x90 drying towel, wash mitt, 3 cloths, foam lance) at EUR 79 incl. VAT (about 7,090 ALL), sold B2C via Instagram/TikTok with cash on delivery. Plus 10 EU 5 L snow foam canisters pre-sold to 3-4 detailers or premium lavazh at EUR 50 incl. VAT.",
+    "units": 58,
+    "cash_needed_eur": 2539,
+    "est_profit_if_all_sold_eur": 260,
+    "stress_test_profit_eur": -1010,
+    "calc_notes": "python3 standard margin model. Goods EUR 1,852 (48 kits x 34 + 10 canisters x 22, small-buyer wholesale prices estimated). Freight EUR 300, about EUR 1.66/kg. Fixed costs EUR 242: broker 100 + scanning fee 22 + Albanian SDS/label translation and setup 120; origin declaration free, duty 0% (EU origin). Unit labels EUR 0.90 per kit. Launch and samples EUR 100. Landed cost: kit EUR 43.66, canister EUR 34.32. Kit net price EUR 65.83 ex VAT. Kit variable cost EUR 15.47 per sale (courier+COD 6, ads 6, 3% returns reserve, 13% COD refusal x EUR 10 two-way), so contribution is EUR 6.71 (10.2%). Canister net price EUR 41.67, variable cost EUR 3.55, contribution EUR 3.80 (9.1%). Net revenue if all sold EUR 3,577, profit about +EUR 260. Stress test: 70% sold (34 kits, 7 canisters), unsold stock counted at landed cost, minus EUR 450 running costs, gives about -EUR 1,010. Sensitivity: a 40-kit order with refills and a EUR 75 kit gives +EUR 53 all sold and -EUR 1,186 stressed. Even a EUR 95 kit stays at -EUR 733 stressed. Single products sold as their own COD orders lose money (1 L snow foam -83%, sealant -30%, towel -47%, lance -22%) because EUR 12 courier+ads swallows a low basket. Koch Green Star 11 kg sold B2B at EUR 62 incl. VAT loses about 26% because of liquid freight."
+   },
+   "beginner_scores": {
+    "low_capital": 6,
+    "low_complexity": 4,
+    "low_regulation": 4,
+    "demand": 5,
+    "low_competition": 3,
+    "margin": 2
+   },
+   "risks": [
+    "The official distributors (GRT for Koch-Chemie and Ceramic Pro, Top Auto Parts for Sonax) plus Instagram resellers already serve studios and enthusiasts. A newcomer has no price edge on the same brands.",
+    "Lavazh B2B buyers are price-driven (20 kg shampoo for 4,499 ALL, about EUR 50) and pay cash. Premium 5 L canisters will sell only to a handful of detailing studios, many of which are already tied to GRT.",
+    "Liquids are heavy and low in value per kg. Freight plus fixed import costs add about 25% to the goods value on a small order.",
+    "ADR and dangerous-goods limits remove the most profitable items (sealants, coatings, wheel cleaners) from cheap groupage and from couriers, especially aerosols.",
+    "CLP compliance: Albanian labels and SDS for every SKU, and the possible chemicals-register duty, are paperwork and liability a part-timer can underestimate.",
+    "Temu and AliExpress sell foam lances, mitts and microfibre duty-free under EUR 22, which undercuts the accessory part of any kit.",
+    "COD refusals on EUR 70-80 kits and the 14-day withdrawal right for opened chemicals.",
+    "Seasonality: washing peaks in dusty summer months and falls in winter rain, so an off-season plan is needed.",
+    "Brand exclusivity: Polish brands (ADBL, K2) already have regional channels and may refuse a second Albanian reseller."
+   ],
+   "unverified": [
+    "Whether Gyeon has an official Albanian distributor. gyeon.co has an Albania country page and Kosovo appears in the network filter, but the listing loads dynamically and could not be read.",
+    "Lek prices at GRT/kochchemie.al, Top Auto Parts (Sonax), Tronix, DISTRI and the Instagram sellers. Not published, or blocked by Cloudflare.",
+    "All small-buyer wholesale prices (kit EUR 34, 1 L snow foam EUR 6.5, 5 L canister EUR 22, sealant EUR 12, towel EUR 5.5, lance EUR 9) are estimates at about 50% of EU retail ex VAT, not quotes.",
+    "Freight of EUR 300 for a 180 kg non-ADR part-pallet from Poland or Germany to Tirana is an estimate.",
+    "Whether kc-onlineshop.de, ADBL, Setkim or Interwax will sell small quantities to an Albanian company; MOQs not confirmed.",
+    "Whether Albania has transposed the EU Detergents Regulation (ingredient labelling) and whether importers of non-hazardous car shampoos must register in the national chemicals register.",
+    "Cost of translating Albanian SDS/labels (EUR 120 assumed).",
+    "The 5,000-7,000 lavazh figure comes from a blog, not official statistics.",
+    "The Meguiar's Kosovo Merrjep listing is dated 2021 and may be inactive.",
+    "The Google Trends data was very sparse (mostly zeros), which may reflect low volume rather than a tool error."
+   ]
+  },
+  {
+   "niche": "Turkish-made home goods for new apartments (cookware, Pasabahce glassware, bath textiles, rugs), sold as kitchen starter kits",
+   "summary": "This niche loses to the host-kit benchmark. My estimated advisor-style average is about 45, against 54. Demand is real but generic, and the Turkish brands are already sold in Albania: Arteg/Blunavi carries Korkmaz and Pasabahce, Big Market Citypark sells Hascevher, Eng Home (Kosovo) sells English Home and ships to Albania, and JYSK, Zara Home, many granite-cookware webshops and Temu are also in the market. Single items do not work. A Pasabahce glass set or a stand-alone granite set loses money or makes under 10% once courier, COD refusals and ads are counted. The only workable version bundles them into 'new apartment kitchen kits' (cookware set plus 12 glasses) sold half to hosts and property managers. A 30-kit first order needs about EUR 2,000. It makes about EUR 915 contribution (27%) if everything sells, and about +EUR 190 in the 70%-sold stress test, or about -EUR 90 if buy prices and ad costs run 20-80% higher than estimated. Glass breakage, bulky freight, checking that each item is really made in Turkey (otherwise 10-15% duty) and food-contact paperwork make it harder than the benchmark. Use it as an add-on kitchen pack for the same host and property-manager customers, not as a separate business.",
+   "demand_evidence": [
+    "INSTAT: 1,158 permits for new buildings in 2025, 890 of them residential with 844,791 m2 floor area. The total is about 13% below 2024's 1,336, so the construction boom is plateauing rather than growing. https://www.instat.gov.al/en/themes/industry-trade-and-services/construction/publication/2025/building-permits-issued-q4-2025/",
+    "INSTAT Q1 2026: 322 new-building permits, +24.8% year on year, 237 of them residential. https://www.instat.gov.al/en/themes/industry-trade-and-services/construction/publication/2026/building-permits-issued-q1-2026/",
+    "Google Trends, Albania, last 12 months (run 24 Nov 2026): 'korkmaz' scored 0 every week. 'set tenxheresh' had no data. 'tenxhere' (pot) showed only sporadic spikes (Dec, Jan, Feb) and zero in most weeks; its top related searches were 'tenxhere me presion', 'tenxhere delimano' (a TV-shop brand) and 'tenxhere multi cooker'. Turkish brand names have almost no search pull, so search volume is low and generic.",
+    "Many Albanian webshops sell granite cookware sets at 2,990-14,990 ALL (novahome.al, comoditahome.com, demaltstore.com, dyqan.taxi, bigmarketcitypark.com). That shows paid demand for the category and also crowding.",
+    "Instagram home-goods seller @produkte_shtepie_online (Casa Italia, Tirana) has about 133K followers, which shows strong social-commerce demand for household goods. https://www.instagram.com/produkte_shtepie_online/",
+    "Background from the albania-market-context skill: about 31.8k short-term-rental listings (+15%/yr), 12.5m foreign arrivals in 2025, and about one third of apartments empty. Each new rental unit needs a basic kitchen, so B2B demand overlaps with the host-kit customers."
+   ],
+   "local_competition_level": "available",
+   "local_sellers": [
+    "Arteg (Arteg Distribution, Tirana): Pasabahce Enoteca wine glasses, 6 pcs, 1,399 ALL (was 3,260), origin Turkey; also other glass sets at 709-2,129 ALL. https://arteg.al/p/310926",
+    "Blunavi (same company, Arteg Distribution, +355 69 402 0123): search snippets show Korkmaz Omelette A2929 6-pc at 23,930 ALL, Stella A2930 6-pc at 25,880 ALL and Stella A2931 8-pc at 39,330 ALL; the live page also shows Luminarc and Bormioli Rocco. https://blunavi.al",
+    "Big Market Citypark: Hascevher Astoria 5 L pot 9,499 ALL; Hascevher Anett 9-pc set 8,999 ALL; Hascevher Anett pot 20x10 cm 1,999 ALL; Yalco 7-pc set 5,699 ALL. https://bigmarketcitypark.com/produkt/hascevher-astoria-tenxhere-5-lt/",
+    "Novahome.al: granite 4 pots + 1 pan 4,990 ALL (was 7,490); 10-pc granite set 10,990 ALL. https://novahome.al/products/set-tenxhere-graniti-4-tenxhere-1-tigan",
+    "Comodita Home: Belly Shape 6-pc set 8,990 ALL; Granitec B 9-pc 14,990 ALL. https://www.comoditahome.com/al/product/set-tenxheresh-belly-shape/",
+    "Demalt Store: 3 pots + 2 pans granite 2,990-3,990 ALL. https://www.demaltstore.com/product-page/set-3-tenxhere-2-tigan-granit",
+    "Dyqan.taxi: JIO granite 4-pot set 6,890 ALL; about 608 kitchen items. https://dyqan.taxi/product/set-tenxhere-graniti-jio-coating-cookware/",
+    "Eng Home (Chellino Sh.P.K., Kosovo; 5 stores; sells English Home, Kasanova and ACAR; ships to Albania with free shipping over EUR 50): Alfa 9-pc stainless set EUR 94.90 (Black Friday, was 316.33); bath towel 70x140 EUR 8.11. https://eng-home.com/",
+    "Kik Home (Gjilan, Kosovo; delivers to Albania): 6-glass sets about EUR 9.99. https://kik-home.com/products/gote-per-lengje-amber-golden-touch-6-cope-350-ml",
+    "Zara Home, Tirana East Gate: cast-iron cocotte 2,350 ALL; rugs from 2,050 ALL. https://www.zarahome.com/al/store-locator/tirana/tirana-east-gate-12418",
+    "JYSK: 6 stores in Albania; JYSK takes over the franchise from 1 Jan 2027. https://furniturenews.net/news/jysk-opens-in-albania",
+    "Dinarsu Albania: imports carpets, rugs and mattresses from Turkey, with a showroom near Tirana (page may be old). https://dinarsu.al/",
+    "Temu and AliExpress: cheap granite sets and glasses, duty-free under EUR 22 per parcel."
+   ],
+   "products": [
+    {
+     "name": "Stainless 8-pc cookware set, Korkmaz mid-line (e.g. Tombik/Stila) or Hascevher",
+     "origin_country": "Turkey (confirm per SKU)",
+     "hs_code": "732393",
+     "albania_duty_pct": 0,
+     "duty_basis": "0% for Turkish origin with EUR.1 or origin declaration under the Albania-Turkey FTA; MFN 15% (WITS 2022) if origin is not proven",
+     "eu_retail_eur": 419.95,
+     "est_buy_price_eur": 60,
+     "suggested_albania_price_eur": 132.5,
+     "est_margin_pct": 13
+    },
+    {
+     "name": "Granite-coated aluminium 7-pc cookware set (Turkish brand or private label)",
+     "origin_country": "Turkey (confirm per SKU)",
+     "hs_code": "761510",
+     "albania_duty_pct": 0,
+     "duty_basis": "MFN 0% (WITS 2022), so origin proof does not matter",
+     "eu_retail_eur": 74.99,
+     "est_buy_price_eur": 28,
+     "suggested_albania_price_eur": 77.9,
+     "est_margin_pct": 7
+    },
+    {
+     "name": "Pasabahce 6-glass tumbler/wine set (bundle add-on only)",
+     "origin_country": "Turkey",
+     "hs_code": "701337",
+     "albania_duty_pct": 0,
+     "duty_basis": "0% with Turkish origin proof; MFN 10% (WITS 2022; 701349 and 701328 also 10%)",
+     "eu_retail_eur": 15.9,
+     "est_buy_price_eur": 3.5,
+     "suggested_albania_price_eur": 14.4,
+     "est_margin_pct": -82
+    },
+    {
+     "name": "Basic 'new apartment' kitchen kit: granite 7-pc set + 2 Pasabahce 6-glass sets",
+     "origin_country": "Turkey",
+     "hs_code": "761510 + 701337",
+     "albania_duty_pct": 0,
+     "duty_basis": "Aluminium 0% MFN; glass 0% with EUR.1, else 10%",
+     "eu_retail_eur": 106,
+     "est_buy_price_eur": 35,
+     "suggested_albania_price_eur": 122.4,
+     "est_margin_pct": 21
+    },
+    {
+     "name": "Premium kitchen kit: Korkmaz-type 8-pc stainless set + 2 Pasabahce 6-glass sets",
+     "origin_country": "Turkey",
+     "hs_code": "732393 + 701337",
+     "albania_duty_pct": 0,
+     "duty_basis": "0% with EUR.1; without it 15% on the steel set and 10% on glass",
+     "eu_retail_eur": 451,
+     "est_buy_price_eur": 67,
+     "suggested_albania_price_eur": 199.4,
+     "est_margin_pct": 28
+    },
+    {
+     "name": "Turkish cotton 2-pc bath mat set (not recommended stand-alone)",
+     "origin_country": "Turkey (Denizli)",
+     "hs_code": "570500 or 630260",
+     "albania_duty_pct": 0,
+     "duty_basis": "570500 MFN 10% (0% with EUR.1); terry 630260 MFN 0%",
+     "eu_retail_eur": 25,
+     "est_buy_price_eur": 8,
+     "suggested_albania_price_eur": 27.7,
+     "est_margin_pct": -4
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "Polat Cam San. Tic. Ltd. Sti.",
+     "country": "Turkey (Gaziantep)",
+     "url": "https://polatcam.com/toptan-zuccaciye-urunleri-ihracat-firmasi-polat-cam",
+     "public_contact": "+90 532 350 87 91, info@polatcam.com, Tekstilkent Mah. Ibrahim Tevfik Kutlar Cad. no:100/a-1",
+     "moq": "Not published (wholesale by carton)",
+     "sells_to_albania": "Says it exports wholesale to any country by container or groupage; Albania not named",
+     "notes": "Wholesaler of Pasabahce, Lav and Gural Porselen; also sells steel and granite cookware. Says it ships everything except glass with damage guarantee, so glass breakage risk stays with the buyer."
+    },
+    {
+     "name": "Marmara Zuccaciye",
+     "country": "Turkey (Agri)",
+     "url": "https://www.marmarazuccaciye.net/",
+     "public_contact": "+90 532 682 45 00, info@marmarazuccaciye.net",
+     "moq": "Not published",
+     "sells_to_albania": "Export not stated",
+     "notes": "Kitchenware wholesaler founded in 1960 and an authorised Pasabahce dealer; also carries Gural Porselen. Use as a price check against Polat Cam."
+    },
+    {
+     "name": "Korkmaz Dis Ticaret Ltd. Sti. (Korkmaz export arm)",
+     "country": "Turkey (Istanbul)",
+     "url": "https://www.korkmaz.com.tr",
+     "public_contact": "+90 216 540 09 65 (per Messe Frankfurt Ambiente exhibitor listing)",
+     "moq": "Unknown, probably distributor-level",
+     "sells_to_albania": "Exports to 65-115 countries (sources differ); Albania already supplied through Arteg/Blunavi",
+     "notes": "May send a small buyer to the existing Albanian distributor. Ask whether a sub-dealer price is possible. https://ambiente.messefrankfurt.com/frankfurt/en/exhibitor-search.detail.html/korkmaz-dis-ticaret-ltd-sti.html"
+    },
+    {
+     "name": "Arteg Distribution (Arteg / Blunavi)",
+     "country": "Albania",
+     "url": "https://arteg.al",
+     "public_contact": "+355 69 402 0123 (shown on blunavi.al)",
+     "moq": "Unknown (retail and HoReCa)",
+     "sells_to_albania": "Yes, local",
+     "notes": "Local distributor of Pasabahce, Korkmaz, Luminarc and Bormioli. It is both the main competitor and a possible local backup supplier for B2B kits with no import paperwork. Ask for a trade price."
+    },
+    {
+     "name": "Hursan Havlu Uretim San. ve Tic. A.S.",
+     "country": "Turkey (Denizli)",
+     "url": "https://www.sourceready.com/supplier/detail/hursan-havlu-uretim-san-ve-tic-a-s",
+     "public_contact": "Not verified; use the directory page",
+     "moq": "Not published; Denizli towel and bath-mat listings range from 50-300 pcs to a full container",
+     "sells_to_albania": "Unknown",
+     "notes": "Terry towels, bath mats, bathrobes. Overlaps with the host-kit towel supplier, so combine on one pallet."
+    },
+    {
+     "name": "Karaca Group (Karaca, Emsan, Karaca Home)",
+     "country": "Turkey",
+     "url": "https://kurumsal.karaca.com/en",
+     "public_contact": "Franchise/apply form on the corporate site",
+     "moq": "Franchise or retail only",
+     "sells_to_albania": "No store or franchise found in Albania",
+     "notes": "Not a realistic small-order supplier. Karaca and Emsan goods can be bought only at Turkish retail prices via karaca.com or through wholesalers like Polat Cam."
+    }
+   ],
+   "regulation": [
+    "Albania-Turkey FTA (in force 1 May 2008): Turkish-origin industrial goods enter at 0% with proof of origin (EUR.1 or invoice declaration; confirm which with the broker). https://dogana.gov.al/english/dokument/2126/fta-with-turkey",
+    "Without proof of origin, or if the item is not really made in Turkey (some Turkish brands source from China), MFN applies (WITS 2022): 15% on stainless kitchenware (732393/732394), 10% on glassware (7013), 10% on carpets and bath rugs (5702/5705), 15% on porcelain and ceramics (6911/6912), 6% on plastic housewares (392490). Aluminium cookware (761510) and terry towels (630260) are 0% anyway.",
+    "Food-contact materials: Instruction No. 15/2012 under Food Law 9863 and Guideline No. 12/2017 on plastics (partly aligned with EU 10/2011). Get a supplier declaration of compliance and migration test reports for coated pans and glass; AKU can inspect. Act 17/2023 (declaration plus 10% lab tests) applies only to polyamide and melamine kitchenware from China/HK. https://www.ecolex.org/details/legislation/instruction-no15-of-2012-on-materials-and-articles-that-may-come-in-contact-with-food-lex-faoc144200/",
+    "Labels in Albanian on every unit (material, importer, care, induction and dishwasher suitability, food-contact symbol).",
+    "Standard importer duties: 20% import VAT (recoverable once VAT-registered), scanning fee (EUR 22 above EUR 1,000 declared), broker about EUR 100, real-time fiscal invoice on every sale, 14-day withdrawal right and 2-year seller liability (non-stick coatings that peel are a typical claim).",
+    "Non-stick and 'PFOA-free' or 'granite' claims need supplier evidence; do not copy claims without documents."
+   ],
+   "first_order": {
+    "description": "One Turkey groupage pallet (about 290 kg, 1.2 m3) made up into kits, not loose items: 20 basic kits (Turkish granite 7-pc aluminium set + 2 Pasabahce 6-glass sets, 10,990 ALL) and 10 premium kits (Korkmaz-type 8-pc stainless set + 2 Pasabahce 6-glass sets, 17,900 ALL). Planned 50% B2B to hosts, property managers and developers furnishing show or rental flats (15% trade discount, phone-confirmed, deposit taken) and 50% B2C via Instagram/Facebook COD. Pre-sell to known hosts before ordering. Get EUR.1 and food-contact declarations from the supplier, check every SKU says 'Made in Turkey', and double-box the glass.",
+    "units": 30,
+    "cash_needed_eur": 1987,
+    "est_profit_if_all_sold_eur": 915,
+    "stress_test_profit_eur": 190,
+    "calc_notes": "python3 standard margin model. EUR 1 = 89.78 ALL; retail includes 20% VAT, net = retail/1.2. Buy prices are estimates: granite set EUR 28, Korkmaz mid-line 8-pc EUR 60, Pasabahce 6-glass set EUR 3.5 (Turkish retail is 255-445 TL, about EUR 4.6-8 at 55.6 TL/EUR). Buy cost includes 2-3% breakage. Goods EUR 1,370; freight EUR 300 per pallet, allocated by weight; fixed costs EUR 242 (broker 100 + scanning 22 + EUR.1/chamber 40 + Albanian labels 30 + document translation 50) spread over 30 kits; packaging EUR 2.5 per kit. Duty 0% (Turkish origin). Landed cost: basic kit EUR 56.3, premium kit EUR 89.6. Per order, B2C: courier + COD EUR 10-11; ads EUR 8-10; 13.5% refusals, each costing a two-way courier trip; 3% returns and warranty reserve. B2B: delivery EUR 3, 7% refusals. Contribution per kit: basic 21.6 B2C (21%) / 24.4 B2B (28%); premium 47.1 (28%) / 43.9 (31%). All 30 sold: net sales EUR 3,424, contribution EUR 915 (26.7%), EUR 465 after the EUR 450 six-month running costs. Stress test (70% sold, EUR 450 running costs, 13.5% B2C refusals): contribution EUR 640, minus 450 = +EUR 190; unsold stock (EUR 606 landed) kept as inventory. If unsold stock is written off, the result is -EUR 416. Pessimistic case (buy prices about 20% higher, ads EUR 15-18 per B2C sale): margin 15%, stress test -EUR 89. With only 20% B2B the stress test is +EUR 185. Selling the same goods singly fails: a Pasabahce set alone is -82% B2C, a granite set alone 7-9%, a bath-mat set alone -4%."
+   },
+   "beginner_scores": {
+    "low_capital": 7,
+    "low_complexity": 4,
+    "low_regulation": 7,
+    "demand": 5,
+    "low_competition": 3,
+    "margin": 5
+   },
+   "risks": [
+    "Strong competition: Arteg/Blunavi already distribute Korkmaz and Pasabahce in Tirana with deep discounts; Big Market Citypark sells Hascevher; Eng Home ships English Home goods from Kosovo; JYSK (6 stores), Zara Home, many granite-cookware webshops and Temu (under EUR 22 duty-free) also sell here. There is no clear price or brand gap, only a convenience/bundle angle.",
+    "Single items make no money: low-value glass and bath-mat sets cannot carry a courier fee, COD refusals and ads. Only bundled kits or B2B orders work.",
+    "Glass breakage in groupage freight and courier delivery; Polat Cam excludes glass from its damage guarantee.",
+    "Origin trap: some Karaca, Emsan and Korkmaz SKUs are made in China. Without a valid EUR.1 or a non-Turkish product, duty is 15% on steel and 10% on glass, which wipes out about half the contribution.",
+    "Bulky, heavy goods (5-10 kg per kit) raise courier and storage costs and need space at home.",
+    "Buy prices are estimates. Korkmaz may refuse to sell outside its Albanian distributor or ask distributor-level volumes.",
+    "Demand tracks construction and rental furnishing cycles; permits fell about 13% in 2025, and summer-home furnishing is seasonal.",
+    "Turkish lira swings change buy prices and competitors' prices quickly.",
+    "Warranty claims on non-stick coatings within the 2-year seller liability."
+   ],
+   "unverified": [
+    "All buy prices (granite set EUR 28, Korkmaz mid-line 8-pc EUR 60, Pasabahce 6-glass set EUR 3.5, bath mat set EUR 8) are my estimates from Turkish retail prices, not supplier quotes.",
+    "The Blunavi Korkmaz prices (23,930-39,330 ALL) come from a search-engine snippet; the page loads by JavaScript and I could not re-read the prices.",
+    "Polat Cam's MOQ, prices and willingness to ship a mixed pallet to Albania were not confirmed. Marmara Zuccaciye's export status is unknown.",
+    "The Korkmaz export phone comes from a trade-fair listing; it is unknown whether Korkmaz will sell to a non-distributor in Albania.",
+    "Whether the Albania-Turkey FTA uses EUR.1 or an invoice declaration, and whether the 0% applies to every HS line listed (sensitive-product schedules were phased), needs confirming with an Albanian broker.",
+    "I could not confirm whether LC Waikiki (LCW Home) or English Home have their own stores in Albania; Eng Home in Kosovo ships here. I found no Karaca, Madame Coco or English Home store in Albania in 3+ searches each, but Turkish home brands are sold through local distributors and Kosovo webshops.",
+    "I could not search Merrjep (its search returned generic results) or check Neptun, Shpresa and Megateksa for cookware listings.",
+    "EU retail references are uneven: Korkmaz Lea 8-pc EUR 419.95 at MediaMarkt AT; GSW/Karaca granite 7-pc EUR 49-120 at BAUR and eBay.de; Pasabahce 6-glass sets EUR 9.90-19.99 on eBay.de and Kaufland. The bath-mat EUR 25 is an estimate.",
+    "The exact food-contact paperwork AKU expects for steel, aluminium and glass imported from Turkey (declaration of compliance only, or lab tests too) was not confirmed.",
+    "The 2025 residential permit trend for Tirana alone was not available; the national total fell about 13% while Q1 2026 rose 24.8%."
+   ]
+  },
+  {
+   "niche": "Water filtration with installation (under-sink reverse osmosis, whole-house sediment filters, cartridge-replacement plan) in Tirana/Durres",
+   "summary": "The water problem is real. Tirana gets water only 5 h/day in some areas, a doctor quoted by ACQJ calls the tap water unsafe, and households already pay about 36,400 ALL/yr for bottled water. Duty is no barrier either: Albanian MFN duty is 0% on HS 842121 and 842199, so Chinese, Turkish and EU goods all enter duty-free. But the beginner's planned model is already being run by several established installers, often at lower prices. Ecosoft Albania/Teoren rents an installed 6-stage RO system with filter changes for 1,390 ALL/month (13,900 ALL/yr prepaid) and offers a 30-day free trial. Albafilters offers RO maintenance from 12,000 ALL/yr with a 10-year warranty, and Albuji and Aquafilter Albania offer free installation. On paper the first order works. 12 installed RO units, 8 whole-house filters and spare cartridges cost about EUR 2,300 cash, and the model gives about +EUR 2,050 if everything sells and +EUR 409 in the stress test. With more realistic plumber fees (EUR 40) and ad costs (EUR 35 per sale) the stress test falls to about -EUR 228. A beginner with a day job also carries plumbing labour, leak liability and an unknown brand against trusted incumbents. Verdict: this niche LOSES to the host-kit benchmark (average 54). It scores about the same as the Petkit backup at best. It works better as an add-on to the host kit (RO taps or jug filters for short-term-rental flats, cafes and offices) than as a standalone business.",
+   "demand_evidence": [
+    "Vox News (Sep 2025): 'Last in Europe, Tirana is supplied with water only 5 hours a day', some areas only 3 h - https://www.voxnews.al/english/aktualitet/e-fundi-ne-europe-tirana-furnizohet-me-uje-vetem-5-ore-ne-dite-i99322",
+    "ACQJ 'Tirana that can't drink tap water': average supply 17.3 h/day in 2024; a 2021 court ruling found Tirana water unfit to drink in 2016-17; an infectious-disease doctor says tap water is not safe - https://www.acqj.al/en/tirana-qe-nuk-pi-dot-uje-nga-rubineti/",
+    "Politiko: three Tirana neighbourhoods left without water - https://politiko.al/english/e-tjera/tri-lagje-te-tiranes-thahen-per-uje-i538569",
+    "Albafilters says households pay 100 ALL per bottled-water jug, about 36,400 ALL/yr, versus about 17,000 ALL/yr for filtered water - https://albafilters.com/",
+    "At least 5 specialist installers are active and selling subscriptions (Ecosoft Albania/Teoren, Albafilters, Albuji, Aquafilter Albania, Maximum Durres), which shows paying demand - https://ecosoftalbania.com/product/abonohu-ne-ecosoft/",
+    "Mass retail of Brita jugs and cartridges at Megateksa, Globe and Foleja (Marella XL 2,450-2,999 ALL) - https://www.megateksa.com/en/water-filter-brita-marella-xl-3-5-lt-h25-8xw25-6xd10-cm",
+    "Google Trends Albania, 12 months: 'filter uji' scored 0 in most weeks and 12-15 in mid-Nov 2026; 'filtra uji' had no data; 'osmoza' had one spike (100) in the week of 15-21 Nov 2026; 'water filter' scored 6-8. Search volume is very low, so demand is a need people have rather than something they search for.",
+    "EIB/KfW are funding Tirana's water network (24 h supply still not reached), so the problem is structural but could ease over 5+ years - https://www.eib.org/press/all/2023-429-albania-eib-global-deploys-additional-support-to-improve-water-distribution-system-in-tirana"
+   ],
+   "local_competition_level": "available",
+   "local_sellers": [
+    "Ecosoft Albania / Teoren (official Ecosoft distributor): RO subscription 1,390 ALL/month (~EUR 15.5) with system, installation and filter changes, 30-day free trial; annual filter set for Standard RO 9,000 ALL; whole-house AquaPoint 39,500 ALL; softeners 125,000-235,000 ALL; 20in PP cartridge 4,400 ALL - https://ecosoftalbania.com/product/abonohu-ne-ecosoft/",
+    "TeorenShop: 'ABONIM 12 Mujor' Ecosoft 6-stage RO with mineralizer, 13,900 ALL (~EUR 155), free transport and installation - https://teorenshop.al/products/abonim-12-mujor-sistem-standart-filtrimi-ro-me-mineralizim",
+    "Albafilters (Tirana): installation fee plus annual RO maintenance from 12,000 ALL/yr; mechanical filters from about 17,000 ALL; Japanese RO+UV; up to 10-year written warranty; free water analysis; WhatsApp +355 69 206 6646 - https://albafilters.com/",
+    "Albuji (Laprake, Tirana; also Kosovo): RO, UF and softeners; installation within 24-48 h, installation included for most products; no prices published; +355 68 208 8232 - https://www.albuji.com/en/filtra-uji",
+    "Aquafilter Albania: under-sink filter EUR 600 cash, Aqua Star EUR 700, free installation, 1-year warranty (price from search snippet; site returned 403) - https://aquafilter.com.al/index.html",
+    "Filtra Uji Maximum (Durres): RO systems, free consultation; site not reachable from this session - https://maximum.al/",
+    "Megateksa: Aqua Simplex ultrafiltration under-sink filter 28,500 ALL; Brita Marella XL 2,999 ALL; Maxtra Plus 3+1 3,990 ALL - https://www.megateksa.com/en/filter-uji-aqua-ultrafiltrim",
+    "Globe.al: Brita Marella XL about 2,450 ALL - https://globe.al/globeelektroshtepiake-te-vogla/te-vogla/filtrues-uji/",
+    "Foleja.al: Brita Maxtra PRO 2-pack - https://www.foleja.al/ALL-200000646/Filtra-uji-Brita-Maxtra-PRO-Pure-Performance-2-cope",
+    "Ubuy.al (cross-border): NOVETE countertop RO 49,893 ALL; various US cartridges - https://www.ubuy.al/sq/product/TLNBTDXCA-app-enabled-countertop-ro-water-filter-system-with-extra-ro-filter-bundle",
+    "Njoftime.com classified: commercial HORECA RO unit EUR 800 + filter EUR 80 + tap installation EUR 30 - https://www.njoftime.com/threads/filter-uji-910-%E2%82%AC.1092327",
+    "Gjirafa50 sells no water filters (checked searches for 'filter uji', 'brita', 'aquaphor' and 'osmoz'; 'osmozues ajri' there means dehumidifiers)"
+   ],
+   "products": [
+    {
+     "name": "Under-sink RO 6-stage 75 GPD with mineralizer and 7-8 L tank, installed (booster-pump version for low-pressure/roof-tank flats)",
+     "origin_country": "Turkey or China (OEM); Poland/Ukraine for branded",
+     "hs_code": "842121",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS TRN Albania MFN 2022 for 842121 = 0%; origin proof not needed",
+     "eu_retail_eur": 105,
+     "est_buy_price_eur": 70,
+     "suggested_albania_price_eur": 267,
+     "est_margin_pct": 32
+    },
+    {
+     "name": "Annual 10in cartridge set (PP sediment, GAC, carbon block, post-carbon, mineralizer) fitting standard RO units including other brands",
+     "origin_country": "China/Turkey/Poland",
+     "hs_code": "842199",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022 MFN 842199 = 0%",
+     "eu_retail_eur": 35,
+     "est_buy_price_eur": 12,
+     "suggested_albania_price_eur": 72,
+     "est_margin_pct": 50
+    },
+    {
+     "name": "Whole-house 20in Big Blue sediment filter housing + cartridge, installed at the flat inlet or after the roof tank",
+     "origin_country": "China/Poland/Italy",
+     "hs_code": "842121",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022 MFN 842121 = 0%",
+     "eu_retail_eur": 50,
+     "est_buy_price_eur": 25,
+     "suggested_albania_price_eur": 134,
+     "est_margin_pct": 30
+    },
+    {
+     "name": "20in sediment replacement cartridge 2-pack (repeat sale to whole-house buyers)",
+     "origin_country": "China/Poland",
+     "hs_code": "842199",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022 MFN 842199 = 0%",
+     "eu_retail_eur": 20,
+     "est_buy_price_eur": 8,
+     "suggested_albania_price_eur": 39,
+     "est_margin_pct": 35
+    },
+    {
+     "name": "Cabinet water softener (later stage, not in first order: capital-heavy and the incumbent charges 125,000+ ALL)",
+     "origin_country": "Poland/Ukraine/Turkey",
+     "hs_code": "842121",
+     "albania_duty_pct": 0,
+     "duty_basis": "WITS 2022 MFN 842121 = 0%",
+     "eu_retail_eur": 600,
+     "est_buy_price_eur": 400,
+     "suggested_albania_price_eur": 1100,
+     "est_margin_pct": 20
+    }
+   ],
+   "suppliers": [
+    {
+     "name": "Aquafilter Europe Ltd",
+     "country": "Poland",
+     "url": "https://www.aquafilter.com/en/contact",
+     "public_contact": "+48 42 613 19 00, Sw. Teresy 103, 91-222 Lodz (AquaEnergy Expo listing https://aquaenergyexpo.com/view_company/272/Aquafilter%20Europe%20Ltd.)",
+     "moq": "unknown - ask",
+     "sells_to_albania": "Probably through Aquafilter Albania (aquafilter.com.al), which may be its local partner, so a direct account may be refused or redirected",
+     "notes": "Manufacturer of RO systems with and without pumps (AR-REG/AR-WPU), Big Blue housings and all cartridges; NSF/WRAS certified per mojawoda.com; offers OEM. Good one-stop source for RO and cartridges."
+    },
+    {
+     "name": "Ecosoft (partner network)",
+     "country": "Ukraine / Cyprus HQ",
+     "url": "https://www.ecosoft.com/",
+     "public_contact": "Partner sign-up form at https://ecosoft.com/about; contact page https://www.ecosoft.com/contact",
+     "moq": "unknown; partner list price Standard PRO RO EUR 182.50 ex VAT",
+     "sells_to_albania": "Has an official Albanian distributor (Teoren), so a direct beginner account is unlikely; Teoren/Ecosoft Albania can serve as a local backup source of cartridges (e.g. 2.5x10 PP 440 ALL)",
+     "notes": "Strongest brand locally; useful mainly as a local backup supplier of spare parts, not as a cheap import source."
+    },
+    {
+     "name": "AQUAMAB / Basaran Su Aritma A.S.",
+     "country": "Turkey (Ankara)",
+     "url": "https://www.turkishexporter.com.tr/tr/firmalar/aquamab-162836/",
+     "public_contact": "Inquiry via TurkishExporter listing; brand site https://www.aquamab.com.tr/ (not reachable from this session)",
+     "moq": "unknown",
+     "sells_to_albania": "Listed as an exporter of home RO and softeners; Albania not confirmed",
+     "notes": "Turkish manufacturer with 2 plants; home RO, softeners and filters. Turkey groupage freight to Tirana is about EUR 180-300."
+    },
+    {
+     "name": "AFG Su Aritma Teknolojileri Ltd. Sti.",
+     "country": "Turkey (Adana)",
+     "url": "https://turkishexporter.com.tr/en/companies/41882/",
+     "public_contact": "Inquiry form on the TurkishExporter listing",
+     "moq": "unknown",
+     "sells_to_albania": "Exporter of RO systems and filter housings; Albania not confirmed",
+     "notes": "Gold-verified exporter listing; RO, softening, filtration."
+    },
+    {
+     "name": "Ningbo Ispuring Intelligent Technology Co., Ltd.",
+     "country": "China (Cixi, Ningbo)",
+     "url": "https://m.made-in-china.com/company-ispuring/",
+     "public_contact": "'Send Inquiry' on Made-in-China",
+     "moq": "unknown; similar Alibaba 75 GPD listings show MOQ 2-10 pcs at about USD 65-85",
+     "sells_to_albania": "Exports worldwide; Albania not confirmed",
+     "notes": "OEM under-sink RO and dispensers. Duty is 0% whatever the origin, but sea LCL to Durres and quality checks add risk; order samples first."
+    },
+    {
+     "name": "Global Water / sklep.osmoza.pl",
+     "country": "Poland",
+     "url": "https://sklep.osmoza.pl/filtr-wody-osmoza-ro6-kartapdf-635.html",
+     "public_contact": "sklep@osmoza.pl, +48 32 360 25 43",
+     "moq": "retail, 1 unit (RO6 449 zl incl. Polish VAT)",
+     "sells_to_albania": "unknown - ask for export invoice without Polish VAT",
+     "notes": "Small-quantity source for samples and cartridges; EU parcel to Tirana costs about EUR 40-70 per 10 kg."
+    }
+   ],
+   "regulation": [
+    "Customs: HS 8421.21 (water filtering machinery) and 8421.99 (cartridges/parts) are 0% MFN in Albania (WITS 2022), so no EUR.1/origin proof is needed for duty. Import VAT is 20% (recoverable), plus a scanning fee (EUR 22 if over EUR 1,000 declared) and a broker (~EUR 100).",
+    "No specific licence was found for selling or installing household point-of-use drinking-water filters. Albania's standards body DPS has adopted the EN standards for drinking-water treatment devices inside buildings (membrane devices, softeners, active-media filters, UV), but certification is voluntary. Get the supplier's test reports and materials-in-contact-with-drinking-water declarations (NSF/ANSI 58, WRAS, CE).",
+    "Pump/UV models are electrical products: CE (LVD/EMC) documents, plus an Albanian-language label and manual on every unit.",
+    "Do not make health claims ('removes bacteria/viruses/heavy metals') without test evidence: consumer protection rules on misleading advertising.",
+    "Consumer law: 14-day withdrawal for distance/off-premises sales (get a signed consent before installing) and 2-year seller liability. Leaks under the sink can damage the flat and the neighbours below, so consider liability insurance and use a competent plumber.",
+    "Business: QKB registration with trade + installation activity, VAT registration from the first import, and a real-time fiscal invoice for every sale and every monthly or yearly subscription payment. Running costs are about EUR 450 per 6 months.",
+    "Courier COD for cartridge parcels; installs are booked appointments (take a deposit to cut no-shows)."
+   ],
+   "first_order": {
+    "description": "One mixed Turkey groupage shipment (or Aquafilter Poland): 12 under-sink 6-stage RO units with mineralizer (4 of them booster-pump versions), 30 annual 10in cartridge sets (sold to these customers and to existing RO owners of other brands), 8 whole-house 20in Big Blue sediment housings, 10 sediment cartridge 2-packs, plus EUR 80 of fittings and tools. Installs by a partner plumber at about EUR 25 each. Prices: RO installed 24,000 ALL, cartridge set 6,500 ALL (below Ecosoft's 9,000), whole-house filter installed 12,000 ALL, cartridge 2-pack 3,500 ALL.",
+    "units": 60,
+    "cash_needed_eur": 2294,
+    "est_profit_if_all_sold_eur": 2055,
+    "stress_test_profit_eur": 409,
+    "calc_notes": "Python, standard margin model, EUR1 = 89.78 ALL, 20% output VAT. Goods EUR 1,560 (12x70 + 30x12 + 8x25 + 10x8 + 80 fittings). Fixed costs: Turkey groupage 250 + broker 100 + scanning fee 22 = 372. Duty 0%. Landed EUR 1,932, plus recoverable import VAT EUR 362, gives EUR 2,294 cash. Net ex-VAT prices: RO 222.8 / cartridge set 60.3 / whole-house 111.4 / 2-pack 32.5. Per-sale costs: RO plumber 25 + fittings 5 + travel 3 + ad 20, failed visit EUR 15 at a 12% no-show rate; whole-house plumber 20 + 8 + ad 12; parcels courier/COD 5.5 + ad 6 (sets) or 3 (2-packs), refusals 13.5% each costing a two-way delivery of 9.2. Warranty reserve 4% of net sales. Margin per unit after landed cost: RO 32%, sets 50%, whole-house 30%, 2-packs 35%. All sold: net sales EUR 5,699, profit EUR 2,055 (36%), or EUR 1,605 after EUR 450 running costs. STRESS (70% of every line sold, EUR 450 running costs, refusals included, unsold stock written off): +EUR 409. PESSIMISTIC (RO price 22,000 ALL, plumber EUR 40, ad EUR 35 per RO sale; whole-house 11,000 ALL, plumber EUR 30, ad EUR 20; set ad EUR 10): all sold EUR 1,146 (21%), stress test -EUR 228. Labour: about 2 h per install, so about 40 h of plumbing visits in total. Subscription income (cartridges at month 6-12) mostly falls outside the 6-month window."
+   },
+   "beginner_scores": {
+    "low_capital": 7,
+    "low_complexity": 3,
+    "low_regulation": 6,
+    "demand": 6,
+    "low_competition": 3,
+    "margin": 6
+   },
+   "risks": [
+    "Entrenched installers already run the exact model: Ecosoft/Teoren rents RO with filter service at 1,390 ALL/month with a 30-day free trial; Albafilters offers a 10-year warranty and free water analysis. A beginner's unknown brand has no price or trust advantage.",
+    "Over 3 years our offer (24,000 ALL + 6,500 ALL/yr) costs about 37,500 ALL, against about 41,700 ALL for Ecosoft's subscription. That saving is too small to win customers away from a known brand.",
+    "Installation labour and scheduling clash with a day job; you depend on one plumber (need a backup); about 2 h per install.",
+    "Leak/water-damage liability in apartments; 2-year seller liability on installed equipment; warranty call-outs eat into margin.",
+    "Low pressure and intermittent supply in Tirana: many flats need booster-pump RO or roof-tank set-ups; wrong sizing means complaints.",
+    "Low online search volume (Google Trends near 0), so leads come through word of mouth or paid ads with uncertain cost per sale; installs are high-consideration purchases.",
+    "Cartridge recurring revenue only starts after 6-12 months and needs a reminder/CRM system; customers may switch to cheap Temu cartridges (under EUR 22, duty-free parcels).",
+    "Quality risk on Chinese/Turkish OEM membranes and fittings; inspect samples, keep the local backup supplier (Ecosoft Albania spare cartridges).",
+    "The EIB-funded network upgrade could improve Tirana supply over time and weaken the shortage argument (the water-quality argument would remain)."
+   ],
+   "unverified": [
+    "All buy prices are estimates (RO EUR 70, cartridge set EUR 12, Big Blue housing EUR 25, 2-pack EUR 8); no Turkish or Chinese quote was obtained. Alibaba snippets showed 75 GPD units at about USD 65-85 with MOQ 2-10.",
+    "EU retail figures for cartridge sets (EUR 35), Big Blue housings (EUR 50) and softeners are estimates; RO EU retail is based on Ecosoft Standard EUR 97.49 (aio.lv), Global Water RO6 449 zl (osmoza.pl) and Ecosoft Standard PRO EUR 219 incl. VAT (ecosoft.com).",
+    "Exact terms of the Teoren 13,900 ALL '12-month subscription' and of the Ecosoft 1,390 ALL/month plan (whether the hardware stays with the customer, minimum term).",
+    "Aquafilter Albania's EUR 600 under-sink price comes from a search snippet; the site returned 403.",
+    "maximum.al (Durres) could not be reached from this session (host not resolving; it would need to be allowed in network settings); HydroPura could not be found online at all.",
+    "Plumber fee per install (EUR 25 assumed; a Njoftime ad charges EUR 30 for a tap installation) and ad cost per sale (EUR 20 assumed).",
+    "That no licence is needed for selling and installing household drinking-water filters in Albania; this is based on the absence of evidence and voluntary DPS standards, not an official confirmation. The decree number for drinking-water quality rules for HORECA clients was not checked.",
+    "WITS tariff data is from 2022; the 0% rate for 842121/842199 should be confirmed with a broker for 2026.",
+    "Whether Aquafilter Europe, Aquamab or AFG will sell small quantities directly to an Albanian beginner, given that local distributors exist.",
+    "Availability and cost of liability insurance for under-sink installs."
+   ]
+  }
+ ],
+ "reviews": [
+  {
+   "advisor": "Beginner Business Coach",
+   "ranking": [
+    {
+     "niche": "Turkish-made home goods sold as 'new apartment' kitchen kits (granite or stainless cookware plus Pasabahce glasses)",
+     "score": 47,
+     "beats_host_kits": "no",
+     "verdict": "This is the best of the six, but as a second product line inside the host-kit business, not as a business of its own. It sells to the same property managers and hosts, can come on the same Turkish groupage pallet with the same EUR.1 at 0% duty, and needs no licence. As a separate B2C business it is weaker than host kits. Loose items lose money, glass breaks, and Arteg/Blunavi, Big Market, Eng Home, JYSK and Temu already cover the category.",
+     "key_reasons": [
+      "Same buyers and same Turkish freight route as host kits. Putting both on one pallet splits the broker, scanning and EUR.1 costs between them, which improves the host-kit numbers too.",
+      "Little regulation: a supplier food-contact declaration and Albanian labels. No dangerous goods, no installation, no electrical warranty.",
+      "It is cheap to stop. Unsold cookware and glasses resell on Merrjep or to hosts at about cost, and they do not go out of date.",
+      "It only works as a kit. A Pasabahce set sold on its own is -82% and a granite set on its own is 7-9%. A beginner who drifts into selling single items loses money.",
+      "Origin trap: a Korkmaz or Karaca item made in China pays 15% on steel and 10% on glass, which removes about half the contribution.",
+      "The +EUR 190 stress result assumes unsold stock is kept and buy prices are guessed. With stock written off it is -EUR 416, and in the pessimistic case -EUR 89."
+     ],
+     "must_check_before_buying": [
+      "Get written quotes from Polat Cam or Marmara Zuccaciye (or a trade price from Arteg locally) for the exact granite set, the stainless set and the Pasabahce 6-glass sets, with carton sizes.",
+      "Confirm 'Made in Turkey' on every item and that the supplier will issue an EUR.1 or invoice declaration. Ask the Albanian broker which document the Albania-Turkey FTA needs for 7013 and 7323.",
+      "Pre-sell at least 10 kits with deposits to the same hosts and managers who buy host kits, and count them separately so the same buyer's demand is not counted twice.",
+      "Get the supplier's food-contact declaration of compliance for coated pans and glass, and ask a broker or AKU what is checked at import.",
+      "Get a packaging plan for glass (double box) and who pays for breakage, since Polat Cam excludes glass from its damage guarantee."
+     ]
+    },
+    {
+     "niche": "Water filtration with installation (under-sink RO, whole-house sediment filters, cartridge plan)",
+     "score": 38,
+     "beats_host_kits": "no",
+     "verdict": "The model has the best paper numbers of the six, but for a part-timer it is an installation and service business. It brings plumber scheduling, leak liability in flats above neighbours, and a 2-year seller liability, all against an incumbent I checked. Ecosoft Albania charges 1,390 ALL/month with free transport, free installation, filter changes included and a 30-day no-obligation trial. An unknown beginner brand has no price or trust edge, and the stress result depends on cartridge sales that are unlikely in the first 6 months.",
+     "key_reasons": [
+      "Real, structural need (5 h/day supply in parts of Tirana, distrust of tap water) and 0% duty on 8421.21/8421.99.",
+      "The incumbent offer is confirmed on ecosoftalbania.com: 1,390 ALL/month, free install, filter maintenance, 30-day trial, cash after installation. This offer is the hardest kind for a newcomer to beat.",
+      "About 40 hours of install visits on weekday daytime appointments conflicts with a day job, and everything depends on one plumber.",
+      "A leak that damages a neighbour's ceiling could cost more than the whole year's profit. Liability insurance availability was not checked.",
+      "Roughly a third of the stress result comes from selling 21 of 30 cartridge sets to other brands' RO owners. Ecosoft subscribers already get filters included, so those buyers are doubtful.",
+      "It fits the host-kit buyers only as a later add-on (RO tap for rental flats and cafes), not as a first business."
+     ],
+     "must_check_before_buying": [
+      "Run a no-stock test first: offer 'filtered water for your rental' to 10 known hosts and managers and take deposits before ordering anything.",
+      "Line up a plumber, a backup plumber, a fixed fee per install, and a written split of who pays for a leak.",
+      "Get a quote for liability insurance covering under-sink installs.",
+      "Ask a lawyer or QKB whether installation activity needs a licence or a registered plumbing activity code.",
+      "Get supplier quotes and samples (Aquafilter Europe, Aquamab, AFG) and check whether Aquafilter Albania holds exclusivity.",
+      "Model it without third-party cartridge sales. If the stress test goes negative, do not launch."
+     ]
+    },
+    {
+     "niche": "Electric-car charging gear (Type 2 to GB/T adapters, portable mode-2 chargers)",
+     "score": 34,
+     "beats_host_kits": "no",
+     "verdict": "Low capital, light parcels, 0% duty, a growing BYD and Chinese grey-import fleet, and a positive stress result (+EUR 112 with stock kept). For a beginner, though, the risk is lopsided. The first order is unvetted Alibaba electrical gear that charges a customer's EUR 30,000 car at 32A in their flat. 'It does not work with my car' returns and technical support do not fit a day job. AnGroup, Konekta, Gjirafa50 and Merrjep already sell the same goods. It could be a narrow B2B side line through car-import lots later, but not a starting point.",
+     "key_reasons": [
+      "Demand is real: about 4,100 pure EVs first-registered in Jan-Apr 2026, 2,830 of them BYD.",
+      "The local price ceiling is confirmed. AnGroup lists the EMA Type 2 to GB/T 1-phase 32A adapter at 13,300 ALL, a portable GB/T charger at 12,000-18,000 ALL and wallboxes at 52,000 ALL. A 9,900 ALL adapter has some room, but EU retail is EUR 68-82 and AliExpress is lower.",
+      "Fire and electrical-safety liability is not priced into the model. One incident is far worse than a bad towel.",
+      "GB/T variants, 1-phase vs 3-phase and CC/CP signalling cause compatibility returns, which take a lot of time for a part-timer.",
+      "With unsold stock written off, the stress test is -EUR 388, so the result depends on air-freighted stock actually selling.",
+      "Car lots that buy wholesale can import directly next time (0% duty, MOQ 1-2)."
+     ],
+     "must_check_before_buying": [
+      "Order paid samples from 2-3 suppliers. Have a licensed electrician test them on real BYD and VW-ID-China cars, and get CE DoC plus IEC 62196/62752 test reports in the supplier's name.",
+      "Pre-sell to 2-3 EV import lots with deposits before ordering 25 units.",
+      "Get a product-liability insurance quote.",
+      "Write a compatibility checklist (port type, phases, model year) and a returns policy before selling.",
+      "Confirm the China-Tirana air rate and the broker's classification (8536.69 / 8504.40)."
+     ]
+    },
+    {
+     "niche": "Premium car care and detailing products (own-brand home-wash kits, 5 L canisters for detailers)",
+     "score": 20,
+     "beats_host_kits": "no",
+     "verdict": "Reject. The premium brands already have official Albanian distributors (GRT for Koch-Chemie and Ceramic Pro, Top Auto Parts for Sonax). Lavazh owners buy 20 kg shampoo for about EUR 50. Each SKU needs a CLP label and safety data sheet in Albanian, and the best-margin products are ADR dangerous goods. The kit makes about 10% if everything sells and loses about EUR 1,000 in the stress test.",
+     "key_reasons": [
+      "Chemicals law 27/2016 and CLP DCM 488/2016 put labelling and SDS duties on the importer, which is paperwork a beginner underestimates.",
+      "Aerosols, sealants and wheel cleaners are dangerous goods for freight and couriers.",
+      "Single bottles sold on COD lose 22-83% because courier and ad costs exceed the basket.",
+      "B2B buyers are price-driven or already tied to GRT.",
+      "Seasonal (summer), so it needs an off-season plan."
+     ],
+     "must_check_before_buying": [
+      "Only reconsider if a detailing studio signs a recurring written order. Otherwise do not proceed."
+     ]
+    },
+    {
+     "niche": "Compressor dehumidifiers and home-humidity products",
+     "score": 14,
+     "beats_host_kits": "no",
+     "verdict": "Reject as a business. Neptun, Megatek, Shpresa and Gjirafa50 sell 16 L units for EUR 145-200 with 24-month instalments, which is at or below what a small importer can land and deliver. Units are 13 kg, there is a 2-year compressor liability and the season is short. As a host-kit winter add-on it is fine, but buy locally against paid orders rather than importing.",
+     "key_reasons": [
+      "Contribution is negative per unit in B2C even at a EUR 100 buy price.",
+      "The best all-B2B case is still -EUR 175 to -250 in the stress test.",
+      "Short season (Oct-Mar), and bulky stock that sits unsold for 9 months.",
+      "Grey-imported units have no local service network, so one failed compressor removes the margin on 5-10 units."
+     ],
+     "must_check_before_buying": [
+      "Only as a pass-through add-on. Price it from Neptun or Megatek sale prices (Beko BDP010 at 12,999 ALL) with a service fee, taken from property managers with prepayment."
+     ]
+    },
+    {
+     "niche": "Home backup power (LiFePO4 power stations and folding solar panels)",
+     "score": 9,
+     "beats_host_kits": "no",
+     "verdict": "Reject. Each unit costs EUR 420-590 landed, so the budget buys only 4-6 units. The products are Class 9 dangerous goods for freight, couriers and warranty returns, duty is 10% unless a ruling says otherwise, and brand dealer access is unconfirmed. Brands discount heavily in the EU and Gjirafa50 and Foleja already stock EcoFlow and Anker. Under stress it loses EUR 270-895, and one warranty failure would wipe out the order.",
+     "key_reasons": [
+      "Most outages are short (minutes), and cheap substitutes exist (router UPS, Temu power banks, generators).",
+      "Dangerous-goods logistics and returns are the worst kind of complexity for a beginner.",
+      "Few high-value units mean one COD refusal or one defect is a large share of capital.",
+      "The '40 outages a year, worst in Europe' figure is unverified. OSHEE says outages are falling, and I found no official SAIFI figure."
+     ],
+     "must_check_before_buying": [
+      "Do not pursue it now. Revisit only with a confirmed dealer account, a binding ruling for HS 8504.40 at 0%, and pre-paid B2B orders."
+     ]
+    }
+   ],
+   "challenged_claims": [
+    {
+     "niche": "All six (stress tests)",
+     "claim": "Each dossier's single stress-test figure can be compared with the host-kit +EUR 100.",
+     "problem": "The dossiers treat unsold stock differently. Dehumidifier and EV (+112) and kitchen kits (+190) keep it as inventory. Power stations (-895) and water filters (+409) write it off. The car-care '-1,010' says 'counted at landed cost' but behaves like a write-off. Ranking on the headline numbers mixes these conventions.",
+     "corrected_view": "Approximate results on one basis. With stock written off: water about +409, EV -388, kitchen -416, power -895, car care about -1,010, dehumidifier well below -570. With stock kept: water about +990, kitchen +190, EV +112, power -273, dehumidifier -570. Restate the host-kit +EUR 100 on the same convention before any panel ranking."
+    },
+    {
+     "niche": "Water filtration",
+     "claim": "The stress test is +EUR 409, so the numbers work on paper.",
+     "problem": "About 21 of the 30 cartridge sets are assumed to sell in 6 months, partly to 'existing RO owners of other brands'. Ecosoft's confirmed 1,390 ALL/month plan already includes filter changes, and the beginner's own RO buyers will not need cartridges within 6 months. Ad cost of EUR 20 and 12% no-shows are also optimistic for a high-consideration installed product from an unknown brand.",
+     "corrected_view": "Without third-party cartridge sales and at the dossier's pessimistic costs, the 6-month stress test is around -EUR 200 to -300. This is a pre-sold B2B add-on for rental flats and cafes, not a stock-first business."
+    },
+    {
+     "niche": "Water filtration",
+     "claim": "No licence is needed to sell and install household filters.",
+     "problem": "This rests on finding no evidence of a licence. Installation is a service activity that touches building plumbing, with leak liability.",
+     "corrected_view": "Treat it as unverified until the QKB activity registration and any plumbing qualification rules are confirmed, and insurance is priced."
+    },
+    {
+     "niche": "Kitchen kits",
+     "claim": "50% of the 30 kits go B2B to hosts and property managers.",
+     "problem": "These are the same small group of buyers the host-kit plan already relies on. Counting their demand in both plans double-counts it. Buy prices are also estimates, and Korkmaz may route a small buyer to Arteg.",
+     "corrected_view": "Treat kitchen kits as a line on the host-kit order form (one customer, one pallet, one delivery), sized on deposits actually taken."
+    },
+    {
+     "niche": "EV charging gear",
+     "claim": "It roughly matches the benchmark on the stress test (+EUR 112 vs +EUR 100).",
+     "problem": "The figure keeps unsold stock and leaves out the cost of fire and electrical-safety liability and compatibility returns. The goods would come from Alibaba suppliers not yet vetted, by air.",
+     "corrected_view": "On money alone it is close (and -EUR 388 if stock is written off). After safety and support burden it ranks clearly below host kits for a beginner."
+    },
+    {
+     "niche": "Home backup power",
+     "claim": "Albania has about 40 outages a year, the worst in Europe, so demand for backup power is strong.",
+     "problem": "The dossier found no official 2024-2025 SAIDI/SAIFI figure, and my search found none either. OSHEE claimed in Dec 2025 that outages are falling. The examples cited (Jan 2026 Tirana, June 2024 regional) lasted minutes to about 30 minutes, which a router UPS or power bank covers.",
+     "corrected_view": "The need for multi-hour backup is unproven. Do not size any stock on blackout news spikes."
+    },
+    {
+     "niche": "Dehumidifiers",
+     "claim": "Its most useful part is an auto-restart dehumidifier plus hygrometer imported as a host-kit add-on.",
+     "problem": "Even all-B2B, the import loses money. Importing 13 kg units for a few winter add-on orders adds freight and warranty exposure for nothing.",
+     "corrected_view": "Offer it as a pass-through: buy from Neptun or Megatek on sale against a prepaid order and add a small service fee. Do not import."
+    }
+   ],
+   "combo_idea": "Kitchen kits combine best with host kits. They go to the same buyers (property managers and hosts in Tirana/Durres), on the same Turkish groupage pallet, with the same EUR.1 for 0% duty, and Denizli towel mills such as Hursan overlap with the host-kit textile supplier. Sell a 'rental flat starter pack' (bed sets, towels, lockbox, cookware set, 12 glasses) as one B2B order with a deposit. One broker fee and one freight charge then cover more value, which improves the host-kit margin. Off-season (Oct-Mar) fill: a winter damp-care add-on for empty rental flats (auto-restart dehumidifier plus hygrometer) bought locally on prepaid orders rather than imported. Later, an RO tap or filter-jug add-on for rental flats once the core business runs. Power stations, car care and EV gear go to different buyers or bring safety and dangerous-goods risk, so they do not combine well.",
+   "advice_to_beginner": "None of the six new niches beats host kits as a business of its own, so keep host kits as the plan. Use this research to make that plan bigger, not to replace it. The most useful find is the kitchen kit as a second line on the same Turkish pallet for the same people. Before ordering anything, ask the hosts and property managers you already know whether they want bedding plus kitchen in one 'rental flat starter pack', and take deposits. Order only what is pre-paid plus a small buffer, with an EUR.1 and 'Made in Turkey' confirmed on every item. Leave out anything that needs installing, carries a lithium battery, is a chemical that needs its own label, or plugs into a car. In those lines one mistake (a leak, a fire, a dangerous-goods refusal, a 2-year warranty claim) costs more than your whole first year's profit. If you want a winter product, resell a locally bought dehumidifier to your rental clients on prepayment rather than importing one. Count your hours each month. Revisit water filters or EV adapters only after the host-kit business has paid back its first pallet and you have a few repeat B2B customers asking for them."
+  },
+  {
+   "advisor": "Albanian consumer and social-commerce marketer (scored host kits 52)",
+   "ranking": [
+    {
+     "niche": "Electric-car charging gear (Type 2 to GB/T adapters, portable mode-2 chargers; wallboxes only made to order)",
+     "score": 46,
+     "beats_host_kits": "maybe",
+     "verdict": "This is the best stand-alone niche of the six, but it should be a narrow side line selling Type 2 to GB/T adapters and portable chargers, not a replacement for host kits. The buyer pain is sharp and easy to target, and there is more demand than the dossier claims. The market is small, buyers rarely come back, and car dealers could include the product with the car and close the gap overnight.",
+     "key_reasons": [
+      "My spot check found demand the dossier understates. A Romanian report based on official data (gadget.ro) says about half of new cars sold in Albania in Jan-May 2026 were BYDs, roughly 4,000 units, and that all of them are the Chinese-market version. Bestsellingcarsblog puts BYD at about 40% of the 8,547 new cars sold in 2025. China-spec cars have GB/T inlets, so most new BYD owners need an adapter to use Type 2 public or OSHEE chargers.",
+      "The buyers are easy to reach and the product is easy to show. BYD and EV owner Facebook groups and MerrJep are the natural channels, and a 15-second video of an adapter turning a 'cannot charge' into 'charging' sells itself. Car lots selling grey-import Chinese EVs are an obvious B2B channel, which suits a part-timer with a day job.",
+      "It is a fit-it-or-not purchase, so COD refusals should run below the usual B2C rate once the buyer has confirmed by phone that the adapter fits their car. A typical order is EUR 110, well above the EUR 22 Temu duty-free limit, so Temu and AliExpress lose their price edge.",
+      "It sells all year with no seasonal peak, which offsets the summer peak of host kits.",
+      "The weak points: each owner buys once, so there are no repeat sales. AnGroup already sells the adapter at ALL 13,300 and Konekta sells portable chargers. If one car lot starts bundling the adapter with the car, a whole buyer group disappears. One overheating incident would destroy trust in a small word-of-mouth market."
+     ],
+     "must_check_before_buying": [
+      "Ask 3-5 BYD sellers and car lots in Tirana whether new China-spec BYDs already come with a Type 2 to GB/T adapter or a GB/T portable charger. If they do, B2C demand collapses.",
+      "Check whether OSHEE public AC chargers have tethered cables or Type 2 sockets. That decides which adapter direction and current rating sell.",
+      "Order paid samples from 2 suppliers and test them on a real BYD Seagull, Song Plus or Sealion with a partner electrician. Get IEC 62196 test reports and CE documents.",
+      "Before ordering, pre-sell at least 10 adapters through owner groups and 1-2 car lots with deposits.",
+      "Get product-liability insurance quotes and put Albanian-language safety labels on every unit."
+     ]
+    },
+    {
+     "niche": "Turkish-made home goods sold as 'new apartment' kitchen starter kits (cookware + Pasabahce glassware)",
+     "score": 43,
+     "beats_host_kits": "no",
+     "verdict": "This does not work as its own business. On Instagram B2C it is a generic, crowded category, and the kit price is above what a buyer can put together locally. It is a very good add-on to host kits: the same buyers, the same Turkish groupage pallet, and the same broker fee.",
+     "key_reasons": [
+      "Turkish brands carry no search interest: 'korkmaz' scores 0 in Google Trends Albania. Shoppers buy cookware on price and looks, not on the Turkish label.",
+      "B2C pricing does not hold up. A buyer can build the 'basic kit' locally for about ALL 7,800 (Novahome granite 4+1 set at ALL 4,990 plus two Arteg Pasabahce 6-glass sets at ALL 1,399), against the planned ALL 10,990. Large Instagram home-goods pages (about 133k followers) already sell granite sets with COD.",
+      "For B2B the kit solves the same 'furnish the rental flat in one order' problem as host kits. A property manager who buys linen and lockboxes will add a kitchen pack on the same invoice, and one delivery serves both.",
+      "Glass breaks in transit and in courier delivery, which leads to unhappy customers and refused COD parcels. This category produces bad reviews quickly.",
+      "Repeat purchase is low: one kit per flat, with occasional glass replacement."
+     ],
+     "must_check_before_buying": [
+      "Get real wholesale quotes from Polat Cam and Marmara Zuccaciye. Korkmaz retail in Turkey is TL 7,999 (about EUR 144) for the Pera 8-piece and TL 3,849 (about EUR 69) for the Tombik Jr 6-piece, so EUR 60 for an 8-piece mid-line set looks optimistic.",
+      "Check that every SKU is marked 'Made in Turkey' and that the supplier issues EUR.1 or an origin declaration. Without them, duty is 15% on steel and 10% on glass.",
+      "Ask Arteg/Blunavi for a trade price as a local backup. If their trade price is close to the import cost, buy locally and skip the import paperwork.",
+      "Pre-sell the kitchen pack to the same 5-10 host-kit customers before adding it to the pallet. Do not stock for B2C.",
+      "Get food-contact declarations, and test double-boxing of glass with the courier."
+     ]
+    },
+    {
+     "niche": "Water filtration with installation (under-sink RO, whole-house sediment filters, cartridge plan) in Tirana/Durres",
+     "score": 36,
+     "beats_host_kits": "no",
+     "verdict": "The consumer pain is the strongest of the six, but this is a service business against trusted incumbents, and it clashes with a day job. Sell cartridges and point-of-use filters to hosts and cafes as an add-on rather than building an installation business.",
+     "key_reasons": [
+      "The need is real and people already pay for it: bottled water at about ALL 36,400 a year, news on water rationing in Tirana, and doubts about whether tap water is safe to drink. It is a good story for videos, such as a before/after TDS meter test.",
+      "Few people search for it (Google Trends near 0), so leads come from word of mouth or paid ads. The buyer has to let a stranger drill under their sink, and trust in an unknown brand is the main barrier. Ecosoft/Teoren, Albafilters, Albuji and Aquafilter already offer free installation, water tests and long warranties.",
+      "The price ceiling is lower than the plan assumes. TeorenShop lists an Ecosoft 6-stage RO with mineralizer, 75 GPD membrane and a spare filter set at ALL 13,900 (about EUR 155). The planned ALL 24,000 installed price is hard to defend unless the installation is clearly worth the difference.",
+      "Cartridge refills give the repeat revenue host kits lack, but only after 6-12 months, and they need a reminder system.",
+      "Installation appointments in the evening or at weekends, plus liability for leaks into the flat below, are a heavy load for a part-timer."
+     ],
+     "must_check_before_buying": [
+      "Call Teoren/Ecosoft Albania and Albafilters as a mystery shopper. Find out exactly what ALL 13,900 and ALL 1,390 a month include (installation, filter changes, who owns the unit).",
+      "Ask 10 hosts and 5 cafes whether they would pay for an RO tap or filtered-water jug service, and at what price.",
+      "Get leak-liability insurance quotes and agree a plumber's fee and backup plumber before quoting any price.",
+      "Test a sample RO unit for low water pressure on a roof-tank flat."
+     ]
+    },
+    {
+     "niche": "Premium car care and detailing products (snow foam, sealants, microfibre, foam lances, 5 L canisters)",
+     "score": 20,
+     "beats_host_kits": "no",
+     "verdict": "No. The premium end already has official distributors, car washes buy on price, and the DIY home-wash habit this plan relies on hardly exists in Tirana flats.",
+     "key_reasons": [
+      "Most Albanian drivers live in apartments with no driveway, outdoor tap or space for a pressure washer, and in parts of Tirana water runs about 5 hours a day. A full wash at a lavazh costs EUR 6-10, so a EUR 79 home-wash kit with a foam lance has a very small B2C audience.",
+      "Enthusiasts are already served by GRT (official Koch-Chemie distributor), Top Auto Parts (Sonax), ADBL and K2 on GjirafaMall, and Instagram resellers such as @albaniadetailingofficial. A newcomer has no better price and no unique brand.",
+      "Detailing videos do well on TikTok, but the people watching them mostly buy from the shops already filming them.",
+      "Single items lose money once COD costs are paid, and many chemicals can't be shipped cheaply under ADR rules."
+     ],
+     "must_check_before_buying": [
+      "Only reconsider this if 3+ detailing studios commit to an exclusive EU or Turkish brand that is not already sold in Albania.",
+      "Check CLP/SDS labelling cost and ADR status for each SKU before any quote."
+     ]
+    },
+    {
+     "niche": "Home backup power: portable LiFePO4 power stations and folding solar panels",
+     "score": 20,
+     "beats_host_kits": "no",
+     "verdict": "No. Each unit is expensive against an average wage of about EUR 1,000, most outages are short, cheap substitutes exist, and Gjirafa50 already sells the brands at prices close to EU levels.",
+     "key_reasons": [
+      "A EUR 600-900 power station costs more than half to most of a month's gross wage. Buyers take time to decide and compare prices on Gjirafa50, Trendyol or with relatives abroad. COD refusals on high-priced parcels lock up cash.",
+      "Most outages last minutes, so a router UPS, a power bank from Temu or a fuel generator ('gjenerator ne shitje' is the top search) covers the need for far less money.",
+      "The strongest pitch is keeping the water pump running for hosts, but a pump plus a stand-alone UPS is cheaper and the local plumber or electrician already sells it.",
+      "The price gap is small: Gjirafa50 sells the EcoFlow River 2 Max at ALL 54,890 (about EUR 611), and Trendyol lists it at about EUR 560."
+     ],
+     "must_check_before_buying": [
+      "Do not buy stock. Only consider made-to-order B2B with a 50% deposit after a dealer account and an HS 8504.40 (0% duty) ruling are confirmed."
+     ]
+    },
+    {
+     "niche": "Compressor dehumidifiers and home-humidity products for damp coastal and new-build flats",
+     "score": 17,
+     "beats_host_kits": "no",
+     "verdict": "No as a business: Neptun, Megatek and Shpresa sell at or below EU retail with 24-month instalments, and the B2C model loses money. Keep only hygrometers and moisture absorbers as a low-cost winter add-on for hosts.",
+     "key_reasons": [
+      "A buyer in a damp flat walks into Neptun and gets a branded Beko or Ariston with warranty and instalments for ALL 13,000-17,000. An unknown Instagram seller at the same price with COD has nothing extra to offer.",
+      "The units weigh about 13 kg, so courier costs and refusals hurt, and the season runs October to March only.",
+      "Mould and condensation are popular topics on Telegrafi, so a winter 'damp check' content series would draw interest. A cheap hygrometer plus absorber bundle can earn a little from that.",
+      "A failed compressor under the 2-year seller liability, with no service network, can wipe out the profit on the whole order."
+     ],
+     "must_check_before_buying": [
+      "Only as a host-kit add-on: ask property managers whether they would pay for a winter damp pack (hygrometer + absorbers, dehumidifier only on paid order with auto-restart). Confirm the HS 8479.89 classification if any dehumidifier is ever imported."
+     ]
+    }
+   ],
+   "challenged_claims": [
+    {
+     "niche": "EV charging gear",
+     "claim": "The share of GB/T-port cars is only inferred and not measured; EVs are 13.5% of first registrations, so the market is small.",
+     "problem": "The dossier undercounts China-spec cars. Trade press based on official data says about half of new cars sold in Jan-May 2026 were BYDs, roughly 4,000 units, all of them the Chinese-market version. Bestsellingcarsblog puts BYD at about 40% of 2025 new-car sales. The 13.5% figure mixes used imports into the total, and zero-km EV share was about 40% in 9M 2025 (57% BEV in Oct 2025).",
+     "corrected_view": "GB/T demand from new owners is much larger than the dossier assumes, which favours adapters. The real risk is that dealers already supply an adapter or a GB/T portable charger with the car, and that must be checked before buying."
+    },
+    {
+     "niche": "Water filtration",
+     "claim": "Ecosoft/Teoren rents an installed RO system with filter changes for 13,900 ALL/yr prepaid.",
+     "problem": "The TeorenShop page I fetched is a product listing: the RO module, tank, tap, a spare filter set and a Filmtec membrane for 13,900 ALL. It does not mention installation, service or a rental contract, and it shows both 'sold out' and 'in stock'.",
+     "corrected_view": "Either way, a well-known brand sells RO hardware for about EUR 155. That caps the price harder than the model allows, and the planned 24,000 ALL installed price needs a strong installation and service story."
+    },
+    {
+     "niche": "Turkish kitchen kits",
+     "claim": "A basic kit at 10,990 ALL and a premium kit at 17,900 ALL can sell 50% B2C via Instagram/Facebook COD.",
+     "problem": "A buyer can assemble the basic kit from local shops for about 7,800 ALL (a Novahome granite 4+1 set at 4,990 plus two Arteg Pasabahce 6-glass sets at 1,399). Turkish brand names have no search interest, and big Instagram home pages already sell these products with COD.",
+     "corrected_view": "Treat it as a B2B convenience pack for hosts and property managers, priced into the host-kit order. Drop or minimise the B2C share."
+    },
+    {
+     "niche": "Turkish kitchen kits",
+     "claim": "A Korkmaz mid-line 8-piece stainless set can be bought for about EUR 60.",
+     "problem": "Korkmaz sets retail in Turkey at TL 7,999 for the Pera 8-piece (about EUR 144) and TL 3,849 for the Tombik Jr 6-piece (about EUR 69) at MediaMarkt TR. A wholesale price of EUR 60 for an 8-piece seems only possible on the cheapest lines.",
+     "corrected_view": "Budget EUR 75-95 for the premium set, or use cheaper unbranded Turkish stainless. The pessimistic case (stress test about -EUR 90) is more likely than the base case."
+    },
+    {
+     "niche": "Car care",
+     "claim": "A EUR 79 home-wash starter kit with a foam lance can sell B2C on Instagram/TikTok.",
+     "problem": "The plan ignores how Albanians actually wash cars. Most urban owners live in apartments with no hose, driveway or pressure washer, Tirana has water only a few hours a day in places, and a lavazh wash costs EUR 6-10.",
+     "corrected_view": "The DIY audience is a small enthusiast group already served by GRT, Sonax and Instagram resellers, so B2C demand is overstated."
+    },
+    {
+     "niche": "Dehumidifiers",
+     "claim": "Gjirafa50 absorbers marked 'E shitur' show steady low-ticket demand.",
+     "problem": "'E shitur' can simply mean sold out or out of stock on a listing. It shows neither volume nor how often items sell.",
+     "corrected_view": "Treat it as weak evidence. The real demand signal is the big chains stocking 10+ models each season, which is also the reason a newcomer cannot compete."
+    },
+    {
+     "niche": "Home backup power",
+     "claim": "Albanians cannot buy cheaply from the brand because the EcoFlow EU store does not ship to Albania.",
+     "problem": "Albanian buyers have other routes: Trendyol (River 2 Max about EUR 560), relatives in Italy and Greece, and Gjirafa50 at about EUR 611. The local price gap is around 10%, not a protected margin.",
+     "corrected_view": "There is no real pricing gap for a small dealer, and price-checking by buyers will squeeze any markup."
+    }
+   ],
+   "combo_idea": "The best fit is a Turkish 'rental-flat kitchen pack' (granite or stainless set, Pasabahce glasses, matching Turkish towels and bath mats). Add it to the same Turkish groupage pallet as the host-kit linen. It goes to the same property managers on the same invoice and shares the broker, scanning fee and EUR.1 paperwork. It raises the average B2B order and is pre-sold, not stocked for Instagram. For the winter off-season, offer a 'damp pack' for empty rental flats (hygrometer plus moisture absorbers, with an auto-restart dehumidifier only on paid order) and an RO tap or filtered-water jug option for hosts and cafes. EV adapters do not share buyers with host kits, but they sell all year and could be a second B2B side line through car lots once host kits are running.",
+   "advice_to_beginner": "None of the six new niches beats host kits, so keep host kits as the main business. The cheapest way to grow is to sell more to the same property managers. Add a pre-sold Turkish kitchen pack to the same Turkish pallet, and offer a small winter damp pack so you have something to sell in the off-season. Don't start Instagram B2C for cookware, dehumidifiers, power stations or car care: chains, Gjirafa50 and Temu already win on price, trust and instalments. If you want a second line, EV adapters are the only one with a sharp, easy-to-reach pain, because new BYDs in Albania are China-spec with GB/T sockets. Before spending a euro, ask five BYD sellers whether they already include the adapter. Then test two samples on a real car and collect at least 10 deposits through EV owner groups and one or two car lots. Only then order about 15 units."
+  },
+  {
+   "advisor": "Skeptical CFO / unit-economics auditor (scored host kits 52, stress test about +EUR 100)",
+   "ranking": [
+    {
+     "niche": "Water filtration with installation (under-sink RO, whole-house sediment filters, cartridge plan) in Tirana/Durres",
+     "score": 46,
+     "beats_host_kits": "maybe",
+     "verdict": "Best unit economics of the six on paper, but only as a made-to-order, deposit-backed service. Not yet proven to beat host kits once the cartridge timing, ad cost and incumbent pricing are fixed.",
+     "key_reasons": [
+      "I reproduced the dossier: cash EUR 2,294, +EUR 2,055 if all sold, stress +EUR 409. Duty is 0% on 842121 and 842199 (WITS 2022, re-queried).",
+      "The stress test is on a stock-written-off basis. Counting unsold stock at cost, as the EV and kitchen dossiers do, it is +EUR 959. On the same basis my pessimistic case (RO 22,000 ALL, plumber EUR 40, ads EUR 45 per RO, sets EUR 10 ad) is still +EUR 337 at 70% of every line.",
+      "Most of the upside rests on 30 cartridge sets sold within 6 months. Your own RO buyers need no replacement until month 6-12. With realistic volumes (8 RO, 10 sets, 5 whole-house, 4 two-packs) the result falls to about EUR 0 with stock at cost, or about -EUR 890 if unsold stock is written off.",
+      "The price anchor is hostile. Teoren installs a 6-stage RO with a year of filters for 13,900 ALL, while the plan charges 24,000 ALL up front, 73% more in year 1. Ecosoft offers a 30-day free trial. Leads will cost more than EUR 20 per installed sale when Google Trends is near 0.",
+      "Hidden costs: about 40 h of plumbing visits, leak liability in apartments, 2-year seller liability on installed kit, and dependence on one plumber."
+     ],
+     "must_check_before_buying": [
+      "Get written quotes from Aquafilter Europe, Aquamab or AFG for 12 RO units, cartridge sets and Big Blue housings, and check whether Aquafilter routes you to Aquafilter Albania.",
+      "Get a plumber's fixed per-install price in writing, plus a backup plumber, and a quote for liability insurance.",
+      "Pre-sell at least 6 installs on deposit (for example to rental hosts, cafes and offices you know) before ordering. If you cannot beat or match Teoren's 13,900 ALL year-1 offer, stop.",
+      "Confirm the actual terms of the Teoren and Ecosoft subscriptions (who owns the hardware, minimum term).",
+      "Check that the 'set fits other brands' claim holds for Ecosoft and Aquafilter housings, because the 30-set volume depends on it.",
+      "Ask a broker to confirm 0% on 8421.21 and 8421.99 for 2026, and get NSF/WRAS-type test reports."
+     ]
+    },
+    {
+     "niche": "Turkish-made home goods sold as 'new apartment' kitchen starter kits (cookware + Pasabahce glassware)",
+     "score": 43,
+     "beats_host_kits": "no",
+     "verdict": "Loses as a standalone business but is the best add-on: same buyers (hosts, property managers) and same Turkey groupage and paperwork as the host kits.",
+     "key_reasons": [
+      "I reproduced it: kit landed cost EUR 55.7 (basic) and EUR 90.8 (premium), +EUR 907 contribution if all sold, stress +EUR 185 with stock at cost, -EUR 422 if unsold stock is written off.",
+      "The margin is fragile. With buy prices 20% higher and EUR 16 ads per B2C sale, the stress test is -EUR 83 (-EUR 118 if only 30% sells B2B). Without valid EUR.1 (15% on 732393 and 10% on 701337, both confirmed on WITS) it is +EUR 44.",
+      "The Korkmaz buy price of EUR 60 is optimistic for mid-line sets. Turkish retail is about 6,400 TL for Tombik 8-pc (Koctas/Teknosa) and 4,499-6,100 TL for Perla. Only Perla-class lines fit EUR 60; expect EUR 70-80 through a wholesaler such as Polat Cam.",
+      "Single items lose money (a Pasabahce set sold alone is -82%), so the plan only works as bundled kits, mostly B2B.",
+      "Korkmaz and Pasabahce are already distributed by Arteg/Blunavi; the only edge is the bundle and convenience. Glass breakage stays with the buyer."
+     ],
+     "must_check_before_buying": [
+      "Get a Polat Cam or Marmara Zuccaciye quote per SKU, and a 'Made in Turkey' confirmation plus EUR.1 for every SKU.",
+      "Check whether the 8-pc set at EUR 60 is Perla-class rather than Tombik.",
+      "Get supplier food-contact declarations of compliance for coated aluminium and glass.",
+      "Pre-sell at least 10 kits to the host-kit customers before ordering.",
+      "Ship only on the same pallet as the host kits."
+     ]
+    },
+    {
+     "niche": "Electric-car charging gear (Type 2 to GB/T adapters, portable mode-2 chargers; wallboxes made to order)",
+     "score": 36,
+     "beats_host_kits": "no",
+     "verdict": "Roughly matches host kits only under base assumptions and turns clearly negative with realistic freight and ad costs. The safety liability is far higher than for towels.",
+     "key_reasons": [
+      "I reproduced it: adapter landed EUR 38.4, charger EUR 109.1, +EUR 353 if all sold, stress +EUR 112 with stock at cost (-EUR 388 if written off). Duty is 0% on 853669, 850440 and 854442 (WITS confirmed).",
+      "Pessimistic case (air express EUR 10/kg rather than 7, buy prices +20%, adapter cut to 8,900 ALL to compete, EUR 25 ads per B2C sale): adapter contribution EUR 12.6, portable charger -EUR 4.7, stress -EUR 351 (about -EUR 960 if written off).",
+      "All buy prices come from unquoted Alibaba listings. The adapter price ceiling is set by AliExpress (about EUR 50-85 delivered with VAT) and AnGroup's 13,300 ALL.",
+      "Zero duty means any car lot or electrician can import the same goods directly, so B2B buyers can become competitors.",
+      "There is fire and compatibility liability (CC/CP signalling, 1- versus 3-phase) and a support load for someone with a day job. The GB/T share of the fleet is not measured."
+     ],
+     "must_check_before_buying": [
+      "Get a firm DDP or air-express quote China to Tirana for 35 kg.",
+      "Order paid samples and get the IEC 62196 and IEC 62752 test reports.",
+      "Get pre-orders from 2-3 Chinese-EV import car lots.",
+      "Count how many GB/T-port cars those lots actually sell each month.",
+      "Get product-liability insurance cost."
+     ]
+    },
+    {
+     "niche": "Premium car care and detailing products (own-brand home-wash kits + 5 L B2B canisters)",
+     "score": 18,
+     "beats_host_kits": "no",
+     "verdict": "Loses. The stress number in the dossier is overstated, but the corrected figure is still negative, and the official distributors (GRT/Koch, Top Auto Parts/Sonax) already serve the B2B buyers.",
+     "key_reasons": [
+      "The dossier's -EUR 1,010 stress figure writes off unsold stock, even though its notes say stock is 'counted at landed cost'. Recomputed with stock at cost, it is about -EUR 296 (including the EUR 100 launch cost). That is still clearly negative.",
+      "Kit contribution is only EUR 6.71 (10%). Any slip in courier, ads or refusals wipes it out, and single items lose 22-83%.",
+      "Heavy, low-value liquids, Albanian CLP labels and SDS, and ADR rules on the most profitable SKUs (sealants, wheel cleaners, aerosols).",
+      "Lavazh B2B buyers pay about EUR 50 for 20 kg of bulk shampoo, so premium canisters have no volume."
+     ],
+     "must_check_before_buying": [
+      "Do not proceed. If it is revisited, get Setkim or Interwax private-label MOQs and EUR.1, and an SDS translation quote."
+     ]
+    },
+    {
+     "niche": "Compressor dehumidifiers and home-humidity products",
+     "score": 12,
+     "beats_host_kits": "no",
+     "verdict": "Loses. Albanian chains sell at or below EU retail with instalment plans, so a small importer has negative contribution even with 0% duty.",
+     "key_reasons": [
+      "Duty is 0% under 847989 (WITS confirmed); under 841582 it would be 10% (also confirmed). The classification risk is real but does not matter, because the numbers are negative anyway.",
+      "Neptun sells a Beko 10 L for 12,999 ALL (EUR 120.6 net of VAT). BigBuy's cheapest 12 L is about EUR 102 before freight, courier and warranty.",
+      "Dossier: -EUR 168 if all sold, stress -EUR 570 (contribution on sold units, stock kept at cost; about -EUR 1,300 if written off). I agree with the direction.",
+      "The only workable part is a made-to-order auto-restart unit plus hygrometer for property managers' empty winter flats, bought against a paid order."
+     ],
+     "must_check_before_buying": [
+      "Do not stock. If a property manager pre-pays, source one unit from BigBuy or a local wholesaler per order."
+     ]
+    },
+    {
+     "niche": "Home backup power: portable LiFePO4 power stations and folding solar panels",
+     "score": 10,
+     "beats_host_kits": "no",
+     "verdict": "Loses badly. Few high-value units carry dangerous-goods freight, 10% duty and warranty risk, and EU street prices cap the Albanian price.",
+     "key_reasons": [
+      "Duty on 850760 is 10% (WITS confirmed). The 0% alternative under 8504.40 is unlikely: UK advance rulings classify lithium power banks under 8507.60, and the battery gives the unit its essential character. Plan on 10%.",
+      "Dossier stress test: -EUR 890 written off, -EUR 273 with stock at cost. Contribution is only about 13% on a EUR 890 sale, and the panel is negative.",
+      "Over 100 Wh these are Class 9 dangerous goods. Warranty returns mean shipping DG back to the EU, with no service centre in Albania.",
+      "Gjirafa50 and Foleja already stock EcoFlow and Anker SOLIX; outages are mostly short; substitutes (UPS units, generators, Temu power banks) are cheap."
+     ],
+     "must_check_before_buying": [
+      "Do not proceed. At most, act as a referral or agent for a pre-paid B2B order once a dealer account and the DG freight cost are confirmed."
+     ]
+    }
+   ],
+   "challenged_claims": [
+    {
+     "niche": "All six niches",
+     "claim": "Stress-test figures are comparable with each other and with the host-kit +EUR 100",
+     "problem": "The dossiers use different conventions. Water (+409) and car care (-1,010) write off unsold stock. EV (+112), kitchen (+190) and dehumidifier (-570) keep it at cost. Power reports both. The ranking therefore mixes bases.",
+     "corrected_view": "On a stock-at-cost basis: water +959 (pessimistic +337, realistic mix about 0), kitchen +185, EV +112, car care about -296, power -273, dehumidifier -570. Written off: water +409, EV -388, kitchen -422, power -890, car care -1,010, dehumidifier about -1,300. The host-kit +EUR 100 must be restated on the same basis before any niche is said to beat it."
+    },
+    {
+     "niche": "Premium car care",
+     "claim": "Stress test -EUR 1,010 with 'unsold stock counted at landed cost'",
+     "problem": "The arithmetic only reproduces if all unsold stock is written off (sold revenue minus variable costs minus the landed cost of all 58 units minus 450 minus 100).",
+     "corrected_view": "With stock at cost it is about -EUR 296. That is still negative and still loses to host kits, but by less."
+    },
+    {
+     "niche": "Water filtration",
+     "claim": "30 annual cartridge sets sold within the 6-month window, and an ad cost of EUR 20 per installed RO sale",
+     "problem": "Your own RO buyers do not need replacements until month 6-12, and selling to owners of other brands needs a fitment check. Search volume is near 0, and incumbents offer free trials, so EUR 20 per high-consideration install is optimistic.",
+     "corrected_view": "With 8 RO, 10 sets, 5 whole-house filters, 4 two-packs, plumber EUR 40 and ads EUR 45 per RO, the result is about EUR 0 with stock at cost (about -EUR 890 if written off). The niche works only if installs are pre-sold."
+    },
+    {
+     "niche": "Water filtration",
+     "claim": "The offer is competitive because over 3 years it costs less than Ecosoft's subscription (37,500 against 41,700 ALL)",
+     "problem": "Buyers compare year-1 cash. Teoren installs a 6-stage RO with a year of filters for 13,900 ALL; the plan asks 24,000 ALL.",
+     "corrected_view": "Expect to match a sub-15,000 ALL year-1 entry price or to sell mostly B2B (rentals, offices), which lowers the RO margin. Model RO at 18,000-20,000 ALL."
+    },
+    {
+     "niche": "Kitchen kits",
+     "claim": "Korkmaz mid-line 8-pc stainless set buy price EUR 60",
+     "problem": "Turkish retail for Tombik 8-pc is about 6,400 TL (Koctas, Teknosa), roughly EUR 115 at 55.6 TL/EUR, or about EUR 96 ex-KDV. EUR 60 is distributor pricing, and Korkmaz already has an Albanian distributor (Arteg/Blunavi).",
+     "corrected_view": "Use EUR 70-80 through a wholesaler, or the Perla line (from 4,499 TL). With buy prices +20% and realistic ads, the stress test is -EUR 83."
+    },
+    {
+     "niche": "Kitchen kits",
+     "claim": "Duty 0% on Turkish origin",
+     "problem": "This is true only with valid EUR.1 or an origin declaration and genuine Turkish manufacture. Without it the duty is 15% on stainless (732393) and 10% on glass (701337), both confirmed on WITS.",
+     "corrected_view": "Without EUR.1 the stress test falls from +185 to about +44. Make 'Made in Turkey' plus EUR.1 per SKU a condition of payment."
+    },
+    {
+     "niche": "Power stations",
+     "claim": "A power station could be classed under 8504.40 at 0% duty",
+     "problem": "National rulings (UK advance tariff rulings) put lithium power banks under 8507.60, the battery being the essential character, and no ruling for 8504.40 was found.",
+     "corrected_view": "Budget 10% duty. A binding ruling would most likely confirm 8507.60."
+    },
+    {
+     "niche": "EV charging",
+     "claim": "Air express from China at EUR 7/kg, and adapter and charger buy prices of EUR 30 and EUR 85",
+     "problem": "Both are unquoted estimates. A 35 kg air-express shipment from China usually costs more per kg, and Alibaba listing prices often exclude CE paperwork and packaging.",
+     "corrected_view": "At EUR 10/kg, buy prices +20% and an adapter price cut to 8,900 ALL, the stress test is -EUR 351. Get a DDP quote before deciding."
+    },
+    {
+     "niche": "EV charging",
+     "claim": "EVs are 44% of new-car registrations",
+     "problem": "Monitor data shows 13.5% of all first registrations (new plus used) in Jan-Apr 2026, and the share of cars with GB/T ports, which is what drives adapter demand, is not measured.",
+     "corrected_view": "Size demand on car-lot pre-orders, not on registration share."
+    }
+   ],
+   "combo_idea": "Kitchen kits on the same Turkey groupage pallet as the host kits. They go to the same buyers (hosts and property managers furnishing flats), use the same Denizli/Istanbul sourcing route, and share one broker fee, one scanning fee and the EUR.1 paperwork. Sharing saves about EUR 160 of the kit's EUR 242 fixed cost and most of its EUR 300 freight, which improves the kit stress test by about EUR 300. Offer it as an optional kitchen pack in the host-kit offer, pre-sold on deposit. Second, a made-to-order service line for the same B2B accounts: an under-sink RO or jug filter for rental flats and cafes, plus an auto-restart dehumidifier with hygrometer for empty winter flats (Oct-Mar). It helps fill the host kits' off-season, but only against paid orders, never as stock.",
+   "advice_to_beginner": "None of the six new niches clearly beats the host kits once the numbers are put on the same basis and stressed. Dehumidifiers, power stations and car care lose money even on the dossiers' own figures. EV charging gear only breaks even if every estimated buy price and freight rate turns out right, and the fire and compatibility risk is not worth it for a part-timer. Keep the host kits as the core business. Pre-sell them to people you know, and before ordering restate the +EUR 100 stress test with unsold stock counted at cost, so it compares fairly with these figures. Add Turkish kitchen packs only on the same pallet and only against deposits. Treat water filtration as a later experiment: first get one plumber's fixed price and 5-6 paid installs from your host and property-manager contacts, and price against Teoren's 13,900 ALL year-1 offer. If that works, cartridge refills can give you repeat income in winter. Do not spend money on any line until you have a written supplier quote, origin proof where duty depends on it, and paid demand."
+  }
+ ]
+}
