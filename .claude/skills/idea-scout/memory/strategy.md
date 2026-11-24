@@ -1,28 +1,30 @@
 # Idea sources (self-updated each run)
 
 Yield = ideas scoring ≥ 50 ÷ times used (a use = one run that drew ideas from the source). Drop at 0 after 3 uses.
-Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in run 3). Rule 4 says to compare with host kits ≈ 78 for real quality.
+Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in run 3, 8 of 9 in run 4). Rule 4 says to compare with host kits ≈ 78 for real quality.
 
 ## Sources
 
 | Source | Uses | Ideas ≥ 50 | Yield | Notes |
 |---|---|---|---|---|
-| Albanian demand drivers (tourism, construction, outages, EVs, water, diaspora, cafés, cars) | 3 | 3 | 1.0 | run 1: scrubs via dental tourism (67), school uniforms (45, no demand); run 2: interior doors via building permits (68), raki stills (45, no data, legal risk); run 3: glamping bell tents (71; Booking lists 44 glamping sites) |
+| Albanian demand drivers (tourism, construction, outages, EVs, water, diaspora, cafés, cars) | 4 | 3 | 0.75 | run 1: scrubs via dental tourism (67), school uniforms (45, no demand); run 2: interior doors via building permits (68), raki stills (45, no data, legal risk); run 3: glamping bell tents (71; Booking lists 44 glamping sites); run 4: wood pellets for winter heating (45, no demand data, imports tiny) |
 | Trendyol best-sellers / "çok satanlar" in home, HoReCa, auto, textiles | 1 | 0 | 0.0 | run 2: washable rugs (42; Megateksa and Temu already sell them). B2C best-sellers tend to be Temu items: look in Trendyol's B2B/HoReCa categories instead |
-| Skroutz.gr best-sellers and category growth | 0 | 0 | – | seed |
+| Skroutz.gr best-sellers and category growth | 0 | 0 | – | seed; unused for 4 runs: try next run (Skroutz shows Greek B2B listings, e.g. tomato clips 500 pcs) |
 | Amazon.it best-sellers (Casa e cucina, Auto, Fai da te) | 0 | 0 | – | seed |
 | Gjirafa50 / GjirafaMall Kosovo categories missing on gjirafa50.al | 0 | 0 | – | seed |
 | TikTok Shop EU best-sellers (Lengow reports) | 0 | 0 | – | seed |
-| Turkish exporter associations and trade fairs (DENIB, İTKİB, Zuchex, Evteks, Hotel Equipment fairs) | 0 | 0 | – | seed |
+| Turkish exporter associations and trade fairs (DENIB, İTKİB, Zuchex, Evteks, Hotel Equipment fairs) | 0 | 0 | – | seed; unused for 4 runs: try next run |
 | Success-stories playbook and stories (what small sellers succeeded with) | 1 | 1 | 1.0 | run 3: custom football kits from S-023 (71); FSHF gives clubs free equipment, so check for free/state supply |
-| Albanian business news (Monitor.al, Euronews Albania) on new demand | 0 | 0 | – | seed |
+| Albanian business news (Monitor.al, Euronews Albania, AIDA export brochures) on new demand | 1 | 2 | 2.0 | run 4: MAP herb-export sacks (78, AIDA Biofach 2026: >EUR 60m, 40-50 exporters), takeaway containers via Wolt growth (75). AIDA fair brochures also name exporters (Fragoland) |
 | Buyer problems: host, café, builder, car-wash, barber Facebook groups and forums | 3 | 3 | 1.0 | run 1: paper cups (72), barber supplies (64); run 2: wedding venues (63), gyms (45, no data); run 3: pastry boxes (45, no pastry-shop count); forums not reached, only web search. Needs a buyer count (INSTAT enterprises by NACE) to pass rule 5 |
 | Adjacent products for host-kit buyers (same Turkish supplier, same pallet) | 2 | 3 | 1.5 | run 1: bathrobes/slippers (72), table linen (63); run 2: peshtemal for beach clubs (74) |
-| INSTAT agriculture and livestock statistics (olives, bees, fruit, livestock, greenhouses) | 3 | 9 | 3.0 | run 1: beekeeping (79), olive harvesters (68); run 2: glass jars (81), winemaking (74), milking (66); run 3: crates (78), greenhouse film (75), drip tape (75), pruning shears (70). Best source: also look at the producers' consumables (packaging, spares) |
-| INSTAT building permits (quarterly) | 1 | 1 | 1.0 | new run 2: demand evidence for builder-supply ideas (890 residential permits in 2025) |
-| Follow-on consumables for shortlisted producer niches (what the same buyers buy every season) | 2 | 2 | 1.0 | run 2: honey/olive-oil jars from I-036 (81); run 3: wine corks and capsules from I-038 (77) |
+| INSTAT agriculture and livestock statistics (olives, bees, fruit, livestock, greenhouses) | 4 | 11 | 2.75 | run 1: beekeeping (79), olive harvesters (68); run 2: glass jars (81, now 73), winemaking (74, now 66), milking (66, now 58); run 3: crates (78), greenhouse film (75), drip tape (75), pruning shears (70, now 62); run 4: berry punnets (83), anti-hail nets (56). Best source: also look at the producers' consumables (packaging, spares) |
+| INSTAT building permits (quarterly) + public tender specs (openprocurement.al) | 2 | 2 | 1.0 | run 2: interior doors (68); run 4: scaffold netting (78; tender specs require netting on all scaffolding) |
+| Follow-on consumables for shortlisted producer niches (what the same buyers buy every season) | 3 | 4 | 1.33 | run 2: honey/olive-oil jars from I-036 (81, now 73); run 3: wine corks and capsules from I-038 (77, now 69); run 4: cheese moulds/shrink bags from I-039 (84), tomato clips/twine from I-048 (74) |
 | INSTAT / Eurydice education statistics (private kindergartens and schools) | 1 | 1 | 1.0 | new run 3: kindergarten furniture (62; 9,045 private pre-school pupils). One-off fit-outs score low on buyers |
-| opencorporates.al registry extracts (local makers/traders by activity text) | 1 | 0 | – | new run 3: a competition check, not an idea source. Found a local greenhouse-plastic and crate moulder that web shops missed. PDFs return HTML to curl, so read them through WebSearch snippets |
+| opencorporates.al registry extracts (local makers/traders by activity text) | 2 | 0 | – | new run 3: a competition check, not an idea source. Found a local greenhouse-plastic and crate moulder that web shops missed. PDFs return HTML to curl, so read them through WebSearch snippets. Run 4: found plastics firms only (Albplast, Pol-Fer) |
+| INSTAT fishery statistics | 1 | 1 | 1.0 | new run 4: fishing nets (72; 854 licensed fishing entities 2025). Small buyer base |
+| Megateksa catalogue search via curl (competition check, not an idea source) | 1 | – | – | new run 4: `curl -sL "https://megateksa.com/en/catalogsearch/result/?q=<kw>" \| grep -o -E '"item_name":"[^"]*","item_id":"[0-9]+","price":[0-9.]+'` returns names and ALL prices (product URLs in the same page). Found corks, capsules, presses, oil bottles, jars, milkers, loppers, hail nets, plant clips, fishing nets: 5 scores cut. Use English keywords; Albanian words return little |
 
 ## Search queries
 
@@ -56,6 +58,15 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 | "Albania agritourism certified number glamping" + Booking glamping page | 1 | 1 | 270+ agritourism firms (ITB), 44 glamping sites (Booking) |
 | "Albania private kindergartens number INSTAT" | 1 | 1 | Eurydice: 9,045 private pre-school pupils 2024-25 |
 | "FSHF registered clubs youth academies" | 1 | 1 | UEFA: ~17,500 youth players; FSHF gives clubs free equipment |
+| "kapëse domate sera spango" / "tomato clips Albania agro shop" | 1 | 1 | no agro shop indexed; MoA manual: ~860 ha protected first crop |
+| "rrjeta kundër breshërit mollë Korçë" / "anti-hail net orchard supplier Albania" | 1 | 1 | Korca IPARD orchards; national scheme funded anti-hail mesh; IPARD suspended |
+| "Albania medicinal aromatic plants exports 2025" + "thasë polipropileni prodhues" | 1 | 1 | AIDA Biofach 2026 brochure; Albel woven PP bags (local maker) |
+| "Albania small-scale fishing fleet INSTAT" / "rrjeta peshkimi dyqan Durrës" | 1 | 1 | INSTAT fishery 2025: 854 licensed entities; no chandlery indexed |
+| "Albania strawberry exporters Kafaraj packaging" / "kuti plastike luleshtrydhe" | 1 | 1 | Fragoland, SuperBerry; InfobelPRO 6 packaging firms |
+| "rrjetë skelash ndërtim" / "scaffolding debris netting Albania" | 1 | 1 | openprocurement tender specs require netting; no seller indexed |
+| "Wolt Albania restaurants" / "ambalazhe take away Tiranë" | 1 | 1 | Wolt launch: 130+ restaurants (Mar 2024) |
+| "pelet druri çmimi thes 15 kg" / "Albania wood pellets imports" | 1 | 1 | Megateksa 500-700 ALL/15 kg; imports tiny (2019) |
+| "Albania dairy processors 2025 AKU" / "forma djathi bulmetore" | 1 | 1 | Alfapress: AKU reviewing 253 dairy operators; INSTAT cheese 10,688 t |
 
 ## Learned rules
 
@@ -88,3 +99,10 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 13. For agro and industrial inputs (film, crates, packaging), run one of the 3 competition searches as Albanian activity
     text ("prodhim dhe tregtim ... ", "injektim plastike arka") to surface opencorporates.al registry extracts: they found
     local makers that shop searches missed. A registry hit counts as "available", not "scarce". (run 3)
+14. Make the Megateksa catalogue one of the 3 competition searches for every idea, and re-check open ideas with it.
+    Search it with curl (see Sources) using English keywords. A Megateksa listing makes the gap "available", even for
+    retail packs, and goes in `local_sellers` with the ALL price. In run 4 it found sellers that web searches had
+    missed for 5 open ideas (corks, capsules, presses, oil bottles, jars, milkers, loppers). (run 4)
+15. An idea whose gap is "scarce (unverified)" cannot be reported as beating host kits (~78), however high it scores. Write
+    "beats on paper, gap unverified", and make the phone check the first step of its deep dive. Until run 4, every
+    idea above ~78 rested on an unverified gap, and the former #1 (glass jars, 81) fell to 73 once checked. (run 4)
