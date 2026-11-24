@@ -1,9 +1,10 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
-Run 4 shortlist (best yield first): local-language "confession" news (Kurir Biznis and similar; rule 13),
-Side Hustle School transcripts (max 1 query, relevance falls; rule 15), French conciergerie podcasts (buyer evidence
-from managers), host forums (`.json` threads), Failory list/interviews. Kosovo 2.0 and UN Women gave 0 in run 3.
+Run 5 shortlist (best yield first): biznis.rs "99 najuspešnijih" micro-firm profiles (3 stories from 1 search in
+run 4; rule 17), La Conciergerie podcast pages (harvest episode slugs from one page; rule 18), domain-restricted
+Balkan news searches for failures (rule 19), host forums (`.json` threads), Failory list/interviews.
+Open-web confession queries in sq/mk/hr gave 0 in run 4; Kosovo 2.0 and UN Women gave 0 in run 3.
 
 ## Queries
 
@@ -43,7 +44,7 @@ from managers), host forums (`.json` threads), Failory list/interviews. Kosovo 2
 | first container import mistake small business owner interview | 1 | 0 | 0 | forwarder marketing |
 | reddit lost money first order alibaba towels bedding | 1 | 0 | 0 | |
 | έκλεισα το eshop αντικαταβολή (Greek) | 1 | 0 | 0 | |
-| **New for run 3** | | | | |
+| **New for run 3** (rows below marked "run 4" were used in run 4) | | | | |
 | airhostsforum.com OR community.withairbnb.com "linen service" OR "where do you buy" towels Europe | 0 | 0 | – | buyer evidence: where hosts buy and what they pay (carry to run 4) |
 | Turkish: "Arnavutluk" havlu nevresim ihracat küçük alıcı OR "EUR.1" deneyim | 0 | 0 | – | gap 4, new language |
 | Serbian/Bosnian: "posteljina za apartmane" dobavljač iskustvo OR "pokrenuo posao" | 0 | 0 | – | gap 2/4, new language |
@@ -69,13 +70,28 @@ from managers), host forums (`.json` threads), Failory list/interviews. Kosovo 2
 | Croatian/Montenegrin "posteljina ručnici apartmani nabava iskustvo" | 1 | 0 | 0 | yacht-supplier directories |
 | Kosovo online shop owner interview "cash on delivery" returned parcels couriers | 1 | 0 | 0 | vendor/courier pages (rule 3 holds) |
 | **New for run 4** | | | | |
-| Serbian/Croatian/Bosnian "ispovest" OR "iskustvo" "zatvorio" "online prodavnicu" OR "web shop" OR "Instagram prodavnicu" | 0 | 0 | – | rule 13; snowball from S-024 |
-| Albanian "rrëfimi" OR "rrëfen" "mbylli" biznesin OR dyqanin "online" Kosovë OR Shqipëri (Telegrafi, Koha, Gazeta Express) | 0 | 0 | – | rule 13, gap 1 |
-| Macedonian "исповед" OR "затворив" онлајн продавница искуство | 0 | 0 | – | rule 13, new language |
-| La Conciergerie podcast (Ausha) episodes on linge / fournisseurs; other French "conciergerie" podcasts with transcripts | 0 | 0 | – | buyer evidence from managers, gaps 2 and 12 |
-| "Bohochic Dreamer" intervju Instagram Srbija plaćanje pouzećem | 0 | 0 | – | snowball; may answer gap 4 (COD in Serbia) |
-| Turkish: "ilk siparişim" OR "küçük sipariş" toptan havlu nevresim deneyim Bayram teslimat gecikme | 0 | 0 | – | gaps 3 and 13 |
-| Tirana "menaxhim pronash" OR "property management" Airbnb çmimi linen OR "çarçafë" tarifë | 0 | 0 | – | gap 12 |
+| ispovest zatvorio online prodavnicu iskustvo preduzetnik Srbija propao | 1 | 0 | 0 | run 4: only S-024 again; but surfaced biznis.rs, which led to S-030 |
+| rrëfimi i sipërmarrëses mbylli dyqanin online Instagram Kosovë | 1 | 0 | 0 | run 4: K2.0 S-019/S-020 again, consumer-fraud news |
+| затворив онлајн продавница искуство исповед Македонија бизнис | 1 | 0 | 0 | run 4: guides and stats only |
+| "zatvorila" OR "ugasila" webshop OR "online trgovinu" ispovijest iskustvo Hrvatska Bosna poduzetnica dostava pouzećem povrati | 1 | 0 | 0 | run 4: courier/returns pages |
+| conciergerie Airbnb fondateur témoignage linge hôtelier fournisseur erreurs "j'ai arrêté" OR "échec" blanchisserie location courte durée | 1 | 2 | 2.0 | run 4: La Conciergerie episode list → S-028, S-029 (rule 18) |
+| "Bohochic Dreamer" intervju Instagram | 1 | 0 | 0 | DROP: name not indexed; snowball dead end |
+| toptan havlu nevresim ilk sipariş deneyim küçük işletme otel tekstili ihracat Balkanlar başarı hikayesi | 1 | 0 | 0 | run 4: Turkish exporter success news (Denizli, Trendyol), no small buyer |
+| Tirana Airbnb co-host property management service linen laundry fee owner pays apartment management company | 1 | 0 | 0 | run 4: AirROI ranking (fee range 10-30%) and named managers, no linen detail |
+| Circlebnb OR "Kondo Stays" OR "I-Host" Tirana founder interview short-term rental management Albania | 1 | 0 | 0 | run 4: Airbtics stats only; no interviews online |
+| Shqipëri biznes i vogël furnizim hotele apartamente çarçafë peshqirë filloi intervistë pronari importon nga Turqia | 1 | 0 | 0 | run 4: AIDA textile report, producers |
+| posteljina peškiri za apartmane i hostele pokrenula posao priča preduzetnica Srbija Crna Gora dobavljač iz Turske | 1 | 0 | 0 | run 4: classifieds/directories (Arilje maker, EEN Turkish supplier profile) |
+| telegrafi histori suksesi dyqan online nisi me pak para porositë Instagram importon mallra Kosovë | 1 | 0 | 0 | run 4: stats, fraud news |
+| Balkan Insight OR Reporter.al Albania Instagram sellers online shop cash on delivery couriers returned parcels seller says | 1 | 0 | 0 | run 4: market overviews only |
+| North Macedonia OR Bosnia small online store founder interview started with imported products from Turkey cash on delivery lessons | 1 | 0 | 0 | run 4: Grouper.mk, Helvetas BiH e-commerce report (no seller stories) |
+| biznis.rs "99 najuspešnijih" mikro preduzeća trgovina preko interneta online prodavnica direktor kaže kupci | 1 | 2 | 2.0 | run 4: S-031, S-032 (S-030 came from the same series via search 1) |
+| **New for run 5** | | | | |
+| biznis.rs "99 najuspešnijih" + "stečaj" OR "zatvorili" OR "gubitak" (failures in the same series) | 0 | 0 | – | rule 19, gap 1 |
+| biznis.rs region Crna Gora / "najuspešnija mala preduzeća" trgovina tekstil OR hoteli | 0 | 0 | – | Balkan B2B to hotels, gap 8 |
+| Monitor.al OR Forbes Albania profil biznesi i vogël tregti online OR furnizim hotele | 0 | 0 | – | gap 14 |
+| Kondo Stays / Circlebnb / I-Host websites: "linen" OR "çarçafë" OR "pastrim" included in fee | 0 | 0 | – | fetch sites directly, gap 12 |
+| WebSearch with allowed_domains kurir.rs, blic.rs, telegrafi.com: zatvorio/mbylli online shop | 0 | 0 | – | rule 19 |
+| Turkish: "ilk siparişim" OR "küçük sipariş" toptan havlu nevresim deneyim Bayram teslimat gecikme | 0 | 0 | – | carried from run 4 (gaps 3 and 13) |
 
 ## Sources
 
@@ -83,9 +99,10 @@ from managers), host forums (`.json` threads), Failory list/interviews. Kosovo 2
 |---|---|---|---|
 | Failory (interviews + "31 failed e-commerce startups" list page) | 5 | 1.2 | S-008, S-009, S-013, S-021, S-022, S-023; best failure source; mostly US/UK/Mexico |
 | Side Hustle School (episode pages incl. full transcripts) | 4 | 1.5 | S-011, S-012, S-017, S-018, S-025, S-026; run 3 stories only relevance 2-3 (rule 15) |
-| Kosovo 2.0 (archive.kosovotwopointzero.com readable; main site loads by JS) | 2 | 1.0 | S-019, S-020; run 3: 0 (producers/COVID) |
-| Balkan "confession" news (Kurir Biznis "ispovest", retold Reddit posts) | 1 | 1.0 | S-024; anonymous, so anecdote; Balkan failures at last |
-| French conciergerie podcasts (Ausha show notes) | 1 | 1.0 | S-027; show notes only, no transcript on page |
+| Kosovo 2.0 (archive.kosovotwopointzero.com readable; main site loads by JS) | 3 | 0.67 | S-019, S-020; runs 3-4: 0 |
+| Balkan "confession" news (Kurir Biznis "ispovest", retold Reddit posts) | 5 | 0.2 | S-024 only; run 4: 4 confession queries (sr, sq, mk, hr/bs) gave 0 |
+| French conciergerie podcasts (La Conciergerie on Ausha) | 2 | 1.5 | S-027, S-028, S-029; each episode page embeds the descriptions and slugs of many other episodes (rule 18); show notes only |
+| biznis.rs "99 najuspešnijih" (Serbian micro-firm profiles, CompanyWall financials) | 1 | 3.0 | S-030, S-031, S-032 (run 4); named people and official revenue; mostly successes (series excludes loss-makers) |
 | Host forums (airhostsforum `.json`, BiggerPockets) | 3 | 1.0 | S-003, S-015, S-016; buyer voices, anecdote |
 | Starter Story | 3 | 0.67 | S-001, S-004; site search via WebSearch weak |
 | Balkan startup media (Trending Topics SEE, StartUs Magazine, The Recursive, StartupYard) | 3 | 0.67 | S-007, S-010; StartupYard only duplicated Gjirafa |
@@ -130,3 +147,16 @@ from managers), host forums (`.json` threads), Failory list/interviews. Kosovo 2
     wholesale/B2B or import problems; 7 of 9 transcripts read in run 3 were irrelevant. (run 3)
 16. **Respect the search cap.** Run 3 used 21 searches (cap ~15) chasing dead ends; count searches as you go and stop
     a line of inquiry after 2 empty results. (run 3)
+17. **Use the biznis.rs "99 najuspešnijih" series for Balkan seller stories**: named owners, official revenue
+    (CompanyWall) and a ranking table of similar micro firms on the same page. It gave 3 Balkan stories in run 4 when
+    9 other searches gave 0. Remember the series excludes loss-makers, so it is success-biased. (run 4)
+18. **Harvest episode slugs from one La Conciergerie (Ausha) page** instead of searching per topic: each page embeds
+    descriptions of ~20 other episodes; read the target's description from the `3c:T` payload (look for
+    "CHAPITRES"). Episodes by the podcast host count as the same person as S-027 (do not log as a new story). (run 4)
+19. **Open-web confession queries are exhausted for Balkan failures** (run 4: 0 from 4 queries in sr, sq, mk, hr/bs).
+    Run 5 spends at most 2 searches on Balkan failures, both domain-restricted (allowed_domains: kurir.rs, blic.rs,
+    biznis.rs, telegrafi.com, top-channel.tv) or on biznis.rs "stečaj" coverage, and at least 1 more on failures
+    elsewhere (Failory list) so failures are not skipped. (run 4)
+20. **Gaps that need primary research go to the user, not more searches**: gap 2b/12 (who owns linen in Tirana flats)
+    returned only listings and rankings 3 runs in a row; list the named managers in `gaps.md` for the user to call
+    and spend at most 1 search per run on it. (run 4)
