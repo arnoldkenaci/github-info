@@ -1,10 +1,11 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
-Run 5 shortlist (best yield first): biznis.rs "99 najuspešnijih" micro-firm profiles (3 stories from 1 search in
-run 4; rule 17), La Conciergerie podcast pages (harvest episode slugs from one page; rule 18), domain-restricted
-Balkan news searches for failures (rule 19), host forums (`.json` threads), Failory list/interviews.
-Open-web confession queries in sq/mk/hr gave 0 in run 4; Kosovo 2.0 and UN Women gave 0 in run 3.
+Run 6 shortlist (best yield first): Monitor.al closure surveys (3 Albanian failures from 1 domain-restricted search
+in run 5; rule 22), biznis.rs trade-fair reports (HORECA sajam: 2 Balkan suppliers in one article; rule 21),
+La Conciergerie episode pages (rule 18), company service pages of managers in Greece/Croatia for linen offers (rule 23),
+Failory interviews (1 failure per search). Biznis.rs "99 najuspešnijih" ranking queries gave 1 profile from 3 searches
+in run 5 (the series excludes loss-makers). Open-web Albanian/Turkish story queries gave 0 again.
 
 ## Queries
 
@@ -86,23 +87,41 @@ Open-web confession queries in sq/mk/hr gave 0 in run 4; Kosovo 2.0 and UN Women
 | North Macedonia OR Bosnia small online store founder interview started with imported products from Turkey cash on delivery lessons | 1 | 0 | 0 | run 4: Grouper.mk, Helvetas BiH e-commerce report (no seller stories) |
 | biznis.rs "99 najuspešnijih" mikro preduzeća trgovina preko interneta online prodavnica direktor kaže kupci | 1 | 2 | 2.0 | run 4: S-031, S-032 (S-030 came from the same series via search 1) |
 | **New for run 5** | | | | |
-| biznis.rs "99 najuspešnijih" + "stečaj" OR "zatvorili" OR "gubitak" (failures in the same series) | 0 | 0 | – | rule 19, gap 1 |
-| biznis.rs region Crna Gora / "najuspešnija mala preduzeća" trgovina tekstil OR hoteli | 0 | 0 | – | Balkan B2B to hotels, gap 8 |
-| Monitor.al OR Forbes Albania profil biznesi i vogël tregti online OR furnizim hotele | 0 | 0 | – | gap 14 |
-| Kondo Stays / Circlebnb / I-Host websites: "linen" OR "çarçafë" OR "pastrim" included in fee | 0 | 0 | – | fetch sites directly, gap 12 |
-| WebSearch with allowed_domains kurir.rs, blic.rs, telegrafi.com: zatvorio/mbylli online shop | 0 | 0 | – | rule 19 |
-| Turkish: "ilk siparişim" OR "küçük sipariş" toptan havlu nevresim deneyim Bayram teslimat gecikme | 0 | 0 | – | carried from run 4 (gaps 3 and 13) |
+| **Run 5 (2026-11-25)** | | | | |
+| biznis.rs (allowed_domains) 99 najuspešnijih stečaj zatvorili gubitak trgovina | 1 | 0 | 0 | series excludes firms in bankruptcy or with losses; no failure route here |
+| biznis.rs (allowed_domains) 99 najuspešnijih tekstil posteljina peškiri hoteli preduzeće | 1 | 0 | 0 | rankings only (clothing makers, hotels, laundries) |
+| biznis.rs (allowed_domains) 99 najuspešnijih online prodavnica uvoz Turska roba vlasnica | 1 | 1 | 1.0 | led to S-033 (Tring, Montenegro) via "Teško je izboriti se na malom tržištu" |
+| biznis.rs (allowed_domains) Crna Gora firma dobavljači iz Turske hoteli oprema tekstil | 1 | 0 | 0 | Turkish-investment news only |
+| biznis.rs (allowed_domains) HoReCa snabdevanje hotela apartmana porodična priča posteljina hotelski program | 1 | 2 | 2.0 | HORECA fair report → S-034 (Aconi), S-035 (MMM Lasta); rule 21 |
+| failory.com (allowed_domains) interview wholesale B2B supplier hotels restaurants failed | 1 | 1 | 1.0 | S-039 (The Punjab Kitchen, rel 3); Delite/Botnim are SaaS |
+| telegrafi/top-channel/monitor.al/shqiptarja (allowed_domains) mbylli biznesin dyqanin falimentoi rrëfen pronari | 1 | 3 | 3.0 | Monitor 2020 closure survey → S-036, S-037, S-038; rule 22 |
+| Monitor.al profil biznes i vogël familjar furnizim hotele tregti histori | 1 | 0 | 0 | stats and registry pages (gap 14 still open) |
+| Türk tekstil tedarikçisi bayram tatili teslimat gecikmesi küçük alıcı ilk sipariş havlu nevresim | 1 | 0 | 0 | sector news: Kurban Bayramı breaks extended to ~15 days in some sectors (Sözcü); no buyer story |
+| Greece Airbnb linen rental supply business founder property managers Athens (en + el) | 1 | 2 | 2.0 | company pages → S-040 (Cloudkeys), S-041 (Piney Essentials); rule 23 |
+| vajza nisi dyqan online në Instagram me porosi nga Turqia histori suksesi Tiranë | 1 | 0 | 0 | DROP after 2 similar uses (run 3 variant): no Albanian Instagram-seller stories indexed |
+| Tirana property management "linen" Kondo OR Circlebnb OR "I-Host" | 1 | 0 | 0 | rule 20 quota; Airbtics: 186 managers / 1,625 listings in Tirana; Enjoy Albania 76 listings |
+| (fetch, no search) La Conciergerie episode list harvested from one page | 1 | 1 | 1.0 | S-042 ("8 000 € d'impayés": 15,000 euros to exit a linen contract) |
+| **New for run 6** | | | | |
+| monitor.al (allowed_domains) sondazh bizneset status pasiv mbyllën aktivitetin 2023 OR 2024 OR 2025 | 0 | 0 | – | rule 22, non-COVID Albanian failures (gap 1) |
+| biznis.rs (allowed_domains) sajam HORECA OR "Sajam hotelijerstva" izlagač peškiri posteljina hoteli | 0 | 0 | – | rule 21, more Balkan hotel suppliers |
+| Croatia/Montenegro apartment managers' service pages: "posteljina uključena" OR "linen included" upravljanje apartmanima | 0 | 0 | – | rule 23, gap 15 Balkan example |
+| Tirana/Durrës laundry or linen rental for apartments: "lavanderi" "çarçafë" "apartamente" "Airbnb" shërbim | 0 | 0 | – | gap 16 (counts as the rule-20 Tirana search) |
+| ekonomia.al OR forbes.al profil kompania e vogël importuese pronari tregon | 0 | 0 | – | gap 14, one try |
+| Kosovo telegrafi.com (allowed_domains) biznes i vogël furnizon hotelet restorantet tekstil intervistë | 0 | 0 | – | gap 8 |
 
 ## Sources
 
 | Source | Uses | Yield | Notes |
 |---|---|---|---|
-| Failory (interviews + "31 failed e-commerce startups" list page) | 5 | 1.2 | S-008, S-009, S-013, S-021, S-022, S-023; best failure source; mostly US/UK/Mexico |
+| Failory (interviews + "31 failed e-commerce startups" list page) | 6 | 1.2 | S-008, S-009, S-013, S-021, S-022, S-023, S-039; best failure source; mostly US/UK/Mexico/India |
 | Side Hustle School (episode pages incl. full transcripts) | 4 | 1.5 | S-011, S-012, S-017, S-018, S-025, S-026; run 3 stories only relevance 2-3 (rule 15) |
 | Kosovo 2.0 (archive.kosovotwopointzero.com readable; main site loads by JS) | 3 | 0.67 | S-019, S-020; runs 3-4: 0 |
 | Balkan "confession" news (Kurir Biznis "ispovest", retold Reddit posts) | 5 | 0.2 | S-024 only; run 4: 4 confession queries (sr, sq, mk, hr/bs) gave 0 |
-| French conciergerie podcasts (La Conciergerie on Ausha) | 2 | 1.5 | S-027, S-028, S-029; each episode page embeds the descriptions and slugs of many other episodes (rule 18); show notes only |
-| biznis.rs "99 najuspešnijih" (Serbian micro-firm profiles, CompanyWall financials) | 1 | 3.0 | S-030, S-031, S-032 (run 4); named people and official revenue; mostly successes (series excludes loss-makers) |
+| French conciergerie podcasts (La Conciergerie on Ausha) | 3 | 1.33 | S-027, S-028, S-029, S-042; each episode page embeds the descriptions and slugs of many other episodes (rule 18); show notes only |
+| biznis.rs "99 najuspešnijih" (Serbian micro-firm profiles, CompanyWall financials) | 5 | 0.8 | S-030, S-031, S-032 (run 4), S-033 (run 5); excludes firms with losses or in bankruptcy, so no failures; run-5 ranking queries mostly returned tables |
+| biznis.rs trade-fair reports (HORECA sajam) | 1 | 2.0 | S-034, S-035 (run 5): several exhibitors quoted in one article |
+| Monitor.al closure surveys (named owners of closed businesses) | 1 | 3.0 | S-036, S-037, S-038 (run 5); 2020 COVID survey, so failures are shock-driven; count one article as one source |
+| Manager / linen-service company pages (Greece) | 1 | 2.0 | S-040, S-041 (run 5); offers, not outcomes (rule 23) |
 | Host forums (airhostsforum `.json`, BiggerPockets) | 3 | 1.0 | S-003, S-015, S-016; buyer voices, anecdote |
 | Starter Story | 3 | 0.67 | S-001, S-004; site search via WebSearch weak |
 | Balkan startup media (Trending Topics SEE, StartUs Magazine, The Recursive, StartupYard) | 3 | 0.67 | S-007, S-010; StartupYard only duplicated Gjirafa |
@@ -111,7 +130,7 @@ Open-web confession queries in sq/mk/hr gave 0 in run 4; Kosovo 2.0 and UN Women
 | Pet trade press (Pet Age) | 1 | 0 | distributor news, no small dealer |
 | STR trade press (ShortTermRentalz, BizTimes, PhocusWire) | 2 | 0.5 | S-002 |
 | YourStory (India SMB stories) | 1 | 1.0 | S-014; bot check, use search snippets |
-| Albanian business media (Monitor.al, Euronews Albania, Scan TV, Shqiptarja, SeeNews) | 3 | 0 | stats/reports, customs rules, smuggling news; SeeNews bot-checked |
+| Albanian business media (Euronews Albania, Scan TV, Shqiptarja, SeeNews; Monitor.al now has its own row) | 4 | 0 | stats/reports, customs rules, smuggling news; SeeNews bot-checked |
 | Reddit | 2 | 0 | not surfaced by WebSearch |
 | Indie Hackers, IdeaProof | 2 | 0 | blocked or JS-only |
 | Podcasts with Balkan founders (Endeavor Greece) | 1 | 0 | summaries only, VC companies |
@@ -160,3 +179,13 @@ Open-web confession queries in sq/mk/hr gave 0 in run 4; Kosovo 2.0 and UN Women
 20. **Gaps that need primary research go to the user, not more searches**: gap 2b/12 (who owns linen in Tirana flats)
     returned only listings and rankings 3 runs in a row; list the named managers in `gaps.md` for the user to call
     and spend at most 1 search per run on it. (run 4)
+21. **Search Balkan trade-fair coverage for supplier stories**: biznis.rs reports from the Belgrade HORECA fair quote
+    several exhibitors (makers, importers, distributors) with numbers in one article (S-034, S-035 from one search in
+    run 5). Ranking-table queries for "99 najuspešnijih" mostly return tables; use at most 1 per run. (run 5)
+22. **Albanian failures come from Monitor.al closure surveys**, found with a domain-restricted Albanian query
+    (allowed_domains monitor.al, telegrafi.com, top-channel.tv, shqiptarja.com). Stories from one survey article
+    are logged separately (rule 10) but count as one source for a lesson's confidence, and shock-driven closures
+    (earthquake, COVID) must be labelled as such in the lesson. (run 5)
+23. **Company service pages are offers, not outcomes**: log a manager's or competitor's page only as "Buyer evidence:"
+    or "Market evidence:" with outcome "mixed", relevance at most 4, and never as a seller success; quote only what
+    the page states. (run 5)
