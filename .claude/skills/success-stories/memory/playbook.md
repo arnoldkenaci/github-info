@@ -2,7 +2,7 @@
 
 Lessons are advice to weigh, not guarantees. Each lesson cites the stories (IDs in `stories.jsonl`)
 behind it. Confidence: high = 3+ independent stories incl. 1 verified; medium = 2+ or 1 verified; low = otherwise.
-Most stories are founders' own accounts (self-reported); 16 of 53 come from Albania or Kosovo. The first Albanian
+Most stories are founders' own accounts (self-reported); 23 of 60 come from Albania or Kosovo. The first Albanian
 failures (S-036, S-037, S-038, run 5) are three small Tirana clothing shops from one 2020 Monitor survey, all hit by the
 earthquake and COVID-19: treat them as one source when judging confidence. S-043, S-044 and S-045 (run 6) are three
 small Albanian shops from a second Monitor survey (February 2018, no shock: falling turnover, rent, taxes, a loan);
@@ -11,7 +11,9 @@ hotel-textile supplier, self-reported interview). S-051, S-052 and S-053 (run 7)
 one 2018 Monitor feature on online retail (one source); S-049 is a 2006 USAID story on an Albanian towel maker. Other Balkan stories: Serbia (S-024 failure,
 S-030, S-031, S-032, S-035), North Macedonia (S-034, a hotel-textile maker) and Montenegro (S-033). S-003, S-015, S-016,
 S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 and S-050 (a Romanian advertorial) are
-companies' own offers, not seller outcomes.
+companies' own offers, not seller outcomes. Run 8 added Tirana hosts as buyer evidence (S-057 and S-058 from one 2025
+Monitor article, both left daily rentals; S-059 from a 2022 article), a Tirana fit-out firm's claim (S-060), an Albanian
+B2B cleaning firm (S-056) and two Kosovo shops squeezed by supermarkets (S-054 failure, S-055; one article).
 
 ## What this means for the host-kit plan
 
@@ -19,7 +21,9 @@ companies' own offers, not seller outcomes.
    often after years; towels and face cloths wear out faster. An Albanian hotel-textile supplier says hotels change
    linen once every 2-3 years, sooner where poor laundries ruin it. Base the business on new listings and on
    high-turnover managed units, and offer towel refills as the repeat product. Re-check the plan's repeat-sales
-   assumption (it assumes every season). (L-005)
+   assumption (it assumes every season). One Tirana host with three busy flats did say sheets and towels "had to be
+   bought often", but she has since left daily rentals, so frequent re-buying is a cost that pushes small hosts out,
+   not a loyal repeat market. (L-005, L-035)
 2. **Sell to property managers and cleaning companies first, not single-flat hosts.** Small hosts buy retail
    (Costco/Sam's Club-style, in Albania Megateksa); operators with many units are the ones who consider a bulk supply
    service. French managers increasingly own professional linen and bundle it into an all-inclusive fee (25% with
@@ -28,6 +32,11 @@ companies' own offers, not seller outcomes.
    An Athens manager does the same (premium service with hotel linen, or linen sold to owners at preferential prices).
    Offer no long contract: French managers paid 15,000 euros to leave a 4-year linen contract, and Athens linen-delivery
    services now pitch "no contracts, no upfront investment"; sell kits the buyer owns, with refills on demand.
+   **New in run 8:** Tirana's small hosts are leaving daily rentals (nightly prices fell from 60 to 30-40 euros in
+   2022-2024; two hosts quoted by Monitor quit), while rentals concentrate in professional operators. Put the big
+   operators first on the call list (PikHost, about 136 listings, co-founder of the Albanian Vacation Rental
+   Association, which is also a route to many operators at once). Reach new hosts at fit-out through furnishers and
+   interior architects who set flats up, since a new host buys everything once. (L-035, L-036)
    (L-017, L-025, L-028, L-006)
 3. **Premium works face to face, not in anonymous listings, and never try to win on price.** Pitch reliability,
    a ready hotel set and time saved, with a sample in hand; a premium price on an online listing alone failed
@@ -54,7 +63,8 @@ companies' own offers, not seller outcomes.
    (a missed date lost Vineyard Sun a repeat client); know which local supplier could cover an emergency: Albania had its own towel maker (Florjan-V, a quarter of the
    domestic towel market in 2006, S-049); check whether it or another local maker still produces before relying on
    Turkey alone. Buy from the maker, not from an Albanian wholesaler: an Albanian online seller found local suppliers
-   costly and cut prices by contracting foreign suppliers directly (S-052). (L-002, L-003, L-024, L-033)
+   costly and cut prices by contracting foreign suppliers directly (S-052), and a Kosovo wholesaler charged a small shop
+   88 cents for an item supermarkets got at 75 cents (S-054). (L-002, L-003, L-024, L-033)
 6. **Plan the off-season now.** Host demand is seasonal: Albanian hotel-textile orders for summer start in January
    and peak from April to June (S-046), so pitch managers in December-January, land stock by late February, and expect
    few sales from August to December, and add no fixed costs (staff, rented storage, a shop) until cash is banked: three Tirana shops
@@ -92,11 +102,12 @@ companies' own offers, not seller outcomes.
 - When it applies: B2B to small hosts. See L-017: small hosts are not the main buyers of a supply service.
 
 ### L-005: Hosts replace linen on wear, not on a schedule; towels wear faster than sheets, and only high-turnover units burn sheets fast
-- Evidence: S-016 (sheets replaced only when torn/stained; 2015 linen still in use; ~7 sets culled 1 set in ~5 years; face cloths and towels replaced more), S-003 (one-night room rental used 4 sets/year; 4-night apartments kept 2015 bedding; "I go through towels faster than sheets"), S-046 (Albanian supplier: hotels change linen once every 2-3 years, partly because poor laundries' detergents ruin it; a seller's claim) (n=3) · Counter-evidence: S-016 (one host replaces cheap sheets yearly) · Confidence: medium (forum anecdotes only)
+- Evidence: S-016 (sheets replaced only when torn/stained; 2015 linen still in use; ~7 sets culled 1 set in ~5 years; face cloths and towels replaced more), S-003 (one-night room rental used 4 sets/year; 4-night apartments kept 2015 bedding; "I go through towels faster than sheets"), S-046 (Albanian supplier: hotels change linen once every 2-3 years, partly because poor laundries' detergents ruin it; a seller's claim) (n=3) · Counter-evidence: S-016 (one host replaces cheap sheets yearly), S-057 (conditional: a Tirana host with three daily-rental flats said "sheets and towels had to be bought often" in 2022-2024; anecdote) · Confidence: medium (forum anecdotes only)
 - When it applies: forecasting repeat sales. Repeat demand comes from new listings, new units of managers, high-turnover units, cheap-linen users and towels.
+- Note (run 8): the only Albanian host quoted on linen (S-057) found frequent re-buying a burden of busy Tirana flats, which fits high-turnover units burning linen fast; it does not show a schedule, and that host has since left daily rentals.
 
 ### L-006: Win on quality and service where the buyer can see it; a low price is not a moat, and a premium price alone does not sell
-- Evidence: S-002 (time saved), S-014 (reliable supply), S-003 (Costco anchor, "crowded field"), S-022 (low price as main advantage failed; premium custom work later succeeded), S-024 (Serbian shop could not match 99-dinar internet offers; buyers saw its 6,000-dinar set as overpriced), S-030 (Serbian online appliance shop stands out by courtesy and service; competition is its biggest challenge), S-033 (Montenegrin B2B distributor: be a serious, reliable partner), S-034 (pure-cotton hotel textiles sell to coastal hotels, not to Serbian buyers who switched to cheap polyester), S-039 (negative: 2-3x the market price with "not a much better product" failed), S-046 (Albanian supplier: Airbnb apartments in Tirana/Durrës/Vlorë ask for quality towels and sheets and "very rarely" for cheap ones; a seller's claim), S-052 (Albanian online seller: saturated market, most operators sell near cost, some leave every year), S-050 (Romanian hotel-textile importer sells on stock and 24-48 h delivery; advertorial) (n=12) · Counter-evidence: S-021 (premium product at $50 vs $20-40 did not sell on Amazon) · Confidence: medium
+- Evidence: S-002 (time saved), S-014 (reliable supply), S-003 (Costco anchor, "crowded field"), S-022 (low price as main advantage failed; premium custom work later succeeded), S-024 (Serbian shop could not match 99-dinar internet offers; buyers saw its 6,000-dinar set as overpriced), S-030 (Serbian online appliance shop stands out by courtesy and service; competition is its biggest challenge), S-033 (Montenegrin B2B distributor: be a serious, reliable partner), S-034 (pure-cotton hotel textiles sell to coastal hotels, not to Serbian buyers who switched to cheap polyester), S-039 (negative: 2-3x the market price with "not a much better product" failed), S-046 (Albanian supplier: Airbnb apartments in Tirana/Durrës/Vlorë ask for quality towels and sheets and "very rarely" for cheap ones; a seller's claim), S-052 (Albanian online seller: saturated market, most operators sell near cost, some leave every year), S-050 (Romanian hotel-textile importer sells on stock and 24-48 h delivery; advertorial), S-054 (negative: a Kosovo shop selling the same goods as supermarkets at higher prices closed within a year), S-055 (negative: same article, income halved) (n=14) · Counter-evidence: S-021 (premium product at $50 vs $20-40 did not sell on Amazon) · Confidence: medium
 - When it applies: premium works with face-to-face selling, samples and service; it fails in anonymous marketplaces where buyers compare on price, and on small items that buyers can price on Chinese platforms (S-024). Quality sells to buyers whose guests notice it (coastal and spa hotels, S-034); price-driven buyers move to cheap polyester (S-034, Serbia).
 
 ### L-007: On cash on delivery, confirm every order by phone/WhatsApp and take a deposit that covers shipping on large or unusual orders
@@ -129,8 +140,8 @@ companies' own offers, not seller outcomes.
 - When it applies: SEO works for a narrow niche with little local competition; not against established chains.
 
 ### L-017: Bulk supply programmes appeal to operators with many units; small hosts buy retail
-- Evidence: S-015 (PM with 65+ units interested; small investor uses Sam's Club drop-ship), S-003 (hosts anchor on Costco), S-001 (a 120-unit host restocked all units at once), S-027 (French conciergerie buys hotel-quality linen itself and rents it to owners; anecdote), S-028 (a 30-unit French conciergerie includes linen in its single 25% offer), S-040 (Athens manager offers hotel linen in premium services or sells linen to owners), S-041 (Athens linen-delivery service sells to "owners and managers") (n=7) · Counter-evidence: S-001 (starter hosts also buy small cases online) · Confidence: medium
-- When it applies: choosing the first 30 prospects: property managers, cleaning companies, guesthouses. Ask who owns the linen (manager or flat owner); that party is the buyer (S-027).
+- Evidence: S-015 (PM with 65+ units interested; small investor uses Sam's Club drop-ship), S-003 (hosts anchor on Costco), S-001 (a 120-unit host restocked all units at once), S-027 (French conciergerie buys hotel-quality linen itself and rents it to owners; anecdote), S-028 (a 30-unit French conciergerie includes linen in its single 25% offer), S-040 (Athens manager offers hotel linen in premium services or sells linen to owners), S-041 (Athens linen-delivery service sells to "owners and managers"), S-057 and S-058 (Tirana: single-flat and small hosts left daily rentals in 2024 as prices fell; Monitor reports daily rentals concentrating in professional operators, one source) (n=9) · Counter-evidence: S-001 (starter hosts also buy small cases online) · Confidence: medium
+- When it applies: choosing the first 30 prospects: property managers, cleaning companies, guesthouses. Ask who owns the linen (manager or flat owner); that party is the buyer (S-027). In Tirana the small-host segment is shrinking (L-035), so operators matter even more.
 
 ### L-018: A seasonal business needs an off-season plan (cash reserve or second product line)
 - Evidence: S-023 (summer-only sports kit: £40k month then £550; liquidated), S-018 (seasonal stock unsold by January), S-017 (35% of turnover in six weeks), S-035 (Serbian HoReCa supplier: summer peak, rest of year covered by mountain and spa destinations) (n=4) · Counter-evidence: – · Confidence: medium
@@ -155,7 +166,7 @@ companies' own offers, not seller outcomes.
 - When it applies: pitching managers who charge owners a commission. Sell them a package (sets per unit, refills, maybe laundry) that lets them raise their fee or resell linen to owners. Seen in France and Greece; not yet in Albania (gap 12).
 
 ### L-026: Grow supply businesses from inside a client base you already serve
-- Evidence: S-029 (a conciergerie added a laundry born from one of its clients and bought a detergent distributor), S-014 (hotel linen supplier born from the family hotel's problem), S-035 (Serbian egg producer added imported ingredients to sell through its existing customer network) (n=3, self-reported) · Counter-evidence: – · Confidence: medium
+- Evidence: S-029 (a conciergerie added a laundry born from one of its clients and bought a detergent distributor), S-014 (hotel linen supplier born from the family hotel's problem), S-035 (Serbian egg producer added imported ingredients to sell through its existing customer network), S-056 (Albanian cleaning firm AlbPastrim sells cleaning products and staff training to the hotels and residences it serves) (n=4, self-reported; S-056 turnover verified) · Counter-evidence: – · Confidence: medium
 - When it applies: once the first managers buy kits, the next products (refills, laundry, cleaning consumables) should come from their requests, not from a catalogue.
 
 ### L-027: Sell direct to hotels and managers; do not hand the margin to shops or chains
@@ -163,7 +174,7 @@ companies' own offers, not seller outcomes.
 - When it applies: a premium kit whose value needs explaining. A shop shelf puts it next to Megateksa prices with no one to explain it. Confirm with a second story (gap 17).
 
 ### L-028: Do not lock B2B buyers into long contracts; sell an asset they own, with optional refills
-- Evidence: S-042 (French managers: a 4-year linen contract cost 15,000 euros to exit; warnings about "miracle solutions"; anecdote), S-041 (Athens linen-delivery competitor sells on "no contracts" and "no upfront investment in linens"), S-046 (the Albanian incumbent planned a 12-tonne-per-shift laundry and daily linen rental for small and medium hotels in 2024: linen-as-a-service may reach Tirana) (n=3, anecdote, company page, interview) · Counter-evidence: S-028 (managers do sign up for bundled linen when it raises their fee) · Confidence: medium (no story yet of a Balkan buyer choosing owned kits over rental)
+- Evidence: S-042 (French managers: a 4-year linen contract cost 15,000 euros to exit; warnings about "miracle solutions"; anecdote), S-041 (Athens linen-delivery competitor sells on "no contracts" and "no upfront investment in linens"), S-046 (the Albanian incumbent planned a 12-tonne-per-shift laundry and daily linen rental for small and medium hotels in 2024: linen-as-a-service may reach Tirana) S-056 (Albania: many potential clients see no advantage in outsourcing, and hotels and residence complexes often want their own staff; AlbPastrim sold them training and products instead) (n=4, anecdote, company page, interviews) · Counter-evidence: S-028 (managers do sign up for bundled linen when it raises their fee) · Confidence: medium (no story yet of a Balkan buyer choosing owned kits over rental)
 - When it applies: pitching managers. Linen-as-a-service may reach Tirana (gap 16); answer it with owned kits, no lock-in and a lower cost per stay over a season.
 
 ### L-029: Get paid at handover (or before) and agree the payment method when the deal is signed
@@ -182,12 +193,20 @@ companies' own offers, not seller outcomes.
   whether its laundry/rental launched (gap 18).
 
 ### L-033: Buy from the foreign maker directly, not through local wholesalers
-- Evidence: S-052 (Albanian online seller: local suppliers meant high costs and low profit; contracts with foreign suppliers let it sell cheaper), S-050 (Romanian HoReCa firm moved from importing towels to its own brand with European producers; advertorial) (n=2, self-reported) · Counter-evidence: S-003 (a host group-buy plan relied on a factory matching a sample; no counter yet) · Confidence: low
+- Evidence: S-052 (Albanian online seller: local suppliers meant high costs and low profit; contracts with foreign suppliers let it sell cheaper), S-050 (Romanian HoReCa firm moved from importing towels to its own brand with European producers; advertorial), S-054 (Kosovo: a wholesaler charged a small shop 88 cents for an item it sold to supermarkets at 75 cents) (n=3, self-reported) · Counter-evidence: S-003 (a host group-buy plan relied on a factory matching a sample; no counter yet) · Confidence: low
 - When it applies: the plan already imports from Turkey; this argues against buying Turkish linen from a Tirana wholesaler to save effort. Keep a local maker only as a fallback (L-003).
 
 ### L-034: In Albania, buyers do not prepay strangers; earn deposits with a registered firm, an invoice and a face-to-face sample
 - Evidence: S-053 (Albanian marketplace founder: without cash on delivery he would be out of the market; buyers distrust prepayment because informal sellers took money and did not deliver), S-052 (same article: market players say over 90% of online sales are COD), S-010 (Valer Pinderi's NetTrade: over 95% COD in a 2021 Monitor interview, https://monitor.al/e-commerce-pas-nxitjes-ne-pandemi-tani-biznesi-me-i-terhequr/) (n=3, one 2018 article plus one interview; all B2C) · Counter-evidence: – · Confidence: low (no B2B deposit story yet; gap 5)
 - When it applies: asking Tirana managers for deposits (L-001, L-029). B2B buyers you meet may accept a small deposit against a fiscal invoice; online strangers will not prepay.
+
+### L-035: In Tirana, single-flat hosts are leaving daily rentals; sell to operators who are growing, and expect hosts to cut costs
+- Evidence: S-057 (host with three flats: 60 euros/night in 2022 fell to 30-40 in 2024 as many copied her; costs included frequent sheet and towel purchases; moved all flats to long-term rent), S-058 (rental-arbitrage host netted 100-400 euros a month and quit), Monitor 2026 market piece (daily rentals concentrating in professional operators and agencies; 15% tax via DIVA for individuals; https://monitor.al/qiraja-afatgjate-fiton-terren-ndersa-ajo-ditore-po-humbet-avantazhin/) (n=2 from one article, anecdote) · Counter-evidence: S-059 (2022: a Tirana arbitrage host earned 4x her rent and added a second flat, before the oversupply); listings still grew from 21.3k (Dec 2024) to 27.7k (H1 2026) · Confidence: low
+- When it applies: choosing whom to sell to and how to price. Small hosts are price-squeezed and may leave within a season, so they are poor repeat customers; operators that grow (PikHost: ~136 listings per Airbtics, co-founder of the Albanian Vacation Rental Association) are the steadier buyers. Gap 23.
+
+### L-036: Reach new hosts at fit-out, through the people who set flats up
+- Evidence: S-059 (a new Tirana host spent 100,000 lekë once on a mattress, kitchen items, washing machine and lights before listing), S-060 (Tirana furnishing firm reports high demand in 2022 for fitting out rented flats for daily rental; budgets go mainly to "stylish" furniture; company claim) (n=2, self-reported) · Counter-evidence: – · Confidence: low
+- When it applies: every new listing needs linen once. Furnishers, interior architects and real-estate agents see new hosts at the moment they buy; offer them a ready kit to include or refer (our inference). Gap 24.
 
 ## Other lessons (not directly relevant to the current plan)
 

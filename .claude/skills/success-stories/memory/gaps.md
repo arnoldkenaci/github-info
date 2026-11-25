@@ -30,6 +30,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Instagram, S-052 Shopping TV, S-053 gjejevete.al): operators "leave the market every year", but none is a named
    failure. Still missing: a named Albanian/Kosovar online, importer or B2B seller that closed. Next: Monitor sector
    features (rule 27) and Kosovo outlets beyond kallxo/koha/telegrafi (run 7: 0).
+   Run 8: first Kosovo failure, S-054 (Vushtrri grocery closed within a year, undercut by supermarkets and charged more
+   by its wholesaler; Prishtina Insight, which is readable by curl). Still no named Albanian/Kosovar online, importer or
+   B2B seller that closed; Prishtina Insight's archive (rule 33) is the next place to look.
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -38,7 +41,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    conciergerie), still no Balkan seller. Serbian apartment-linen queries return classifieds and directories only.
    2b. Do property managers in Tirana/Durrës buy linen in bulk, and from whom? (would test L-017 locally)
    Named Tirana managers to ask directly (AirROI/Airbtics rankings, run 4): Kondo Stays (~32 listings), Circlebnb
-   (~17-19), I-Host (~15), AirHost, Lindi. No founder interviews found online, so this gap likely needs the user's
+   (~17-19), I-Host (~15), AirHost, Lindi. Run 8: add PikHost (~136 listings per Airbtics, mostly Tirana; Brendi Hoti
+   quoted by Monitor) and the Albanian Vacation Rental Association (AVRA, founded by PikHost and Grandstay Collection),
+   which could open many operators at once. No founder interviews found online, so this gap likely needs the user's
    own calls, not more web searches.
 3. **Turkish textile imports by small buyers** (run 7: Turkish query gave only Turkish trade-ministry market reports and an
    old USAID story on an Albanian towel maker, S-049): EUR.1/origin paperwork, freight surprises, defects, holiday shutdowns
@@ -55,7 +60,8 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 7. **Competing with cheap local chains (Megateksa) or Temu** (run 7: Temu queries in sr and sq returned only platform
    news; drop them): L-006 now has conditions (premium works face to face).
    Run 3 added a Balkan loser (S-024: buyers compared with 99-dinar internet prices). Missing: a Balkan small seller
-   who won against a cheap chain or Temu, and how.
+   who won against a cheap chain or Temu, and how. Run 8: two more losers to chains (S-054 closed, S-055 income
+   halved; Kosovo shops selling the same goods as supermarkets at higher prices). Still no winner.
 8. **Albania/Kosovo first B2B customers**: L-010 is high, but no Albanian B2B seller to hosts, hotels or offices yet.
    Run 5: nearest is S-034 (Macedonian hotel-textile maker selling direct to Balkan coastal hotels; L-027, L-030).
    Run 6: **first Albanian B2B seller**: S-046 (Gjergji H. Tekstil, since 1994, sells to hotels and Airbnb apartments;
@@ -94,8 +100,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     times, and did its laundry and linen rental launch (2024 plan)? A buyer-style visit or call by the user answers this
     faster than searches (rule 20); one monitor.al search per run at most.
 19. **Confirm L-005 for Albania with buyers, not sellers** (new, run 6): the 2-3-year hotel replacement cycle comes from a
-    supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays.
-20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed, still balanced), so no survivorship skew overall, but
+    supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays. Run 8: partly answered
+    by one Tirana host (S-057: "sheets and towels had to be bought often" in busy flats; anecdote, no numbers).
+20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28, still balanced), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
@@ -104,3 +111,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 22. **Confirm L-033 and L-034 with B2B stories** (new, run 7): both rest on B2C online sellers in one 2018 article. Find
     an Albanian or Balkan B2B buyer who paid a deposit, and a small importer who compared a local wholesaler with the
     foreign maker.
+23. **How fast are Tirana's small hosts leaving, and are operators growing?** (new, run 8; L-035 low): two hosts quit
+    daily rentals in 2024 (S-057, S-058) and Monitor says rentals are concentrating in professional operators, yet
+    listings grew from 21.3k (Dec 2024) to 27.7k (H1 2026). Find AirDNA/Airbtics or Monitor data on listings per host
+    or on operators' share, and ask PikHost/AVRA how many units their members add per year.
+24. **Do Tirana furnishers and interior architects supply linen at fit-out?** (new, run 8; L-036 low): GBarchs
+    Architects (Gladiola Balliu) fits out flats for daily rental (S-060). Ask 2-3 such firms whether they buy linen for
+    clients and would add or refer a ready kit (user's call, rule 20; one search per run at most).
