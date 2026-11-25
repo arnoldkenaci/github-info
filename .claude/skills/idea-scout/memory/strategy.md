@@ -1,26 +1,26 @@
 # Idea sources (self-updated each run)
 
 Yield = ideas scoring ≥ 50 ÷ times used (a use = one run that drew ideas from the source). Drop at 0 after 3 uses.
-Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in run 3, 8 of 9 in run 4, 7 of 8 in run 5, 8 of 9 in run 6). Rule 4 says to compare with host kits ≈ 78 for real quality.
+Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in run 3, 8 of 9 in run 4, 7 of 8 in run 5, 8 of 9 in run 6, 10 of 10 in run 7). Rule 4 says to compare with host kits ≈ 78 for real quality.
 
 ## Sources
 
 | Source | Uses | Ideas ≥ 50 | Yield | Notes |
 |---|---|---|---|---|
-| Albanian demand drivers (tourism, construction, outages, EVs, water, diaspora, cafés, cars) | 6 | 6 | 1.0 | run 1: scrubs via dental tourism (67), school uniforms (45, no demand); run 2: interior doors via building permits (68), raki stills (45, no data, legal risk); run 3: glamping bell tents (71; Booking lists 44 glamping sites); run 4: wood pellets for winter heating (45, no demand data, imports tiny); run 5: electric bear fences (66; PPNEA gives fences away), boat fenders/mooring lines (64; no boat count); run 6: child car seats for rental fleets (66; Free2Move counts 400+ agencies; gap available at Megateksa) |
+| Albanian demand drivers (tourism, construction, outages, EVs, water, diaspora, cafés, cars) | 7 | 8 | 1.1 | run 1: scrubs via dental tourism (67), school uniforms (45, no demand); run 2: interior doors via building permits (68), raki stills (45, no data, legal risk); run 3: glamping bell tents (71; Booking lists 44 glamping sites); run 4: wood pellets for winter heating (45, no demand data, imports tiny); run 5: electric bear fences (66; PPNEA gives fences away), boat fenders/mooring lines (64; no boat count); run 6: child car seats for rental fleets (66; Free2Move counts 400+ agencies; gap available at Megateksa); run 7: PV mounting structures via the solar boom (71; Pespa Alumin extrudes them locally), rental kayaks via beach operators (68; 2025 hotels-only beach rule shrinks buyers, rule 20) |
 | Trendyol best-sellers / "çok satanlar" in home, HoReCa, auto, textiles | 1 | 0 | 0.0 | run 2: washable rugs (42; Megateksa and Temu already sell them). B2C best-sellers tend to be Temu items: look in Trendyol's B2B/HoReCa categories instead |
 | Skroutz.gr best-sellers and category growth | 1 | 1 | 1.0 | run 5: Cloudflare blocks curl ("Just a moment..."), so reach Skroutz only through WebSearch snippets. Its professional listings (Brita Purity C1000 coffee-machine filters) fed I-069 café filters (74, shared with buyer problems) |
 | Amazon.it best-sellers (Casa e cucina, Auto, Fai da te) | 0 | 0 | – | seed |
 | Gjirafa50 / GjirafaMall Kosovo categories missing on gjirafa50.al | 0 | 0 | – | seed |
 | TikTok Shop EU best-sellers (Lengow reports) | 0 | 0 | – | seed |
-| Turkish exporter associations and trade fairs (DENIB, İTKİB, Zuchex, Evteks, Hotel Equipment fairs) | 1 | 1 | 1.0 | run 5: HOSTECH by TUSID (next 10-14 Nov 2026) → buffet chafing dishes (64; one-off hotel fit-outs, 15% MFN without EUR.1). Exhibitor lists are not indexed: pick products the fair covers, then check Albanian demand |
+| Turkish exporter associations and trade fairs (DENIB, İTKİB, Zuchex, Evteks, Hotel Equipment fairs, Growtech Antalya) | 2 | 2 | 1.0 | run 5: HOSTECH by TUSID (next 10-14 Nov 2026) → buffet chafing dishes (64; one-off hotel fit-outs, 15% MFN without EUR.1). Exhibitor lists are not indexed: pick products the fair covers, then check Albanian demand; run 7: Growtech Antalya → coco coir grow slabs (64; most Albanian greenhouses are soil-based, rule 21) |
 | Success-stories playbook and stories (what small sellers succeeded with) | 1 | 1 | 1.0 | run 3: custom football kits from S-023 (71); FSHF gives clubs free equipment, so check for free/state supply |
 | Albanian business news (Monitor.al, Euronews Albania, AIDA export brochures) on new demand | 2 | 2 | 1.0 | run 4: MAP herb-export sacks (78, AIDA Biofach 2026: >EUR 60m, 40-50 exporters), takeaway containers via Wolt growth (75). AIDA fair brochures also name exporters (Fragoland); run 5: bakery trays (45, no bakery count found) |
 | Buyer problems: host, café, builder, car-wash, barber Facebook groups and forums | 5 | 5 | 1.0 | run 1: paper cups (72), barber supplies (64); run 2: wedding venues (63), gyms (45, no data); run 3: pastry boxes (45, no pastry-shop count); forums not reached, only web search. Needs a buyer count (INSTAT enterprises by NACE) to pass rule 5; run 5: café water-filter cartridges (74; INSTAT SBS 17,742 food-service firms); run 6: dental disposables (71; only directory counts), tyre-shop consumables (45; no tyre-shop count, Würth sells weights) |
-| Adjacent products for host-kit buyers (same Turkish supplier, same pallet) | 2 | 3 | 1.5 | run 1: bathrobes/slippers (72), table linen (63); run 2: peshtemal for beach clubs (74) |
-| INSTAT agriculture and livestock statistics (olives, bees, fruit, livestock, greenhouses) | 6 | 14 | 2.3 | run 1: beekeeping (79), olive harvesters (68); run 2: glass jars (81, now 73), winemaking (74, now 66), milking (66, now 58); run 3: crates (78), greenhouse film (75), drip tape (75), pruning shears (70, now 62); run 4: berry punnets (83), anti-hail nets (56); run 5: egg trays (75; hens -8.3%, rule 10); run 6: olive-mill filters and press mats (74; 480 processing lines, Olive Oil Times), apple trays (74; fruit output -12.8%, rule 10). Best source: also look at the producers' consumables (packaging, spares) |
+| Adjacent products for host-kit buyers (same Turkish supplier, same pallet) | 3 | 4 | 1.3 | run 1: bathrobes/slippers (72), table linen (63); run 2: peshtemal for beach clubs (74); run 7: housekeeping trolleys (63; Megateksa sells them, one-off buys) |
+| INSTAT agriculture and livestock statistics (olives, bees, fruit, livestock, greenhouses) | 7 | 17 | 2.4 | run 1: beekeeping (79), olive harvesters (68); run 2: glass jars (81, now 73), winemaking (74, now 66), milking (66, now 58); run 3: crates (78), greenhouse film (75), drip tape (75), pruning shears (70, now 62); run 4: berry punnets (83), anti-hail nets (56); run 5: egg trays (75; hens -8.3%, rule 10); run 6: olive-mill filters and press mats (74; 480 processing lines, Olive Oil Times), apple trays (74; fruit output -12.8%, rule 10); run 7: potato/onion mesh bags (74; potato output -7.2%), bale net wrap and silage film (73; no evidence of baling, rule 21), vineyard trellis consumables (62; vineyard area shrinking). Producer counts are now mostly shrinking: demand points rarely pass 5. Best source: also look at the producers' consumables (packaging, spares) |
 | INSTAT building permits (quarterly) + public tender specs (openprocurement.al) | 3 | 3 | 1.0 | run 2: interior doors (68); run 4: scaffold netting (78; tender specs require netting on all scaffolding); run 6: formwork plywood (73; Megateksa sells Dakota panels, big builders import direct) |
-| Follow-on consumables for shortlisted producer niches (what the same buyers buy every season) | 5 | 8 | 1.6 | run 2: honey/olive-oil jars from I-036 (81, now 73); run 3: wine corks and capsules from I-038 (77, now 69); run 4: cheese moulds/shrink bags from I-039 (84), tomato clips/twine from I-048 (74); run 5: mulch film/groundcover from I-060/I-048 (76), peat and seedling trays for nurseries (73); run 6: tinplate olive-oil cans (75) and bag-in-box (75) for olive-oil and wine producers |
+| Follow-on consumables for shortlisted producer niches (what the same buyers buy every season) | 6 | 11 | 1.8 | run 2: honey/olive-oil jars from I-036 (81, now 73); run 3: wine corks and capsules from I-038 (77, now 69); run 4: cheese moulds/shrink bags from I-039 (84), tomato clips/twine from I-048 (74); run 5: mulch film/groundcover from I-060/I-048 (76), peat and seedling trays for nurseries (73); run 6: tinplate olive-oil cans (75) and bag-in-box (75) for olive-oil and wine producers; run 7: rebar spacers for formwork crews (69), oak barrels for wineries (63), dairy tubs (58). All three are already Megateksa lines: check Megateksa before picking a follow-on |
 | INSTAT / Eurydice education statistics (private kindergartens and schools) | 1 | 1 | 1.0 | new run 3: kindergarten furniture (62; 9,045 private pre-school pupils). One-off fit-outs score low on buyers |
 | opencorporates.al registry extracts (local makers/traders by activity text) | 2 | 0 | – | new run 3: a competition check, not an idea source. Found a local greenhouse-plastic and crate moulder that web shops missed. PDFs return HTML to curl, so read them through WebSearch snippets. Run 4: found plastics firms only (Albplast, Pol-Fer) |
 | INSTAT fishery statistics + Eurofish aquaculture reports (eurofish.dk, Harvard Growth Lab) | 2 | 2 | 1.0 | new run 4: fishing nets (72; 854 licensed fishing entities 2025). Small buyer base; run 6: mussel socks for ~25 Butrint farms (71; rule 18) |
@@ -28,6 +28,8 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 
 | Middle-class consumer goods (EU brands for B2C households; owner request) | 1 | 0 | 0.0 | manual update 2026-11-24: 8 ideas (toys, pet food, cookware, backpacks, camping, cosmetics, organic food, baby food), all capped at 45 by rule 5 (no Albania demand data) and mostly 'available' (Rossmann & Lala, JYSK, Wolt pet shops). B2C one-off buys score low on buyers; only revisit with Trends or sales data |
 | Würth Albania e-shop search (competition check, not an idea source) | 1 | – | – | new run 6: `curl -sL "https://eshop.wurth.al/search?search=<albanian kw>" \| sed 's/<[^>]*>//g'` lists workshop and trade consumables (found adhesive wheel weights that web searches missed). Prices sit behind a B2B login. Use Albanian keywords ("balancim", "valvol") |
+| ERE / pv-magazine / Balkan Green Energy News solar data (demand evidence for solar and storage supplies) | 1 | – | – | new run 7: 180-210 MW added in 2025, 631 MW total, net billing from 2027. Use for any solar, storage or electrical-installer idea |
+| Beach-concession data (Scan TV, albaniandailynews, Ministry of Tourism) for beach-operator counts | 1 | – | – | new run 7: 817 beach-contract holders in 2024, ~105k sunbeds; from 2025 only hotels may rent plots (~60% fewer operators). Use for peshtemal, sunbeds, kayaks, beach-club supplies |
 | Government visit pages (kryeministria.al/en "Prime Minister visits ...") for named producers and their output | 1 | – | – | new run 5: a demand-evidence source, not an idea source. Lisar Seedlings: 15m seedlings/yr. curl is blocked (Incapsula), so read through WebSearch snippets |
 
 ## Search queries
@@ -88,6 +90,17 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 | "aksesorë detarë varka parabordo Durrës Vlorë" | 1 | 1 | AVS Global chandlery, Marine Pro Albania (registry) |
 | "pajisje hotelerie bufe chafing dish Tirane" / "HOSTECH by TUSID" | 1 | 1 | Services HORECA sh.p.k.; Durres chamber HoReCa equipment firm |
 | "tava furre perforuar ... Tiranë" / "Albania bakeries number INSTAT" | 1 | 1 | no pro-tray seller; no bakery count |
+| "strukture montimi panele diellore alumin" / "solar mounting system distributor Albania" | 1 | 1 | Pespa Alumin (Durres) makes PV mounting; Solaron distributor (ENF directory) |
+| "Albania solar PV installations 2025 net metering" | 1 | – | pv-magazine: 180-210 MW added 2025; ERE 631 MW |
+| "kajak shitje ... Vlorë" / "water sports shop Tirana kayak" / "Albania beach concessions number" | 1 | 1 | no dealer; 817 beach entities 2024; 2025 hotels-only rule |
+| "thasë rrjetë për patate qepë shumicë" / "leno mesh bags supplier Albania" | 1 | 1 | no seller; potato output -7.2% 2025 (INSTAT) |
+| "tel i galvanizuar për vreshta" / "Albania vineyards hectares" | 1 | 1 | Megateksa galvanised posts; vineyards 9,358 ha (down from 10,400) |
+| "fuçi lisi për verë raki" / "Albania wineries number" | 1 | 1 | Megateksa 20 L oak barrel; ~70 registered wineries |
+| "kova plastike për djathë kosi" / Megateksa q=bucket+lid | 1 | 1 | Megateksa dairy buckets 100-420 ALL |
+| "distancator plastik hekuri betoni" / Megateksa q=spacer | 1 | 1 | Megateksa Dakota spacers 7-185 ALL |
+| "karrocë pastrimi hoteli" / Megateksa q=cleaning+trolley | 1 | 1 | Megateksa trolleys 39,999-49,999 ALL |
+| "rrjetë për bala bari film silazhi" / "bale net wrap silage film dealer Albania" | 1 | 1 | no seller; DPS adopted the EN silage-film standard |
+| "Albania hydroponic greenhouse soilless coco" / "substrat kokosi pllaka hidroponike" | 1 | 1 | Albaponik only; UNDP: greenhouses soil-based |
 
 ## Learned rules
 
@@ -139,3 +152,9 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 19. For workshop and trade consumables (tyre shops, garages, builders, joiners), add a Würth Albania e-shop search
     (see Sources) to the 3 competition searches. Würth already sells these through sales reps, so a hit makes the gap
     "available". In run 6 it found wheel weights that Albanian web searches missed. (run 6)
+20. If a 2025-26 rule change cuts the number of buyers (e.g. beach plots now rented only to hotels, ~60% fewer
+    operators expected), treat it like a shrinking buyer base under rule 10: at most 5 demand points, and name the
+    buyers left. (run 7)
+21. For inputs that depend on a farming or building practice (silage baling, soilless growing, barrel-aged raki), first
+    find evidence that the practice is common in Albania. Without it, give at most 3 demand points, however big the
+    sector is. In run 7 two ideas (net wrap 73, coco slabs 64) rested on sector size alone. (run 7)
