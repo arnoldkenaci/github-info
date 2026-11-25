@@ -25,6 +25,11 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    years, S-044 loan-funded cosmetics shop, S-045 Tirana produce shop): falling turnover, rent, taxes, loan (L-019).
    Still missing: an online, Instagram or B2B seller, and any importer, that failed in Albania/Kosovo. The 2018 piece
    was Monitor's "fourth" survey: search the other waves.
+   Run 7: other survey waves are not indexed (the monitor.al query returned only the 2018 and 2020 articles). A 2018
+   Monitor feature on online retail gave three Albanian online sellers (S-051 boutique that dropped its shop for
+   Instagram, S-052 Shopping TV, S-053 gjejevete.al): operators "leave the market every year", but none is a named
+   failure. Still missing: a named Albanian/Kosovar online, importer or B2B seller that closed. Next: Monitor sector
+   features (rule 27) and Kosovo outlets beyond kallxo/koha/telegrafi (run 7: 0).
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -35,16 +40,20 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Named Tirana managers to ask directly (AirROI/Airbtics rankings, run 4): Kondo Stays (~32 listings), Circlebnb
    (~17-19), I-Host (~15), AirHost, Lindi. No founder interviews found online, so this gap likely needs the user's
    own calls, not more web searches.
-3. **Turkish textile imports by small buyers**: EUR.1/origin paperwork, freight surprises, defects, holiday shutdowns
+3. **Turkish textile imports by small buyers** (run 7: Turkish query gave only Turkish trade-ministry market reports and an
+   old USAID story on an Albanian towel maker, S-049): EUR.1/origin paperwork, freight surprises, defects, holiday shutdowns
    and real lead times (L-024 applies to Turkey only by inference). Still only S-004 (US); Loomed NOLA (US, Istanbul
    savings bought first wholesale shipment) was found but its page is dead (404), so not logged. Try Turkish-language
    queries (e.g. "küçük alıcı" "ilk sipariş" havlu toptan deneyim) and Etsy/Faire Turkish-towel sellers' interviews.
 4. **Real COD experiences in Albania/Balkans**: refusal rates, courier payouts. Only S-005 (Pakistan, L-007 low).
-5. **Deposits in low-trust markets**: no story yet of a deposit asked and paid (or refused) in a COD market (L-001 note).
+5. **Deposits in low-trust markets**: partly answered in run 7 for B2C: Albanian buyers do not prepay online sellers
+   because informal sellers took money and did not deliver; >90% COD (L-034, low; S-053, S-052, S-010). Still no story of a
+   B2B deposit asked and paid (or refused) in Albania; this likely needs the user's own first pitches (rule 20).
 6. **First-order sizing with numbers**: partly answered (S-021 >$10,000 / 500 units; S-022 ~$3,000; S-018 half of capital;
    S-017 20,000 packs). Run 6: first successful beginner size: CROSSNET bought 100 units, sold them, then 200 (S-048,
    US, relevance 2). Missing: a successful first order for textiles or for a Balkan seller.
-7. **Competing with cheap local chains (Megateksa) or Temu**: L-006 now has conditions (premium works face to face).
+7. **Competing with cheap local chains (Megateksa) or Temu** (run 7: Temu queries in sr and sq returned only platform
+   news; drop them): L-006 now has conditions (premium works face to face).
    Run 3 added a Balkan loser (S-024: buyers compared with 99-dinar internet prices). Missing: a Balkan small seller
    who won against a cheap chain or Temu, and how.
 8. **Albania/Kosovo first B2B customers**: L-010 is high, but no Albanian B2B seller to hosts, hotels or offices yet.
@@ -86,5 +95,12 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     faster than searches (rule 20); one monitor.al search per run at most.
 19. **Confirm L-005 for Albania with buyers, not sellers** (new, run 6): the 2-3-year hotel replacement cycle comes from a
     supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays.
-20. **Survivorship check** (run 6): stories are 14 success / 15 failure / 19 mixed, so no survivorship skew overall, but
+20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed, still balanced), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
+21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
+    Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
+    what price and minimum? A local maker could cover emergencies (L-003) and avoid the EUR.1 question for towels
+    (towels pay 0% anyway). One search per run, then the user's own call.
+22. **Confirm L-033 and L-034 with B2B stories** (new, run 7): both rest on B2C online sellers in one 2018 article. Find
+    an Albanian or Balkan B2B buyer who paid a deposit, and a small importer who compared a local wholesaler with the
+    foreign maker.
