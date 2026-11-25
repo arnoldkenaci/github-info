@@ -2,17 +2,22 @@
 
 Lessons are advice to weigh, not guarantees. Each lesson cites the stories (IDs in `stories.jsonl`)
 behind it. Confidence: high = 3+ independent stories incl. 1 verified; medium = 2+ or 1 verified; low = otherwise.
-Most stories are founders' own accounts (self-reported); 8 of 42 come from Albania or Kosovo. The first Albanian
+Most stories are founders' own accounts (self-reported); 12 of 48 come from Albania or Kosovo. The first Albanian
 failures (S-036, S-037, S-038, run 5) are three small Tirana clothing shops from one 2020 Monitor survey, all hit by the
-earthquake and COVID-19: treat them as one source when judging confidence. Other Balkan stories: Serbia (S-024 failure,
+earthquake and COVID-19: treat them as one source when judging confidence. S-043, S-044 and S-045 (run 6) are three
+small Albanian shops from a second Monitor survey (February 2018, no shock: falling turnover, rent, taxes, a loan);
+they count as one more source. S-046 is the first Albanian B2B seller to hotels and Airbnb apartments (an incumbent
+hotel-textile supplier, self-reported interview). Other Balkan stories: Serbia (S-024 failure,
 S-030, S-031, S-032, S-035), North Macedonia (S-034, a hotel-textile maker) and Montenegro (S-033). S-003, S-015, S-016,
 S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is a competitor's offer, not seller outcomes.
 
 ## What this means for the host-kit plan
 
 1. **Do not count on hosts replacing linen "every season".** Hosts on forums replace sheets only when torn or stained,
-   often after years; towels and face cloths wear out faster. Base the business on new listings and on high-turnover
-   managed units, and offer towel refills as the repeat product. Re-check the plan's repeat-sales assumption. (L-005)
+   often after years; towels and face cloths wear out faster. An Albanian hotel-textile supplier says hotels change
+   linen once every 2-3 years, sooner where poor laundries ruin it. Base the business on new listings and on
+   high-turnover managed units, and offer towel refills as the repeat product. Re-check the plan's repeat-sales
+   assumption (it assumes every season). (L-005)
 2. **Sell to property managers and cleaning companies first, not single-flat hosts.** Small hosts buy retail
    (Costco/Sam's Club-style, in Albania Megateksa); operators with many units are the ones who consider a bulk supply
    service. French managers increasingly own professional linen and bundle it into an all-inclusive fee (25% with
@@ -28,21 +33,28 @@ S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is
    other small items that buyers can price on Temu inside the kit only. Sell a discounted sample/trial kit, so buyers
    can check quality before a bulk order. Sell direct, not through shops or chains: a Macedonian hotel-textile maker
    dropped Vero, Mercator and Metro because they resold at 3 euros what they bought at 1.8. Managers already have a
-   supplier, so bring a concrete reason to switch (a free trial set, a delivery date you can keep). (L-006, L-020, L-027, L-030)
+   supplier, so bring a concrete reason to switch (a free trial set, a delivery date you can keep). The rival is not
+   only Megateksa: Gjergji H. Tekstil (in the market since 1994, 25 tailors making custom sizes) already sells quality
+   towels and sheets to Airbnb apartments in Tirana, Durrës and Vlorë, and in 2024 planned a laundry and daily linen
+   rental. Get its prices and terms before setting yours, and win on a ready kit per unit delivered to the door, refills
+   on demand and no contract, not on "hotel quality" alone. (L-006, L-020, L-027, L-030, L-031, L-028)
 4. **Keep "no stock before commitments", and make commitments real.** Take deposits. A verbal yes or a
    demand spike is not demand; size the order on deposits. Get paid at delivery or before (deposit, then balance on
    handover); never let a manager run an open tab, since unpaid service fees are common in this trade. (L-001, L-013, L-029)
 5. **Small first order, more checks, a local fallback, and no promised dates before goods are in hand.** Samples
-   and test orders still missed a bad batch (Lima Lima: 80% defective). Write the spec (gsm, size, colour, fibre) in
+   and test orders still missed a bad batch (Lima Lima: 80% defective). One beginner that grew bought 100 units,
+   sold them, then bought 200 (CROSSNET); its pre-orders slipped from weeks to months when stock was late. Write the spec (gsm, size, colour, fibre) in
    numbers in the supplier's working language, check it yourself, and ask for photos/video of the real goods before
    shipping. Ask the supplier about holiday shutdowns and lead time before quoting a delivery date to a manager
    (a missed date lost Vineyard Sun a repeat client); know which local supplier could cover an emergency.
    (L-002, L-003, L-024)
-6. **Plan the off-season now.** Host demand is seasonal: land stock by late February, expect few sales from
-   November to February, and add no fixed costs (staff, rented storage, a shop) until cash is banked: three Tirana shops
+6. **Plan the off-season now.** Host demand is seasonal: Albanian hotel-textile orders for summer start in January
+   and peak from April to June (S-046), so pitch managers in December-January, land stock by late February, and expect
+   few sales from August to December, and add no fixed costs (staff, rented storage, a shop) until cash is banked: three Tirana shops
    with rent to pay closed when sales fell in 2020. A Serbian HoReCa supplier covers its off-season by selling to mountain
    and spa destinations; the Albanian equivalent (our inference) is Tirana city flats that rent all year and mountain
-   guesthouses, plus branded towels for companies as a winter line (S-034). (L-008, L-018, L-019)
+   guesthouses, plus branded towels for companies as a winter line (S-034). Do not fund stock or premises with a loan:
+   an Elbasan shop owner still repays hers after closing (S-044). (L-008, L-018, L-019)
 7. **Start through people you know, deliver the first orders yourself, then hand over to a courier**; keep every
    buyer's contact for re-orders and ask happy buyers for referrals (a Serbian online shop grew mainly on returning
    buyers and referrals); log the hours. (L-010, L-021, L-009, L-012)
@@ -52,15 +64,17 @@ S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is
 ### L-001: Get a real commitment (ideally a deposit) from the first buyers before building or buying stock
 - Evidence: S-002, S-010, S-008 (negative), S-018 (negative; now uses pre-orders), S-021 (negative: research but no commitments) (n=5) · Counter-evidence: S-002 (first yes came during a spike that vanished) · Confidence: medium
 - When it applies: any first order; B2B buyers you can meet in person.
-- Note: no story yet shows a deposit being asked for and paid in a cash-on-delivery market (gap 7). Pre-orders also create
+- Note: no story yet shows a deposit being asked for and paid in a cash-on-delivery market (gap 5). Conditional
+  counter-evidence S-048: CROSSNET took orders before stock was in and deliveries slipped from weeks to months; pre-sell
+  only with a delivery date you can keep (L-024). Pre-orders also create
   an obligation: S-017's trade customers had pre-ordered when the stock arrived defective.
 
 ### L-002: Start with a very small range and a first order you can afford to lose
-- Evidence: S-004 (3 towels), S-007 (50 products), S-008 (negative: printed too much), S-021 (negative: >$10,000 first run, $16,000 loss), S-022 (negative: $3,000 stock never fully sold), S-018 (negative: half the capital on one seasonal item), S-024 (negative: 30-50k euros of stock, only ~5% turned; expired paints a pure loss) (n=7) · Counter-evidence: S-006 (widened fast, but mostly supplier-shipped) · Confidence: medium (all self-reported)
+- Evidence: S-004 (3 towels), S-007 (50 products), S-008 (negative: printed too much), S-021 (negative: >$10,000 first run, $16,000 loss), S-022 (negative: $3,000 stock never fully sold), S-018 (negative: half the capital on one seasonal item), S-024 (negative: 30-50k euros of stock, only ~5% turned; expired paints a pure loss), S-048 (first order 100 units, sold, then 200; later 7,500) (n=8) · Counter-evidence: S-006 (widened fast, but mostly supplier-shipped) · Confidence: medium (all self-reported)
 - When it applies: own-stock imports. Wide ranges only work when suppliers hold the stock.
 
 ### L-003: Sample several suppliers, write the spec down, check the real goods before they ship, and keep a local fallback
-- Evidence: S-004 (8+ samples, quality "varies vastly"), S-011 (big order arrived as a different product), S-017 (samples and test orders passed, then 80% of 20,000 packs defective; rescued with local packaging), S-003 (factory matched a sample), S-026 (anecdote: mistranslated spec, wrong colours/sizes/materials), S-031 (Serbian B2B maker keeps alternative sources in China, Italy, Pakistan and Turkey so supply never stops) (n=6) · Counter-evidence: – · Confidence: medium (all self-reported or anecdote)
+- Evidence: S-004 (8+ samples, quality "varies vastly"), S-011 (big order arrived as a different product), S-017 (samples and test orders passed, then 80% of 20,000 packs defective; rescued with local packaging), S-003 (factory matched a sample), S-026 (anecdote: mistranslated spec, wrong colours/sizes/materials), S-031 (Serbian B2B maker keeps alternative sources in China, Italy, Pakistan and Turkey so supply never stops), S-046 (Albanian hotel-textile supplier: international hotel brands specify every item in cm and grams; advises hotels to set a written quality standard) (n=7) · Counter-evidence: – · Confidence: medium (all self-reported or anecdote)
 - When it applies: textiles and any large order from a new supplier. Check the written spec yourself even if an agent or translator handles the order (S-026).
 
 ### L-004: Pack and sell in the small quantities small hosts can store and afford; skip fancy packaging
@@ -68,11 +82,11 @@ S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is
 - When it applies: B2B to small hosts. See L-017: small hosts are not the main buyers of a supply service.
 
 ### L-005: Hosts replace linen on wear, not on a schedule; towels wear faster than sheets, and only high-turnover units burn sheets fast
-- Evidence: S-016 (sheets replaced only when torn/stained; 2015 linen still in use; ~7 sets culled 1 set in ~5 years; face cloths and towels replaced more), S-003 (one-night room rental used 4 sets/year; 4-night apartments kept 2015 bedding; "I go through towels faster than sheets") (n=2) · Counter-evidence: S-016 (one host replaces cheap sheets yearly) · Confidence: medium (forum anecdotes only)
+- Evidence: S-016 (sheets replaced only when torn/stained; 2015 linen still in use; ~7 sets culled 1 set in ~5 years; face cloths and towels replaced more), S-003 (one-night room rental used 4 sets/year; 4-night apartments kept 2015 bedding; "I go through towels faster than sheets"), S-046 (Albanian supplier: hotels change linen once every 2-3 years, partly because poor laundries' detergents ruin it; a seller's claim) (n=3) · Counter-evidence: S-016 (one host replaces cheap sheets yearly) · Confidence: medium (forum anecdotes only)
 - When it applies: forecasting repeat sales. Repeat demand comes from new listings, new units of managers, high-turnover units, cheap-linen users and towels.
 
 ### L-006: Win on quality and service where the buyer can see it; a low price is not a moat, and a premium price alone does not sell
-- Evidence: S-002 (time saved), S-014 (reliable supply), S-003 (Costco anchor, "crowded field"), S-022 (low price as main advantage failed; premium custom work later succeeded), S-024 (Serbian shop could not match 99-dinar internet offers; buyers saw its 6,000-dinar set as overpriced), S-030 (Serbian online appliance shop stands out by courtesy and service; competition is its biggest challenge), S-033 (Montenegrin B2B distributor: be a serious, reliable partner), S-034 (pure-cotton hotel textiles sell to coastal hotels, not to Serbian buyers who switched to cheap polyester), S-039 (negative: 2-3x the market price with "not a much better product" failed) (n=9) · Counter-evidence: S-021 (premium product at $50 vs $20-40 did not sell on Amazon) · Confidence: medium
+- Evidence: S-002 (time saved), S-014 (reliable supply), S-003 (Costco anchor, "crowded field"), S-022 (low price as main advantage failed; premium custom work later succeeded), S-024 (Serbian shop could not match 99-dinar internet offers; buyers saw its 6,000-dinar set as overpriced), S-030 (Serbian online appliance shop stands out by courtesy and service; competition is its biggest challenge), S-033 (Montenegrin B2B distributor: be a serious, reliable partner), S-034 (pure-cotton hotel textiles sell to coastal hotels, not to Serbian buyers who switched to cheap polyester), S-039 (negative: 2-3x the market price with "not a much better product" failed), S-046 (Albanian supplier: Airbnb apartments in Tirana/Durrës/Vlorë ask for quality towels and sheets and "very rarely" for cheap ones; a seller's claim) (n=10) · Counter-evidence: S-021 (premium product at $50 vs $20-40 did not sell on Amazon) · Confidence: medium
 - When it applies: premium works with face-to-face selling, samples and service; it fails in anonymous marketplaces where buyers compare on price, and on small items that buyers can price on Chinese platforms (S-024). Quality sells to buyers whose guests notice it (coastal and spa hotels, S-034); price-driven buyers move to cheap polyester (S-034, Serbia).
 
 ### L-007: On cash on delivery, confirm every order by phone/WhatsApp and take a deposit that covers shipping on large or unusual orders
@@ -80,13 +94,13 @@ S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is
 - When it applies: any COD sale, especially first orders from new areas. Matches the plan's 15% refusal rule.
 
 ### L-008: Land stock well before the season; delays, defects or stock-outs in the peak cost the year
-- Evidence: S-012 (shipments stuck in customs at Christmas), S-004 (sold out, lost ranking), S-017 (35% of turnover in six weeks; late, defective shipment), S-025 (supplier holiday shutdown delayed a re-order) (n=4) · Counter-evidence: – · Confidence: medium (all self-reported)
+- Evidence: S-012 (shipments stuck in customs at Christmas), S-004 (sold out, lost ranking), S-017 (35% of turnover in six weeks; late, defective shipment), S-025 (supplier holiday shutdown delayed a re-order), S-046 (Albanian hotel-textile supplier: 2024 summer orders started in January; April-June volume means overtime) (n=5) · Counter-evidence: – · Confidence: medium (all self-reported)
 
 ### L-009: Own the customer list (email/WhatsApp) instead of depending on one channel; repeat buyers come from it
 - Evidence: S-001, S-004, S-030 (returning buyers and referrals drive growth next to a marketplace listing) (n=3) · Counter-evidence: – · Confidence: medium (all self-reported)
 
 ### L-010: Win the first customers through relationships and audiences you already have
-- Evidence: S-006 (B2B catalogue clients + own news portal), S-014 (family hotel's problem), S-002 (host network), S-019 (daughter set up Instagram; requests started immediately), S-029 (a laundry business grew out of a conciergerie client) (n=5, S-006 and S-019 verified) · Counter-evidence: – · Confidence: high
+- Evidence: S-006 (B2B catalogue clients + own news portal), S-014 (family hotel's problem), S-002 (host network), S-019 (daughter set up Instagram; requests started immediately), S-029 (a laundry business grew out of a conciergerie client), S-047 (friends sold MP3 players with flyers; word of mouth and referrals, no paid marketing) (n=6, S-006 and S-019 verified) · Counter-evidence: – · Confidence: high
 
 ### L-011: For a part-timer, a few B2B accounts are easier than many B2C buyers
 - Evidence: S-008, S-001, S-009, S-023 (club/team orders through one contact) (n=4) · Counter-evidence: S-023 (B2B still failed on seasonality and costs) · Confidence: medium (all self-reported)
@@ -113,7 +127,7 @@ S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is
 - When it applies: host demand peaks before and during the tourist season. One off-season answer seen: sell to destinations with a different season (S-035), or a second B2B line such as branded towels for companies (S-034).
 
 ### L-019: Do not add fixed costs (staff, premises) before cash is in the bank; fast growth can kill through overtrading
-- Evidence: S-023 (salesperson quadrupled processing cost; overtrading), S-013 (growth pressure before costs were controlled), S-032 (33-year Serbian shop: "don't chase money, don't fall into debt"; 14 m2 to 400 m2 slowly), S-036 (Tirana shop: rent of 90,000 lek a month plus taxes, bankrupt after one year), S-038 (Tirana shop of 14 years closed rather than take on debt) (n=5; S-036/S-038 are one 2020 COVID survey) · Counter-evidence: S-017 (full-time + premises worked, after 1.5 years of proven sales) · Confidence: medium
+- Evidence: S-023 (salesperson quadrupled processing cost; overtrading), S-013 (growth pressure before costs were controlled), S-032 (33-year Serbian shop: "don't chase money, don't fall into debt"; 14 m2 to 400 m2 slowly), S-036 (Tirana shop: rent of 90,000 lek a month plus taxes, bankrupt after one year), S-038 (Tirana shop of 14 years closed rather than take on debt), S-043 (15-year Albanian curtain/clothing shop could not cover expenses and taxes when turnover fell, 2018), S-044 (Elbasan cosmetics shop opened on a bank loan: obligations from month one, loan still repaid after closing), S-045 (Tirana shop: rent too high, transport from Korça not covered) (n=8; S-036-S-038 are one 2020 COVID survey and S-043-S-045 one 2018 survey with no shock) · Counter-evidence: S-017 (full-time + premises worked, after 1.5 years of proven sales) · Confidence: medium
 
 ### L-020: Sell a cheap sample or trial pack to B2B buyers before the bespoke or bulk order
 - Evidence: S-023 (discounted sizing-sample packs for clubs), S-004 (samples decided supplier choice; buyer side) (n=2) · Counter-evidence: – · Confidence: medium (self-reported)
@@ -123,7 +137,7 @@ S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is
 - Evidence: S-019 (delivered by car, then express post), S-007 (staff delivered, built word of mouth) (n=2, S-019 verified) · Counter-evidence: – · Confidence: medium
 
 ### L-024: Do not promise a B2B delivery date until you know the supplier's lead time and holiday shutdowns, or until the goods are in hand
-- Evidence: S-025 (re-order delayed by a ~1-month Chinese New Year shutdown; client lost), S-017 (trade customers had pre-ordered when a late, defective shipment arrived), S-012 (shipments stuck in customs at Christmas) (n=3, all self-reported) · Counter-evidence: – · Confidence: medium
+- Evidence: S-025 (re-order delayed by a ~1-month Chinese New Year shutdown; client lost), S-017 (trade customers had pre-ordered when a late, defective shipment arrived), S-012 (shipments stuck in customs at Christmas), S-048 (orders taken before stock was in: "a few weeks turned into a few months"; now says have stock in or set expectations for the worst) (n=4, all self-reported) · Counter-evidence: – · Confidence: medium
 - When it applies: every manager order taken on deposit. For Turkish suppliers, ask about public-holiday shutdowns and the factory's real lead time in writing before quoting a date (this application to Turkey is our inference, not from a story; gap 3).
 
 ### L-025: Offer property managers linen they can bundle into an all-inclusive fee, not just sheets at a unit price
@@ -139,7 +153,7 @@ S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is
 - When it applies: a premium kit whose value needs explaining. A shop shelf puts it next to Megateksa prices with no one to explain it. Confirm with a second story (gap 17).
 
 ### L-028: Do not lock B2B buyers into long contracts; sell an asset they own, with optional refills
-- Evidence: S-042 (French managers: a 4-year linen contract cost 15,000 euros to exit; warnings about "miracle solutions"; anecdote), S-041 (Athens linen-delivery competitor sells on "no contracts" and "no upfront investment in linens") (n=2, anecdote and a company page) · Counter-evidence: S-028 (managers do sign up for bundled linen when it raises their fee) · Confidence: low
+- Evidence: S-042 (French managers: a 4-year linen contract cost 15,000 euros to exit; warnings about "miracle solutions"; anecdote), S-041 (Athens linen-delivery competitor sells on "no contracts" and "no upfront investment in linens"), S-046 (the Albanian incumbent planned a 12-tonne-per-shift laundry and daily linen rental for small and medium hotels in 2024: linen-as-a-service may reach Tirana) (n=3, anecdote, company page, interview) · Counter-evidence: S-028 (managers do sign up for bundled linen when it raises their fee) · Confidence: medium (no story yet of a Balkan buyer choosing owned kits over rental)
 - When it applies: pitching managers. Linen-as-a-service may reach Tirana (gap 16); answer it with owned kits, no lock-in and a lower cost per stay over a season.
 
 ### L-029: Get paid at handover (or before) and agree the payment method when the deal is signed
@@ -147,8 +161,15 @@ S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is
 - When it applies: every manager order. In Albania: deposit when ordering, balance in cash or bank transfer on delivery, fiscal invoice issued; no open credit for new accounts.
 
 ### L-030: B2B buyers already have a supplier; bring a concrete reason to switch and keep them through direct, long relationships
-- Evidence: S-039 (corporates buying staff meals were "hooked on" established restaurants), S-034 (sells to Serbian spa hotels mostly on long-standing direct relationships), S-031 (no competitor tried to take its regular customers even after its fire) (n=3, self-reported) · Counter-evidence: – · Confidence: medium
+- Evidence: S-039 (corporates buying staff meals were "hooked on" established restaurants), S-034 (sells to Serbian spa hotels mostly on long-standing direct relationships), S-031 (no competitor tried to take its regular customers even after its fire), S-046 (Albanian hotel-textile supplier: long relationships, knows which clients will re-order) (n=4, self-reported) · Counter-evidence: – · Confidence: medium
 - When it applies: approaching Tirana managers who already buy from Megateksa or a laundry. Lead with a trial set and a fixed delivery date; once won, the same stickiness protects you.
+
+### L-031: An established local hotel-textile supplier already serves Airbnb apartments; price and pitch against it, not only against Megateksa
+- Evidence: S-046 (Gjergji H. Tekstil: since 1994, 25 tailors making custom sizes, Airbnb apartments in Tirana/Durrës/Vlorë buy quality towels and sheets there, sales doubled in 2023, laundry and linen rental planned) (n=1, self-reported interview) · Counter-evidence: – · Confidence: low
+- When it applies: pricing and positioning the host kit. Before quoting managers, get the incumbent's prices, sizes,
+  minimums and lead times (visit or ask as a buyer). Differentiate on a ready, packed kit per unit, delivery, refills on
+  demand and no contract (L-028), since custom sizes and "hotel quality" are what the incumbent already sells. Confirm
+  whether its laundry/rental launched (gap 18).
 
 ## Other lessons (not directly relevant to the current plan)
 
@@ -160,3 +181,7 @@ S-027, S-028, S-040 and S-042 are buyer feedback / buyer behaviour, and S-041 is
 
 ### L-023: Don't pick a first product you have never used, in a niche you don't know, on a platform you don't understand
 - Evidence: S-021, S-022 (n=2) · Confidence: medium.
+
+### L-032: Do not import lookalikes of a branded product; a legal letter can stop sales overnight
+- Evidence: S-047 (teen importer's MP3 player too close to a major brand: had to stop trading, could not ship pending orders) (n=1, self-reported) · Confidence: low.
+  Relevant to the Petkit backup (Temu lookalikes) and to any branded-looking lockbox; generic white linen carries little risk.

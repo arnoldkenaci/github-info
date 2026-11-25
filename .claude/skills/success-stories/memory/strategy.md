@@ -1,11 +1,12 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
-Run 6 shortlist (best yield first): Monitor.al closure surveys (3 Albanian failures from 1 domain-restricted search
-in run 5; rule 22), biznis.rs trade-fair reports (HORECA sajam: 2 Balkan suppliers in one article; rule 21),
-La Conciergerie episode pages (rule 18), company service pages of managers in Greece/Croatia for linen offers (rule 23),
-Failory interviews (1 failure per search). Biznis.rs "99 najuspešnijih" ranking queries gave 1 profile from 3 searches
-in run 5 (the series excludes loss-makers). Open-web Albanian/Turkish story queries gave 0 again.
+Run 7 shortlist (best yield first): Monitor.al closure surveys (now 6 Albanian failures from 2 domain-restricted
+searches; the 2018 article was "the fourth" survey, so earlier/later waves exist; rule 22), Monitor.al supplier
+interviews ("Flet <name>, administrator/e <company>": S-046 from one monitor.al-restricted search; rule 24), Failory
+domain-restricted interviews (2 stories from 1 search in run 6), La Conciergerie slug harvest (run 6: 0 new, mostly
+regulation and cleaning episodes), biznis.rs trade-fair reports (run 6: 0 new, only the run-5 article again).
+Open-web Albanian, Greek and Croatian queries gave 0 again in run 6.
 
 ## Queries
 
@@ -101,27 +102,41 @@ in run 5 (the series excludes loss-makers). Open-web Albanian/Turkish story quer
 | vajza nisi dyqan online në Instagram me porosi nga Turqia histori suksesi Tiranë | 1 | 0 | 0 | DROP after 2 similar uses (run 3 variant): no Albanian Instagram-seller stories indexed |
 | Tirana property management "linen" Kondo OR Circlebnb OR "I-Host" | 1 | 0 | 0 | rule 20 quota; Airbtics: 186 managers / 1,625 listings in Tirana; Enjoy Albania 76 listings |
 | (fetch, no search) La Conciergerie episode list harvested from one page | 1 | 1 | 1.0 | S-042 ("8 000 € d'impayés": 15,000 euros to exit a linen contract) |
-| **New for run 6** | | | | |
-| monitor.al (allowed_domains) sondazh bizneset status pasiv mbyllën aktivitetin 2023 OR 2024 OR 2025 | 0 | 0 | – | rule 22, non-COVID Albanian failures (gap 1) |
-| biznis.rs (allowed_domains) sajam HORECA OR "Sajam hotelijerstva" izlagač peškiri posteljina hoteli | 0 | 0 | – | rule 21, more Balkan hotel suppliers |
-| Croatia/Montenegro apartment managers' service pages: "posteljina uključena" OR "linen included" upravljanje apartmanima | 0 | 0 | – | rule 23, gap 15 Balkan example |
-| Tirana/Durrës laundry or linen rental for apartments: "lavanderi" "çarçafë" "apartamente" "Airbnb" shërbim | 0 | 0 | – | gap 16 (counts as the rule-20 Tirana search) |
-| ekonomia.al OR forbes.al profil kompania e vogël importuese pronari tregon | 0 | 0 | – | gap 14, one try |
-| Kosovo telegrafi.com (allowed_domains) biznes i vogël furnizon hotelet restorantet tekstil intervistë | 0 | 0 | – | gap 8 |
+| **Run 6 (2026-11-25)** | | | | |
+| monitor.al (allowed_domains) sondazh bizneset mbyllën aktivitetin status pasiv pronari tregon pse mbylli | 1 | 3 | 3.0 | 2018 survey (non-COVID) → S-043, S-044, S-045; same 2020 article also returned |
+| biznis.rs (allowed_domains) sajam HORECA izlagač peškiri posteljina hoteli firma kaže | 1 | 0 | 0 | only the run-5 HORECA article (S-034/S-035) and tourism-fair news |
+| upravljanje apartmanima posteljina i ručnici uključeni cijena usluge iznajmljivači Hrvatska | 1 | 0 | 0 | gap 15: linen sometimes in the cleaning fee, often billed separately (Kurir report on Croatian coast cleaners, 20-25 euros/hour); no named manager |
+| lavanderi çarçafë peshqirë apartamente Airbnb Tiranë shërbim qiradhënie linen | 1 | 0 | 0 | rule-20 Tirana quota; Airbnb listing pages only. Gap 16 was answered instead by S-046 |
+| failory.com (allowed_domains) interview failed ecommerce wholesale importer inventory supplier lessons | 1 | 2 | 2.0 | S-047 (Zor Technology), S-048 (CROSSNET); Vivalatina/Ropero again |
+| biznis.rs/kurir.rs (allowed_domains) naplata od hotela dobavljač kasni plaćanje | 1 | 0 | 0 | ERROR: blic.rs and poslovni.hr are not allowed in allowed_domains (whole search refused); rule 25 |
+| Turkish towel business founder interview first wholesale order Denizli supplier delay Bayram | 1 | 0 | 0 | DROP English Turkish-towel founder queries (runs 1, 3, 4, 6: only S-004). Teema Towels (Medium) and The Handloom (Faire blog) are bot-checked |
+| "Nick Stobie" Teema Towels (rule-2 follow-up) | 1 | 0 | 0 | search index gave a summary only; not logged (rule 25) |
+| telegrafi/monitor/kallxo/koha/ekonomia (allowed_domains) biznes i vogël furnizon hotelet me tekstile peshqirë çarçafë | 1 | 1 | 1.0 | Monitor interview → S-046 (Gjergji H. Tekstil); gaps 8, 14, 16 |
+| Greek: διαχείριση Airbnb λευκά είδη ξενοδοχειακού τύπου ιδιοκτήτες χρέωση | 1 | 0 | 0 | Smoobu/Hostfully blog pages only |
+| monitor.al (allowed_domains) intervistë administrator kompania furnizim hotele HORECA tekstile Airbnb | 1 | 0 | 0 | S-046 again; Melia Durrës GM interview (suppliers "adapted successfully" to brand standards; not logged), MiniInvest retail piece |
+| kurir/biznis/nova/n1 (allowed_domains) kapar avans kupci online prodavnica pouzećem odbijeni paketi | 1 | 0 | 0 | gap 5: legal explainers (kapara vs avans); NBS says COD returns are far higher than card/IPS |
+| (fetch, no search) La Conciergerie slug harvest | 1 | 0 | 0 | new slugs: regulation, cleaning staff (PassPass), July-August peak (managers restock fully in June), Ma Normandie est servie (plans a laundry); none logged |
+| **New for run 7** | | | | |
+| monitor.al (allowed_domains) sondazh subjektet pasive 2017 OR 2019 OR 2023 arsyet mbylljes dyqan tregti | 0 | 0 | – | rule 22: other survey waves; look for importers or online sellers (gap 1) |
+| monitor.al (allowed_domains) "Gjergji H" OR lavanderi industriale qira çarçafësh hotele | 0 | 0 | – | gap 16/18: did the incumbent's laundry and rental launch? |
+| monitor.al (allowed_domains) "Flet" administratore furnizim Airbnb apartamente pajisje mobilim | 0 | 0 | – | rule 24: other Albanian suppliers to apartments (furnishing, amenities) |
+| failory.com (allowed_domains) interview first order units started small physical product sold out reorder | 0 | 0 | – | gap 6 (successful first-order sizes) |
+| Kosovo: kallxo.com OR koha.net (allowed_domains) biznesi mbylli dyqanin online importonte | 0 | 0 | – | gap 1 for Kosovo, one try |
 
 ## Sources
 
 | Source | Uses | Yield | Notes |
 |---|---|---|---|
-| Failory (interviews + "31 failed e-commerce startups" list page) | 6 | 1.2 | S-008, S-009, S-013, S-021, S-022, S-023, S-039; best failure source; mostly US/UK/Mexico/India |
+| Failory (interviews + "31 failed e-commerce startups" list page) | 7 | 1.29 | S-008, S-009, S-013, S-021, S-022, S-023, S-039, S-047, S-048 (run 6); best failure source; mostly US/UK/Mexico/India |
 | Side Hustle School (episode pages incl. full transcripts) | 4 | 1.5 | S-011, S-012, S-017, S-018, S-025, S-026; run 3 stories only relevance 2-3 (rule 15) |
 | Kosovo 2.0 (archive.kosovotwopointzero.com readable; main site loads by JS) | 3 | 0.67 | S-019, S-020; runs 3-4: 0 |
 | Balkan "confession" news (Kurir Biznis "ispovest", retold Reddit posts) | 5 | 0.2 | S-024 only; run 4: 4 confession queries (sr, sq, mk, hr/bs) gave 0 |
-| French conciergerie podcasts (La Conciergerie on Ausha) | 3 | 1.33 | S-027, S-028, S-029, S-042; each episode page embeds the descriptions and slugs of many other episodes (rule 18); show notes only |
+| French conciergerie podcasts (La Conciergerie on Ausha) | 4 | 1.0 | S-027, S-028, S-029, S-042; run 6 harvest: 0 (recent episodes are regulation and staffing); each episode page embeds the descriptions and slugs of many other episodes (rule 18); show notes only |
 | biznis.rs "99 najuspešnijih" (Serbian micro-firm profiles, CompanyWall financials) | 5 | 0.8 | S-030, S-031, S-032 (run 4), S-033 (run 5); excludes firms with losses or in bankruptcy, so no failures; run-5 ranking queries mostly returned tables |
-| biznis.rs trade-fair reports (HORECA sajam) | 1 | 2.0 | S-034, S-035 (run 5): several exhibitors quoted in one article |
-| Monitor.al closure surveys (named owners of closed businesses) | 1 | 3.0 | S-036, S-037, S-038 (run 5); 2020 COVID survey, so failures are shock-driven; count one article as one source |
-| Manager / linen-service company pages (Greece) | 1 | 2.0 | S-040, S-041 (run 5); offers, not outcomes (rule 23) |
+| biznis.rs trade-fair reports (HORECA sajam) | 2 | 1.0 | S-034, S-035 (run 5): several exhibitors quoted in one article |
+| Monitor.al closure surveys (named owners of closed businesses) | 2 | 3.0 | S-036, S-037, S-038 (run 5, 2020 COVID survey, shock-driven); S-043, S-044, S-045 (run 6, February 2018 survey, no shock); count each article as one source |
+| Monitor.al supplier interviews ("Flet <name>, administrator/e ...") | 2 | 0.5 | S-046 (run 6, Gjergji H. Tekstil); named Albanian firms, self-reported, no financials |
+| Manager / linen-service company pages (Greece; Croatia tried run 6) | 3 | 0.67 | S-040, S-041 (run 5); offers, not outcomes (rule 23) |
 | Host forums (airhostsforum `.json`, BiggerPockets) | 3 | 1.0 | S-003, S-015, S-016; buyer voices, anecdote |
 | Starter Story | 3 | 0.67 | S-001, S-004; site search via WebSearch weak |
 | Balkan startup media (Trending Topics SEE, StartUs Magazine, The Recursive, StartupYard) | 3 | 0.67 | S-007, S-010; StartupYard only duplicated Gjirafa |
@@ -189,3 +204,13 @@ in run 5 (the series excludes loss-makers). Open-web Albanian/Turkish story quer
 23. **Company service pages are offers, not outcomes**: log a manager's or competitor's page only as "Buyer evidence:"
     or "Market evidence:" with outcome "mixed", relevance at most 4, and never as a seller success; quote only what
     the page states. (run 5)
+24. **Albanian B2B seller stories come from Monitor.al supplier interviews** ("Flet <name>, administratore e <company>"),
+    found with a monitor.al-restricted Albanian query naming the buyer sector (hotele, HORECA, Airbnb, tekstile). They are
+    self-reported and often promotional: log them with credibility "self-reported", quote only what the owner says,
+    and treat claims about buyers ("Airbnb owners want quality") as a seller's claim, not buyer evidence. (run 6)
+25. **Check allowed_domains before searching**: blic.rs and poslovni.hr are refused and make the whole search fail; use
+    biznis.rs, kurir.rs, nova.rs, n1info.rs, monitor.al, telegrafi.com, failory.com. Medium (Authority Magazine) and the
+    Faire blog are bot-checked; if the rule-2 follow-up search returns only a summary, do not log the story. (run 6)
+26. **Survey articles hold several shop types; log only sellers** (retail, import, B2B) with a stated reason for closing,
+    and skip bars, cafés and services even when named (run 6: 3 of ~20 named owners in the 2018 survey logged). (run 6)
+
