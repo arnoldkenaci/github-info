@@ -1,6 +1,10 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
+Run 11 shortlist (best yield first): Monitor.al sector features on trades tied to short-term-rental fit-out and household
+goods (run 10: 7 Albanian stories from 3 searches; rule 38), biznis.rs small-retailer profiles (run 10: 1), Forbes Srbija
+"mali biznis" with new words only (run 10: 1 new, rest duplicates; rule 39), Prishtina Insight (run 10: 0). Run 10
+Turkish, Greek, Failory-B2B and BiH online-shop queries gave 0.
 Run 10 shortlist (best yield first): Forbes Srbija "mali biznis" (run 9: 2 named Serbian failures from 2 searches;
 rule 36), Monitor.al sector features on other trades (run 9: flower feature gave 2 Albanian stories), Prishtina Insight
 magazine pieces (run 9: 2 Kosovo Instagram sellers), biznis.rs small-retailer profiles, Monitor rental features (run 9:
@@ -164,23 +168,34 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | Airbnb host supply business Europe founder started selling linen kits to hosts (open web) | 1 | 0 | 0 | DROP: Hostmaker (VC), Washbnb (already logged) |
 | forbes.n1info.rs (allowed_domains) mali biznis zatvorila online prodavnicu greške lager | 1 | 1 | 1.0 | → S-066 (Zanateria); "Opekao sam se" event article (2024) is mostly services/software, DaLux curtains firm partial |
 | (no search) "Snowball: Monitor 50-milion/Konkurrenca, Prishtina women entrepreneurs" fetches | 1 | 0 | 0 | data and producers only |
-| **New for run 10** | | | | |
-| forbes.n1info.rs / forbes.n1info.ba (allowed_domains) "Kako je propao moj mali biznis" OR "zatvorila radnju" uvoz tekstil | 0 | 0 | – | rule 36: Forbes Srbija/BiH "mali biznis" section has named Balkan failures |
-| biznis.rs (allowed_domains) "Najveći uspeh je opstati" trgovina prodavnica konkurencija lanci vlasnik | 0 | 0 | – | gap 7: more small retailers surviving next to chains |
-| monitor.al (allowed_domains) biznesi i tekstileve / mobilieve / pajisjeve "tregtarët pohojnë" sezoni importi | 0 | 0 | – | rule 27 on trades close to host kits (furniture, home textiles, household goods) |
-| prishtinainsight.com (allowed_domains) "-mag" business owner Prishtina shop started selling online imports | 0 | 0 | – | rule 33; Kosovo online seller stories (gap 1) |
+| **Run 10 (2026-11-26)** | | | | |
+| forbes.n1info.rs / forbes.n1info.ba (allowed_domains) mali biznis propao zatvorila prodavnicu greške uvoz | 1 | 1 | 1.0 | run 10: S-065/S-066 again, plus the 2024 "Opekao sam se" piece → S-068 (DaLux, Turkish supplier lesson); section near exhausted (rule 39) |
+| biznis.rs (allowed_domains) "Najveći uspeh je opstati" prodavnica vlasnik konkurencija lanci mala firma | 1 | 1 | 1.0 | run 10: S-069 (Miranita, Ljig); Dugme (Bela Crkva, 70 staff, relevance 2) skipped; S-067 again |
+| monitor.al (allowed_domains) tregtarët tregojnë për Monitor mobilie tekstile shtëpie importi dyqan shitjet | 1 | 4 | 4.0 | run 10: 2019 used-clothing feature → S-070, S-071, S-072; 2019 furniture feature → S-073 (rule 38) |
+| prishtinainsight/K2.0/balkaninsight (allowed_domains) Kosovo online shop owner registered business Instagram sales imports Turkey interview | 1 | 0 | 0 | run 10: thrift-shop and supermarket pieces again; Mitrovica traders piece (first names, premium) |
+| Turkish: Türk havlu toptan ilk sipariş yurt dışı küçük alıcı deneyim kalite sorunu peştemal girişimci hikayesi (open web) | 1 | 0 | 0 | DROP: Faire/Alibaba/EEN listings only (one: MOQ 500 pcs, 6-8 weeks) |
+| forbes.n1info.ba/rs, n1info.ba (allowed_domains) zatvorila online prodavnicu iskustvo greške zalihe kupci nisu platili | 1 | 0 | 0 | S-065 again; BiH inspectorate warnings, no seller |
+| monitor.al/euronews.al/shqiptarja (allowed_domains) furnitorët e hoteleve vonesa në pagesa sezoni biznesi i vogël tregon | 1 | 0 | 0 | gap 17: tax and tourism pieces; Melia Durrës GM says local suppliers adapted fast (buyer view, not logged) |
+| failory.com (allowed_domains) interview wholesale B2B supplier hotels restaurants startup failed lessons inventory | 1 | 0 | 0 | Punjab Kitchen (= S-039) again; Delite and Chowdy relevance 2, skipped |
+| Greek: λευκά είδη ξενοδοχείων Airbnb μικρή επιχείρηση ιδρυτής ιστορία (open web) | 1 | 0 | 0 | DROP: Airbnb corporate history only |
+| monitor.al/reporter.al/citizens.al (allowed_domains) dyqan online Instagram shitëse tregon porositë pagesa në dorëzim kthimet biznesi u mbyll | 1 | 1 | 1.0 | 2019 "Shitjet online në zgjerim" → S-076 (Movida Albania); Aug 2026 piece: 2,016 registered online sellers, tax action (gap 27 data) |
+| **New for run 11** | | | | |
+| monitor.al (allowed_domains) "Flet" administrator elektroshtëpiake OR mobilie OR pajisje kërkesa qira ditore Airbnb investitorët | 0 | 0 | – | rule 38: fit-out sellers quoting STR demand (L-036) |
+| monitor.al (allowed_domains) tekstile shtëpie çarçafë peshqirë dyqan tregtarët "tregon për Monitor" | 0 | 0 | – | rule 38 on home textiles specifically (gap 3, 7) |
+| biznis.rs/forbes.n1info.rs (allowed_domains) uvoznik iz Turske iskustvo dobavljač kvalitet prva porudžbina tekstil | 0 | 0 | – | gap 28: second Turkish-supplier story (L-039) |
+| prishtinainsight.com (allowed_domains) Kosovo tax administration Instagram sellers register business owner says | 0 | 0 | – | gap 27: a seller who formalised |
 | **(Run-9 queue, results above)** | | | | |
 | monitor.al (allowed_domains) qira ditore pronarja tregon hoqi dorë apartament Durrës OR Vlorë OR Sarandë | 1 | 0 | 0 | run 9: only the run-8 articles (Entela = S-057, Suela = S-058) and price/occupancy pieces |
 | monitor.al (allowed_domains) Arrijnë 50 milionë euro fitimet qira ditore 2026 / "Konkurrenca me hotelet dhe informaliteti" | 1 | 0 | 0 | run 9: data only (27.7k listings H1 2026, +4.2% vs 2025 average, +1.1k units; hotels hold 22% of ~285k beds); no named managers (gap 23) |
 | prishtinainsight.com (allowed_domains) online shop Instagram business Kosovo founder closed OR struggled | 1 | 2 | 2.0 | run 9: "Transforming the thrift shop" (2021) → S-061, S-062 (successes, not failures) |
-| monitor.al (allowed_domains) arredim apartamente qira ditore kompani mobilimi tekstile | 0 | 0 | – | not run in run 9 (carry to run 10; gap 24) |
+| monitor.al (allowed_domains) arredim apartamente qira ditore kompani mobilimi tekstile pronarët Airbnb | 1 | 2 | 2.0 | run 10: no furnisher, but led to the Aug 2026 sanitary-ware feature → S-074, S-075 (STR investors as fit-out buyers; AirDNA unit split) |
 
 
 ## Sources
 
 | Source | Uses | Yield | Notes |
 |---|---|---|---|
-| Failory (interviews + "31 failed e-commerce startups" list page) | 10 | 0.9 | S-008, S-009, S-013, S-021, S-022, S-023, S-039, S-047, S-048 (run 6); run 7: 0 from 2 searches; best failure source; mostly US/UK/Mexico/India |
+| Failory (interviews + "31 failed e-commerce startups" list page) | 11 | 0.82 | S-008, S-009, S-013, S-021, S-022, S-023, S-039, S-047, S-048 (run 6); runs 7 and 10: 0 (run 10: only duplicates and relevance-2 SaaS/food); mostly US/UK/Mexico/India |
 | Side Hustle School (episode pages incl. full transcripts) | 5 | 1.2 | S-011, S-012, S-017, S-018, S-025, S-026; run 3 stories only relevance 2-3 (rule 15); run 7: 2 duplicates (rule 29) |
 | Kosovo 2.0 (archive.kosovotwopointzero.com readable; main site loads by JS) | 3 | 0.67 | S-019, S-020; runs 3-4: 0 |
 | Balkan "confession" news (Kurir Biznis "ispovest", retold Reddit posts) | 5 | 0.2 | S-024 only; run 4: 4 confession queries (sr, sq, mk, hr/bs) gave 0 |
@@ -189,24 +204,25 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | biznis.rs trade-fair reports (HORECA sajam) | 2 | 1.0 | S-034, S-035 (run 5): several exhibitors quoted in one article |
 | Monitor.al closure surveys (named owners of closed businesses) | 3 | 2.0 | S-036, S-037, S-038 (run 5, 2020 COVID survey, shock-driven); S-043, S-044, S-045 (run 6, February 2018 survey, no shock); count each article as one source; run 7: no other waves indexed |
 | Monitor.al supplier interviews ("Flet <name>, administrator/e ...") | 3 | 0.33 | S-046 (run 6, Gjergji H. Tekstil); named Albanian firms, self-reported, no financials |
-| Monitor.al sector features (several named sellers quoted per article) | 3 | 2.0 | run 9: S-063, S-064 (2021 flower-trade feature); run 8: S-056 (2018 cleaning-services feature); S-051, S-052, S-053 (run 7, 2018 online-retail feature); count as one source; rule 27 |
+| Monitor.al sector features (several named sellers quoted per article) | 6 | 2.17 | run 10: S-070-S-072 (2019 used clothing), S-073 (2019 furniture), S-074, S-075 (2026 sanitary ware), S-076 (2019 online retail); run 9: S-063, S-064; run 8: S-056; run 7: S-051-S-053; count each article as one source; rules 27, 38 |
 | Manager / linen-service company pages and advertorials (Greece; Croatia run 6; Romania run 7) | 4 | 0.75 | S-040, S-041 (run 5); offers, not outcomes (rule 23) |
 | Host forums (airhostsforum `.json`, BiggerPockets) | 3 | 1.0 | S-003, S-015, S-016; buyer voices, anecdote |
 | Starter Story | 3 | 0.67 | S-001, S-004; site search via WebSearch weak |
 | Balkan startup media (Trending Topics SEE, StartUs Magazine, The Recursive, StartupYard) | 3 | 0.67 | S-007, S-010; StartupYard only duplicated Gjirafa |
 | USAID / UNDP / EBRD / World Bank / UN Women case studies | 5 | 0.4 | S-006, S-049 (archived 2006 USAID story, rule 28); mostly producers/freelancers; UN Women 0 in run 3 |
-| Prishtina Insight (BIRN magazine; readable by curl) | 7 | 0.57 | run 9: S-061, S-062 (Kosovo Instagram thrift shops) from 4 searches; run 8: S-054, S-055 (Kosovo shops vs supermarkets) from 2 searches; run 3: COVID piece on producers |
+| Prishtina Insight (BIRN magazine; readable by curl) | 8 | 0.5 | run 10: 0 (same articles); run 9: S-061, S-062 from 4 searches; run 8: S-054, S-055 from 2 searches; run 3: COVID piece on producers |
 | Monitor.al short-term-rental market features (named hosts, managers, fit-out firms) | 1 | 4.0 | run 8: S-057, S-058 (Feb 2025), S-059, S-060 (May 2022); buyer evidence (rule 7, rule 31) |
-| Forbes Srbija "mali biznis" section (forbes.n1info.rs; readable by curl) | 2 | 1.0 | run 9: S-065 (Ana Nešić, failure), S-066 (Zanateria, failure); named Balkan failures with details; rule 36 |
-| biznis.rs small-retailer profiles (outside the "99" series) | 1 | 1.0 | run 9: S-067 (Family, Kraljevo) |
+| Forbes Srbija "mali biznis" section (forbes.n1info.rs; readable by curl) | 4 | 0.75 | run 10: S-068 (DaLux) from the 2024 "Opekao sam se" piece; S-065/S-066 again; run 9: S-065 (Ana Nešić), S-066 (Zanateria); rules 36, 39 |
+| biznis.rs small-retailer profiles (outside the "99" series) | 2 | 1.0 | run 9: S-067 (Family, Kraljevo); run 10: S-069 (Miranita, Ljig) |
 | Pet trade press (Pet Age) | 1 | 0 | distributor news, no small dealer |
 | STR trade press (ShortTermRentalz, BizTimes, PhocusWire) | 2 | 0.5 | S-002 |
 | YourStory (India SMB stories) | 1 | 1.0 | S-014; bot check, use search snippets |
-| Albanian/Kosovar business media (Euronews Albania, Scan TV, Shqiptarja, SeeNews, Kallxo, Koha, Telegrafi; Monitor.al has its own rows) | 5 | 0 | stats/reports, customs rules, smuggling news; SeeNews bot-checked |
+| Albanian/Kosovar business media (Euronews Albania, Scan TV, Shqiptarja, SeeNews, Kallxo, Koha, Telegrafi; Monitor.al has its own rows) | 6 | 0 | stats/reports, customs rules, smuggling news; SeeNews bot-checked |
 | Reddit | 2 | 0 | not surfaced by WebSearch |
 | Indie Hackers, IdeaProof | 2 | 0 | blocked or JS-only |
 | Podcasts with Balkan founders (Endeavor Greece) | 1 | 0 | summaries only, VC companies |
 | Portuguese business/lifestyle media (NiT, Observador, ECO) | 1 | 0 | run 7: makers and sponsored content |
+| Turkish- and Greek-language open web (supplier and host-supply stories) | 2 | 0 | run 10: listings and Airbnb corporate history only; rule 40 |
 
 ## Learned rules
 
@@ -307,3 +323,14 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 37. **Monitor rental-market features are exhausted for new host stories** (run 9: both queued rental queries returned
     only S-057-S-060 and data). Use at most 1 Monitor rental query per run, for data on operators (gap 23), not for
     host stories. (run 9)
+38. **Monitor.al sector features work for many trades, not just online retail** (run 10: used-clothing, furniture and
+    sanitary-ware features gave 7 Albanian stories from 3 searches). Search monitor.al for trades that sell to
+    short-term-rental owners or households (furniture, sanitary ware, appliances, home textiles) and read the "Flet
+    <name>" interview box at the end. Log importers' market claims as "Market evidence:" (rule 23). (run 10)
+39. **Forbes Srbija "mali biznis" failure queries now mostly return S-065/S-066** (run 10: 2 searches, 1 new story from an
+    older group piece). Use at most 1 per run there, with new words (uvoznik, dobavljač iz Turske, lager) and skip
+    articles already logged. (run 10)
+40. **Turkish- and Greek-language open-web queries return listings, not stories** (run 10: 0 from 2). For Turkish-supplier
+    experience, search Balkan importers' interviews (Forbes Srbija, biznis.rs, Monitor) instead of Turkish sites. (run 10)
+41. **Old Monitor features re-quote people already logged** (run 10: Valer Pinderi = S-010 person, gjejevete.al = S-053):
+    grep `stories.jsonl` for each name before logging, and log only new names. (run 10)
