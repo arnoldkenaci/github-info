@@ -33,6 +33,11 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Run 8: first Kosovo failure, S-054 (Vushtrri grocery closed within a year, undercut by supermarkets and charged more
    by its wholesaler; Prishtina Insight, which is readable by curl). Still no named Albanian/Kosovar online, importer or
    B2B seller that closed; Prishtina Insight's archive (rule 33) is the next place to look.
+   Run 9: Prishtina Insight gave two Kosovo Instagram sellers, both successes (S-061, S-062); five Albanian/Kosovar
+   failure searches gave 0. First Balkan **online** failures came from Serbia via Forbes Srbija (S-065 online food shop:
+   reach without buyers, stock tying up cash, VAT surprise, grant cut; S-066 marketplace: unreliable small suppliers).
+   Still no Albanian/Kosovar online, importer or B2B failure; next: Forbes Srbija/BiH (rule 36), and the user's own
+   network (ask local couriers or accountants which online sellers stopped and why).
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -62,6 +67,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Run 3 added a Balkan loser (S-024: buyers compared with 99-dinar internet prices). Missing: a Balkan small seller
    who won against a cheap chain or Temu, and how. Run 8: two more losers to chains (S-054 closed, S-055 income
    halved; Kosovo shops selling the same goods as supermarkets at higher prices). Still no winner.
+   Run 9: first Balkan small retailer holding on next to chains: Family (Kraljevo, S-067) stays 'somewhat cheaper' than
+   dm and Lilly, adds service and sells larger quantities to institutions, but its 2025 results slipped. Partly answered;
+   still no seller that beat Temu or a chain on a textile product.
 8. **Albania/Kosovo first B2B customers**: L-010 is high, but no Albanian B2B seller to hosts, hotels or offices yet.
    Run 5: nearest is S-034 (Macedonian hotel-textile maker selling direct to Balkan coastal hotels; L-027, L-030).
    Run 6: **first Albanian B2B seller**: S-046 (Gjergji H. Tekstil, since 1994, sells to hotels and Airbnb apartments;
@@ -75,6 +83,8 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     a Macedonian maker has branded promotional towels as a second line (S-034). Still no Albanian example.
     Run 6: the Albanian incumbent's orders start in January and peak April-June (S-046); what it sells from August to
     December is not stated.
+   Run 9: an Albanian grower's main hope is hotel orders before the summer season (S-064); one-season stock was
+   destroyed when buyers closed (L-018). Still no Albanian off-season example.
 12. **Who owns the linen in Tirana managed flats: the manager or the flat owner?** (from S-027; decides who the buyer
     is, L-017). Look for Albanian property-manager service pages that list a linen fee, or interviews with Tirana
     co-hosts. Partly answered for France (L-025, low): managers bundle professional linen into a higher all-inclusive
@@ -102,7 +112,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 19. **Confirm L-005 for Albania with buyers, not sellers** (new, run 6): the 2-3-year hotel replacement cycle comes from a
     supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays. Run 8: partly answered
     by one Tirana host (S-057: "sheets and towels had to be bought often" in busy flats; anecdote, no numbers).
-20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28, still balanced), so no survivorship skew overall, but
+20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31, still balanced), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
@@ -115,6 +125,18 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     daily rentals in 2024 (S-057, S-058) and Monitor says rentals are concentrating in professional operators, yet
     listings grew from 21.3k (Dec 2024) to 27.7k (H1 2026). Find AirDNA/Airbtics or Monitor data on listings per host
     or on operators' share, and ask PikHost/AVRA how many units their members add per year.
+    Run 9: Monitor (Aug 2026): 27.7k listings in H1 2026, only +1.1k units and +4.2% on the 2025 average, so stock growth
+    has slowed sharply; no data on operators' share. New-listing demand for kits (the research plan's 948 Tirana / 681
+    Durrës new listings in 2025) may be lower in 2026; ask AVRA/PikHost.
 24. **Do Tirana furnishers and interior architects supply linen at fit-out?** (new, run 8; L-036 low): GBarchs
     Architects (Gladiola Balliu) fits out flats for daily rental (S-060). Ask 2-3 such firms whether they buy linen for
     clients and would add or refer a ready kit (user's call, rule 20; one search per run at most).
+25. **Confirm L-037 for Albania** (new, run 9): is an importer VAT-registered from the first import whatever its turnover,
+    and what does a contracted accountant cost? (albania-market-context marks this "confirm with DPT"). The user's
+    accountant answers this; no searches needed (rule 20).
+26. **Confirm L-038 with a second source outside Serbia** (new, run 9): an Albanian or Kosovar small firm hurt when a donor
+    programme or grant ended (USAID cuts in 2025 hit many Balkan projects). One Prishtina Insight or Monitor search.
+27. **Do Kosovo/Albanian Instagram sellers formalise, and does it change trust or deposits?** (new, run 9; from S-061,
+    unregistered seller): links to L-034 (registered firm earns deposits). Look for a seller who registered and says
+    what changed.
+
