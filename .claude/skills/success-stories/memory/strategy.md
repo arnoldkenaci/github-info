@@ -1,6 +1,10 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
+Run 13 shortlist (best yield first): monitor.al features on stock, season and crisis shocks across trades (run 12: the
+three new stories came from a 2021 toy feature, a 2022 e-commerce feature and a Nov 2025 tourism-stock feature; rule 44),
+Monitor sector features generally (rule 38). Run 12: street-name, laundry, mattress/curtain, Telegrafi-podcast, Prishtina
+Insight and Forbes/biznis.rs queries gave 0 from 11 searches.
 Run 12 shortlist (best yield first): monitor.al queries naming Tirana shopping streets or Monitor's "milionat e biznesit/
 tregut" trade series (run 11: 3 Albanian stories from 2 searches; rule 42), Monitor.al sector features on fit-out trades
 (rule 38), biznis.rs small-retailer profiles. Run 11: Forbes Srbija, Prishtina Insight, North Macedonia/Montenegro and
@@ -198,10 +202,26 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | monitor.al/euronews.al/scantv/tiranatimes hotel supplier Durrës Vlorë linens owner season orders | 1 | 0 | 0 | S-073 again; hotel revenue tables |
 | forbes.n1info.rs/ba, biznis.rs, n1info.ba uvoznik zatvorio firmu lager ostao neprodat dobavljač kasnio | 1 | 0 | 0 | S-065 again; tax-law explainers (rule 39 confirmed) |
 | monitor.al (allowed_domains) dyqanet e vogla rruga Bardhyl Myslym Shyri pronarët tregojnë shitjet ranë qendrat tregtare | 1 | 2 | 2.0 | named Tirana streets surface old features: → S-078 (Ola, 2019 used-clothing feature) and the 2019 cosmetics feature → S-079 (CP Cosmetics) (rule 42) |
-| **New for run 12** | | | | |
-| monitor.al (allowed_domains) "milionat e biznesit" OR "milionat e tregut" + a trade (lodra, elektroshtëpiake, mobilie, kancelari, pastrimi) | 0 | 0 | – | rule 42: Monitor's trade-series titles hold named sellers |
-| monitor.al (allowed_domains) rruga e Kavajës OR Pazari i Ri OR Komuna e Parisit tregtarët tregojnë dyqani importon | 0 | 0 | – | rule 42: street names surface shop-owner quotes |
-| monitor.al (allowed_domains) distributor furnizon sallonet OR restorantet OR hotelet "Flet" administratori si nisi | 0 | 0 | – | gap 31: how a B2B importer won its first accounts |
+| **Run 12 (2026-11-26)** | | | | |
+| monitor.al (allowed_domains) "milionat e" tregut lodra OR elektroshtëpiake OR kancelari tregtarët tregojnë për Monitor | 1 | 1 | 1.0 | 2021 toy feature → S-080 (Shtëpia e Lodrave, online orders from the warehouse in lockdown); "Hapat e vegjël" too thin to log; appliance pieces are big chains (Neptun) |
+| monitor.al (allowed_domains) rruga e Kavajës OR Pazari i Ri OR Komuna e Parisit tregtarët tregojnë dyqani importon shitjet | 1 | 0 | 0 | DROP: rent and retail-statistics pieces; no shop owner quoted |
+| monitor.al (allowed_domains) distributor furnizon hotelet restorantet "Flet" administratori si nisi biznesi | 1 | 0 | 0 | gap 31: Lajthiza water (50% HoReCa), S-046 again, Melia Durrës GM interview (Nov 2024: local suppliers adapted fast; buyer view, not logged) |
+| monitor.al (allowed_domains) lavanderi biznes Tiranë pronari tregon klientët Airbnb hotelet çarçafë larje | 1 | 0 | 0 | S-046 and rental articles again; no laundry owner indexed (gap 16 stays with the user) |
+| monitor.al (allowed_domains) "milionat e biznesit" OR "milionat e tregut" perde OR mobilie OR orendi OR elektroshtëpiake | 1 | 1 | 1.0 | led to the 2022 feature "Informaliteti, thembra e Akilit të e-commerce" → S-081 (Graal); Pinderi (= S-010) and Movida (= S-076) quoted again |
+| monitor.al/reporter.al/citizens.al/shqiptarja/lapsi.al (allowed_domains) dyqan online mbylli aktivitetin pronari rrëfen humbje mallra importuar Instagram dështim | 1 | 0 | 0 | S-051 article again; Lapsi.al 2016 "Shitjet on line: biznesi i vështirë" is 404 (rule 12) |
+| podcast intervistë sipërmarrëse shqiptare si e nisa biznesin dyqan online gabimet (open web; exploration, rule 43) | 1 | 0 | 0 | DROP: Telegrafi "Think Big", "Rrugëtimi", "Telegrafi për Biznes" and the PM's podcast feature tech, career and big-business guests |
+| prishtinainsight.com/kosovotwopointzero.com (allowed_domains) Kosovo entrepreneur imported goods shop closed debts lessons interview owner | 1 | 0 | 0 | S-054/S-055 again; "village shop" and "Malisheva" (COVID) pieces already known |
+| forbes.n1info.rs/biznis.rs (allowed_domains) mali biznis tekstil za apartmane posteljina peškiri počela uvoz prve porudžbine iskustvo vlasnica | 1 | 0 | 0 | S-034/S-065 again; Mikos (paint), Spin (Leskovac minimarkets), Global Trade Yu (sewing machines) read: relevance 2, not logged |
+| "Fenestra BMT" uvoz tkanina porodična firma (follow-up) | 1 | 0 | 0 | Belgrade fabric importer, ~500m RSD revenue, top textile wholesaler by profit: too big (relevance 2) |
+| monitor.al (allowed_domains) dyshekë OR perde OR mbulesa shtrati tregu tregtarët tregojnë importi shitjet ranë | 1 | 0 | 0 | DROP: import statistics and Kosovo mattress exports only |
+| monitor.al (allowed_domains) pajisje hotelerie importues furnizon hotelet bregdet administratori tregon sezoni porositë | 1 | 1 | 1.0 | led to the Nov 2025 feature "Turizmi zhgënjen në konsum, kompanive u mbeten produktet stok" → S-082 (Agna Group, relevance 2); Golem hotels cutting prices in 2026 |
+| monitor.al (allowed_domains) "pronari" tregon për Monitor si e nisi biznesin me pak kapital importonte nga Turqia | 1 | 0 | 0 | Kosovo top-50 firms (Elkos), Pastrime Silvio (= S-056 article); no small importer |
+| telegrafi.com (allowed_domains) "Think Big" OR "Rrugëtimi" OR "Telegrafi për Biznes" e-commerce dyqan online themeluesi | 1 | 0 | 0 | DROP: event promos and a 2010s piece on travel agencies and video shops |
+| monitor.al (allowed_domains) dyqanet mbyllen pronarët tregojnë qiraja shitjet ranë 2025 Tiranë | 1 | 0 | 0 | S-077 article again and rent data; no named closure |
+| **New for run 13** | | | | |
+| monitor.al (allowed_domains) mallra stok magazina mbetën pa shitur sezoni turistik distributorët tregojnë | 0 | 0 | – | rule 44: stock and season-shock features named S-082's firm |
+| monitor.al (allowed_domains) pandemia dyqanet kaluan online porositë shpërndarje nga magazina tregtarët tregojnë | 0 | 0 | – | rule 44: crisis features named S-080 |
+| monitor.al (allowed_domains) Shoqata e Tregtisë Online anëtarët biznese të vogla tregojnë sfidat | 0 | 0 | – | 110-member Albanian online-trade association (S-081 article) may quote small members |
 | **(Run-9 queue, results above)** | | | | |
 | monitor.al (allowed_domains) qira ditore pronarja tregon hoqi dorë apartament Durrës OR Vlorë OR Sarandë | 1 | 0 | 0 | run 9: only the run-8 articles (Entela = S-057, Suela = S-058) and price/occupancy pieces |
 | monitor.al (allowed_domains) Arrijnë 50 milionë euro fitimet qira ditore 2026 / "Konkurrenca me hotelet dhe informaliteti" | 1 | 0 | 0 | run 9: data only (27.7k listings H1 2026, +4.2% vs 2025 average, +1.1k units; hotels hold 22% of ~285k beds); no named managers (gap 23) |
@@ -222,23 +242,23 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | biznis.rs trade-fair reports (HORECA sajam) | 2 | 1.0 | S-034, S-035 (run 5): several exhibitors quoted in one article |
 | Monitor.al closure surveys (named owners of closed businesses) | 3 | 2.0 | S-036, S-037, S-038 (run 5, 2020 COVID survey, shock-driven); S-043, S-044, S-045 (run 6, February 2018 survey, no shock); count each article as one source; run 7: no other waves indexed |
 | Monitor.al supplier interviews ("Flet <name>, administrator/e ...") | 3 | 0.33 | S-046 (run 6, Gjergji H. Tekstil); named Albanian firms, self-reported, no financials |
-| Monitor.al sector features (several named sellers quoted per article) | 8 | 1.88 | run 11: S-077 (Jan 2026 clothing), S-078 and S-079 (2019 used-clothing and cosmetics, via a street-name query); run 10: S-070-S-072 (2019 used clothing), S-073 (2019 furniture), S-074, S-075 (2026 sanitary ware), S-076 (2019 online retail); run 9: S-063, S-064; run 8: S-056; run 7: S-051-S-053; count each article as one source; rules 27, 38 |
+| Monitor.al sector features (several named sellers quoted per article) | 9 | 2.0 | run 12: S-080 (2021 toys), S-081 (2022 e-commerce informality), S-082 (Nov 2025 tourism stock; relevance 2) from 9 monitor.al searches, 6 of which returned only logged or data articles; run 11: S-077 (Jan 2026 clothing), S-078 and S-079 (2019 used-clothing and cosmetics, via a street-name query); run 10: S-070-S-072 (2019 used clothing), S-073 (2019 furniture), S-074, S-075 (2026 sanitary ware), S-076 (2019 online retail); run 9: S-063, S-064; run 8: S-056; run 7: S-051-S-053; count each article as one source; rules 27, 38 |
 | Manager / linen-service company pages and advertorials (Greece; Croatia run 6; Romania run 7) | 4 | 0.75 | S-040, S-041 (run 5); offers, not outcomes (rule 23) |
 | Host forums (airhostsforum `.json`, BiggerPockets) | 3 | 1.0 | S-003, S-015, S-016; buyer voices, anecdote |
 | Starter Story | 3 | 0.67 | S-001, S-004; site search via WebSearch weak |
 | Balkan startup media (Trending Topics SEE, StartUs Magazine, The Recursive, StartupYard) | 3 | 0.67 | S-007, S-010; StartupYard only duplicated Gjirafa |
 | USAID / UNDP / EBRD / World Bank / UN Women case studies | 5 | 0.4 | S-006, S-049 (archived 2006 USAID story, rule 28); mostly producers/freelancers; UN Women 0 in run 3 |
-| Prishtina Insight (BIRN magazine; readable by curl) | 9 | 0.44 | run 11: 0 (ATK enforcement pieces); run 10: 0 (same articles); run 9: S-061, S-062 from 4 searches; run 8: S-054, S-055 from 2 searches; run 3: COVID piece on producers |
+| Prishtina Insight (BIRN magazine; readable by curl) | 10 | 0.4 | run 12: 0 (same two articles); run 11: 0 (ATK enforcement pieces); run 10: 0 (same articles); run 9: S-061, S-062 from 4 searches; run 8: S-054, S-055 from 2 searches; run 3: COVID piece on producers |
 | Monitor.al short-term-rental market features (named hosts, managers, fit-out firms) | 1 | 4.0 | run 8: S-057, S-058 (Feb 2025), S-059, S-060 (May 2022); buyer evidence (rule 7, rule 31) |
-| Forbes Srbija "mali biznis" section (forbes.n1info.rs; readable by curl) | 7 | 0.43 | run 11: 0 from 3 searches (only S-065 again); exhausted, rule 43; run 10: S-068 (DaLux) from the 2024 "Opekao sam se" piece; S-065/S-066 again; run 9: S-065 (Ana Nešić), S-066 (Zanateria); rules 36, 39 |
-| biznis.rs small-retailer profiles (outside the "99" series) | 2 | 1.0 | run 9: S-067 (Family, Kraljevo); run 10: S-069 (Miranita, Ljig) |
+| Forbes Srbija "mali biznis" section (forbes.n1info.rs; readable by curl) | 8 | 0.38 | run 12: 0 (S-065 again); run 11: 0 from 3 searches (only S-065 again); exhausted, rule 43; run 10: S-068 (DaLux) from the 2024 "Opekao sam se" piece; S-065/S-066 again; run 9: S-065 (Ana Nešić), S-066 (Zanateria); rules 36, 39 |
+| biznis.rs small-retailer profiles (outside the "99" series) | 3 | 0.67 | run 12: 0 (paint maker, minimarket chain, sewing-machine importer: relevance 2); run 9: S-067 (Family, Kraljevo); run 10: S-069 (Miranita, Ljig) |
 | Pet trade press (Pet Age) | 1 | 0 | distributor news, no small dealer |
 | STR trade press (ShortTermRentalz, BizTimes, PhocusWire) | 2 | 0.5 | S-002 |
 | YourStory (India SMB stories) | 1 | 1.0 | S-014; bot check, use search snippets |
-| Albanian/Kosovar business media (Euronews Albania, Scan TV, Shqiptarja, SeeNews, Kallxo, Koha, Telegrafi, Exit, Tirana Times, ADN; Monitor.al has its own rows) | 9 | 0 | run 11: 0 again; stats/reports, customs rules, smuggling news; SeeNews bot-checked |
+| Albanian/Kosovar business media (Euronews Albania, Scan TV, Shqiptarja, SeeNews, Kallxo, Koha, Telegrafi, Exit, Tirana Times, ADN; Monitor.al has its own rows) | 10 | 0 | run 12: Telegrafi 0 (podcast and event pages); run 11: 0 again; stats/reports, customs rules, smuggling news; SeeNews bot-checked |
 | Reddit | 2 | 0 | not surfaced by WebSearch |
 | Indie Hackers, IdeaProof | 2 | 0 | blocked or JS-only |
-| Podcasts with Balkan founders (Endeavor Greece) | 1 | 0 | summaries only, VC companies |
+| Podcasts with Balkan founders (Endeavor Greece; run 12: Albanian Telegrafi podcasts "Think Big", "Rrugëtimi") | 2 | 0 | summaries only, VC, tech and career guests; no shop owners |
 | Portuguese business/lifestyle media (NiT, Observador, ECO) | 1 | 0 | run 7: makers and sponsored content |
 | Turkish- and Greek-language open web (supplier and host-supply stories) | 2 | 0 | run 10: listings and Airbnb corporate history only; rule 40 |
 
@@ -360,3 +380,14 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
     open-web Balkan/English queries are exhausted for now: run 12 spends at most 1 search on each, puts at least 6 of
     ~12 searches on monitor.al (rules 38, 42), and tries one new Albanian source type (a podcast or YouTube interview
     series with Albanian shop owners, read via search index) as exploration. vijesti.me is refused like blic.rs. (run 11)
+44. **Monitor features about a shock (lockdown, a missed tourist season, informality) quote named sellers when trade-name
+    and street-name queries return only logged articles** (run 12: the 3 new stories, S-080-S-082, came from a 2021 toy
+    feature, a 2022 e-commerce feature and a Nov 2025 tourism-stock feature, while 6 other monitor.al queries repeated
+    logged articles). Search monitor.al with shock words (stok, magazina, mbetën pa shitur, pandemia, sezoni zhgënjen,
+    informaliteti) plus a trade, and grep names first (rule 41). Albanian podcasts on Telegrafi ("Think Big",
+    "Rrugëtimi", "Telegrafi për Biznes") host tech, career and big-business guests: drop them. (run 12)
+45. **Gap 1 (an Albanian/Kosovar online, importer or B2B failure) has had no new story for 2 runs** (runs 11-12: 0 from
+    6 failure searches; the last was S-070, a Tirana used-clothing shop, run 10). From run 13 spend at most 1 search per run on it and record it in `gaps.md` as a question for the
+    user's accountant and courier contacts (rule 20). Use the freed searches on lessons still at low confidence (L-007,
+    L-024, L-039, L-041) with any small-importer story at relevance 3 or more. Run 12 logged 3 stories (2 at relevance
+    4-5, 1 at relevance 2): not low yield by the rule, but far below the 8-15 aim. (run 12)

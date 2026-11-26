@@ -2,7 +2,7 @@
 
 Lessons are advice to weigh, not guarantees. Each lesson cites the stories (IDs in `stories.jsonl`)
 behind it. Confidence: high = 3+ independent stories incl. 1 verified; medium = 2+ or 1 verified; low = otherwise.
-Most stories are founders' own accounts (self-reported); 37 of 79 come from Albania or Kosovo. The first Albanian
+Most stories are founders' own accounts (self-reported); 40 of 82 come from Albania or Kosovo. The first Albanian
 failures (S-036, S-037, S-038, run 5) are three small Tirana clothing shops from one 2020 Monitor survey, all hit by the
 earthquake and COVID-19: treat them as one source when judging confidence. S-043, S-044 and S-045 (run 6) are three
 small Albanian shops from a second Monitor survey (February 2018, no shock: falling turnover, rent, taxes, a loan);
@@ -23,7 +23,9 @@ evidence), an Albanian online portal on informal competition (S-076), a Serbian 
 (S-068) and a Serbian small-town bookshop (S-069). Run 11 added a Tirana boutique importing Turkish fashion since 1995 that
 lost 30-40% of demand in a year to malls (S-077, Monitor Jan 2026), a Myslym Shyri clothing shop squeezed by malls and
 used-clothing markets (S-078, same 2019 article as S-070-S-072) and an Albanian cosmetics importer that grew by supplying
-salons (S-079).
+salons (S-079). Run 12 added a Tirana toy retailer that sold from its warehouse in the 2020 lockdown (S-080), an Albanian
+online seller's view of informal competition (S-081, market evidence) and an Albanian brewer left with stock after a
+tourism forecast missed in 2025 (S-082, larger firm).
 
 ## What this means for the host-kit plan
 
@@ -82,7 +84,9 @@ salons (S-079).
    and the same shop closed after it crossed the VAT threshold without an accountant and lost the grant that paid its
    staff. Price every kit with 20% VAT from the first import (an importer is very likely VAT-registered anyway),
    contract an accountant before the first sale, keep cash aside for stock that is tied up, and pay no running cost
-   from a grant. (L-001, L-013, L-029, L-034, L-037, L-038, L-014)
+   from a grant. **New in run 12:** a tourism forecast is not an order either: an Albanian brewer added 15,000 hl for an
+   expected +10% tourist summer in 2025, consumption fell 1-2% and the stock sat in its warehouse. Do not order extra
+   kits for "a record season"; order on managers' deposits only. (L-001, L-013, L-029, L-034, L-037, L-038, L-014)
 5. **Small first order, more checks, a local fallback, and no promised dates before goods are in hand.** Samples
    and test orders still missed a bad batch (Lima Lima: 80% defective). One beginner that grew bought 100 units,
    sold them, then bought 200 (CROSSNET); its pre-orders slipped from weeks to months when stock was late. Write the spec (gsm, size, colour, fibre) in
@@ -162,7 +166,8 @@ salons (S-079).
 - Evidence: S-009 (support/refunds/billing not worth it next to a day job), S-008 (solo while working), S-019 (could not separate family time from the store), S-065 (wanted a part-time shop next to a baby; it needed full weekly operations and she closed it), S-066 (three founders with day jobs ran a marketplace for four years, earned nothing and ran out of enthusiasm) (n=5, S-019 verified) · Counter-evidence: – · Confidence: high
 
 ### L-013: Size stock on steady, paid demand, not on spikes from events, media or excitement
-- Evidence: S-002 (convention rush vanished), S-013 (TV spike), S-018 (excitement over a seasonal item) (n=3, S-002 verified) · Counter-evidence: – · Confidence: high
+- Evidence: S-002 (convention rush vanished), S-013 (TV spike), S-018 (excitement over a seasonal item) (n=3, S-002 verified), S-082 (Albanian brewer added 15,000 hl for an expected +10% tourist summer; consumption fell 1-2% and stock piled up in 2025; larger firm, relevance 2) (n=4) · Counter-evidence: – · Confidence: high
+- Note (run 12): S-082 is the first Albanian case of a tourism forecast, not a buyer order, driving stock; 2025's tourists were 'low cost' and stayed in Booking/Airbnb apartments.
 
 ### L-014: Expect a slow first year and thin margins; keep cash in reserve
 - Evidence: S-014 (~8 months to results), S-004 (slim first-year margins), S-023 (year 1 revenue £6,500), S-022 (87 sales in 2.5 years), S-030 (ranking of Serbian micro online retailers: e.g. 112m RSD revenue for a 60k RSD result), S-032 ("sometimes you work without profit"), S-039 (no break-even after ~18 months; $800 revenue vs $1,200 monthly burn), S-065 (did not budget for cash tied up in stock, chased supplier invoices weekly; a cash reserve let her close cleanly), S-069 ('the first three years are the hardest: small earnings, big effort') (n=9) · Counter-evidence: S-006 (100,000 euros in year 1, built on an existing business) · Confidence: medium
@@ -229,7 +234,7 @@ salons (S-079).
 - When it applies: the plan already imports from Turkey; this argues against buying Turkish linen from a Tirana wholesaler to save effort. Keep a local maker only as a fallback (L-003).
 
 ### L-034: In Albania, buyers do not prepay strangers; earn deposits with a registered firm, an invoice and a face-to-face sample
-- Evidence: S-053 (Albanian marketplace founder: without cash on delivery he would be out of the market; buyers distrust prepayment because informal sellers took money and did not deliver), S-052 (same article: market players say over 90% of online sales are COD), S-010 (Valer Pinderi's NetTrade: over 95% COD in a 2021 Monitor interview, https://monitor.al/e-commerce-pas-nxitjes-ne-pandemi-tani-biznesi-me-i-terhequr/) (n=3, one 2018 article plus one interview; all B2C), S-076 (Movida Albania: anyone can sell from home without registering or guaranteeing goods, helped by cash-only couriers; 2019) (n=4) · Counter-evidence: – · Confidence: low (no B2B deposit story yet; gap 5)
+- Evidence: S-053 (Albanian marketplace founder: without cash on delivery he would be out of the market; buyers distrust prepayment because informal sellers took money and did not deliver), S-052 (same article: market players say over 90% of online sales are COD), S-010 (Valer Pinderi's NetTrade: over 95% COD in a 2021 Monitor interview, https://monitor.al/e-commerce-pas-nxitjes-ne-pandemi-tani-biznesi-me-i-terhequr/) (n=3, one 2018 article plus one interview; all B2C), S-076 (Movida Albania: anyone can sell from home without registering or guaranteeing goods, helped by cash-only couriers; 2019), S-081 (Graal's manager, 2022: bad experiences with informal sellers make consumers sceptical of buying online) (n=5) · Counter-evidence: – · Confidence: low (no B2B deposit story yet; gap 5)
 - When it applies: asking Tirana managers for deposits (L-001, L-029). B2B buyers you meet may accept a small deposit against a fiscal invoice; online strangers will not prepay.
 
 ### L-035: In Tirana, single-flat hosts are leaving daily rentals; sell to operators who are growing, and expect hosts to cut costs
@@ -255,7 +260,7 @@ salons (S-079).
 - When it applies: the 2 sample kits and the first small linen order from Denizli/Bursa makers. Pay the quoted price, fix gsm, size and fibre in writing (L-003), and ask for a discount on the re-order once quality is proven. Confirm with a second Turkish-supplier story (gap 28).
 
 ### L-040: In Albania, unregistered sellers will undercut your price; sell to buyers who need an invoice and a supplier that lasts
-- Evidence: S-073 (Durrës carpentry: a dozen unregistered workshops nearby pay no taxes and undercut its prices), S-076 (Movida Albania: informal home sellers with cash couriers squeeze formal, tax-paying firms), S-053 (informal sellers took prepayments and did not deliver, so buyers distrust strangers) (n=3, self-reported, three articles) · Counter-evidence: – · Confidence: medium
+- Evidence: S-073 (Durrës carpentry: a dozen unregistered workshops nearby pay no taxes and undercut its prices), S-076 (Movida Albania: informal home sellers with cash couriers squeeze formal, tax-paying firms), S-053 (informal sellers took prepayments and did not deliver, so buyers distrust strangers), S-081 (Graal's manager, 2022: of over 600 online pages perhaps 20% are licensed, and informal sellers do not compete on equal terms) (n=4, self-reported, four articles) · Counter-evidence: – · Confidence: medium
 - When it applies: pricing the host kit against Instagram linen sellers. Do not race them on price; pitch registered operators, hotels and managers who need a fiscal invoice for their own books, a written guarantee and re-orders next season. Monitor (Aug 2026) reports only 2,016 registered online sellers and a tax-office action on unregistered Instagram/Facebook sellers, so the informal price gap may narrow (our inference; gap 27).
 
 ### L-041: Do not enter a niche just because similar sellers nearby seem to do well; copycats crowd the spot and push prices down
@@ -268,7 +273,7 @@ salons (S-079).
 - Evidence: S-013, S-002, S-027 (a French conciergerie runs linen rental for owners on its own hotel-quality stock; anecdote) (n=3) · Confidence: medium. Relevant only if the plan moves toward linen rental.
 
 ### L-022: In Kosovo/Albania, Instagram/Facebook is a low-cost start for B2C; add a simple website with categories as the range grows
-- Evidence: S-019, S-020 (n=2, verified), S-051 (Tirana boutique: most sales via Facebook/Instagram, so it closed the shop and went online-only), S-061 and S-062 (two Kosovo Instagram thrift shops profitable within a year or two; one source) (n=5) · Confidence: high. Relevant to the Petkit backup or a later consumer line, not to B2B host kits.
+- Evidence: S-019, S-020 (n=2, verified), S-051 (Tirana boutique: most sales via Facebook/Instagram, so it closed the shop and went online-only), S-061 and S-062 (two Kosovo Instagram thrift shops profitable within a year or two; one source), S-080 (Tirana toy retailer kept selling in the 2020 lockdown by taking online orders and delivering from its warehouse; sales +20%, self-reported) (n=6) · Confidence: high. Relevant to the Petkit backup or a later consumer line, not to B2B host kits.
 
 ### L-023: Don't pick a first product you have never used, in a niche you don't know, on a platform you don't understand
 - Evidence: S-021, S-022 (n=2) · Confidence: medium.

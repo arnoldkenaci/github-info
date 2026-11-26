@@ -46,6 +46,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Flutura Muço (2018 survey) closed a Myslym Shyri clothing shop but gave no reason, so not logged (rule 26). Still
    no named Albanian/Kosovar online, importer or B2B failure; this gap likely needs the user's accountant or courier
    contacts rather than more searches.
+   Run 12: 3 failure searches (sq Monitor/Reporter/Lapsi, Prishtina Insight, Monitor shop closures) gave 0; a 2016
+   Lapsi.al piece on loss-making early online shops is 404. The only Albanian stock loss found is a brewer's (S-082,
+   larger firm). Rule 45: at most 1 search per run from now; ask the user's accountant and couriers which small online
+   sellers and importers stopped, and why.
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -127,7 +131,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 19. **Confirm L-005 for Albania with buyers, not sellers** (new, run 6): the 2-3-year hotel replacement cycle comes from a
     supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays. Run 8: partly answered
     by one Tirana host (S-057: "sheets and towels had to be bought often" in busy flats; anecdote, no numbers).
-20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39, still balanced), so no survivorship skew overall, but
+20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41, still balanced), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
@@ -168,3 +172,11 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     supplied hairdressing and beauty centres since 1994, starting with 2 Italian brands, but the article does not say how
     it won its first salons or on what payment terms. Look for a Monitor "Flet <name>" interview with a distributor that
     sells to salons, restaurants or hotels (one search per run), and compare with the user's first manager calls.
+    Run 12: one Monitor "Flet" query found only Lajthiza water (half its sales to bars, restaurants and hotels) and the
+    Melia Durrës GM saying local suppliers adapted fast to the hotel's quality and timing demands (Nov 2024; buyer view,
+    not logged). Still no account of how a distributor won its first accounts.
+32. **Does "low-cost" tourism move spending into apartments?** (new, run 12; from S-082): an Albanian brewer says 2025's
+    tourists mostly stayed in Booking/Airbnb apartments and spent less in bars, and Monitor reports Golem hotels cutting
+    prices in 2026. If apartment stays are taking share from hotels, managers' unit counts (gap 23) matter more than
+    tourist totals for kit demand. Look for AirDNA or Monitor data on apartment vs hotel occupancy in 2025-2026 (one
+    monitor.al search), and ask AVRA.
