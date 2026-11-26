@@ -42,6 +42,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    crowded spot, 2019, no shock; anecdote) and two struggling peers (S-071, S-072). Forbes Srbija/BiH failure searches
    gave only S-065/S-066 again (the section looks exhausted for now). Still no named Albanian/Kosovar online, importer
    or B2B seller that closed for business reasons.
+   Run 11: 3 failure searches (sq Monitor/Reporter, sr Forbes/Kurir, sr/BiH importer "lager") gave 0 new failures;
+   Flutura Muço (2018 survey) closed a Myslym Shyri clothing shop but gave no reason, so not logged (rule 26). Still
+   no named Albanian/Kosovar online, importer or B2B failure; this gap likely needs the user's accountant or courier
+   contacts rather than more searches.
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -79,6 +83,8 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    still no seller that beat Temu or a chain on a textile product.
    Run 10: a Serbian small-town bookshop (S-069) has lasted 20 years next to big markets on quality and good stock;
    Tirana used-clothing sellers lose to chains' cheap prices (S-070, S-071). Still no textile winner.
+   Run 11: two more Tirana losers to malls: a Bardhyl boutique of Turkish imports (S-077, demand -30-40% in a year,
+   malls took 50% of the high street) and a Myslym Shyri shop (S-078). Still no winner.
 8. **Albania/Kosovo first B2B customers**: L-010 is high, but no Albanian B2B seller to hosts, hotels or offices yet.
    Run 5: nearest is S-034 (Macedonian hotel-textile maker selling direct to Balkan coastal hotels; L-027, L-030).
    Run 6: **first Albanian B2B seller**: S-046 (Gjergji H. Tekstil, since 1994, sells to hotels and Airbnb apartments;
@@ -121,7 +127,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 19. **Confirm L-005 for Albania with buyers, not sellers** (new, run 6): the 2-3-year hotel replacement cycle comes from a
     supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays. Run 8: partly answered
     by one Tirana host (S-057: "sheets and towels had to be bought often" in busy flats; anecdote, no numbers).
-20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37, still balanced), so no survivorship skew overall, but
+20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39, still balanced), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
@@ -158,4 +164,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     first 5 managers whether they need fiscal invoices from suppliers and where they buy linen now (user's calls, rule 20).
 30. **Confirm L-041 with a non-anecdote source** (new, run 10): both stories are first-name anecdotes; look for a
     named seller hurt by copycats crowding a niche (Balkan or similar).
-
+31. **How do Albanian B2B importers win their first business accounts?** (new, run 11): CP Cosmetics (S-079) has
+    supplied hairdressing and beauty centres since 1994, starting with 2 Italian brands, but the article does not say how
+    it won its first salons or on what payment terms. Look for a Monitor "Flet <name>" interview with a distributor that
+    sells to salons, restaurants or hotels (one search per run), and compare with the user's first manager calls.

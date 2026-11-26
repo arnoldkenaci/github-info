@@ -2,7 +2,7 @@
 
 Lessons are advice to weigh, not guarantees. Each lesson cites the stories (IDs in `stories.jsonl`)
 behind it. Confidence: high = 3+ independent stories incl. 1 verified; medium = 2+ or 1 verified; low = otherwise.
-Most stories are founders' own accounts (self-reported); 34 of 76 come from Albania or Kosovo. The first Albanian
+Most stories are founders' own accounts (self-reported); 37 of 79 come from Albania or Kosovo. The first Albanian
 failures (S-036, S-037, S-038, run 5) are three small Tirana clothing shops from one 2020 Monitor survey, all hit by the
 earthquake and COVID-19: treat them as one source when judging confidence. S-043, S-044 and S-045 (run 6) are three
 small Albanian shops from a second Monitor survey (February 2018, no shock: falling turnover, rent, taxes, a loan);
@@ -20,7 +20,10 @@ marketplace; Forbes Srbija) and a Serbian shop holding on next to chains (S-067)
 sellers (S-070 failure, S-071, S-072; one 2019 Monitor article, first names only), a Durrës carpentry selling to hotels
 (S-073), two Albanian sanitary-ware importers on short-term-rental demand (S-074, S-075; one 2026 Monitor article, market
 evidence), an Albanian online portal on informal competition (S-076), a Serbian curtain firm that imports from Turkey
-(S-068) and a Serbian small-town bookshop (S-069).
+(S-068) and a Serbian small-town bookshop (S-069). Run 11 added a Tirana boutique importing Turkish fashion since 1995 that
+lost 30-40% of demand in a year to malls (S-077, Monitor Jan 2026), a Myslym Shyri clothing shop squeezed by malls and
+used-clothing markets (S-078, same 2019 article as S-070-S-072) and an Albanian cosmetics importer that grew by supplying
+salons (S-079).
 
 ## What this means for the host-kit plan
 
@@ -64,7 +67,11 @@ evidence), an Albanian online portal on informal competition (S-076), a Serbian 
    on demand and no contract, not on "hotel quality" alone. Expect unregistered sellers to undercut any price you set
    (a Durrës hotel-furniture maker and an Albanian online portal both lose on price to informal rivals); do not chase
    their price, and sell to registered operators and hotels who need a fiscal invoice, a guarantee and a supplier that
-   will still be there next season. (L-006, L-020, L-027, L-030, L-031, L-028, L-040)
+   will still be there next season. **New in run 11:** do not price like a Tirana boutique that marks Turkish goods up
+   about three times: a Bardhyl Street shop selling Turkish fashion since 1995 lost 30-40% of demand in a year as malls
+   took half the high-street market, and a retail analyst says Albanian buyers now compare such prices online and order
+   from abroad. Managers can look up Turkish towel prices too, so show the landed cost plus a clear service fee (kit
+   packing, delivery, refills), not a retail markup (our inference). (L-006, L-020, L-027, L-030, L-031, L-028, L-040)
 4. **Keep "no stock before commitments", and make commitments real.** Take deposits. A verbal yes or a
    demand spike is not demand; size the order on deposits. Get paid at delivery or before (deposit, then balance on
    handover); never let a manager run an open tab, since unpaid service fees are common in this trade. Expect Albanian
@@ -115,7 +122,7 @@ evidence), an Albanian online portal on informal competition (S-076), a Serbian 
   an obligation: S-017's trade customers had pre-ordered when the stock arrived defective.
 
 ### L-002: Start with a very small range and a first order you can afford to lose
-- Evidence: S-004 (3 towels), S-007 (50 products), S-008 (negative: printed too much), S-021 (negative: >$10,000 first run, $16,000 loss), S-022 (negative: $3,000 stock never fully sold), S-018 (negative: half the capital on one seasonal item), S-024 (negative: 30-50k euros of stock, only ~5% turned; expired paints a pure loss), S-048 (first order 100 units, sold, then 200; later 7,500) (n=8) · Counter-evidence: S-006 (widened fast, but mostly supplier-shipped) · Confidence: medium (all self-reported)
+- Evidence: S-004 (3 towels), S-007 (50 products), S-008 (negative: printed too much), S-021 (negative: >$10,000 first run, $16,000 loss), S-022 (negative: $3,000 stock never fully sold), S-018 (negative: half the capital on one seasonal item), S-024 (negative: 30-50k euros of stock, only ~5% turned; expired paints a pure loss), S-048 (first order 100 units, sold, then 200; later 7,500), S-079 (Albanian cosmetics importer started in 1994 with 2 Italian hair-dye brands and grew to 8 lines over ~25 years) (n=9) · Counter-evidence: S-006 (widened fast, but mostly supplier-shipped) · Confidence: medium (all self-reported)
 - When it applies: own-stock imports. Wide ranges only work when suppliers hold the stock.
 
 ### L-003: Sample several suppliers, write the spec down, check the real goods before they ship, and keep a local fallback
@@ -132,7 +139,7 @@ evidence), an Albanian online portal on informal competition (S-076), a Serbian 
 - Note (run 8): the only Albanian host quoted on linen (S-057) found frequent re-buying a burden of busy Tirana flats, which fits high-turnover units burning linen fast; it does not show a schedule, and that host has since left daily rentals.
 
 ### L-006: Win on quality and service where the buyer can see it; a low price is not a moat, and a premium price alone does not sell
-- Evidence: S-002 (time saved), S-014 (reliable supply), S-003 (Costco anchor, "crowded field"), S-022 (low price as main advantage failed; premium custom work later succeeded), S-024 (Serbian shop could not match 99-dinar internet offers; buyers saw its 6,000-dinar set as overpriced), S-030 (Serbian online appliance shop stands out by courtesy and service; competition is its biggest challenge), S-033 (Montenegrin B2B distributor: be a serious, reliable partner), S-034 (pure-cotton hotel textiles sell to coastal hotels, not to Serbian buyers who switched to cheap polyester), S-039 (negative: 2-3x the market price with "not a much better product" failed), S-046 (Albanian supplier: Airbnb apartments in Tirana/Durrës/Vlorë ask for quality towels and sheets and "very rarely" for cheap ones; a seller's claim), S-052 (Albanian online seller: saturated market, most operators sell near cost, some leave every year), S-050 (Romanian hotel-textile importer sells on stock and 24-48 h delivery; advertorial), S-054 (negative: a Kosovo shop selling the same goods as supermarkets at higher prices closed within a year), S-055 (negative: same article, income halved), S-069 (Serbian small-town bookshop has lasted 20 years next to big markets by insisting on quality and good stock, 'sometimes to my own cost'), S-071 (negative: a Tirana used-clothing seller's buyers ask for discounts she cannot give), S-074 (Albanian sanitary-ware importer: short-term-rental buyers want products that resist intensive use; importer's claim) (n=17) · Counter-evidence: S-072 (conditional: a Tirana used-clothing seller makes 45-50k lekë a month selling cheap to poor buyers in a low-income area), S-021 (premium product at $50 vs $20-40 did not sell on Amazon), S-067 (conditional: a Kraljevo household-chemicals shop has held on for 16 years next to dm and Lilly by being 'somewhat cheaper' plus professional service and larger orders for institutions; results slipped in 2025) · Confidence: medium
+- Evidence: S-002 (time saved), S-014 (reliable supply), S-003 (Costco anchor, "crowded field"), S-022 (low price as main advantage failed; premium custom work later succeeded), S-024 (Serbian shop could not match 99-dinar internet offers; buyers saw its 6,000-dinar set as overpriced), S-030 (Serbian online appliance shop stands out by courtesy and service; competition is its biggest challenge), S-033 (Montenegrin B2B distributor: be a serious, reliable partner), S-034 (pure-cotton hotel textiles sell to coastal hotels, not to Serbian buyers who switched to cheap polyester), S-039 (negative: 2-3x the market price with "not a much better product" failed), S-046 (Albanian supplier: Airbnb apartments in Tirana/Durrës/Vlorë ask for quality towels and sheets and "very rarely" for cheap ones; a seller's claim), S-052 (Albanian online seller: saturated market, most operators sell near cost, some leave every year), S-050 (Romanian hotel-textile importer sells on stock and 24-48 h delivery; advertorial), S-054 (negative: a Kosovo shop selling the same goods as supermarkets at higher prices closed within a year), S-055 (negative: same article, income halved), S-069 (Serbian small-town bookshop has lasted 20 years next to big markets by insisting on quality and good stock, 'sometimes to my own cost'), S-071 (negative: a Tirana used-clothing seller's buyers ask for discounts she cannot give), S-074 (Albanian sanitary-ware importer: short-term-rental buyers want products that resist intensive use; importer's claim), S-077 (negative: a Tirana boutique selling Turkish imports since 1995 lost 30-40% of demand in a year to malls; an analyst in the same article says a 3x markup on Turkish clothes makes buyers hesitate because they compare online; anecdote), S-078 (negative: a Myslym Shyri clothing shop loses buyers who look for cheap prices to malls and used-clothing markets; anecdote) (n=19) · Counter-evidence: S-072 (conditional: a Tirana used-clothing seller makes 45-50k lekë a month selling cheap to poor buyers in a low-income area), S-021 (premium product at $50 vs $20-40 did not sell on Amazon), S-067 (conditional: a Kraljevo household-chemicals shop has held on for 16 years next to dm and Lilly by being 'somewhat cheaper' plus professional service and larger orders for institutions; results slipped in 2025) · Confidence: medium
 - When it applies: premium works with face-to-face selling, samples and service; it fails in anonymous marketplaces where buyers compare on price, and on small items that buyers can price on Chinese platforms (S-024). Quality sells to buyers whose guests notice it (coastal and spa hotels, S-034); price-driven buyers move to cheap polyester (S-034, Serbia).
 
 ### L-007: On cash on delivery, confirm every order by phone/WhatsApp and take a deposit that covers shipping on large or unusual orders
@@ -143,13 +150,13 @@ evidence), an Albanian online portal on informal competition (S-076), a Serbian 
 - Evidence: S-012 (shipments stuck in customs at Christmas), S-004 (sold out, lost ranking), S-017 (35% of turnover in six weeks; late, defective shipment), S-025 (supplier holiday shutdown delayed a re-order), S-046 (Albanian hotel-textile supplier: 2024 summer orders started in January; April-June volume means overtime) (n=5) · Counter-evidence: – · Confidence: medium (all self-reported)
 
 ### L-009: Own the customer list (email/WhatsApp) instead of depending on one channel; repeat buyers come from it
-- Evidence: S-001, S-004, S-030 (returning buyers and referrals drive growth next to a marketplace listing) (n=3) · Counter-evidence: – · Confidence: medium (all self-reported)
+- Evidence: S-001, S-004, S-030 (returning buyers and referrals drive growth next to a marketplace listing), S-077 (a 30-year Tirana boutique's remaining demand comes mainly from loyal customers after malls took half the market; anecdote) (n=4) · Counter-evidence: – · Confidence: medium (all self-reported)
 
 ### L-010: Win the first customers through relationships and audiences you already have
 - Evidence: S-006 (B2B catalogue clients + own news portal), S-014 (family hotel's problem), S-002 (host network), S-019 (daughter set up Instagram; requests started immediately), S-029 (a laundry business grew out of a conciergerie client), S-047 (friends sold MP3 players with flyers; word of mouth and referrals, no paid marketing), S-062 (Kosovo sisters started an Instagram thrift shop with clothes they already had, then bought stock once sales rose) (n=7, S-006 and S-019 verified) · Counter-evidence: – · Confidence: high
 
 ### L-011: For a part-timer, a few B2B accounts are easier than many B2C buyers
-- Evidence: S-008, S-001, S-009, S-023 (club/team orders through one contact) (n=4) · Counter-evidence: S-023 (B2B still failed on seasonality and costs) · Confidence: medium (all self-reported)
+- Evidence: S-008, S-001, S-009, S-023 (club/team orders through one contact), S-079 (Albanian cosmetics importer supplies large hairdressing and beauty centres and reads retail demand through them) (n=5) · Counter-evidence: S-023 (B2B still failed on seasonality and costs) · Confidence: medium (all self-reported)
 
 ### L-012: Count your hours, not just your money; a side business can fail by eating time
 - Evidence: S-009 (support/refunds/billing not worth it next to a day job), S-008 (solo while working), S-019 (could not separate family time from the store), S-065 (wanted a part-time shop next to a baby; it needed full weekly operations and she closed it), S-066 (three founders with day jobs ran a marketplace for four years, earned nothing and ran out of enthusiasm) (n=5, S-019 verified) · Counter-evidence: – · Confidence: high
