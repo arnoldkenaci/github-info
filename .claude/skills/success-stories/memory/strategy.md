@@ -1,6 +1,10 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
+Run 15 shortlist (best yield first): Reporter.al (BIRN) reportage on Durrës and the coast by Gëzim Kabashi (run 14: 4 host/hotel
+stories from 3 articles, 2 searches; rule 47), Faktoje.al features that pair a registered shop with an online seller (run 14:
+2 Albanian seller stories from 1 article), Citizens.al features (buyer evidence only so far). Run 14: Kallxo (blocked),
+Monitor English (WAF-blocked, big firms), Médias24 (blocked) and Kosovo outlets koha/insajderi/indeksonline gave 0.
 Run 14 shortlist (best yield first): new Albanian/Kosovo source types for named small sellers (rule 46): citizens.al and
 reporter.al features (run 13: S-083 buyer evidence from 1 search), Kallxo business profiles (S/Sprint lead), Monitor's
 informality wording for trades that sell to flats (run 13: 2 stories, both larger firms). Run 13: the three queued
@@ -241,10 +245,23 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | nova/n1info/biznis/kurir/021/bizlife online prodavnica pouzećem vraćeni paketi vlasnica iskustvo | 1 | 0 | 0 | DROP: consumer-rule and courier-fee news only |
 | JYSK Shqipëri dyqane 2025 rritje shitjet tekstile shtëpie (open web) | 1 | 0 | 0 | fact for S-084: JYSK press release 6 Oct 2026 (6 Albanian stores; takeover 1 Jan 2027) |
 | **New for run 14** | | | | |
-| citizens.al/reporter.al (allowed_domains) shitëse online Instagram tregon biznesi im porositë klientët sfidat regjistrimi NIPT | 0 | 0 | – | rule 46: Citizens.al quotes named people; look for sellers, not buyers |
-| kallxo.com (allowed_domains) biznes i vogël nisi me import nga Turqia pronari tregon dyqan Prishtinë | 0 | 0 | – | rule 46: Kallxo profiles (S/Sprint) |
-| monitor.al (allowed_domains) Magazine in English small business owner Albania shop importer interview | 0 | 0 | – | rule 46: Monitor's English section |
-| fr: Médias24 OR LeDesk OR L'Economiste e-commerçant marocain fondatrice boutique en ligne retours paiement à la livraison | 0 | 0 | – | 1 exploration for L-007 seller numbers (S-086 snowball) |
+| citizens.al/reporter.al (allowed_domains) shitëse online Instagram tregon biznesi im porositë klientët sfidat | 1 | 1 | 1.0 | run 14: no seller; read the unread 2022 Citizens piece → S-087 (buyer evidence) |
+| kallxo.com (allowed_domains) biznes i vogël nisi me import nga Turqia pronari tregon dyqan | 1 | 0 | 0 | run 14: lead (Orhan Bullaku, Kosovo importer closed after Turkish partners disagreed) but kallxo.com is Cloudflare-blocked and web.archive.org blocked by egress; not logged (rule 47) |
+| monitor.al (allowed_domains) small business owner Albania shop importer interview started (English) | 2 | 0 | 0 | DROP: run 14 used twice (also "shop online sales Instagram story"): logged 2018 article, social-business 2014 piece, 2020 large-factory COVID piece; /en/ pages WAF-blocked |
+| fr: Médias24/LeDesk/L'Economiste/LeMatin/LaVieEco e-commerçant marocain fondatrice boutique en ligne retours paiement à la livraison | 1 | 0 | 0 | run 14: Oom.ma (2013, outcome unknown) and Cathedis (VC logistics, rule 8); medias24 Cloudflare-blocked; title follow-ups returned summaries only (rule 25) |
+| **Run 14 (2026-11-27)** | | | | |
+| reporter/citizens/faktoje/exit (allowed_domains) dyqan i vogël pronari tregon mbylli biznesin borxhe qiraja tatimet | 1 | 2 | 2.0 | gap-1 search (rule 45): no closure, but → Faktoje 2019 piece → S-088 (Silvana M.), S-089 (Ina K.) |
+| faktoje.al (allowed_domains) tregtare dyqan veshjesh tregon shitjet ranë mbylli dyqanin online Instagram konkurrenca | 1 | 0 | 0 | S-088 article again; Vlorë 2020 COVID market traders and bars (rule 26, not logged) |
+| faktoje/citizens/exit (allowed_domains) biznes online shitëse e paregjistruar tregon Instagram porosi korrier pagesë në dorëzim kthimet | 1 | 0 | 0 | logged articles; Exit 2020 Albartizan (nonprofit portal, no outcome) |
+| koha/nacionale/insajderi/periskopi/indeksonline biznesi falimentoi pronari rrëfen importonte mallra nga Turqia | 1 | 0 | 0 | DROP: crime and court news; 2018 Kosovo closure statistics (1,619 closed) |
+| faktoje/citizens/reporter/exit pronarët e apartamenteve qira ditore Airbnb tregojnë shpenzimet çarçafë pastrim Durrës Sarandë | 1 | 3 | 3.0 | → Reporter.al 2025 → S-090, S-091; Reporter.al 2026 → S-092 (Durrës hosts, buyer evidence) |
+| reporter.al (allowed_domains) Gëzim Kabashi Durrës tregtarët dyqanet sezoni turistik shitjet pronari tregon | 1 | 1 | 1.0 | → July 2026 piece → S-093 (Durrës hotels' guest mix); other Kabashi pieces: souvenirs, building works |
+| faktoje/reporter/citizens shitësit online regjistrimi NIPT 2026 tregtarja tregon Instagram kupon tatimor | 1 | 0 | 0 | logged Citizens articles; 2017 smuggling piece (gap 27 unanswered) |
+| **New for run 15** | | | | |
+| reporter.al (allowed_domains) qira ditore Vlorë OR Sarandë OR Ksamil pronarët administratorët tregojnë pastrimi menaxhimi | 0 | 0 | – | rule 47: Kabashi-style reportage for the second call list (Vlorë/Sarandë) |
+| faktoje.al (allowed_domains) "Përtej" biznesi i vogël tregon shpenzimet tatimet dyqani online e-commerce 2024 OR 2025 | 0 | 0 | – | rule 47: more Faktoje shop-vs-online features |
+| reporter.al (allowed_domains) furnitorët e hoteleve Durrës Golem hotelieri tregon furnizimet tekstile pastrimi | 0 | 0 | – | rule 47: hotel buyers and suppliers in Durrës |
+| citizens.al/faktoje.al (allowed_domains) mbylli dyqanin tregtarja tregon pse falimentoi 2023 OR 2024 OR 2025 | 0 | 0 | – | gap 1 (rule 45: 1 search) |
 | **(Run-9 queue, results above)** | | | | |
 | monitor.al (allowed_domains) qira ditore pronarja tregon hoqi dorë apartament Durrës OR Vlorë OR Sarandë | 1 | 0 | 0 | run 9: only the run-8 articles (Entela = S-057, Suela = S-058) and price/occupancy pieces |
 | monitor.al (allowed_domains) Arrijnë 50 milionë euro fitimet qira ditore 2026 / "Konkurrenca me hotelet dhe informaliteti" | 1 | 0 | 0 | run 9: data only (27.7k listings H1 2026, +4.2% vs 2025 average, +1.1k units; hotels hold 22% of ~285k beds); no named managers (gap 23) |
@@ -278,6 +295,10 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | Pet trade press (Pet Age) | 1 | 0 | distributor news, no small dealer |
 | STR trade press (ShortTermRentalz, BizTimes, PhocusWire) | 2 | 0.5 | S-002 |
 | YourStory (India SMB stories) | 1 | 1.0 | S-014; bot check, use search snippets |
+| Faktoje.al (fact-checking site; "Përtej" features; readable by curl) | 3 | 0.67 | run 14: S-088, S-089 from one 2019 article pairing a registered shop with an Instagram seller; other searches repeated it |
+| Reporter.al (BIRN) reportage, esp. Gëzim Kabashi on Durrës (readable by curl) | 3 | 1.33 | run 14: S-090-S-093 from three articles (2025-2026 hosts, hotels); closures and NIPT searches 0 |
+| Citizens.al (readable by curl) | 4 | 0.5 | runs 13-14: S-083, S-087, both buyer evidence; no seller quoted yet |
+| Blocked for curl (Kallxo, Médias24: Cloudflare; Monitor /en/: WAF; web.archive.org: egress) | 3 | 0 | run 14: leads seen only via search index; not logged (rule 47) |
 | Albanian/Kosovar business media (Euronews Albania, Scan TV, Shqiptarja, SeeNews, Kallxo, Koha, Telegrafi, Exit, Tirana Times, ADN; Monitor.al has its own rows) | 10 | 0 | run 12: Telegrafi 0 (podcast and event pages); run 11: 0 again; stats/reports, customs rules, smuggling news; SeeNews bot-checked |
 | Reddit | 2 | 0 | not surfaced by WebSearch |
 | Indie Hackers, IdeaProof | 2 | 0 | blocked or JS-only |
@@ -423,3 +444,14 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
     low-yield threshold. Open-web English queries for L-024/L-039/L-041 (Turkish supplier, copycats) return listings and
     US counterfeit stories: hand L-039 and L-024 to the user's Turkish suppliers (rule 20) and spend no more than 1 search
     per run on them. (run 13)
+47. **New Albanian source types work: Reporter.al (BIRN) reportage and Faktoje.al features** (run 14: 6 Albanian stories,
+    S-088-S-093, from 4 articles when Monitor English, Kallxo and Kosovo outlets gave 0). Reporter.al reportage by Gëzim
+    Kabashi quotes named Durrës hosts, administrators and hotel managers; Faktoje pairs a registered shop with an online
+    seller. Run 15 puts at least 4 searches there, and at most 3 on monitor.al. Do not fetch kallxo.com or medias24.com
+    (Cloudflare) or web.archive.org (blocked by egress); log a lead seen only in a search summary as a gap for the user,
+    never as a story (rules 2, 25). Monitor's /en/ pages are WAF-blocked: fetch the same slug without /en/. (run 14)
+48. **No new failure in runs 12-14 (0 from 9 failure searches), and mixed stories (52) now outnumber successes (22) and
+    failures (19) together.** Struggling-but-open sellers (S-088) and buyer evidence are useful but do not test failure
+    lessons. Run 15 keeps 3 failure searches but words them as closures in the new sources (Reporter.al/Faktoje "mbylli",
+    "falimentoi", "hoqi dorë") plus 1 in a new COD market with an operator-written press (e.g. Tunisia or Egypt in
+    French/English) for L-007 seller numbers, and drops Kosovo open-news outlets (koha, insajderi, indeksonline). (run 14)

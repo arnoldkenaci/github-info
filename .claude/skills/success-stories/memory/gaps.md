@@ -52,6 +52,11 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    sellers and importers stopped, and why.
    Run 13: 1 search (monitor/reporter/citizens/faktoje/shqiptarja) gave 0 seller failures; it found Citizens.al buyer
    complaints instead (S-083). Gap stays with the user's accountant and couriers.
+   Run 14: 3 failure searches (Reporter/Citizens/Faktoje/Exit closures, Faktoje clothing-shop closures, Kosovo outlets
+   koha/insajderi/indeksonline) gave no closure: only a registered southern-Albanian clothing shop under strain (S-088, mixed)
+   and crime news from Kosovo outlets. A Kallxo feature naming a Kosovo importer who closed after Turkish partners
+   disagreed (Orhan Bullaku, "Mjedis i Pafavorshëm për Biznesmenët e Pafuqishëm") is Cloudflare-blocked and
+   web.archive.org is blocked by egress, so it is not logged (rules 2, 25); the user could open it in a browser.
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -140,7 +145,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 19. **Confirm L-005 for Albania with buyers, not sellers** (new, run 6): the 2-3-year hotel replacement cycle comes from a
     supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays. Run 8: partly answered
     by one Tirana host (S-057: "sheets and towels had to be bought often" in busy flats; anecdote, no numbers).
-20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41; run 13: 22 / 19 / 45, still balanced, but 0 new failures in runs 12-13), so no survivorship skew overall, but
+20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41; run 13: 22 / 19 / 45; run 14: 22 / 19 / 52, still balanced overall, but 0 new failures in runs 12-14 and mixed stories now outnumber both), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
@@ -158,6 +163,11 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Run 9: Monitor (Aug 2026): 27.7k listings in H1 2026, only +1.1k units and +4.2% on the 2025 average, so stock growth
     has slowed sharply; no data on operators' share. New-listing demand for kits (the research plan's 948 Tirana / 681
     Durrës new listings in 2025) may be lower in 2026; ask AVRA/PikHost.
+   Run 14 (L-035 now medium): Durrës evidence from BIRN: most beach-district daily-rental flats are leased by people who
+   manage them, some owners hire cleaning/management teams (S-090, S-092), nightly prices down to 25 euros (2026) and a
+   traditional renter's income halved in 2025 (S-091). BIRN also reports almost 30,000 units in 2026 (+22%), which
+   conflicts with Monitor's +4.2% for H1 2026; the two likely measure different things (listings vs active units; our
+   inference). Still no operator-share figure.
 24. **Do Tirana furnishers and interior architects supply linen at fit-out?** (new, run 8; L-036 low): GBarchs
     Architects (Gladiola Balliu) fits out flats for daily rental (S-060). Ask 2-3 such firms whether they buy linen for
     clients and would add or refer a ready kit (user's call, rule 20; one search per run at most).
@@ -196,3 +206,14 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     articles and large firms' interviews (JYSK, FPM, LC Waikiki). Test new Albanian and Kosovo source types for named small
     sellers: Citizens.al and Reporter.al features, Kallxo business profiles (S/Sprint began by importing Turkish goods),
     and Monitor's English "Magazine" section.
+    Run 14 test: Faktoje.al (2 seller stories from one 2019 article, S-088, S-089) and Reporter.al reportage by Gëzim
+    Kabashi on Durrës (3 host/hotel stories, S-090-S-093) produced; Citizens.al gave buyer evidence only (S-087); Kallxo
+    is Cloudflare-blocked; Monitor's /en/ pages are WAF-blocked (the same slug without /en/ loads) and its English
+    pieces were social-business and large-factory stories. Keep open: Faktoje and Reporter.al are new but small archives.
+35. **Who are the Durrës leaseholder-managers and cleaning teams?** (new, run 14; from S-090, S-092): BIRN says most
+    beach-district flats are leased by people who run them as a business, and some owners hire cleaning/management teams.
+    These are the Durrës buyers (L-017, L-035). Names are not public; the user can ask building administrators near the
+    Taulantia promenade (one administrator counts ~30 B&B flats in five buildings) and Durrës cleaning firms. No searches.
+36. **Does the Durrës guest mix change linen demand?** (new, run 14; S-093): hotels lost Kosovar and Italian guests in 2026
+    and gained 7-day groups from Poland, Czechia, Bosnia and Ukraine. Longer group stays mean fewer turnovers per flat
+    (our inference). One Reporter.al search per run on Durrës/Vlorë season reportage; otherwise ask managers.
