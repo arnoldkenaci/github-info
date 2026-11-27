@@ -1,6 +1,11 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
+Run 17 shortlist (best yield first): monitor.al rental-market features found through English search-index titles and
+fetched by their Albanian slug (run 16: S-104, S-105 from an unlogged June 2025 feature; rule 50), Reporter.al (BIRN) market
+reportage that quotes named small traders (run 16: S-103 from a 2021 Selitë piece). Run 16: Citizens other-town reportage,
+Balkan Insight coast and small-shop features, Forbes Srbija/BA and Albanian importer-failure queries gave 0 from 7 searches;
+MENA founder media gave only relevance 2-3 failures (S-106, S-107) and one success (S-108).
 Run 16 shortlist (best yield first): Citizens.al shock reportage that walks a named street or town (run 15: S-094-S-096 from one
 closure query), MENA startup-media founder profiles for COD failures and cash lag (run 15: S-099, S-100 from 1 search), Balkan
 Insight English features on the Albanian coast (run 15: S-102), Reporter.al Durrës reportage (run 15: S-097; rule 47 still holds
@@ -278,10 +283,25 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | PETKIT dealer small shop experience Balkans OR Greece OR Romania distributor pet store owner interview | 1 | 0 | 0 | DROP (third Petkit query with 0): brand, Faire, eBay pages; gap 9 goes to the user's email to PETKIT |
 | reporter/citizens/faktoje (allowed_domains) Tiranë apartamente me qira ditore Airbnb pronarët tregojnë menaxherët pastrimi | 1 | 0 | 0 | run 15: Tirana empty-towers and rent pieces, no hosts; Tirana host reportage not indexed in these sources |
 | **New for run 16** | | | | |
-| citizens.al (allowed_domains) tregtarët rrëfejnë bizneset Vlorë OR Shkodër OR Sarandë OR Korçë dyqanet xhiro ra | 0 | 0 | – | rule 49: Citizens shock/trade reportage in other towns |
-| balkaninsight.com (allowed_domains) Albania Durres OR Vlora OR Saranda apartments holiday rentals owners feature | 0 | 0 | – | rule 49: BIRN English features on the coast (gaps 23, 35, 38) |
-| thestartupscene.me OR wamda.com founder failed online store cash on delivery first business lessons | 0 | 0 | – | rule 49: MENA startup founders' earlier failed shops (L-007, L-043, L-044) |
-| reporter.al (allowed_domains) Durrës OR Golem sezoni 2026 mbyllet tetor nëntor hotelet apartamentet | 0 | 0 | – | gap 11/36: season length and off-season on the coast |
+| citizens.al (allowed_domains) tregtarët rrëfejnë bizneset Vlorë dyqanet xhiro ra pronari tregon | 1 | 0 | 0 | run 16: Vlorë land/court news and the logged 2020 Durrës and Myslym Shyri pieces |
+| balkaninsight.com (allowed_domains) Albania Durres OR Vlora OR Saranda apartments holiday rentals owners feature | 1 | 0 | 0 | DROP (with the run-16 small-shop query, 2 Balkan Insight searches gave 0): 2015-2017 property-price pieces |
+| thestartupscene.me OR wamda.com founder failed online store cash on delivery first business lessons | 1 | 1 | 1.0 | run 16: Wamda Nano E-Shop → S-108 (relevance 3); Abwaab founder's failed supermarket is VC/edtech (rule 8) |
+| reporter.al (allowed_domains) Durrës Golem sezoni 2026 mbyllet tetor nëntor hotelet apartamentet | 1 | 0 | 0 | run 16: only logged 2025-2026 Durrës pieces (S-090-S-093, S-097); season to mid-October (already in S-097) |
+| **Run 16 (2026-11-27)** | | | | |
+| citizens/reporter/faktoje (allowed_domains) Shkodër OR Korçë dyqanet tregtarët tregojnë shitjet ranë mbyllën dyqanin pronarja | 1 | 1 | 1.0 | run 16: no Shkodër/Korçë seller, but → Reporter.al 2021 Selitë used-clothing market → S-103 |
+| wamda.com (allowed_domains) founder first e-commerce venture failed within months shipping orders not worth it | 1 | 0 | 0 | DROP: VC startups (Wheels Express, Sprii, MyDeal.ma) |
+| monitor/reporter/citizens/faktoje nuk e përballoja qiranë mbylla dyqanin tani shes online tregtarja tregon | 1 | 0 | 0 | logged Monitor 2018/2020 surveys and S-103 again; Monitor 2020 piece on closed firms unable to go passive (services only) |
+| balkaninsight.com (allowed_domains) Albania small shop owner closed rent online Instagram seller feature | 1 | 0 | 0 | DROP: street-trader fines, crime and tax-raid news |
+| wamda.com (allowed_domains) Making ecommerce work in Yemen small online store founder cash on delivery | 1 | 0 | 0 | DROP: platform overviews (Bazzarry, Tamween), no seller outcome |
+| forbes.n1info.ba/rs zatvorila online prodavnicu iskustvo mali biznis uvoz propao | 1 | 0 | 0 | S-065/S-066 again (rule 39); Bosnian Forbes gave only chain news |
+| thestartupscene.me founder my first business failed Instagram store Egypt inventory lessons | 1 | 2 | 2.0 | run 16: 2015 "5 Egyptian Startup Failures" → S-106 (Hedma, relevance 3), S-107 (Cirqy, relevance 2) |
+| citizens/reporter/faktoje/monitor/balkanweb biznes online importues mbylli aktivitetin humbi paratë porositë nga Kina | 1 | 0 | 0 | gap-1 search: Monitor 2021 Valer Pinderi interview (already S-010 person, rule 41) and market pieces |
+| reporter/citizens/faktoje tregu Shkozë OR "Kthesa e Kamzës" mallra nga Turqia tregtarja tregon | 1 | 0 | 0 | DROP: Selitë piece again, unrelated news |
+| citizens/faktoje/monitor Sarandë Ksamil pronarët e apartamenteve qira ditore tregojnë sezoni pastrimi çarçafë | 1 | 2 | 2.0 | run 16: English index title "Daily rental homes have increased so much that less is being earned" → Albanian slug → S-104, S-105; Sarandë piece 404 |
+| **New for run 17** | | | | |
+| monitor.al (allowed_domains) English title words: daily rental apartments owners managers earn less Tirana Durres Vlora | 0 | 0 | – | rule 50: find unlogged Monitor rental features via English index titles, fetch the Albanian slug (gaps 23, 39) |
+| reporter.al (allowed_domains) tregu tregtarët ankohen shitjet qiraja tezga Tiranë Durrës reportazh | 0 | 0 | – | rule 50: BIRN market reportage that quotes named small traders (S-103) |
+| monitor.al (allowed_domains) English title words: small shops close rent high Tirana owners say | 0 | 0 | – | rule 50: closure features via English titles (gap 1) |
 | **(Run-9 queue, results above)** | | | | |
 | monitor.al (allowed_domains) qira ditore pronarja tregon hoqi dorë apartament Durrës OR Vlorë OR Sarandë | 1 | 0 | 0 | run 9: only the run-8 articles (Entela = S-057, Suela = S-058) and price/occupancy pieces |
 | monitor.al (allowed_domains) Arrijnë 50 milionë euro fitimet qira ditore 2026 / "Konkurrenca me hotelet dhe informaliteti" | 1 | 0 | 0 | run 9: data only (27.7k listings H1 2026, +4.2% vs 2025 average, +1.1k units; hotels hold 22% of ~285k beds); no named managers (gap 23) |
@@ -309,17 +329,17 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | Balkan startup media (Trending Topics SEE, StartUs Magazine, The Recursive, StartupYard) | 3 | 0.67 | S-007, S-010; StartupYard only duplicated Gjirafa |
 | USAID / UNDP / EBRD / World Bank / UN Women case studies | 5 | 0.4 | S-006, S-049 (archived 2006 USAID story, rule 28); mostly producers/freelancers; UN Women 0 in run 3 |
 | Prishtina Insight (BIRN magazine; readable by curl) | 10 | 0.4 | run 12: 0 (same two articles); run 11: 0 (ATK enforcement pieces); run 10: 0 (same articles); run 9: S-061, S-062 from 4 searches; run 8: S-054, S-055 from 2 searches; run 3: COVID piece on producers |
-| Monitor.al short-term-rental market features (named hosts, managers, fit-out firms) | 1 | 4.0 | run 8: S-057, S-058 (Feb 2025), S-059, S-060 (May 2022); buyer evidence (rule 7, rule 31) |
-| Forbes Srbija "mali biznis" section (forbes.n1info.rs; readable by curl) | 8 | 0.38 | run 12: 0 (S-065 again); run 11: 0 from 3 searches (only S-065 again); exhausted, rule 43; run 10: S-068 (DaLux) from the 2024 "Opekao sam se" piece; S-065/S-066 again; run 9: S-065 (Ana Nešić), S-066 (Zanateria); rules 36, 39 |
+| Monitor.al short-term-rental market features (named hosts, managers, fit-out firms) | 2 | 3.0 | run 16: S-104, S-105 (June 2025 feature, found via its English index title; rule 37 was too strict); run 8: S-057, S-058 (Feb 2025), S-059, S-060 (May 2022); buyer evidence (rule 7, rule 31) |
+| Forbes Srbija "mali biznis" section (forbes.n1info.rs; readable by curl) | 9 | 0.33 | run 16: 0 (S-065/S-066 again; forbes.n1info.ba chain news); run 12: 0 (S-065 again); run 11: 0 from 3 searches (only S-065 again); exhausted, rule 43; run 10: S-068 (DaLux) from the 2024 "Opekao sam se" piece; S-065/S-066 again; run 9: S-065 (Ana Nešić), S-066 (Zanateria); rules 36, 39 |
 | biznis.rs small-retailer profiles (outside the "99" series) | 3 | 0.67 | run 12: 0 (paint maker, minimarket chain, sewing-machine importer: relevance 2); run 9: S-067 (Family, Kraljevo); run 10: S-069 (Miranita, Ljig) |
 | Pet trade press (Pet Age) | 1 | 0 | distributor news, no small dealer |
 | STR trade press (ShortTermRentalz, BizTimes, PhocusWire) | 2 | 0.5 | S-002 |
 | YourStory (India SMB stories) | 1 | 1.0 | S-014; bot check, use search snippets |
 | Faktoje.al (fact-checking site; "Përtej" features; readable by curl) | 5 | 0.4 | run 15: 0 from 2 searches (S-088 article again; fiscal-package fact for gap 25); 2020 Vlorë COVID piece quoted bars and market stalls only (rule 26); run 14: S-088, S-089 from one 2019 article pairing a registered shop with an Instagram seller; other searches repeated it |
-| Reporter.al (BIRN) reportage, esp. Gëzim Kabashi on Durrës (readable by curl) | 9 | 0.56 | run 15: S-097 (Sept 2026 Lagjja 1) from 8 searches touching reporter.al; Vlorë/Sarandë, hotel-supplier, Turkish-import and Tirana-host queries gave 0; run 14: S-090-S-093 from three articles (2025-2026 hosts, hotels); closures and NIPT searches 0 |
-| Citizens.al (readable by curl) | 9 | 0.56 | run 15: first sellers, S-094-S-096, from two 2020 shock reportages (Myslym Shyri, Durrës beach), found via a closure query; runs 13-14: S-083, S-087, both buyer evidence |
-| Balkan Insight (BIRN English; readable by curl) | 1 | 1.0 | run 15: S-102 (2019 Shëngjin feature); features name small owners on the Albanian coast and in Kosovo |
-| MENA startup media founder profiles (The Startup Scene; readable by curl) | 1 | 2.0 | run 15: S-099, S-100 from the Fincart profile; vendor-PR app articles (Egyptian Streets) excluded under rule 3 |
+| Reporter.al (BIRN) reportage, esp. Gëzim Kabashi on Durrës (readable by curl) | 12 | 0.5 | run 16: S-103 (2021 Selitë market reportage) from 3 searches touching reporter.al; run 15: S-097 (Sept 2026 Lagjja 1) from 8 searches touching reporter.al; Vlorë/Sarandë, hotel-supplier, Turkish-import and Tirana-host queries gave 0; run 14: S-090-S-093 from three articles (2025-2026 hosts, hotels); closures and NIPT searches 0 |
+| Citizens.al (readable by curl) | 11 | 0.45 | run 16: 0 from 2 other-town searches (Vlorë, Shkodër/Korçë not indexed); run 15: first sellers, S-094-S-096, from two 2020 shock reportages (Myslym Shyri, Durrës beach), found via a closure query; runs 13-14: S-083, S-087, both buyer evidence |
+| Balkan Insight (BIRN English; readable by curl) | 3 | 0.33 | run 16: 0 from 2 (old property pieces, crime/tax news); run 15: S-102 (2019 Shëngjin feature); features name small owners on the Albanian coast and in Kosovo |
+| MENA startup media founder profiles (The Startup Scene, Wamda; readable by curl) | 5 | 1.0 | run 16: S-106, S-107 (2015 failure list), S-108 (Wamda) from 4 searches, all relevance 2-3; run 15: S-099, S-100 from the Fincart profile; vendor-PR app articles (Egyptian Streets) excluded under rule 3 |
 | Blocked for curl (Kallxo, Médias24: Cloudflare; Monitor /en/: WAF; web.archive.org: egress) | 3 | 0 | run 14: leads seen only via search index; not logged (rule 47) |
 | Albanian/Kosovar business media (Euronews Albania, Scan TV, Shqiptarja, SeeNews, Kallxo, Koha, Telegrafi, Exit, Tirana Times, ADN; Monitor.al has its own rows) | 10 | 0 | run 12: Telegrafi 0 (podcast and event pages); run 11: 0 again; stats/reports, customs rules, smuggling news; SeeNews bot-checked |
 | Reddit | 2 | 0 | not surfaced by WebSearch |
@@ -486,3 +506,12 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
     wamda.com) for failures, since founders often name an earlier shop that failed; at most 3 on reporter.al/faktoje.al
     (Vlorë/Sarandë and Tirana-host reportage is not indexed there) and at most 3 on monitor.al. Count stories still open
     after a shock as mixed, not failure. Egyptian/Gulf COD-app articles are vendor PR (rule 3). (run 15)
+50. **Search-index titles in English can point to unlogged Albanian Monitor features** (run 16: a Sarandë/Ksamil query
+    returned the English title "Daily rental homes have increased so much that less is being earned"; its Albanian slug
+    gave a Tirana flat manager and PikHost, S-104, S-105, after rule 37 had called Monitor rental features exhausted). When a
+    monitor.al result shows a /en/ title, fetch the same slug without /en/ (rule 47) and grep names first (rule 41). Rule 37
+    is relaxed: up to 2 Monitor rental searches per run, worded with English title words. Citizens.al other-town reportage
+    (Vlorë, Shkodër, Korçë) and Balkan Insight English features gave 0 from 4 searches: at most 1 each next run. MENA
+    founder media yield only relevance 2-3 stories (VC or accelerator startups, rule 8): at most 1 search per run, for
+    failure balance only. Run 16 logged 6 stories (3 at relevance 4-5, 2 of them from one article): not low yield by the
+    rule, but below the 8-15 aim for the fourth run in five. (run 16)

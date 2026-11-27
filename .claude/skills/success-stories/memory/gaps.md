@@ -60,6 +60,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Run 15: 2 closure searches in Citizens/Faktoje/Reporter gave no named online, importer or B2B closure; Citizens.al's 2020
    reports gave shock-hit shops that were still open (S-094 Myslym Shyri clothing shop, S-095 souvenir maker, S-096 Durrës
    produce seller). The only new failure is Egyptian (S-099). Gap stays with the user's accountant and couriers (rule 45).
+   Run 16: 1 gap-1 search (online importer closure, sq) gave only Monitor market pieces and a 2021 interview with an already
+   logged person (Valer Pinderi: individuals enter e-commerce, reach 30-100 orders a day and lose control, many enter and
+   leave in the short term since 2015; not logged, rule 41). Closest new case: a Tirana used-clothing seller who closed her
+   rented shop and moved to a rent-free market stall (S-103, mixed). Still no Albanian online/importer/B2B failure.
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -159,7 +163,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 19. **Confirm L-005 for Albania with buyers, not sellers** (new, run 6): the 2-3-year hotel replacement cycle comes from a
     supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays. Run 8: partly answered
     by one Tirana host (S-057: "sheets and towels had to be bought often" in busy flats; anecdote, no numbers).
-20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41; run 13: 22 / 19 / 45; run 14: 22 / 19 / 52; run 15: 22 / 20 / 60, still balanced overall, but only 1 new failure in runs 12-15 (S-099, Egypt) and mixed stories now outnumber both), so no survivorship skew overall, but
+20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41; run 13: 22 / 19 / 45; run 14: 22 / 19 / 52; run 15: 22 / 20 / 60, still balanced overall, but only 1 new failure in runs 12-15 (S-099, Egypt) and mixed stories now outnumber both); run 16: 23 / 22 / 63, both new failures Egyptian (S-106, S-107), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
@@ -182,6 +186,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    traditional renter's income halved in 2025 (S-091). BIRN also reports almost 30,000 units in 2026 (+22%), which
    conflicts with Monitor's +4.2% for H1 2026; the two likely measure different things (listings vs active units; our
    inference). Still no operator-share figure.
+   Run 16: Monitor (June 2025, AirDNA): 23.4k units in April 2025, +38% y/y and double April 2023; occupancy and real daily
+   revenue fell for the first time (March 2025: 37.2%, 17.59 euros); PikHost says many properties earned less than the year
+   before and the better-furnished ones held up (S-105); a Tirana manager of several flats needs 40 euros a night below 5
+   flats but gets about 30 (S-104). Supports L-035; still no operator-share figure.
 24. **Do Tirana furnishers and interior architects supply linen at fit-out?** (new, run 8; L-036 low): GBarchs
     Architects (Gladiola Balliu) fits out flats for daily rental (S-060). Ask 2-3 such firms whether they buy linen for
     clients and would add or refer a ready kit (user's call, rule 20; one search per run at most).
@@ -245,3 +253,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 38. **Is Shëngjin (Lezha) a third call list?** (new, run 15; S-102): many Kosovars own holiday flats there and let them in
     summer, but the season was about 60 days in 2019. Check AirDNA/Airbtics unit counts for Shëngjin and whether owners use
     managers (one search per run at most), after Tirana/Durrës are tested.
+39. **What minimum stay do Tirana and Durrës managers set, and how many turnovers a month does a flat have?** (new, run 16;
+    S-104): a Tirana manager takes 30-euro bookings only for three nights or more to keep costs down. Turnovers drive linen
+    wear and refill orders (L-005), so ask each manager on the call list for their minimum stay and monthly turnovers per
+    flat (user's call, rule 20; at most 1 search per run, Monitor rental features only).
