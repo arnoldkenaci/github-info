@@ -2,7 +2,7 @@
 
 Lessons are advice to weigh, not guarantees. Each lesson cites the stories (IDs in `stories.jsonl`)
 behind it. Confidence: high = 3+ independent stories incl. 1 verified; medium = 2+ or 1 verified; low = otherwise.
-Most stories are founders' own accounts (self-reported); 50 of 93 come from Albania or Kosovo. The first Albanian
+Most stories are founders' own accounts (self-reported); 56 of 102 come from Albania or Kosovo. The first Albanian
 failures (S-036, S-037, S-038, run 5) are three small Tirana clothing shops from one 2020 Monitor survey, all hit by the
 earthquake and COVID-19: treat them as one source when judging confidence. S-043, S-044 and S-045 (run 6) are three
 small Albanian shops from a second Monitor survey (February 2018, no shock: falling turnover, rent, taxes, a loan);
@@ -31,7 +31,11 @@ opened its own shops to sell direct (S-085, larger firm) and Moroccan COD market
 2022 complaints about social-media sellers (S-087, Citizens.al), a registered southern-Albanian clothing shop and an
 unregistered Instagram seller from one 2019 Faktoje article (S-088, S-089; first names only, one source), and Durrës
 host and hotel evidence from three Reporter.al (BIRN) reportages (S-090, S-091 from one 2025 article; S-092, 2026; S-093,
-hotels, 2026).
+hotels, 2026). Run 15 added two Tirana Myslym Shyri traders hit by the 2019 earthquake and COVID-19 (S-094 clothing shop, S-095
+souvenir maker; one 2020 Citizens.al article), a Durrës beach produce seller who lost her stock in the earthquake (S-096),
+Durrës market evidence on daily rentals in the port neighbourhood (S-097, BIRN 2026) and on hotels' 2025 season (S-098,
+Monitor), Shëngjin's seasonal economy (S-102, BIRN 2019), an Egyptian online seller whose glass flasks broke in transit (S-099,
+failure), Egyptian COD cash-lag evidence (S-100) and Tunisian COD refusal estimates (S-101).
 
 ## What this means for the host-kit plan
 
@@ -67,6 +71,11 @@ hotels, 2026).
    2025. So in Durrës call the leaseholder-managers and the cleaning teams owners hire, not individual owners, and pitch
    cost per turnover (towel refills, a spare set per flat) rather than premium textiles. Durrës hotels lost most Kosovar
    and Italian guests in 2026 and now fill with 7-day groups from Poland, Czechia, Bosnia and Ukraine. (L-035, L-017, L-005)
+   **New in run 15:** the port neighbourhood (Lagjja 1) is a second Durrës call area: a building administrator says every
+   building there now has daily-rental flats and residents have switched from monthly to few-day lets (BIRN, Sept 2026).
+   Building administrators know which flats are let and by whom, so ask them for introductions in both the Taulantia
+   promenade and Lagjja 1 (our inference). Shëngjin is a later option: many Kosovars own holiday flats there and let them
+   in summer, but its season was only about 60 days (BIRN, 2019). (L-035, L-018)
    (L-017, L-025, L-028, L-006)
 3. **Premium works face to face, not in anonymous listings, and never try to win on price.** Pitch reliability,
    a ready hotel set and time saved, with a sample in hand; a premium price on an online listing alone failed
@@ -111,7 +120,12 @@ hotels, 2026).
    in 2022, 80% of Albanian online buyers surveyed bought through Facebook/Instagram and 75% had problems; pages blocked
    buyers who complained, and 18 of 20+ pages had no website, phone or address. Put the company name, NIPT, address and a
    phone number on every quote and invoice. Budget the accountant as a fixed cost: one small registered shop paid 365,000
-   old lek (about 36,500 lek) a year in 2019 (one data point; re-check current fees). (L-001, L-013, L-029, L-034, L-037, L-038, L-014)
+   old lek (about 36,500 lek) a year in 2019 (one data point; re-check current fees). **New in run 15:** if any sale goes
+   through a courier on cash on delivery, count on the cash arriving days or weeks later: an Egyptian logistics founder
+   says small sellers often stopped shipping because delivered COD orders had not been paid out yet. Collect the
+   balance yourself at handover for kit orders, and keep a cash buffer for refills sent by courier. Faktoje reports the
+   2027 fiscal package lowers the VAT registration threshold to 5 million lek and raises standard VAT from 20% to 21%;
+   check with the accountant before pricing (proposal, Oct 2026). (L-001, L-013, L-029, L-034, L-037, L-038, L-014, L-043)
 5. **Small first order, more checks, a local fallback, and no promised dates before goods are in hand.** Samples
    and test orders still missed a bad batch (Lima Lima: 80% defective). One beginner that grew bought 100 units,
    sold them, then bought 200 (CROSSNET); its pre-orders slipped from weeks to months when stock was late. Write the spec (gsm, size, colour, fibre) in
@@ -132,7 +146,13 @@ hotels, 2026).
    sold through Facebook/Instagram (S-051). A Serbian HoReCa supplier covers its off-season by selling to mountain
    and spa destinations; the Albanian equivalent (our inference) is Tirana city flats that rent all year and mountain
    guesthouses, plus branded towels for companies as a winter line (S-034). Do not fund stock or premises with a loan:
-   an Elbasan shop owner still repays hers after closing (S-044). (L-008, L-018, L-019)
+   an Elbasan shop owner still repays hers after closing (S-044). **New in run 15:** the Durrës season is getting
+   longer: the Durrës-Kavajë hotel association says hotels opened in early April 2025 and planned to close in November,
+   and BIRN expected the 2026 season to run to mid-October. So land kits by March, keep towel refills on sale until
+   October, and treat December-February as the only truly dead months on the coast (our inference). Hotels with
+   tour-operator contracts were safe in 2025 while those that held rooms for last-minute guests missed targets: sell on
+   managers' signed orders, not on hoped-for walk-in demand. Do not sign a shop lease either: a Myslym Shyri clothing
+   shop opened in November 2019 had to sell at cost to pay rent and taxes and then had no money to restock. (L-008, L-013, L-018, L-019)
 7. **Start through people you know, deliver the first orders yourself, then hand over to a courier**; keep every
    buyer's contact for re-orders and ask happy buyers for referrals (a Serbian online shop grew mainly on returning
    buyers and referrals); log the hours: two Serbian founders who ran shops next to a job or a baby closed when the
@@ -172,8 +192,8 @@ hotels, 2026).
 - When it applies: premium works with face-to-face selling, samples and service; it fails in anonymous marketplaces where buyers compare on price, and on small items that buyers can price on Chinese platforms (S-024). Quality sells to buyers whose guests notice it (coastal and spa hotels, S-034); price-driven buyers move to cheap polyester (S-034, Serbia).
 
 ### L-007: On cash on delivery, confirm every order by phone/WhatsApp and take a deposit that covers shipping on large or unusual orders
-- Evidence: S-005, S-052 (Albanian market players: about 30% of online clothing orders are returned), S-086 (Morocco, Oct 2026: non-food COD returns can reach 30-40%; some sellers keep teams that confirm orders by phone before shipping; cash takes days to reach the seller; market comment by Glovo Maroc's director) (n=3) · Counter-evidence: – · Confidence: low (self-reported; S-052 is about clothing B2C and S-086 is market comment, not a seller's own numbers)
-- When it applies: any COD sale, especially first orders from new areas. Matches the plan's 15% refusal rule; two COD markets (Albania clothing ~30%, Morocco non-food 30-40%) report returns well above 15% for anonymous B2C, which is one more reason to sell kits B2B face to face (L-011).
+- Evidence: S-005, S-052 (Albanian market players: about 30% of online clothing orders are returned), S-086 (Morocco, Oct 2026: non-food COD returns can reach 30-40%; some sellers keep teams that confirm orders by phone before shipping; cash takes days to reach the seller; market comment by Glovo Maroc's director), S-101 (Tunisia, 2025: COD over 85% of online transactions, about 30% of orders refused at delivery per Tayara.tn; market comment) (n=4) · Counter-evidence: – · Confidence: low (self-reported; S-052 is about clothing B2C and S-086/S-101 are market comment, not a seller's own numbers)
+- When it applies: any COD sale, especially first orders from new areas. Matches the plan's 15% refusal rule; three COD markets (Albania clothing ~30%, Morocco non-food 30-40%, Tunisia ~30%) report returns well above 15% for anonymous B2C, which is one more reason to sell kits B2B face to face (L-011).
 
 ### L-008: Land stock well before the season; delays, defects or stock-outs in the peak cost the year
 - Evidence: S-012 (shipments stuck in customs at Christmas), S-004 (sold out, lost ranking), S-017 (35% of turnover in six weeks; late, defective shipment), S-025 (supplier holiday shutdown delayed a re-order), S-046 (Albanian hotel-textile supplier: 2024 summer orders started in January; April-June volume means overtime) (n=5) · Counter-evidence: – · Confidence: medium (all self-reported)
@@ -191,7 +211,7 @@ hotels, 2026).
 - Evidence: S-009 (support/refunds/billing not worth it next to a day job), S-008 (solo while working), S-019 (could not separate family time from the store), S-065 (wanted a part-time shop next to a baby; it needed full weekly operations and she closed it), S-066 (three founders with day jobs ran a marketplace for four years, earned nothing and ran out of enthusiasm) (n=5, S-019 verified) · Counter-evidence: – · Confidence: high
 
 ### L-013: Size stock on steady, paid demand, not on spikes from events, media or excitement
-- Evidence: S-002 (convention rush vanished), S-013 (TV spike), S-018 (excitement over a seasonal item) (n=3, S-002 verified), S-082 (Albanian brewer added 15,000 hl for an expected +10% tourist summer; consumption fell 1-2% and stock piled up in 2025; larger firm, relevance 2), S-093 (Durrës hotels lost most Kosovar and Italian guests in 2026 after years of loyalty; the guest mix shifts from one summer to the next) (n=5) · Counter-evidence: – · Confidence: high
+- Evidence: S-002 (convention rush vanished), S-013 (TV spike), S-018 (excitement over a seasonal item) (n=3, S-002 verified), S-082 (Albanian brewer added 15,000 hl for an expected +10% tourist summer; consumption fell 1-2% and stock piled up in 2025; larger firm, relevance 2), S-093 (Durrës hotels lost most Kosovar and Italian guests in 2026 after years of loyalty; the guest mix shifts from one summer to the next), S-098 (Durrës hotels, 2025: those that held rooms back from tour-operator contracts for pricier last-minute bookings missed their targets; contracted hotels were barely affected) (n=6) · Counter-evidence: – · Confidence: high
 - Note (run 12): S-082 is the first Albanian case of a tourism forecast, not a buyer order, driving stock; 2025's tourists were 'low cost' and stayed in Booking/Airbnb apartments.
 
 ### L-014: Expect a slow first year and thin margins; keep cash in reserve
@@ -206,11 +226,11 @@ hotels, 2026).
 - When it applies: choosing the first 30 prospects: property managers, cleaning companies, guesthouses. Ask who owns the linen (manager or flat owner); that party is the buyer (S-027). In Tirana the small-host segment is shrinking (L-035), so operators matter even more.
 
 ### L-018: A seasonal business needs an off-season plan (cash reserve or second product line)
-- Evidence: S-023 (summer-only sports kit: £40k month then £550; liquidated), S-018 (seasonal stock unsold by January), S-017 (35% of turnover in six weeks), S-035 (Serbian HoReCa supplier: summer peak, rest of year covered by mountain and spa destinations), S-064 (Albanian grower: one-season plants for hotels and flower shops were destroyed unsold when buyers closed in 2020; COVID shock), S-063 (Tirana flower importer depends on the summer wedding peak; same 2021 Monitor article), S-073 (Durrës hotel-furniture maker: spring-summer peak met with seasonal workers) (n=7; S-063/S-064 one source, shock-driven) · Counter-evidence: – · Confidence: medium
-- When it applies: host demand peaks before and during the tourist season. One off-season answer seen: sell to destinations with a different season (S-035), or a second B2B line such as branded towels for companies (S-034).
+- Evidence: S-023 (summer-only sports kit: £40k month then £550; liquidated), S-018 (seasonal stock unsold by January), S-017 (35% of turnover in six weeks), S-035 (Serbian HoReCa supplier: summer peak, rest of year covered by mountain and spa destinations), S-064 (Albanian grower: one-season plants for hotels and flower shops were destroyed unsold when buyers closed in 2020; COVID shock), S-063 (Tirana flower importer depends on the summer wedding peak; same 2021 Monitor article), S-073 (Durrës hotel-furniture maker: spring-summer peak met with seasonal workers), S-095 (Tirana souvenir maker living only on tourists, schools and weddings could not pay rent when they stopped; COVID shock), S-102 (Shëngjin seasonal businesses work about 60 days a year, 2019) (n=9; S-063/S-064 one source, shock-driven) · Counter-evidence: S-098 (Durrës hotels' season ran early April to November in 2025, two months longer than before; the coastal off-season is shrinking in Durrës), S-097 (Durrës 2026 season expected to last to mid-October) · Confidence: medium
+- When it applies: host demand peaks before and during the tourist season. One off-season answer seen: sell to destinations with a different season (S-035), or a second B2B line such as branded towels for companies (S-034). Run 15: the Durrës season now runs roughly April to October/November (S-097, S-098), but Shëngjin's was about 60 days (S-102, 2019), so the off-season depends on the town.
 
 ### L-019: Do not add fixed costs (staff, premises) before cash is in the bank; fast growth can kill through overtrading
-- Evidence: S-023 (salesperson quadrupled processing cost; overtrading), S-013 (growth pressure before costs were controlled), S-032 (33-year Serbian shop: "don't chase money, don't fall into debt"; 14 m2 to 400 m2 slowly), S-036 (Tirana shop: rent of 90,000 lek a month plus taxes, bankrupt after one year), S-038 (Tirana shop of 14 years closed rather than take on debt), S-043 (15-year Albanian curtain/clothing shop could not cover expenses and taxes when turnover fell, 2018), S-044 (Elbasan cosmetics shop opened on a bank loan: obligations from month one, loan still repaid after closing), S-045 (Tirana shop: rent too high, transport from Korça not covered), S-051 (Tirana boutique closed its shop to stop paying high rent and sold online only), S-088 (southern Albanian clothing shop: about 40,000 lek a month in rent and services plus yearly insurance, municipal tax, accountant and till inspection, 'every day starts at minus 17,000 old lek'; anecdote, 2019) (n=10; S-036-S-038 are one 2020 COVID survey and S-043-S-045 one 2018 survey with no shock) · Counter-evidence: S-017 (full-time + premises worked, after 1.5 years of proven sales), S-049 (Albanian towel maker grew with loans for equipment, a generator and a delivery van; productive assets, not stock or rent) · Confidence: medium
+- Evidence: S-023 (salesperson quadrupled processing cost; overtrading), S-013 (growth pressure before costs were controlled), S-032 (33-year Serbian shop: "don't chase money, don't fall into debt"; 14 m2 to 400 m2 slowly), S-036 (Tirana shop: rent of 90,000 lek a month plus taxes, bankrupt after one year), S-038 (Tirana shop of 14 years closed rather than take on debt), S-043 (15-year Albanian curtain/clothing shop could not cover expenses and taxes when turnover fell, 2018), S-044 (Elbasan cosmetics shop opened on a bank loan: obligations from month one, loan still repaid after closing), S-045 (Tirana shop: rent too high, transport from Korça not covered), S-051 (Tirana boutique closed its shop to stop paying high rent and sold online only), S-088 (southern Albanian clothing shop: about 40,000 lek a month in rent and services plus yearly insurance, municipal tax, accountant and till inspection, 'every day starts at minus 17,000 old lek'; anecdote, 2019), S-094 (Myslym Shyri clothing shop opened Nov 2019: sold at 50% off just to pay rent, taxes and insurance, then had no money to restock; earthquake/COVID shock; anecdote), S-096 (Durrës beach produce seller lost 1.8 million old lek of stock stored in a hotel that collapsed; earthquake shock) (n=12; S-036-S-038 are one 2020 COVID survey, S-043-S-045 one 2018 survey with no shock, S-094 one 2020 Citizens article) · Counter-evidence: S-017 (full-time + premises worked, after 1.5 years of proven sales), S-049 (Albanian towel maker grew with loans for equipment, a generator and a delivery van; productive assets, not stock or rent) · Confidence: medium
 
 ### L-020: Sell a cheap sample or trial pack to B2B buyers before the bespoke or bulk order
 - Evidence: S-023 (discounted sizing-sample packs for clubs), S-004 (samples decided supplier choice; buyer side) (n=2) · Counter-evidence: – · Confidence: medium (self-reported)
@@ -240,7 +260,7 @@ hotels, 2026).
 - When it applies: pitching managers. Linen-as-a-service may reach Tirana (gap 16); answer it with owned kits, no lock-in and a lower cost per stay over a season.
 
 ### L-029: Get paid at handover (or before) and agree the payment method when the deal is signed
-- Evidence: S-042 (8,000 euros unpaid on one villa, recovered only by threatening to block the listing, client lost anyway; a direct-debit mandate signed with the contract is the protection "very few" use; anecdote), S-005 (COD buyers refuse parcels without a deposit) (n=2, anecdote/self-reported) · Counter-evidence: – · Confidence: low
+- Evidence: S-042 (8,000 euros unpaid on one villa, recovered only by threatening to block the listing, client lost anyway; a direct-debit mandate signed with the contract is the protection "very few" use; anecdote), S-005 (COD buyers refuse parcels without a deposit), S-100 (Egypt: courier-collected COD cash takes weeks to reach small sellers, and many stopped shipping for lack of cash; market comment) (n=3, anecdote/self-reported) · Counter-evidence: – · Confidence: low
 - When it applies: every manager order. In Albania: deposit when ordering, balance in cash or bank transfer on delivery, fiscal invoice issued; no open credit for new accounts.
 
 ### L-030: B2B buyers already have a supplier; bring a concrete reason to switch and keep them through direct, long relationships
@@ -263,7 +283,7 @@ hotels, 2026).
 - When it applies: asking Tirana managers for deposits (L-001, L-029). B2B buyers you meet may accept a small deposit against a fiscal invoice; online strangers will not prepay. What buyers complain about (wrong goods, refused returns, no receipt) is what the kit should visibly promise: the spec in writing, a fiscal receipt with every delivery and a written exchange policy (S-083; our inference).
 
 ### L-035: In Tirana and Durrës, single-flat hosts are leaving or handing over daily rentals; sell to operators who are growing, and expect hosts to cut costs
-- Evidence: S-057 (host with three flats: 60 euros/night in 2022 fell to 30-40 in 2024 as many copied her; costs included frequent sheet and towel purchases; moved all flats to long-term rent), S-058 (rental-arbitrage host netted 100-400 euros a month and quit), Monitor 2026 market piece (daily rentals concentrating in professional operators and agencies; 15% tax via DIVA for individuals; https://monitor.al/qiraja-afatgjate-fiton-terren-ndersa-ajo-ditore-po-humbet-avantazhin/) (n=2 from one article, anecdote), S-091 (Durrës room renter of 30 years: 2025 income about half of 2024, rates flat 3-4 years), S-092 (Durrës beach district, 2026: nightly price down to 25 euros, cleaning costs rising, most flats now leased to people who manage them) (n=4 from three articles, all self-reported) · Counter-evidence: S-090 (Durrës, 2025: 60-70 euros a night and seven B&B flats in one building, up from a novelty four years earlier), S-059 (2022: a Tirana arbitrage host earned 4x her rent and added a second flat, before the oversupply); listings still grew from 21.3k (Dec 2024) to 27.7k (H1 2026); BIRN reports almost 30,000 units in 2026, +22% · Confidence: medium (run 14: low→medium, three independent articles)
+- Evidence: S-057 (host with three flats: 60 euros/night in 2022 fell to 30-40 in 2024 as many copied her; costs included frequent sheet and towel purchases; moved all flats to long-term rent), S-058 (rental-arbitrage host netted 100-400 euros a month and quit), Monitor 2026 market piece (daily rentals concentrating in professional operators and agencies; 15% tax via DIVA for individuals; https://monitor.al/qiraja-afatgjate-fiton-terren-ndersa-ajo-ditore-po-humbet-avantazhin/) (n=2 from one article, anecdote), S-091 (Durrës room renter of 30 years: 2025 income about half of 2024, rates flat 3-4 years), S-092 (Durrës beach district, 2026: nightly price down to 25 euros, cleaning costs rising, most flats now leased to people who manage them) (n=4 from three articles, all self-reported) · Counter-evidence: S-090 (Durrës, 2025: 60-70 euros a night and seven B&B flats in one building, up from a novelty four years earlier), S-059 (2022: a Tirana arbitrage host earned 4x her rent and added a second flat, before the oversupply); S-097 (Durrës port neighbourhood, Sept 2026: residents are switching flats from monthly to few-day lets, and every building now has daily-rental flats; small owners are still entering there); listings still grew from 21.3k (Dec 2024) to 27.7k (H1 2026); BIRN reports almost 30,000 units in 2026, +22% · Confidence: medium (run 14: low→medium, three independent articles)
 - When it applies: choosing whom to sell to and how to price. Small hosts are price-squeezed and may leave within a season, so they are poor repeat customers; operators that grow (PikHost: ~136 listings per Airbtics, co-founder of the Albanian Vacation Rental Association) are the steadier buyers. Gap 23.
 
 ### L-036: Reach new hosts at fit-out, through the people who set flats up
@@ -296,6 +316,10 @@ hotels, 2026).
 - Evidence: S-084 (JYSK Albania: the 'gold' tier, its most expensive, sells better than basic and plus; duvets and pillows are its third-best category; six Albanian stores by Oct 2026, moving from franchise to company ownership on 1 Jan 2027) (n=1, large chain, self-reported, 2018) · Counter-evidence: S-077, S-078 (Tirana buyers move to cheaper malls and used clothing) · Confidence: low
 - When it applies: before setting kit prices, check JYSK's and Megateksa's prices for white duvets, pillows, sheets and towels, since a host furnishing a flat can buy a 'gold' set from JYSK at a mall. The kit's edge over a chain is delivery to the door as a ready set per unit, refills and a B2B invoice, not the textile alone (our inference; gap 33).
 
+### L-043: Delivered is not paid: on courier cash on delivery, budget for payouts that take days or weeks, and collect B2B balances yourself at handover
+- Evidence: S-100 (Egypt: small sellers signed up, shipped, then stopped because delivered COD orders had not been paid out; payouts can take weeks; market comment by a logistics founder), S-086 (Morocco: COD cash takes days to reach the seller; market comment) (n=2, both self-reported market comment) · Counter-evidence: – · Confidence: medium (2 sources, no seller's own numbers)
+- When it applies: any refill or kit sent by an Albanian courier on COD. Ask each courier for its payout schedule before the first parcel (gap 4), keep cash for at least one refill cycle, and for manager orders take the balance in person at handover (L-029).
+
 ## Other lessons (not directly relevant to the current plan)
 
 ### L-016: Rental/subscription models need cheap stock and tight logistics before growth
@@ -306,6 +330,10 @@ hotels, 2026).
 
 ### L-023: Don't pick a first product you have never used, in a niche you don't know, on a platform you don't understand
 - Evidence: S-021, S-022 (n=2) · Confidence: medium.
+
+### L-044: Pick products that survive courier handling; breakage can end a small online seller
+- Evidence: S-099 (Egyptian online shop of glass water flasks failed because the products repeatedly broke in shipping) (n=1, self-reported, one line in a founder profile) · Confidence: low.
+  Confirms the plan's choice of textiles (they do not break); relevant to any glass or ceramic add-on and to the Petkit backup (devices with fragile parts).
 
 ### L-032: Do not import lookalikes of a branded product; a legal letter can stop sales overnight
 - Evidence: S-047 (teen importer's MP3 player too close to a major brand: had to stop trading, could not ship pending orders) (n=1, self-reported) · Confidence: low.

@@ -57,6 +57,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    and crime news from Kosovo outlets. A Kallxo feature naming a Kosovo importer who closed after Turkish partners
    disagreed (Orhan Bullaku, "Mjedis i Pafavorshëm për Biznesmenët e Pafuqishëm") is Cloudflare-blocked and
    web.archive.org is blocked by egress, so it is not logged (rules 2, 25); the user could open it in a browser.
+   Run 15: 2 closure searches in Citizens/Faktoje/Reporter gave no named online, importer or B2B closure; Citizens.al's 2020
+   reports gave shock-hit shops that were still open (S-094 Myslym Shyri clothing shop, S-095 souvenir maker, S-096 Durrës
+   produce seller). The only new failure is Egyptian (S-099). Gap stays with the user's accountant and couriers (rule 45).
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -80,6 +83,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 4. **Real COD experiences in Albania/Balkans**: refusal rates, courier payouts. Only S-005 (Pakistan, L-007 low).
    Run 13: Morocco market comment (S-086): non-food COD returns can reach 30-40%, phone-confirmation teams, cash takes days
    to reach the seller. A Serbian COD query returned only consumer-rule news. Still no Balkan seller's own refusal rate.
+   Run 15: Tunisia ~30% refused at delivery (Tayara.tn estimate via Tunisie Numérique, S-101) and Egyptian COD payouts that
+   take weeks, which made small sellers stop shipping (S-100, L-043). Egyptian COD-app articles were vendor marketing (rule 3).
+   Still no Balkan seller's own refusal rate or courier payout schedule: see gap 37.
 5. **Deposits in low-trust markets**: partly answered in run 7 for B2C: Albanian buyers do not prepay online sellers
    because informal sellers took money and did not deliver; >90% COD (L-034, low; S-053, S-052, S-010). Still no story of a
    B2B deposit asked and paid (or refused) in Albania; this likely needs the user's own first pitches (rule 20).
@@ -107,9 +113,13 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 9. **Backup niche (Petkit dealer)**: no stories (run 3: still none; Pet Age reports a US distributor added PETKIT in 2026, no small-dealer account). Fact found: PETKIT's dealer agreement is non-exclusive and orders go
    through a verified dealer account on petkit.com. Look for small-country pet-tech dealers' experiences.
    L-032 (run 6, low): avoid lookalikes of branded products.
+   Run 15: one English search gave only brand, Faire, eBay and marketplace pages; PETKIT's Canadian Trustpilot page summarises
+   mostly unhappy consumers and poor customer service, which a dealer would have to absorb (consumer reviews, not dealers;
+   not logged). L-044 (low): fragile devices risk courier breakage. Next: ask PETKIT's dealer team (user's email), no searches.
 10. **Confirm low-confidence lessons**: L-007 (run 13: n=3 but still no seller's own numbers; S-086 is market comment),
     L-015 (conflicting), L-024, L-039, L-041 (run 13: one Turkish-supplier and one copycat search gave only listings and
     US forum anecdotes).
+    Run 15: L-007 n=4 with S-101 (Tunisia), still market comment only; new L-044 (n=1) needs a second breakage story.
 11. **Off-season**: what do Albanian host-supply or tourism-linked sellers do from November to February? (L-018)
     Partly answered in run 5: a Serbian HoReCa supplier covers the off-season with mountain and spa destinations (S-035);
     a Macedonian maker has branded promotional towels as a second line (S-034). Still no Albanian example.
@@ -117,6 +127,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     December is not stated.
    Run 9: an Albanian grower's main hope is hotel orders before the summer season (S-064); one-season stock was
    destroyed when buyers closed (L-018). Still no Albanian off-season example.
+   Run 15: partly answered for the coast: Durrës hotels ran early April to November in 2025, two months longer than before
+   (S-098), and BIRN expected the 2026 Durrës season to last to mid-October (S-097); Shëngjin's seasonal businesses worked
+   about 60 days a year in 2019 (S-102). So December-February is the dead period in Durrës (our inference). Still no
+   host-supply seller's off-season example.
 12. **Who owns the linen in Tirana managed flats: the manager or the flat owner?** (from S-027; decides who the buyer
     is, L-017). Look for Albanian property-manager service pages that list a linen fee, or interviews with Tirana
     co-hosts. Partly answered for France (L-025, low): managers bundle professional linen into a higher all-inclusive
@@ -145,7 +159,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 19. **Confirm L-005 for Albania with buyers, not sellers** (new, run 6): the 2-3-year hotel replacement cycle comes from a
     supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays. Run 8: partly answered
     by one Tirana host (S-057: "sheets and towels had to be bought often" in busy flats; anecdote, no numbers).
-20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41; run 13: 22 / 19 / 45; run 14: 22 / 19 / 52, still balanced overall, but 0 new failures in runs 12-14 and mixed stories now outnumber both), so no survivorship skew overall, but
+20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41; run 13: 22 / 19 / 45; run 14: 22 / 19 / 52; run 15: 22 / 20 / 60, still balanced overall, but only 1 new failure in runs 12-15 (S-099, Egypt) and mixed stories now outnumber both), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
@@ -174,6 +188,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 25. **Confirm L-037 for Albania** (new, run 9): is an importer VAT-registered from the first import whatever its turnover,
     and what does a contracted accountant cost? (albania-market-context marks this "confirm with DPT"). The user's
     accountant answers this; no searches needed (rule 20).
+    Run 15: Faktoje (28 Oct 2026) reports the 2027 fiscal package proposal lowers the VAT registration threshold to
+    5 million lek and raises standard VAT from 20% to 21% (basic foods to 6%). Confirm the final law and the dates with
+    the accountant before pricing kits.
 26. **Confirm L-038 with a second source outside Serbia** (new, run 9): an Albanian or Kosovar small firm hurt when a donor
     programme or grant ended (USAID cuts in 2025 hit many Balkan projects). One Prishtina Insight or Monitor search.
 27. **Do Kosovo/Albanian Instagram sellers formalise, and does it change trust or deposits?** (new, run 9; from S-061,
@@ -199,6 +216,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     prices in 2026. If apartment stays are taking share from hotels, managers' unit counts (gap 23) matter more than
     tourist totals for kit demand. Look for AirDNA or Monitor data on apartment vs hotel occupancy in 2025-2026 (one
     monitor.al search), and ask AVRA.
+    Run 15: partly answered with a qualitative yes for Durrës: a promenade restaurant lost 15% of customers in 2026 as
+    apartment tourists shop at supermarkets and wholesale stores, and residents switched from monthly to few-day lets
+    (S-097, BIRN). Still no occupancy data.
 33. **What does JYSK Albania charge for white duvets, pillows, sheets and towels, and will the 1 Jan 2027 takeover change
     prices or range?** (new, run 13; L-042 low): JYSK has six Albanian stores and its 2018 manager said the dearest tier
     sells best (S-084). A store visit by the user (with Megateksa and Gjergji H. Tekstil, gap 18) answers this; no searches.
@@ -214,6 +234,14 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     beach-district flats are leased by people who run them as a business, and some owners hire cleaning/management teams.
     These are the Durrës buyers (L-017, L-035). Names are not public; the user can ask building administrators near the
     Taulantia promenade (one administrator counts ~30 B&B flats in five buildings) and Durrës cleaning firms. No searches.
+    Run 15: add Lagjja 1 (port neighbourhood): administrator Remzi Taka says every building there has daily-rental flats
+    (S-097, BIRN Sept 2026). Ask administrators there too.
 36. **Does the Durrës guest mix change linen demand?** (new, run 14; S-093): hotels lost Kosovar and Italian guests in 2026
     and gained 7-day groups from Poland, Czechia, Bosnia and Ukraine. Longer group stays mean fewer turnovers per flat
     (our inference). One Reporter.al search per run on Durrës/Vlorë season reportage; otherwise ask managers.
+37. **How fast do Albanian couriers pay out COD cash to small sellers, and at what fee?** (new, run 15; L-043): Egyptian
+    small sellers stopped shipping when payouts took weeks (S-100). Ask 2-3 Albanian couriers for their payout schedule and
+    COD fee before sending any refill by courier (user's call, rule 20; no searches).
+38. **Is Shëngjin (Lezha) a third call list?** (new, run 15; S-102): many Kosovars own holiday flats there and let them in
+    summer, but the season was about 60 days in 2019. Check AirDNA/Airbtics unit counts for Shëngjin and whether owners use
+    managers (one search per run at most), after Tirana/Durrës are tested.
