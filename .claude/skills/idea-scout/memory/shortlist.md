@@ -1,19 +1,18 @@
 # Idea shortlist
 
-Updated: run 27, 2026-11-27 13:12 UTC. Benchmark: **host starter kits, advisor score 54** (researched).
+Updated: run 28, 2026-11-27 16:13 UTC. Benchmark: **host starter kits, advisor score 54** (researched).
 Scores below are rubric quick screens, not advisor scores. **Scored on the same rubric, host kits ≈ 78**
 (learned rule 4). Three open ideas score above that level: cheese moulds and shrink bags (84), berry punnets (83) and
 beekeeping equipment (79). **All three have unverified gaps**, so under rule 15 they beat host kits "on paper" only, until a
 phone check confirms the gap. No idea with a checked gap clears ~78. Crates, scaffold netting and excavator bucket teeth tie at 78.
 
-Run 27 added 8 ideas (7 shortlisted, 1 new, none rejected). None scores above ~78 and none enters the top 10 (the #10 score is 76).
-The run tried new buyer groups again (rule 41 kept the earthmoving bundle closed): driving schools, food-safety (AKU) compliance,
-5-a-side pitch operators, café terraces, wedding DJs and venues, e-shops and warehouses, and renovation sites. The best new idea is
-**plastic debris chutes for building and renovation sites (69, gap unverified)**, but it is a rule-21 artefact (no evidence Albanian sites
-use chutes). **HACCP probe thermometers and data loggers (68)** follow, with the strongest demand evidence of the run (AKU fines for not
-monitoring temperatures and not applying HACCP), held back by Temu exposure on cheap probes and rule 32. Gabions were capped at 49: Maccaferri
-Balkans makes them in its Shijak plant (rule 22). Freshness checks left I-070 boat fenders unchanged (64) and cut I-071 chafing dishes to 63
-under rule 42.
+Run 28 added 8 ideas (7 shortlisted, 1 new, none rejected). None scores above ~78 and none enters the top 10 (the #10 score is 76).
+The run tried new buyer groups again (rule 41 kept the earthmoving bundle closed): banks and cash-heavy businesses, rafting operators,
+stove shops, crane-hire firms, restaurant kitchens and, as host-kit add-ons, hotel bathrooms and rental-flat safety. The best new idea is
+**tamper-evident cash deposit and transit bags for banks, cash-in-transit firms and chains (72, gap unverified)**, held back by few buyers
+(rule 18) and the government's plan to limit cash payments (treated as a shrinking base). **Lockable refillable amenity dispensers for hotels (68)**
+follow as a host-kit add-on, held back by one-off buying and cheap online dispensers. The freshness check lifted I-072 bakery trays and baking paper
+from 45 to 61 (a business-count vendor lists 271 bakeries). New rule 48: legal requirements reported only by foreign blogs count as unverified.
 
 ## Top open ideas
 
@@ -35,65 +34,63 @@ boxes and pouches (75, gap unverified), I-192 roll-up stands and display hardwar
 (74), I-151 call-centre task chairs (74), I-185 logo entrance mats (74, gap unverified), I-169 tiller blades and plough shares (74), I-206 VKM 649 lifeguard-point kits for beach stations (73), I-237 PVC waterstops and swelling strips (73), I-216 boat anodes and impellers (72, gap unverified), I-239 forklift solid tyres and wear parts (72, gap unverified), I-221 lift components and spare parts (72), I-229 crystal PVC film for terrace enclosures (72, rule 21 artefact), I-040 glass jars (73), I-065 peat and seedling trays (73, re-checked), I-083 formwork
 plywood (73), I-097 bale net wrap (73), I-121 courier mailer bags (73), I-142 milk filter socks (73), I-032 bathrobes
 (72), I-034 paper cups (72, re-checked), I-059 fishing nets (72), I-099 furniture fittings (72), I-106 café terrace furniture (72),
-I-115 olive-fly traps (72), I-131 sewing-machine needles (72), I-246 couch and examination paper rolls (72; rule 22 risk), I-168 espresso wear parts (72), I-134 mattress ticking (72), I-053 bell tents (71),
+I-115 olive-fly traps (72), I-131 sewing-machine needles (72), I-246 couch and examination paper rolls (72; rule 22 risk), I-278 tamper-evident cash deposit and transit bags for banks and CIT firms (72, new, gap unverified, rule 18), I-168 espresso wear parts (72), I-134 mattress ticking (72), I-053 bell tents (71),
 I-055 football kits (71), I-084 mussel socks (71), I-086 dental disposables (71), I-117 bitumen membranes
 (71), I-181 café terrace umbrellas (71), I-199 logo menu covers and bill folders (71), I-193 greenhouse lock channel and wiggle wire (71, rule 21 artefact), I-175 restaurant hood baffle filters (71), I-228 rodent bait stations for pest-control firms (71, gap unverified), I-253 stainless glass-balustrade hardware (71, gap unverified, rule 21 demand 3), I-261 Turkish hammam consumables for hotel spas (71, new, host-kit side line), I-143 printed greaseproof wraps (71), I-100 upholstery fabric (70), I-119 RFID hotel key cards (70), I-129
 AC-installer consumables (70), I-137 pizza boxes (70), I-148 wine filter sheets (70), I-241 ratchet lashing straps for truck fleets (70), I-262 removable greenhouse shading coatings (70, new; growers mostly use local lime, rule 32), I-222 rock-drilling bits and hammers (70), I-232 fuel-dispenser nozzles and hoses (70, gap unverified), I-171 water-filled road barriers (70), I-198 logo delivery bags (70), I-182 plastering-machine wear parts (70), I-205 unbreakable drinkware for beach and pool bars (69), I-251 container desiccants (69, rule 21 artefact), I-256 PP and steel concrete fibres (69; Sika Albania sells fibres), I-263 logo graduation gowns, caps and stoles (69, new; rule 6), I-210 insulating-glass spacers and sealant (69, rule 21), I-047 wine corks (69), I-095
-rebar spacers (69), I-127 printed beer mats (69), I-138 stone diamond tools (69), I-190 coffins for funeral homes (69), I-196 sprayer nozzles and spare parts (69), I-275 plastic debris chutes for building sites (69, new, gap unverified, rule 21 artefact), I-270 HACCP probe thermometers and data loggers (68, new, gap unverified), I-231 hair-salon disposables (69), I-225 PTO drive shafts and cross-journal kits (68), I-236 AdBlue for truck fleets (68), I-044
+rebar spacers (69), I-127 printed beer mats (69), I-138 stone diamond tools (69), I-190 coffins for funeral homes (69), I-196 sprayer nozzles and spare parts (69), I-275 plastic debris chutes for building sites (69, new, gap unverified, rule 21 artefact), I-270 HACCP probe thermometers and data loggers (68, new, gap unverified), I-276 lockable refillable amenity dispensers for hotels (68, new, host-kit add-on, gap unverified), I-231 hair-salon disposables (69), I-225 PTO drive shafts and cross-journal kits (68), I-236 AdBlue for truck fleets (68), I-044
 interior doors (68), I-090 rental kayaks (68), I-107 life jackets (68), I-135 smart locks for rentals (68), I-183 Turkish welding consumables (68), I-184 parking-garage safety products (68), I-162 body-shop abrasives and masking (68), I-200 hotel room accessories (68), I-204 pizza dough proofing boxes (67), I-223 electric gyro knives and broiler parts (67), I-069 café water filters (67, down from 74 under rule 33), I-243 floor-machine pads and brushes for cleaning contractors (67, gap unverified), I-255 LPG autogas service parts (67), I-257 compact-laminate toilet cubicles (67, one-off), I-264 mechanical rebar couplers (65, new, rule 21 demand 3), I-265 tour-guide whisper systems (64, new, rule 21 demand 3), I-266 EAS anti-theft labels and tags for shops (63, new, rule 25), I-030 scrubs
 (67), I-108 sheep shears (67), I-173 rubber cow mats (67), I-031 barber and salon textiles and furniture (67), I-244 numbered security seals for forwarders and exporters (66, gap unverified), I-250 hotel bed runners and cushion covers (66, host-kit add-on), I-254 acrylic awning fabric and arm-awning components (66), I-179 low-tunnel hoops (67), I-147 tree shelters (67), I-209 agricultural frost fleece (66, rule 21 artefact), I-038 winemaking (66, re-checked), I-178 cheese cultures and rennet (66), I-187 PV solar cable and MC4 connectors (66), I-213 conveyor belts and idlers (66), I-217 mosque carpets (66), I-234 industrial sewing and embroidery thread (66), I-194 HACCP colour-coded cutting boards (66), I-067 bear fences (66), I-088 rental car
 seats (66), I-109 stainless tanks (66), I-120 snow chains (66), I-144 tile levelling clips (66), I-152 call-centre
-headsets (66), I-159 façade mesh and insulation anchors (66), I-126 window-fabricator hardware (65), I-224 gate automation kits (65), I-139 joinery saw blades and router bits (65), I-189 disposable car-interior protection kits (65), I-146 amber
+headsets (66), I-159 façade mesh and insulation anchors (66), I-126 window-fabricator hardware (65), I-279 commercial kitchen and bar rubber mats (65, new), I-283 banknote counters and counterfeit detectors (65, new, rule 42), I-224 gate automation kits (65), I-139 joinery saw blades and router bits (65), I-189 disposable car-interior protection kits (65), I-146 amber
 dropper bottles (65), I-156 valve coffee bags (65), I-166 stretch film and strapping (65), I-226 roller-shutter components (64), I-274 thermal shipping labels and ribbons for e-shops (66, new, Temu-exposed), I-272 café-terrace misting systems (61, new, rule 21), I-268 driving-school dual-control pedal kits (60, new, gap unverified), I-269 artificial-turf infill granules (60, new, rule 21), I-273 cold-spark machines and granules for weddings (57, new), I-242 shoe components for fason factories (65, capped by rule 43), I-070 boat fenders (64, re-checked), I-071
 chafing dishes (63, re-checked, rule 42), I-098 coco slabs (64), I-102 hostel bunks (64), I-113 bridal gowns (64), I-122 hotel guest amenities
 (64), I-154 vet-clinic disposables (64), I-188 logo event wristbands (64), I-258 PET-felt acoustic panels (64), I-201 herbal-tea stand-up pouches (64), I-033 table linen (63), I-043 wedding venues (63), I-093 oak barrels (63),
 I-096 housekeeping trolleys (63), I-145 EPS fish boxes (63), I-153 pagoda event tents (63), I-174 EN 840 wheeled waste bins (63), I-215 fire hose-reel cabinets (62), I-207 dental-lab zirconia discs (62; medical-device paperwork), I-211 hygienic plastic pallets (62), I-051 pruning shears
 (62), I-054 kindergarten furniture (62), I-092 trellis consumables (62), I-104 water tanks (62), I-128 car-wash wear parts
-(62), I-177 ready-to-use bee feed (61), I-219 PVC truck tarpaulins (61), I-197 chainsaw chain and guide bars (61), I-208 meat trays and absorbent pads (60, rule 28), I-112 artificial turf (60), I-161 ACP and acrylic sheets for sign makers (60), I-176 PVC banner and printing vinyl (60), I-245 logo licence-plate frames for car dealers (62), I-035 olive harvesters (60, down from 68: Megateksa now sells electric olive shakers), I-140 florist supplies (59), I-218 Albania souvenir merchandise (59), I-227 replacement windscreens (59), I-230 commercial citrus juicers (60), I-235 ultrasonic milk analysers (63, gap unverified; rule 42), I-157 portable site toilets (59), I-167 tripod orchard ladders (59), I-039 milking
+(62), I-177 ready-to-use bee feed (61), I-072 perforated bakery trays and bulk baking paper (61, up from 45: 271 bakeries listed), I-219 PVC truck tarpaulins (61), I-197 chainsaw chain and guide bars (61), I-208 meat trays and absorbent pads (60, rule 28), I-112 artificial turf (60), I-161 ACP and acrylic sheets for sign makers (60), I-280 crane wire ropes and lifting slings (60, new; Megateksa sells rope and belts), I-176 PVC banner and printing vinyl (60), I-245 logo licence-plate frames for car dealers (62), I-277 rafting and canyoning outfitter gear (62, new, rule 18 side line to I-107), I-281 replacement stove glass and rope gaskets (62, new, winter line), I-035 olive harvesters (60, down from 68: Megateksa now sells electric olive shakers), I-140 florist supplies (59), I-218 Albania souvenir merchandise (59), I-227 replacement windscreens (59), I-230 commercial citrus juicers (60), I-235 ultrasonic milk analysers (63, gap unverified; rule 42), I-157 portable site toilets (59), I-167 tripod orchard ladders (59), I-039 milking
 machines (58, re-checked), I-094 dairy tubs (58), I-123 sausage casings (58), I-125 commercial playgrounds (58), I-155 gelato cups,
 spoons and pans (58), I-160 DTF and sublimation consumables (58), I-164 fall-arrest harnesses and helmets (58), I-111 patio heaters (57), I-057 anti-hail nets (56), I-133 dry-cleaner covers and hangers
 (56), I-158 poultry drinkers and feeders (56), I-136 grafting clips (55), I-233 grease separators and package treatment units (52), I-259 trout feed (51); new (49 or below): I-058 PP sacks (49),
 I-089 PV mounting (49), I-101 thermal rolls (49), I-110 restaurant charcoal (49), I-271 gabion baskets (49, new; Maccaferri Balkans makes them in Shijak, rule 22), I-118 paper carrier bags (49), I-163 shisha charcoal (49, rule 31), I-165 food-hygiene disposables (48), I-191 logo eyeglass cases (48; 15% duty, Temu), I-141
-bumblebee hives (46), I-029, I-037, I-045, I-046, I-052, I-063, I-072, I-074, I-075, I-076, I-085, I-105,
-I-116, I-124, I-132, I-150 mannequins, I-172 ironer padding, I-180 in-room hotel safes, I-186 key blanks (45; no demand evidence, rule 5), I-267 pet-grooming salon supplies (45, new; no groomer count, rule 5), I-078 (44), I-130 (44), I-042 (42), I-077
+bumblebee hives (46), I-029, I-037, I-045, I-046, I-052, I-063, I-074, I-075, I-076, I-085, I-105,
+I-116, I-124, I-132, I-150 mannequins, I-172 ironer padding, I-180 in-room hotel safes, I-186 key blanks (45; no demand evidence, rule 5), I-267 pet-grooming salon supplies (45, new; no groomer count, rule 5), I-078 (44), I-282 safety kits for rental flats (43, new; rule 48), I-130 (44), I-042 (42), I-077
 (40), I-073 (37), I-079 (35).
 
 ## New this run
 
-I-268 to I-275 (8 ideas): 7 shortlisted (50+), 1 new (I-271, 49), none rejected. None scores above ~78; none enters the top 10.
-- I-275 plastic debris (rubble) chutes with hoppers for building and renovation sites (69): 3926.90 2% MFN, 0% with Turkish EUR.1 (Bayrakçı
-  makes them); nothing on Megateksa or Würth, no seller in Albanian or English searches; permits +24.8% in Q1 2026, but rule 21 holds demand at 3
-  (no evidence Albanian sites use chutes) and rule 42 holds buyers at 5. Add one question to the construction-site safety bundle's call.
-- I-270 HACCP probe thermometers, fridge thermometers and temperature data loggers for restaurants and food shops (68): 9025.19 0% MFN;
-  no Testo dealer in Albania found, Megateksa only household thermometers; AKU fines for 'temperatures not monitored' and for not applying
-  HACCP (100,000 ALL), 17,742 food-service firms; rule 32 holds demand at 8 (a paper log and any thermometer comply), Temu-proof 3.
-- I-274 direct-thermal shipping labels (100x150) and ribbons for e-shops and warehouses (66): 4821.90 0% MFN; no Albanian seller or label
-  converter found; e-commerce US$307m +10-15%; rule 21 (no evidence couriers ask shippers to print labels), Temu-cheap rolls.
-- I-272 high-pressure misting systems for café terraces (61): 8424.89 0%; Megateksa only a garden fog programmer; Albania 3rd in Europe for
-  cafés, but rule 21 (no evidence terraces use misting) and rule 42 (one system per terrace).
-- I-268 dual-control pedal kits for driving-school cars (60): a new buyer group; 8708.99 2% MFN, 0% from the EU; no seller or fitter found;
-  Kosovo's licensing instruction requires dual controls, Albania's rule (Law 10081/2009) not read; no count of driving schools.
-- I-269 artificial-turf infill granules and pitch-maintenance kit (60): follow-on of I-112; no Albanian crumb-rubber producer or seller;
-  FSHF funds many pitches (rule 12), installers bring infill (rule 25), EU REACH bans granular infill from Oct 2031.
-- I-273 cold-spark machines and granules for wedding venues and DJs (57): Chinese-made, 0% MFN any origin (rule 45), granules 6% and
-  possibly dangerous goods; marriages at a historic low (rule 10), custom unchecked (rule 37).
-- I-271 gabion baskets and Reno mattresses (49, new): Maccaferri Balkans makes gabions in its Shijak plant (rule 22, capped).
-- Dropped before screening (5): upholstery staples and pneumatic tackers (Megateksa sells Einhell upholstery staples 859-1,759 ALL per 3,000
-  and a Würth DKG 416 stapler 16,999 ALL); geotextiles (Megateksa sells Guttatex 200-300 g rolls 7,639-11,220 ALL); ABC refill powder for
-  extinguisher service firms (a chemical that I-249 excluded on purpose, same unverified buyers); hazelnut-orchard supplies (only ~300 ha
-  harvested in 2019, too small); 300 kg apple pallet bins (near I-050 crates and I-211 pallets; no evidence Korça stores use bins, rule 21;
-  fruit-tree output falling, rule 10).
+I-276 to I-283 (8 ideas): 7 shortlisted (50+), 1 new (I-282, 43), none rejected. None scores above ~78; none enters the top 10.
+- I-278 tamper-evident cash deposit and transit bags and coin bags (72): 3923.21 6% MFN, 0% with EU/Turkish origin; no Albanian maker or
+  seller in Albanian, English or Megateksa searches (foreign makers only); a Tirana Bank document in search results lists seals for money-transport
+  bags (unverified). Cash outside banks 467 billion ALL (+15%), but a 2026 cash-payment limit and a 2030 'no cash' pledge (rules 10/20: demand 5);
+  about a dozen banks buy by procurement (rules 17/18: buyers 8). Same buyers as I-244 seals.
+- I-276 lockable refillable wall dispensers for hotel bathrooms (68): 3924.90 6% MFN, 0% with EUR.1; Megateksa sells household dispensers only
+  (rule 30); no hotel-amenity dispenser seller found; one-off fit-out (rule 42), cheap online 3-chamber dispensers (Temu-proof 4). Host-kit add-on.
+- I-279 commercial kitchen and bar rubber mats (65): 4016.91 0% any origin; Megateksa anti-slip roll (1,349 ALL) and rubber doormats make the
+  gap available; 17,742 food-service firms but no rule requiring mats. Could join I-185 entrance mats as one mat line.
+- I-283 banknote counters and counterfeit detectors (65): 8472.90 0% any origin; no Tirana shop found; one machine per shop (rule 42) and Chinese
+  lek-labelled counters at MOQ 1 (rule 45); cash-limit policy (rule 20).
+- I-277 rafting and canyoning outfitter gear for Vjosa and Osum operators (62): a new buyer group, but only 4-5 operators (rule 18) and rafts are
+  one-off purchases over EUR 1,500 (rule 42). A side line to I-107 life jackets.
+- I-281 replacement stove glass cut to size, rope gaskets and liners (62): fuel wood about 35% of space heating (OECD); Megateksa sells stove-pipe
+  gaskets only; cut-to-size glass (rule 40); local stove makers unchecked (rule 22). A winter line for the host kits' quiet months.
+- I-280 crane wire ropes, round slings, chain slings and shackles (60): 0% any origin; Megateksa sells crane rope (120 ALL/m), lifting belts
+  (699-2,859 ALL) and shackles; crane boom but no crane count; test certificates needed (regulation 6).
+- I-282 safety kits for rental flats (43, new): Megateksa sells every component; the licence requirement appears only in a foreign blog (rule 48).
+- Dropped before screening (6): disposable nitrile gloves (Megateksa sells Kapriol and Reflexx boxes 1,009-1,399 ALL; overlaps I-165);
+  3D-printing filament (Amazon.it best-seller; B2C, Temu, no Albanian demand evidence); power-trowel blades for industrial floors (rule 21: no
+  evidence the practice is common); solar-control window film (no Albanian demand evidence found); oil-spill absorbent pads and spill kits
+  (Würth sells oil-absorbent granules, rule 21 demand 3, rule 39); car first-aid kits and warning triangles (Megateksa sells DIN 13164 kits
+  1,299-1,399 ALL and E-mark triangles 539 ALL).
 
 ## Changed this run
 
-- **Freshness check** of the 2 oldest open ideas: I-070 boat fenders and mooring lines: Megateksa still has none; the Albanian search found
-  only the Marine Pro Albania registry extract again; unchanged 64. I-071 chafing dishes: Megateksa still sells only mini chafing dishes
-  (750-890 ALL), no Tirana seller found; rule 42 applied (one-off buffet equipment, buyers 6→5), 64→63.
-- Rule 44 check: the gabion search found Maccaferri Balkans (Shijak), a local maker of galvanised wire mesh products. Noted on I-170 fence
-  panels, I-092 vineyard wire and I-212 screen meshes; whether Maccaferri sells those products in Albania is unverified, so scores are unchanged
-  and the question joins their phone checks.
+- **Freshness check** of the 2 oldest open ideas: I-072 bakery trays and baking paper: Megateksa still sells only retail baking paper (199 ALL)
+  and pans; a business-count vendor (rentechdigital) lists 271 bakeries, which lifts the rule-5 cap: 45→61, new→shortlisted (count completeness
+  unverified). I-073 EU organic food webshop: biogermanstore.al still live; unchanged 37.
+- Rule 44: no new local maker found this run; no family re-scores.
 - Top 10 unchanged.
-- New rule 47 (search for local plants of multinational makers before screening heavy construction or industrial goods).
+- New rule 48 (legal requirements reported only by foreign blogs or investor guides count as unverified: at most 5 demand points).
 
 ## Best candidates for the next deep-research batch
 
@@ -118,10 +115,11 @@ I-268 to I-275 (8 ideas): 7 shortlisted (50+), 1 new (I-271, 49), none rejected.
    check is logged. A "construction-site safety" bundle (I-061 netting 78, I-170 site fences 77, I-202 props 74, I-260 edge protection 72 and now I-275 debris
    chutes 69) could be checked with the same single call to one tower contractor (add: do you use rubble chutes? does Maccaferri sell you panels?).
 
-Cheap new phone tests: I-270 HACCP thermometers (68, new): ask 3 Tirana restaurants and 1 HACCP consultant what AKU inspectors
-accept as a temperature record and where they buy probes; I-275 debris chutes (69, new): one question on the tower-site call above;
-I-268 dual-control pedals (60, new): ask 3 driving schools whether dual pedals are compulsory and who fits them. Earlier tests still open:
+Cheap new phone tests: I-278 cash bags (72, new): ask 1 bank cash centre and 1 cash-in-transit firm who supplies bags and seals
+(and add I-244 seals and I-283 counters to the same call); I-276 amenity dispensers (68, new): ask 3 hotel managers on the host-kit calls whether
+they use miniatures or wall dispensers; I-281 stove glass (62, new): ask 2 stove shops in Tirana or Korçë where they get replacement glass.
+Run-27 tests still open: I-270 HACCP thermometers, I-275 debris chutes, I-268 dual-control pedals. Earlier tests still open:
 I-260 edge protection, I-261 hammam consumables, I-262 shading coatings, I-252 sofa mechanisms, I-253 balustrade hardware, I-255 LPG parts,
 I-247 FTTH consumables, I-249 extinguisher parts, one call to Paper Albania.
 Host-kit add-ons: I-041 peshtemal (74) is still the most natural (same Denizli mills, same EUR.1 pallet); I-261 hammam consumables (71)
-can ride the same pallet; I-248 curtain fabric (74) and I-250 bed runners (66) come from the same Turkish textile supplier type.
+can ride the same pallet, and so can I-276 lockable amenity dispensers (68, new); I-248 curtain fabric (74) and I-250 bed runners (66) come from the same Turkish textile supplier type.
