@@ -1,6 +1,11 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
+Run 14 shortlist (best yield first): new Albanian/Kosovo source types for named small sellers (rule 46): citizens.al and
+reporter.al features (run 13: S-083 buyer evidence from 1 search), Kallxo business profiles (S/Sprint lead), Monitor's
+informality wording for trades that sell to flats (run 13: 2 stories, both larger firms). Run 13: the three queued
+monitor.al shock queries, Turkish-supplier, copycat, BiH, Serbian COD and Moroccan seller-testimony queries gave 0 relevant
+seller stories from 10 searches.
 Run 13 shortlist (best yield first): monitor.al features on stock, season and crisis shocks across trades (run 12: the
 three new stories came from a 2021 toy feature, a 2022 e-commerce feature and a Nov 2025 tourism-stock feature; rule 44),
 Monitor sector features generally (rule 38). Run 12: street-name, laundry, mattress/curtain, Telegrafi-podcast, Prishtina
@@ -219,9 +224,27 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | telegrafi.com (allowed_domains) "Think Big" OR "Rrugëtimi" OR "Telegrafi për Biznes" e-commerce dyqan online themeluesi | 1 | 0 | 0 | DROP: event promos and a 2010s piece on travel agencies and video shops |
 | monitor.al (allowed_domains) dyqanet mbyllen pronarët tregojnë qiraja shitjet ranë 2025 Tiranë | 1 | 0 | 0 | S-077 article again and rent data; no named closure |
 | **New for run 13** | | | | |
-| monitor.al (allowed_domains) mallra stok magazina mbetën pa shitur sezoni turistik distributorët tregojnë | 0 | 0 | – | rule 44: stock and season-shock features named S-082's firm |
-| monitor.al (allowed_domains) pandemia dyqanet kaluan online porositë shpërndarje nga magazina tregtarët tregojnë | 0 | 0 | – | rule 44: crisis features named S-080 |
-| monitor.al (allowed_domains) Shoqata e Tregtisë Online anëtarët biznese të vogla tregojnë sfidat | 0 | 0 | – | 110-member Albanian online-trade association (S-081 article) may quote small members |
+| monitor.al (allowed_domains) mallra stok magazina mbetën pa shitur sezoni turistik distributorët tregojnë | 1 | 0 | 0 | run 13: S-082 article again, distributor and dairy data; no small seller |
+| monitor.al (allowed_domains) pandemia dyqanet kaluan online porositë shpërndarje nga magazina tregtarët tregojnë | 1 | 0 | 0 | run 13: S-080 article again; 2021 NetTrade interview (Pinderi = S-010, rule 41) |
+| monitor.al (allowed_domains) Shoqata e Tregtisë Online anëtarët biznese të vogla tregojnë sfidat | 1 | 0 | 0 | DROP: AECA 2022 press statement on arrests, VAT-threshold news; no member quoted |
+| **Run 13 (2026-11-27)** | | | | |
+| monitor.al (allowed_domains) "Po na mbysin importet" tregtarët prodhuesit tregojnë | 1 | 0 | 0 | DROP: farm-import pieces only |
+| Turkish towel supplier order delayed Bayram holiday small shop owner lesson lead time wholesale (open web, en) | 1 | 0 | 0 | DROP (rule 40 again): Faire/Fibre2Fashion listings; supplier FAQs give 2-8 weeks lead time |
+| fr: e-commerce Maroc paiement à la livraison taux de retour témoignage vendeur appel de confirmation | 1 | 1 | 1.0 | → S-086 (Consonews/Challenge, Glovo Maroc director; relevance 3, market comment) |
+| fr: e-commerçant marocain témoigne colis refusés confirmation téléphonique petit capital | 1 | 0 | 0 | DROP: YouCan confirmation-service marketing (rule 3) |
+| monitor/reporter/citizens/faktoje/shqiptarja (allowed_domains) dyqan online mbylli pronarja tregon humbi Instagram porosi të refuzuara | 1 | 1 | 1.0 | gap-1 search (rule 45): no failure, but → S-083 (Citizens.al buyer complaints, Dec 2024); also Citizens 2022 informal-trade piece (unread body) |
+| copycats flooded my niche small business owner sales dropped competitors copied (open web, en) | 1 | 0 | 0 | DROP: WSJ counterfeit-ad cases (Bee Cups, Ideam), anonymous Amazon/Square forum posts (gap 30 open) |
+| klix.ba/akta.ba/biznisinfo.ba/capital.ba mala firma uvozi iz Turske posteljina peškiri vlasnica | 1 | 0 | 0 | DROP: customs fraud case, Prado BiH promo (imports Turkish goods for ~40 BiH firms), anonymous forum |
+| koha/telegrafi/kallxo/ekonomiaonline/indeksonline biznes familjar tekstile importon nga Turqia furnizon hotelet | 1 | 0 | 0 | lead: Kallxo "Brenda fabrikës që prodhon veshje sportive" (S/Sprint began importing Turkish goods, now a maker) |
+| monitor.al (allowed_domains) informaliteti tregtarët tregojnë konkurrenca e pandershme tekstile shtëpie dyqan humbi klientët | 1 | 2 | 2.0 | → S-084 (JYSK Albania 2018), S-085 (FPM furniture 2019); both relevance 2 (larger firms) |
+| monitor.al (allowed_domains) "Flet" administrator dyqan jorganë çarçafë tekstile shtëpiake cilësi çmim | 1 | 0 | 0 | S-046/S-084/S-085 again; LC Waikiki manager (Oct 2026, big chain, not logged: buyers compare and want value, not the lowest price) |
+| nova/n1info/biznis/kurir/021/bizlife online prodavnica pouzećem vraćeni paketi vlasnica iskustvo | 1 | 0 | 0 | DROP: consumer-rule and courier-fee news only |
+| JYSK Shqipëri dyqane 2025 rritje shitjet tekstile shtëpie (open web) | 1 | 0 | 0 | fact for S-084: JYSK press release 6 Oct 2026 (6 Albanian stores; takeover 1 Jan 2027) |
+| **New for run 14** | | | | |
+| citizens.al/reporter.al (allowed_domains) shitëse online Instagram tregon biznesi im porositë klientët sfidat regjistrimi NIPT | 0 | 0 | – | rule 46: Citizens.al quotes named people; look for sellers, not buyers |
+| kallxo.com (allowed_domains) biznes i vogël nisi me import nga Turqia pronari tregon dyqan Prishtinë | 0 | 0 | – | rule 46: Kallxo profiles (S/Sprint) |
+| monitor.al (allowed_domains) Magazine in English small business owner Albania shop importer interview | 0 | 0 | – | rule 46: Monitor's English section |
+| fr: Médias24 OR LeDesk OR L'Economiste e-commerçant marocain fondatrice boutique en ligne retours paiement à la livraison | 0 | 0 | – | 1 exploration for L-007 seller numbers (S-086 snowball) |
 | **(Run-9 queue, results above)** | | | | |
 | monitor.al (allowed_domains) qira ditore pronarja tregon hoqi dorë apartament Durrës OR Vlorë OR Sarandë | 1 | 0 | 0 | run 9: only the run-8 articles (Entela = S-057, Suela = S-058) and price/occupancy pieces |
 | monitor.al (allowed_domains) Arrijnë 50 milionë euro fitimet qira ditore 2026 / "Konkurrenca me hotelet dhe informaliteti" | 1 | 0 | 0 | run 9: data only (27.7k listings H1 2026, +4.2% vs 2025 average, +1.1k units; hotels hold 22% of ~285k beds); no named managers (gap 23) |
@@ -391,3 +414,12 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
     user's accountant and courier contacts (rule 20). Use the freed searches on lessons still at low confidence (L-007,
     L-024, L-039, L-041) with any small-importer story at relevance 3 or more. Run 12 logged 3 stories (2 at relevance
     4-5, 1 at relevance 2): not low yield by the rule, but far below the 8-15 aim. (run 12)
+46. **Low yield in run 13 (1 new story with relevance 4-5, a buyer-evidence piece; 0 seller stories at relevance 4-5).**
+    The three queued monitor.al shock queries and three other monitor.al queries returned only logged articles and large
+    firms' "Flet" interviews (JYSK, FPM, LC Waikiki): Monitor's indexed small-seller features look exhausted. Run 14 puts at
+    most 4 of ~12 searches on monitor.al, at least 4 on new Albanian/Kosovo source types (citizens.al, reporter.al,
+    kallxo.com, Monitor's English magazine), and reads the full body of any feature that names a person before
+    dismissing it. Log large chains' interviews only as relevance 2 market evidence and never count them toward the
+    low-yield threshold. Open-web English queries for L-024/L-039/L-041 (Turkish supplier, copycats) return listings and
+    US counterfeit stories: hand L-039 and L-024 to the user's Turkish suppliers (rule 20) and spend no more than 1 search
+    per run on them. (run 13)

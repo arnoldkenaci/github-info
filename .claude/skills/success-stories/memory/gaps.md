@@ -50,6 +50,8 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Lapsi.al piece on loss-making early online shops is 404. The only Albanian stock loss found is a brewer's (S-082,
    larger firm). Rule 45: at most 1 search per run from now; ask the user's accountant and couriers which small online
    sellers and importers stopped, and why.
+   Run 13: 1 search (monitor/reporter/citizens/faktoje/shqiptarja) gave 0 seller failures; it found Citizens.al buyer
+   complaints instead (S-083). Gap stays with the user's accountant and couriers.
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -71,6 +73,8 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    savings bought first wholesale shipment) was found but its page is dead (404), so not logged. Try Turkish-language
    queries (e.g. "küçük alıcı" "ilk sipariş" havlu toptan deneyim) and Etsy/Faire Turkish-towel sellers' interviews.
 4. **Real COD experiences in Albania/Balkans**: refusal rates, courier payouts. Only S-005 (Pakistan, L-007 low).
+   Run 13: Morocco market comment (S-086): non-food COD returns can reach 30-40%, phone-confirmation teams, cash takes days
+   to reach the seller. A Serbian COD query returned only consumer-rule news. Still no Balkan seller's own refusal rate.
 5. **Deposits in low-trust markets**: partly answered in run 7 for B2C: Albanian buyers do not prepay online sellers
    because informal sellers took money and did not deliver; >90% COD (L-034, low; S-053, S-052, S-010). Still no story of a
    B2B deposit asked and paid (or refused) in Albania; this likely needs the user's own first pitches (rule 20).
@@ -89,6 +93,8 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Tirana used-clothing sellers lose to chains' cheap prices (S-070, S-071). Still no textile winner.
    Run 11: two more Tirana losers to malls: a Bardhyl boutique of Turkish imports (S-077, demand -30-40% in a year,
    malls took 50% of the high street) and a Myslym Shyri shop (S-078). Still no winner.
+   Run 13: the chain side, not a winner: JYSK Albania says its dearest tier sells best and informal markets hurt it most
+   (S-084, L-042). Still no small textile seller that beat a chain or Temu.
 8. **Albania/Kosovo first B2B customers**: L-010 is high, but no Albanian B2B seller to hosts, hotels or offices yet.
    Run 5: nearest is S-034 (Macedonian hotel-textile maker selling direct to Balkan coastal hotels; L-027, L-030).
    Run 6: **first Albanian B2B seller**: S-046 (Gjergji H. Tekstil, since 1994, sells to hotels and Airbnb apartments;
@@ -96,7 +102,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 9. **Backup niche (Petkit dealer)**: no stories (run 3: still none; Pet Age reports a US distributor added PETKIT in 2026, no small-dealer account). Fact found: PETKIT's dealer agreement is non-exclusive and orders go
    through a verified dealer account on petkit.com. Look for small-country pet-tech dealers' experiences.
    L-032 (run 6, low): avoid lookalikes of branded products.
-10. **Confirm low-confidence lessons**: L-007 (1 story), L-015 (conflicting).
+10. **Confirm low-confidence lessons**: L-007 (run 13: n=3 but still no seller's own numbers; S-086 is market comment),
+    L-015 (conflicting), L-024, L-039, L-041 (run 13: one Turkish-supplier and one copycat search gave only listings and
+    US forum anecdotes).
 11. **Off-season**: what do Albanian host-supply or tourism-linked sellers do from November to February? (L-018)
     Partly answered in run 5: a Serbian HoReCa supplier covers the off-season with mountain and spa destinations (S-035);
     a Macedonian maker has branded promotional towels as a second line (S-034). Still no Albanian example.
@@ -122,7 +130,8 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     daily linen rental for small and medium hotels, S-046, L-028): Piney Essentials (Athens, beta) delivers laundered
     linen per turnover with "no contracts, no upfront investment" (S-041). Is anyone offering this in Tirana/Durrës
     (laundries, hotel-linen rental firms)? If yes, owned kits must beat its cost per stay (L-028).
-17. **Confirm L-027 and L-029** (new, run 5): a second story of a small supplier that lost margin through shops/chains,
+17. **Confirm L-027 and L-029** (new, run 5; run 13: L-027 now medium with S-085, an Albanian furniture maker that
+    opened its own shops to cut out traders; L-029 still open): a second story of a small supplier that lost margin through shops/chains,
     and a story of how small B2B sellers in the Balkans collect payment from hotels and managers (cash on delivery,
     deposits, late payers).
 18. **Confirm L-031 (new, run 6)**: what does Gjergji H. Tekstil charge for a towel/sheet set, what minimums and lead
@@ -131,7 +140,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
 19. **Confirm L-005 for Albania with buyers, not sellers** (new, run 6): the 2-3-year hotel replacement cycle comes from a
     supplier (S-046). Ask 3 Tirana managers how often they replace sheets and towels and who pays. Run 8: partly answered
     by one Tirana host (S-057: "sheets and towels had to be bought often" in busy flats; anecdote, no numbers).
-20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41, still balanced), so no survivorship skew overall, but
+20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41; run 13: 22 / 19 / 45, still balanced, but 0 new failures in runs 12-13), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
@@ -180,3 +189,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     prices in 2026. If apartment stays are taking share from hotels, managers' unit counts (gap 23) matter more than
     tourist totals for kit demand. Look for AirDNA or Monitor data on apartment vs hotel occupancy in 2025-2026 (one
     monitor.al search), and ask AVRA.
+33. **What does JYSK Albania charge for white duvets, pillows, sheets and towels, and will the 1 Jan 2027 takeover change
+    prices or range?** (new, run 13; L-042 low): JYSK has six Albanian stores and its 2018 manager said the dearest tier
+    sells best (S-084). A store visit by the user (with Megateksa and Gjergji H. Tekstil, gap 18) answers this; no searches.
+34. **Monitor's indexed small-seller features look exhausted** (new, run 13): 6 monitor.al queries gave only logged
+    articles and large firms' interviews (JYSK, FPM, LC Waikiki). Test new Albanian and Kosovo source types for named small
+    sellers: Citizens.al and Reporter.al features, Kallxo business profiles (S/Sprint began by importing Turkish goods),
+    and Monitor's English "Magazine" section.
