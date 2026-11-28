@@ -72,6 +72,11 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    searches on closures of host-service businesses (Serbian laundries/agencies; Croatian apartment agencies, one refused for
    jutarnji.hr, one run) gave only travel-agency bankruptcies and real-estate fraud. 0 failures again. The closest new evidence
    is shock-hit mountain guesthouses still open (S-115, S-116, 2020).
+   Run 19: 1 gap-1 search (small importer closed with debts, sq) gave only the logged 2020 Monitor survey and big-firm sale
+   pieces; 2 guesthouse/small-hotel closure searches gave demolitions (a Shëngjin returnee's bar, rule 26) and 2015 Durrës season
+   data; a Croatian laundry-closure search found a laundry owner saying many laundries for apartment owners close within 2-3 years
+   (S-121, a survivor's claim, not a named closure); a Serbian bedding-shop closure search gave Turkish factory exits only.
+   0 failures for the fourth run. Gap stays with the user's accountant and couriers (rule 45).
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -149,6 +154,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Run 18: first Albanian off-season outlet: over 20 Theth guesthouses stayed open in the 2025-26 winter and foreign groups
    still filled Theth in October 2026 (S-120, Euronews); Valbonë guesthouses close October-April (S-116). So mountain
    guesthouses near Shkodër are a small winter market for refills (L-046, our inference). Still no seller's own example.
+   Run 19: partly answered for buyers: a Voskopojë family hotel says winter is its very good season (S-123), while a Berat small
+   hotel gets only weekend guests in winter (S-122) and a Croatian laundry for apartment owners drops from 26 to 6 workers and
+   could not sell a winter offer to locals (S-121). New lesson L-047 (medium): sell refills to inland winter towns in
+   October-November. Still no linen or kit seller's own off-season example.
 12. **Who owns the linen in Tirana managed flats: the manager or the flat owner?** (from S-027; decides who the buyer
     is, L-017). Look for Albanian property-manager service pages that list a linen fee, or interviews with Tirana
     co-hosts. Partly answered for France (L-025, low): managers bundle professional linen into a higher all-inclusive
@@ -188,6 +197,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     Run 18: 23 / 22 / 75. No new failure for the third run (0 from 3 failure searches); all 8 new stories are market or buyer
     evidence. Mixed is now 62.5%. Rule 52 asks for failure searches worded around named seasonal-guesthouse and small
     hotel-supplier closures in Albanian regional news, and a cap on buyer-evidence logging.
+    Run 19: 26 / 22 / 78. No new failure for the fourth run (0 from 5 failure searches); 3 seller successes (S-121 laundry,
+    S-125, S-126 bazaar sellers) and 3 buyer-evidence stories. The only failure signal is a survivor's claim that many laundries
+    close within 2-3 years (S-121). Successes now lead failures 26:22; failure lessons (L-019, L-012) still rest on runs 1-16.
+    Rule 53 changes how failures are hunted (see strategy).
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
     what price and minimum? A local maker could cover emergencies (L-003) and avoid the EUR.1 question for towels
@@ -289,6 +302,16 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     and some stay open in winter (S-115-S-117, S-120), but none says how they buy linen. Ask 5 guesthouses by phone in
     February (user's call, rule 20; Theth had over 35 guesthouses in 2020); at most 1 search per run (Shkodër regional news,
     Euronews Albania "Njerëzit e fshatit").
+    Run 19: Valbonë size known: about 100 hospitality businesses with about 1,000 beds (Tropojë municipality, 2021, in S-124's
+    article); a Kelmend/Lëpushë search gave only S-115's 2020 article and travel pieces. Still nothing on how they buy linen.
 42. **Do Albanian managers run their own laundry, as Croatian ones do?** (new, run 18; S-114): a Rijeka manager says its own
     laundry and cleaning team win owners' trust. If Tirana operators wash in-house, they buy more spare sets per flat; if they
     use a laundry, the laundry is a channel. Ask on the call list (user's call).
+43. **How many small hotels and guesthouses in Voskopojë, Dardhë and Korçë stay open in winter, and when do they restock linen?**
+    (new, run 19; L-047 medium): a Voskopojë hotel owner says winter is the good season (S-123); if the area has dozens of small
+    hotels that restock in October-November, it is the off-season outlet the plan lacks. At most 1 search per run (Euronews
+    Albania Korçë reports, Monitor), then the user's call (rule 20).
+44. **Do Tirana/Durrës managers switch suppliers and leave unpaid bills, as Croatian laundry customers do?** (new, run 19; L-029):
+    a Zadar-area laundry owner says some customers move from one new laundry to the next leaving bills unpaid (S-121). Ask
+    Gjergji H. Tekstil, cleaning firms and laundries on the call list whether they have had unpaid manager accounts (user's call).
+
