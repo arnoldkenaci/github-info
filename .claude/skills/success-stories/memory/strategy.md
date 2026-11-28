@@ -1,6 +1,12 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
+Run 21 shortlist (best yield first): Bosnian news on short-term rentals in Mostar/Sarajevo (run 20: one bljesak/klix/n1info.ba
+query gave S-128, a Mostar agency managing ~50 pool villas, and S-133, a Sarajevo host; new country source, rule 54), Croatian
+regional news on cleaning firms serving apartment owners (run 20: Glas Istre 2023 and 2024 pieces gave S-129-S-131 from 2
+searches; seller stories with numbers), Euronews Albania year-end reports on Korçë hotels (run 20: S-127; timing for gap 43).
+Run 20: Përmet/Leskovik, Shkodër old town, Dardhë/Boboshticë, Monitor returnees, Albanian laundries, Albanian hotel-textile
+makers, Monitor 'Flet' supplier, Kosovo gap-1 and Croatian unpaid-bills (as failures) gave 0 new failures; 8 of 13 searches gave 0.
 Run 20 shortlist (best yield first): Albanian town reportage that names owners in an inland heritage or mountain town (run 19:
 a Berat/Gjirokastër query gave S-122, S-123 from a 2023 Monitor returnees feature and S-125, S-126 from a 2021 BIRN Gjirokastër
 piece; a Dhërmi/Velipojë query surfaced a 2021 BIRN Valbonë piece, S-124), local Croatian news on host-service trades that quotes
@@ -361,11 +367,26 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | euronews/reporter/monitor/citizens/balkanweb/faktoje Dhërmi OR Velipojë bujtina familjare pronarja tregon si filloi dhomat turistët e huaj | 1 | 1 | 1.0 | run 19: no Dhërmi/Velipojë owner, but surfaced BIRN Aug 2021 Valbonë chefs piece → S-124 (Arjan Shiqerukaj); Alfred Selimaj (same article, informal guesthouses) not logged under the buyer-evidence cap |
 | kurir/nova/forbes.n1info.rs/biznis/021/n1info zatvorio prodavnicu posteljine peškira uvoz iz Turske vlasnik ne isplati se | 1 | 0 | 0 | DROP: Turkish textile factories leaving Serbia (large firms) |
 | **New for run 20** | | | | |
-| euronews.al/monitor.al/reporter.al Voskopojë Dardhë Korçë hotelet dimri pronarët rezervimet furnizimi | 0 | 0 | – | rule 53: gap 43 (winter-town buyers) |
-| reporter/monitor/euronews/citizens Përmet OR Leskovik OR Lin OR Tepelenë bujtina agroturizëm pronari tregon investimi | 0 | 0 | – | rule 53: next inland towns not yet in `stories.jsonl` |
-| monitor.al (allowed_domains) të rikthyerit investojnë kursimet bujtinë hotel Gjirokastër OR Shkodër OR Përmet pronari | 0 | 0 | – | snowball from the 2023 Monitor returnees feature (S-122, S-123): other returnee pieces |
-| zadarskilist.novilist.hr/novilist.hr/glasistre.hr mnogi zatvore brzo servis čišćenje apartmana agencija iznajmljivači vlasnik kaže | 0 | 0 | – | rule 53(a): survivors on peers who closed (failure balance) |
-| monitor/reporter/citizens/faktoje lavanteri Tiranë Durrës hotele apartamente pronari tregon shumë mbyllen | 0 | 0 | – | rule 53(a) + gap 42: Albanian laundries serving flats, survivors on closures |
+| euronews.al/monitor.al/reporter.al/citizens.al Voskopojë Dardhë Korçë hotelet dimri pronarët rezervimet | 1 | 1 | 1.0 | run 20: Euronews Nov 2025 → S-127 (35-room Korçë hotel full from the November holidays to New Year; bookings from October); Voskopojë Dec 2025 piece quotes an unnamed operator (gap 43 data only) |
+| reporter/monitor/euronews/citizens/faktoje Përmet Leskovik bujtina agroturizëm pronari tregon investimi | 1 | 0 | 0 | DROP candidate: Monitor agrotourism features (Farma Sotira, no owner text), a 2025 Leskovik fire, grant-scheme news (bujtina grant 50% up to 1.5m lek, from search summary) |
+| monitor.al (allowed_domains) të rikthyerit investojnë kursimet bujtinë hotel Shkodër Përmet pronari | 1 | 0 | 0 | DROP candidate: the 2023 returnees feature again (S-122, S-123) |
+| zadarskilist.novilist.hr/novilist.hr/glasistre.hr/index.hr mnogi zatvore servis čišćenje apartmana iznajmljivači vlasnik kaže | 1 | 2 | 2.0 | run 20: no closures, but Glas Istre Apr 2023 → S-129 (Ben Fatto, Pula, 350 units, staff-capped), S-130 (San Manda, 12 years); Zadarski list 'sobarice' piece (Oliver, first name) not logged |
+| monitor/reporter/citizens/faktoje/euronews lavanteri Tiranë Durrës hotele apartamente pronari tregon | 1 | 0 | 0 | DROP: property-price and rental-data pieces; no Albanian laundry indexed |
+| **Run 20 (2026-11-28)** (first five rows above were queued in run 19) | | | | |
+| reporter/monitor/euronews/citizens/faktoje/balkanweb Shkodër qendra historike bujtina hotel i vogël pronari tregon si filloi | 1 | 0 | 0 | DROP: Rozafa land dispute, tourist-mood pieces, S-115's article again |
+| sidehustleschool.com/failory.com supplier wholesale inventory went wrong lost money lesson episode | 1 | 1 | 1.0 | run 20: ep. 3352 → S-132 (The Acadian, cancelled wholesale fair); ep. 2666 (first-name fashion boutique, stylised) skipped as weak; eps 1973, 2484, 3310 already logged (S-017, S-018, S-011 person) |
+| prishtinainsight/kallxo/citizens/reporter/euronews biznes i vogël Kosovë mbylli dyqanin online importonte nga Turqia pronari rrëfen | 1 | 0 | 0 | gap-1 search (rule 45): trade statistics; Kallxo sportswear-maker lead (blocked, rule 47) |
+| euronews/reporter/monitor/citizens/balkanweb/top-channel Dardhë Boboshticë Vithkuq bujtina pronari tregon investoi dhomat dimër | 1 | 0 | 0 | DROP: snow and road news, '100 villages' map |
+| zadarskilist/novilist/index/glasistre/dnevnik vlasnici apartmana ne plaćaju račune servis pranje rublja čišćenje dugovi | 1 | 1 | 1.0 | run 20: no unpaid-bill story, but surfaced Glas Istre Aug 2024 → S-131 (Blistal, Rijeka); Airbnb Nov 2026 rule pieces (hosts may not ask guests to strip beds; cleaning is the host's job) |
+| klix.ba/forbes.n1info.ba/n1info.ba/bljesak.info Mostar Sarajevo apartmani vlasnik iznajmljivanje turisti posteljina čišćenje troškovi priča | 1 | 2 | 2.0 | run 20: Bljesak June 2026 → S-128 (Hit Booker, ~50 of ~100 Mostar pool villas); Klix 2018 → S-133 (Sarajevo host, anecdote); Bljesak 2013 Mostar rentals piece is about students |
+| monitor/euronews/reporter/citizens/top-channel/shqiptarja tekstile për hotelet prodhues shqiptar peshqirë çarçafë furnizon hotelet | 1 | 0 | 0 | DROP: S-046's article again, fish and dairy pieces |
+| monitor.al Flet administratori kompania furnizon hotelet dhe apartamentet me qira ditore pajisje tekstile | 1 | 0 | 0 | DROP: S-046 and sanitary-ware features again (S-074, S-075); Monitor supplier interviews exhausted for this trade |
+| **New for run 21** | | | | |
+| bljesak.info/klix.ba/n1info.ba agencija za upravljanje apartmanima vlasnik Mostar OR Sarajevo OR Neum posteljina čišćenje sezona | 0 | 0 | – | rule 54(b): snowball S-128, Bosnian managers |
+| bljesak.info/klix.ba/n1info.ba zatvorio apartmane OR prodao apartman iznajmljivač ne isplati se Mostar Sarajevo | 0 | 0 | – | rule 54(b): Bosnian host exits (L-035 parallel) |
+| glasistre.hr/novilist.hr/zadarskilist.novilist.hr servis čišćenje apartmana vlasnica otvorila firmu posteljina pranje radnici | 0 | 0 | – | rule 54(c): one more cleaning/laundry-firm search (L-048) |
+| monitor/reporter/citizens/euronews kompani pastrimi apartamente Tiranë Durrës mungesë punonjësish pronari | 0 | 0 | – | gap 45: Albanian cleaning firms and staff shortages |
+| sidehustleschool.com "Failure Friday" trade show OR wholesale OR supplier OR "too much inventory" (harvest 'See also' links) | 0 | 0 | – | rule 54(a): failure harvest, max 2 episodes per run |
 | **(Run-9 queue, results above)** | | | | |
 | monitor.al (allowed_domains) qira ditore pronarja tregon hoqi dorë apartament Durrës OR Vlorë OR Sarandë | 1 | 0 | 0 | run 9: only the run-8 articles (Entela = S-057, Suela = S-058) and price/occupancy pieces |
 | monitor.al (allowed_domains) Arrijnë 50 milionë euro fitimet qira ditore 2026 / "Konkurrenca me hotelet dhe informaliteti" | 1 | 0 | 0 | run 9: data only (27.7k listings H1 2026, +4.2% vs 2025 average, +1.1k units; hotels hold 22% of ~285k beds); no named managers (gap 23) |
@@ -378,10 +399,10 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | Source | Uses | Yield | Notes |
 |---|---|---|---|
 | Failory (interviews + "31 failed e-commerce startups" list page) | 11 | 0.82 | S-008, S-009, S-013, S-021, S-022, S-023, S-039, S-047, S-048 (run 6); runs 7 and 10: 0 (run 10: only duplicates and relevance-2 SaaS/food); mostly US/UK/Mexico/India |
-| Side Hustle School (episode pages incl. full transcripts) | 5 | 1.2 | S-011, S-012, S-017, S-018, S-025, S-026; run 3 stories only relevance 2-3 (rule 15); run 7: 2 duplicates (rule 29) |
+| Side Hustle School (episode pages incl. full transcripts) | 6 | 1.17 | S-011, S-012, S-017, S-018, S-025, S-026; run 3 stories only relevance 2-3 (rule 15); run 7: 2 duplicates (rule 29) ; run 20: S-132 (ep. 3352, cancelled wholesale fair); pages carry 'See also' links to related Failure Friday episodes (rule 54) |
 | Kosovo 2.0 (archive.kosovotwopointzero.com readable; main site loads by JS) | 3 | 0.67 | S-019, S-020; runs 3-4: 0 |
 | Serbian mainstream news on apartment owners (Kurir Biznis "nekretnine", Forbes Srbija "novac"; readable by curl; Kurir body text sits in the page's JSON) | 8 | 0.5 | run 19: 0 from 2 seller-side queries (linen-business start, bedding-shop closure: lifestyle tips and factory exits); run 18: S-118, S-119 from 4 searches (Belgrade host and agency; relevance 3); run 17: S-111, S-112 (buyer evidence, relevance 3-4); many Kurir/nova pieces retell anonymous Reddit or Facebook posts (rule 35) |
-| Croatian news (Novi list; "promo-sadrzaji" and "ostalo/promo" pages are advertorials; index.hr, dnevnik.hr, glasistre.hr, zadarskilist.novilist.hr accepted; jutarnji.hr and slobodnadalmacija.hr refused) | 7 | 0.86 | run 19: S-121 (Zadarski list 2024 news, a laundry owner on peers who close) from 3 searches (opening and fit-out queries return promo); run 18: S-113 (2017 news), S-114 (2021 promo) from 3 searches (2 refused or fraud-only); run 17: S-109, S-110 from one 2019 promo article (market evidence only, rule 51) |
+| Croatian news (Novi list; "promo-sadrzaji" and "ostalo/promo" pages are advertorials; index.hr, dnevnik.hr, glasistre.hr, zadarskilist.novilist.hr accepted; jutarnji.hr and slobodnadalmacija.hr refused) | 9 | 1.0 | run 20: S-129, S-130 (Glas Istre 2023), S-131 (Glas Istre 2024) from 2 searches, cleaning firms capped by staff; run 19: S-121 (Zadarski list 2024 news, a laundry owner on peers who close) from 3 searches (opening and fit-out queries return promo); run 18: S-113 (2017 news), S-114 (2021 promo) from 3 searches (2 refused or fraud-only); run 17: S-109, S-110 from one 2019 promo article (market evidence only, rule 51) |
 | Albanian mountain-guesthouse reportage (Reporter.al 2020 COVID Alps piece, Monitor 2018 Valbonë reportage, Euronews Albania Theth reports; readable by curl) | 4 | 1.25 | run 19: S-124 (BIRN 2021 Valbonë piece) from 2 searches (Kelmend 0); run 18: S-115, S-116, S-117, S-120 (buyer and market evidence, relevance 4); new town angle (rule 52) |
 | Balkan "confession" news (Kurir Biznis "ispovest", retold Reddit posts) | 5 | 0.2 | S-024 only; run 4: 4 confession queries (sr, sq, mk, hr/bs) gave 0 |
 | French conciergerie podcasts (La Conciergerie on Ausha) | 4 | 1.0 | S-027, S-028, S-029, S-042; run 6 harvest: 0 (recent episodes are regulation and staffing); each episode page embeds the descriptions and slugs of many other episodes (rule 18); show notes only |
@@ -389,7 +410,7 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | biznis.rs trade-fair reports (HORECA sajam) | 2 | 1.0 | S-034, S-035 (run 5): several exhibitors quoted in one article |
 | Monitor.al closure surveys (named owners of closed businesses) | 3 | 2.0 | S-036, S-037, S-038 (run 5, 2020 COVID survey, shock-driven); S-043, S-044, S-045 (run 6, February 2018 survey, no shock); count each article as one source; run 7: no other waves indexed |
 | Monitor.al supplier interviews ("Flet <name>, administrator/e ...") | 3 | 0.33 | S-046 (run 6, Gjergji H. Tekstil); named Albanian firms, self-reported, no financials |
-| Albanian inland heritage-town reportage (Monitor 2023 returnees feature on Berat/Korçë/Voskopojë, BIRN 2021 Gjirokastër bazaar piece; readable by curl) | 2 | 2.0 | run 19: S-122, S-123, S-125, S-126 from 1 search (+1 follow-up 0); names small hotel owners (buyer evidence) and bazaar sellers |
+| Albanian inland heritage-town reportage (Monitor 2023 returnees feature on Berat/Korçë/Voskopojë, BIRN 2021 Gjirokastër bazaar piece; Euronews Albania Korçë year-end reports; readable by curl) | 6 | 0.83 | run 20: S-127 (Euronews Korçë) from 5 searches; Përmet/Leskovik, Shkodër, Dardhë and returnee follow-ups gave 0 (rule 54(d)); run 19: S-122, S-123, S-125, S-126 from 1 search (+1 follow-up 0); names small hotel owners (buyer evidence) and bazaar sellers |
 | Monitor.al sector features (several named sellers quoted per article) | 10 | 1.9 | run 15: S-098 (Aug 2025 Durrës hotel-season feature, market evidence) from 1 search; run 12: S-080 (2021 toys), S-081 (2022 e-commerce informality), S-082 (Nov 2025 tourism stock; relevance 2) from 9 monitor.al searches, 6 of which returned only logged or data articles; run 11: S-077 (Jan 2026 clothing), S-078 and S-079 (2019 used-clothing and cosmetics, via a street-name query); run 10: S-070-S-072 (2019 used clothing), S-073 (2019 furniture), S-074, S-075 (2026 sanitary ware), S-076 (2019 online retail); run 9: S-063, S-064; run 8: S-056; run 7: S-051-S-053; count each article as one source; rules 27, 38 |
 | Manager / linen-service company pages and advertorials (Greece; Croatia run 6; Romania run 7) | 4 | 0.75 | S-040, S-041 (run 5); offers, not outcomes (rule 23) |
 | Host forums (airhostsforum `.json`, BiggerPockets) | 3 | 1.0 | S-003, S-015, S-016; buyer voices, anecdote |
@@ -400,6 +421,7 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | Monitor.al short-term-rental market features (named hosts, managers, fit-out firms) | 3 | 2.0 | run 17: 0 (English-title query returned logged articles and a 2024 data piece); run 16: S-104, S-105 (June 2025 feature, found via its English index title; rule 37 was too strict); run 8: S-057, S-058 (Feb 2025), S-059, S-060 (May 2022); buyer evidence (rule 7, rule 31) |
 | Forbes Srbija "mali biznis" section (forbes.n1info.rs; readable by curl) | 9 | 0.33 | run 16: 0 (S-065/S-066 again; forbes.n1info.ba chain news); run 12: 0 (S-065 again); run 11: 0 from 3 searches (only S-065 again); exhausted, rule 43; run 10: S-068 (DaLux) from the 2024 "Opekao sam se" piece; S-065/S-066 again; run 9: S-065 (Ana Nešić), S-066 (Zanateria); rules 36, 39 |
 | biznis.rs small-retailer profiles (outside the "99" series) | 3 | 0.67 | run 12: 0 (paint maker, minimarket chain, sewing-machine importer: relevance 2); run 9: S-067 (Family, Kraljevo); run 10: S-069 (Miranita, Ljig) |
+| Bosnian news (Bljesak.info, Klix.ba, N1 BiH; readable by curl) | 1 | 2.0 | run 20: S-128 (Mostar villa agency, 2026), S-133 (Sarajevo host, 2018); new country source |
 | Pet trade press (Pet Age) | 1 | 0 | distributor news, no small dealer |
 | STR trade press (ShortTermRentalz, BizTimes, PhocusWire) | 2 | 0.5 | S-002 |
 | YourStory (India SMB stories) | 1 | 1.0 | S-014; bot check, use search snippets |
@@ -620,3 +642,15 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
     listings: skip North Macedonia unless a news domain is named in allowed_domains; (e) zadarskilist.novilist.hr is accepted and
     loads with curl; Croatian "otvorio/opremanje" queries return advertorials, so word Croatian searches around problems
     (unpaid bills, staff, closures). (run 19)
+54. **Failure hunting has hit the limit of the indexed web; Bosnia and Croatian cleaning firms are the new seams** (run 20: 0 failures
+    from 5 failure-worded searches, the fifth run with none; survivor-worded Croatian queries returned staff-shortage stories,
+    S-129-S-131; one Bosnian query gave S-128 and S-133; Albanian inland-town searches gave 1 story from 5, after Korçë). Run 21:
+    (a) spend at most 2 searches on failures, both harvests of known failure pages (Side Hustle School Failure Friday 'See also'
+    links on wholesale, supplier or inventory, Failory list pages); do not write new open-ended closure queries in any language,
+    and record the failure count in gap 20 as a known limit instead of adding searches; (b) up to 2 searches on Bosnian news
+    (bljesak.info, klix.ba, n1info.ba) about apartment managers, hosts and the firms serving them, with the same buyer-evidence cap
+    (rule 52(c)); (c) 1 search on Croatian regional news about cleaning or laundry firms serving apartment owners (L-048), logged at
+    relevance 3; (d) Albanian inland-town owner searches are exhausted after Berat, Gjirokastër, Korçë and Voskopojë: at most 1 per
+    run, and spend the other Albanian searches on new trade angles (cleaning firms, gap 45; couriers, gap 37); (e) facts seen only in a
+    search summary (e.g. 'over 98% booked', '800 beds') may go into `gaps.md` marked "as reported in search results", never into a
+    story; (f) Kallxo stays blocked: log its leads in `gaps.md` only. (run 20)

@@ -77,6 +77,8 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    data; a Croatian laundry-closure search found a laundry owner saying many laundries for apartment owners close within 2-3 years
    (S-121, a survivor's claim, not a named closure); a Serbian bedding-shop closure search gave Turkish factory exits only.
    0 failures for the fourth run. Gap stays with the user's accountant and couriers (rule 45).
+   Run 20: the gap-1 search (Kosovo online shop importing from Turkey, closed) returned trade statistics and a Kallxo piece on a
+   Kosovo sportswear maker that began by importing from Turkey (Kallxo is Cloudflare-blocked, rule 47; lead only, not logged).
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -201,6 +203,12 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     S-125, S-126 bazaar sellers) and 3 buyer-evidence stories. The only failure signal is a survivor's claim that many laundries
     close within 2-3 years (S-121). Successes now lead failures 26:22; failure lessons (L-019, L-012) still rest on runs 1-16.
     Rule 53 changes how failures are hunted (see strategy).
+    Run 20: 28 / 22 / 83. No new failure for the fifth run (0 from 5 failure-worded searches: Croatian 'many close', Albanian
+    laundries, Croatian unpaid bills, Kosovo gap-1, Side Hustle School). The nearest is S-132 (US maker whose year collapsed when
+    his first wholesale fair was cancelled, business later closed; logged as mixed because the closure reason is unstated).
+    Survivor-worded queries returned staff-shortage stories instead (S-129-S-131). Rule 54: stop open-ended failure searching;
+    harvest failures from known failure-list pages and Side Hustle School 'See also' links (2 per run max), and record
+    failure balance as a known limit of the indexed web, not a reason for more searches.
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
     what price and minimum? A local maker could cover emergencies (L-003) and avoid the EUR.1 question for towels
@@ -311,7 +319,21 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     (new, run 19; L-047 medium): a Voskopojë hotel owner says winter is the good season (S-123); if the area has dozens of small
     hotels that restock in October-November, it is the off-season outlet the plan lacks. At most 1 search per run (Euronews
     Albania Korçë reports, Monitor), then the user's call (rule 20).
+    Run 20 (partly answered, timing only): Korçë city hotels open year-end bookings in October and are full from the 28-29
+    November holidays to New Year by mid-November (S-127, 35-room hotel); over 98% of hotels in Korçë, Voskopojë, Dardhë,
+    Boboshticë and Vithkuq were booked for the year end (Euronews, Booking data, as reported in search results); Voskopojë has
+    over 800 beds across hotels, guesthouses and homestays (Euronews, as reported in search results; not opened). So the sales
+    window is September to early November (L-047). Still unknown: how many stay open January-March and where they buy linen.
+    No more searches; user's call list (rule 20).
 44. **Do Tirana/Durrës managers switch suppliers and leave unpaid bills, as Croatian laundry customers do?** (new, run 19; L-029):
     a Zadar-area laundry owner says some customers move from one new laundry to the next leaving bills unpaid (S-121). Ask
     Gjergji H. Tekstil, cleaning firms and laundries on the call list whether they have had unpaid manager accounts (user's call).
-
+45. **Do Tirana/Durrës cleaning firms and laundries turn away work for lack of staff, as Croatian ones do?** (new, run 20; L-048
+    medium, Croatian evidence only): three Croatian cleaning firms and a Zadar laundry are capped by workers (S-121, S-129-S-131).
+    If Albanian ones are too, managers will value a kit that cuts turnover time (pre-packed set per bed, spare set per flat) and
+    cleaning firms are a channel that wants fewer laundry runs, not a competitor. Ask 2-3 Tirana cleaning firms (user's call);
+    at most 1 search per run (Monitor/Reporter "pastrim apartamente mungesë punonjësish").
+46. **Are managers' booking windows shortening in Albania too?** (new, run 20; from S-128): a Mostar villa agency says guests now
+    book 4-5 weeks ahead instead of 2-3 months, so managers learn occupancy late. If Tirana/Durrës managers also decide late,
+    they will order refills at short notice: keep a small refill stock in Tirana rather than ordering per request (our
+    inference). Ask managers on the call list (user's call).
