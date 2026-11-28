@@ -1,7 +1,7 @@
 # Idea sources (self-updated each run)
 
 Yield = ideas scoring ≥ 50 ÷ times used (a use = one run that drew ideas from the source). Drop at 0 after 3 uses.
-Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in run 3, 8 of 9 in run 4, 7 of 8 in run 5, 8 of 9 in run 6, 10 of 10 in run 7, 8 of 10 in run 8, 7 of 9 in run 9, 8 of 10 in run 10, 8 of 10 in run 11, 9 of 10 in run 12, 10 of 11 in run 13, 7 of 9 in run 14, 7 of 8 in run 15, 8 of 9 in run 16, 8 of 10 in run 17, 8 of 8 in run 18, 9 of 9 in run 19, 8 of 8 in run 20, 8 of 8 in run 21, 8 of 8 in run 22, 8 of 8 in run 23, 8 of 8 in run 24, 8 of 8 in run 25, 7 of 8 in run 26, 7 of 8 in run 27, 7 of 8 in run 28, 8 of 8 in run 29, 8 of 8 in run 30, 4 of 8 in run 31, 7 of 7 in run 32, 6 of 6 in run 33, 4 of 4 in run 34). Rule 4 says to compare with host kits ≈ 78 for real quality.
+Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in run 3, 8 of 9 in run 4, 7 of 8 in run 5, 8 of 9 in run 6, 10 of 10 in run 7, 8 of 10 in run 8, 7 of 9 in run 9, 8 of 10 in run 10, 8 of 10 in run 11, 9 of 10 in run 12, 10 of 11 in run 13, 7 of 9 in run 14, 7 of 8 in run 15, 8 of 9 in run 16, 8 of 10 in run 17, 8 of 8 in run 18, 9 of 9 in run 19, 8 of 8 in run 20, 8 of 8 in run 21, 8 of 8 in run 22, 8 of 8 in run 23, 8 of 8 in run 24, 8 of 8 in run 25, 7 of 8 in run 26, 7 of 8 in run 27, 7 of 8 in run 28, 8 of 8 in run 29, 8 of 8 in run 30, 4 of 8 in run 31, 7 of 7 in run 32, 6 of 6 in run 33, 4 of 4 in run 34, 3 of 3 in run 35). Rule 4 says to compare with host kits ≈ 78 for real quality.
 
 ## Sources
 
@@ -100,7 +100,9 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 | QKB monthly registration releases (qkb.gov.al/en, e.g. April 2026: 341 new accommodation and food-service entities) for growth in buyer groups | 1 | – | – | new run 33: demand evidence for HoReCa supplies |
 | Veterinary Chamber / AKVMB announcements (uevp.fve.org news) (rule-12 check for vet and pet-identification supplies, not an idea source) | 1 | – | – | new run 33: April 2025 agreement sets up central supply and distribution of pet microchips and passports through the Chamber, so chips were dropped |
 | FAO/ICAR livestock-breeding presentations (fao.org REU event slides, e.g. RASP director Dec 2022; ICAR technical series) for breeding-service buyer counts | 1 | 1 | 1.0 | new run 34: 400+ freelance AI technicians, ~65% of cows under AI, ~300,000 doses a year imported by 11 operators; gave AI sheaths and gloves (70) |
-| Backlog buyer-group gap scan (buyer groups with fewer than 2 rows in ideas.jsonl: AI technicians, HVAC maintenance firms, die-makers) | 1 | 2 | 2.0 | new run 34 (rule 54): gave HVAC filters (71) and AI supplies (70); die-cutting (74) came from the same scan and the print bundle |
+| Backlog buyer-group gap scan (buyer groups with fewer than 2 rows in ideas.jsonl: AI technicians, HVAC maintenance firms, die-makers, water utilities, municipalities, gyms) | 2 | 5 | 2.50 | new run 34 (rule 54): gave HVAC filters (71) and AI supplies (70); die-cutting (74) came from the same scan and the print bundle; run 35: water-utility repair clamps (68), gym parts (63), festive decor (53), but 7 of 10 thin groups had no findable buyer count (opticians, surveyors, jewellers, LPG bottlers, DDD firms, capsule roasters, US-car body shops), see rule 55 |
+| Utility and municipal tender notices on openprocurement.al (UK technical specs, end-of-year decoration tenders) read through WebSearch snippets (demand evidence) | 1 | – | – | new run 35: UK Vlorë spec names stainless repair clamps; Korçë and Pogradec decoration tenders (4.0 and 10 million ALL). PDFs return a Cloudflare "Just a moment" page to curl, so quote the snippet and mark details unverified |
+| Gym Navigator country directory (gymnavigator.com/gyms/albania) for gym counts | 1 | – | – | new run 35: 61 gyms listed, independents and local brands, no international chains (directory, not a census) |
 
 ## Search queries
 
@@ -426,6 +428,11 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
 | "steel cutting rule creasing matrix supplier Albania" / "prerëse kartoni kallëp Tiranë" / Algrafika home menu | 1 | 1 | run 34: no supplier; SAN-Metal does punching only |
 | "susta zig zag divani rrip elastik tapicerie" / "upholstery webbing zigzag springs supplier Albania" / "opencorporates prodhim susta" | 1 | 1 | run 34: Tackband 'Tirana' SEO pages (rule 9); a local mattress and bed-spring maker (rule 38) |
 | "doreza inseminimi kateter inseminimi lopë" / "Albania insemination sheaths gloves supplier" | 1 | 1 | run 34: no seller; 11 semen importers (rule 25) |
+| Batched Megateksa pre-screen q=repair+clamp, pipe+coupling, jewelry+polishing, crucible, survey+marker, tripod, gym+cable, gym+pulley, gas+cylinder+cap, shrink+cap, lens, tombstone, ceramic+photo, granite, christmas+lights, led+curtain+light, christmas+figure, led+motif, dental+bib, patient+bib, headrest+cover, apple+tray, fruit+tray, pulp+tray (run 35) | 1 | – | run 35: only festive lights hit (LED butterflies, curtain lights, neon motifs, 2,999-7,999 ALL); PVC clips and bronze couplings for clamps (rule 30) |
+| Buyer-count searches: "Albania water utilities number ujësjellës 2025", "numri i palestrave në Tiranë", "Albania LPG bottling plants number", "numri i optikave në Shqipëri", "topografë të licencuar ASHK", "argjendari numri", "shoqëri private të sigurisë fizike numri", "Tirana taxi licences 2026", "subjekte DDD të licencuara" (run 35) | 1 | 3 | run 35: ~15 regional utilities; 61 gyms (Gym Navigator); 2,850 Tirana taxis (Vox News); no count for opticians, surveyors, jewellers, LPG bottlers, security firms or DDD firms |
+| "fashetë riparimi inoks tubacion ujësjellësi" / "pipe repair clamps supplier Albania water utility" / Megateksa repair+clamp | 1 | 1 | run 35: tender specs only; Vibtis pipes and fittings (Albania, Kosovo); Smith-Blair and AVK with no named distributor |
+| "tender ndriçim festiv dekorime Krishtlindje bashkia" / "dekorime festive ndriçim LED ... Tiranë" / "Christmas decorations wholesale Albania" | 1 | 1 | run 35: Korçë and Pogradec tenders; no local decorator named; Ubuy retail |
+| "pjesë këmbimi palestra kabllo makineri fitnesi Tiranë" / "Technogym Albania dealer" | 1 | 1 | run 35: no service firm or dealer; Hit Fit uses Technogym |
 
 ## Learned rules
 
@@ -628,3 +635,9 @@ Note: ≥ 50 is easy on the rubric (7 of 8 in run 1, 6 of 9 in run 2, 8 of 9 in 
     slides, registry lists, tender notices). With 320+ rows, product-first brainstorming mostly finds near-duplicates or Megateksa items: in run 34, 13 of 17
     candidates died before screening (3 already in the backlog or made locally, 3 on Megateksa or Würth), while the two new buyer groups with a count (400+ AI
     technicians, HVAC maintenance firms) both reached the shortlist. (run 34)
+55. For rule 54, start from a document that lists or counts the buyers (a regulator register, a licence list, a tender notice, a directory page with a number),
+    and only then pick the product; do not start from a group name and then search for its count. In run 35, 7 of 10 thin buyer groups chosen by name (opticians,
+    surveyors, jewellers, LPG bottlers, pest-control firms, capsule roasters, US-import body shops) found no count in one search and were dropped under rule 51,
+    while the three that reached the shortlist came from documents that already named the buyers (a utility tender spec, municipal decoration tenders, a gym
+    directory). If fewer than 6 candidates survive the count searches, brainstorm a second batch from such documents before screening, so the run reaches the
+    8-12 target. (run 35)
