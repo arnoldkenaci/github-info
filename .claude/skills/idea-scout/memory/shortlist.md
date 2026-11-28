@@ -1,17 +1,19 @@
 # Idea shortlist
 
-Updated: run 32, 2026-11-28 04:40 UTC. Benchmark: **host starter kits, advisor score 54** (researched).
+Updated: run 33, 2026-11-28 07:30 UTC. Benchmark: **host starter kits, advisor score 54** (researched).
 Scores below are rubric quick screens, not advisor scores. **Scored on the same rubric, host kits ≈ 78**
 (learned rule 4). Three open ideas score above that level: cheese moulds and shrink bags (84), berry punnets (83) and
 beekeeping equipment (79). **All three have unverified gaps**, so under rule 15 they beat host kits "on paper" only, until a
 phone check confirms the gap. No idea with a checked gap clears ~78. Crates, scaffold netting and excavator bucket teeth tie at 78.
 
-Run 32 added 7 ideas (all 7 shortlisted, none new or rejected). None scores above ~78 and none enters the top 10, which is unchanged.
-The best new idea is **sign-shop vinyl finishing supplies (application tape, plotter blades), 72, gap unverified**, an add-on to the print-shop
-supplies bundle. Then **architectural expansion-joint covers (70)**, **dental-unit maintenance parts (70)** for 1,200 dental clinics and labs,
-**tea-bag filter paper for herbal-tea packers (69)**, **LED fuel-price signs (67)**, **tactile paving indicators (66)** and **legal-for-trade retail scales (62)**.
-Seven candidates were dropped before screening, one of them (olive-mill decanter and hammer-mill wear parts) because I-080 already covers it:
-new rule 52 says to search `ideas.jsonl` by buyer group and HS code, not only by product words.
+Run 33 added 6 ideas (all 6 shortlisted, none new or rejected). None scores above ~78 and none enters the top 10, which is unchanged.
+The best new ideas tie at 72: **road-marking glass microspheres (EN 1423 drop-on beads)** for road-marking contractors, a follow-on to I-289
+whose demand rests on ARRSH tender specs that name the product and its dose (about 300 g/m2), and **forest-firefighting hand tools and backpack pumps**
+after the 2025 fire season (57,000 ha burned), a tender business. Then **colour-coded hygienic cleaning tools for dairies and meat plants (71)**, a
+side line to the small-dairy pallet, **catering-equipment gas spare parts for kitchen technicians (70)**, **digital prayer-time panels for mosques (67)** and
+**sound-level limiters for bars after the July 2026 coastal noise directive (66)**. Fifteen candidates were dropped before screening, seven for lack of any
+buyer count (rule 51): new rule 53 says to brainstorm from documents that already name a consumable and its buyers (tender specs, inspection reports)
+and to find the act itself before screening a regulation-driven candidate.
 
 ## Top open ideas
 
@@ -28,7 +30,7 @@ new rule 52 says to search `ideas.jsonl` by buyer group and HS code, not only by
 | 9 | I-220 | Excavator undercarriage parts: track rollers, idlers, sprockets, chains | 77 | Owner-operators of crawler and mini excavators, small earthmoving firms (repeat wear parts) | Italy/Turkey, 0% (8431.49) | Scarce (unverified): nothing on Megateksa; no seller in Albanian or English searches; machine dealers may sell OEM parts |
 | 10 | I-301 | Print-finishing consumables: thermal lamination film rolls, guillotine cutting sticks and knives, wire-O binding | 77 | Print houses and copy shops (Algrafika supplies 300+ printing houses; repeat B2B) | EU, film 6% MFN, 0% with EU EUR.1; knives 10% | Scarce (unverified): nothing on Megateksa; no Albanian seller in English or Albanian searches; Algrafika menu has no finishing line |
 
-Just below the top 10 (run 32 additions first): I-308 sign-shop application tape and plotter blades (72, new, gap unverified, rule 45), I-310 expansion-joint covers (70, new, rule 21 demand 3), I-313 dental-unit maintenance parts (70, new, gap unverified, rules 33 and 45), I-309 tea-bag filter paper (69, new, rule 18 tiny market), I-314 LED fuel-price signs (67, new, rule 42), I-311 tactile paving indicators (66, new, rules 12 and 46), I-312 legal-for-trade retail scales (62, new, rule 42, gap available); then I-066 black and silver mulch film (76, pushed out of the top 10 by I-301), I-114 logo-printed café napkins (75, down from 83: a Tirana tissue maker makes napkins; rule 22 risk), I-195 butcher wear parts (76), I-238 PVC strip curtains and cold-room door gaskets (76, gap unverified), I-247 FTTH drop cables and connectors for small ISPs (75, gap unverified), I-249 fire-extinguisher service parts (75, gap unverified), I-048 greenhouse film and shade nets (75), I-214 concrete-pump wear parts (75, gap unverified), I-049 drip tape (75), I-062 takeaway containers (75), I-068 egg trays (75), I-081 tinplate olive-oil cans (75), I-082 bag-in-box (75), I-149 jewellery
+Just below the top 10 (run 33 additions first): I-315 road-marking glass microspheres (72, new, gap unverified, rules 12, 16 and 18), I-316 forest-firefighting hand tools and backpack pumps (72, new, gap unverified, rule 12, tender business), I-317 colour-coded hygienic cleaning tools for dairies and meat plants (71, new, gap unverified), I-318 catering-equipment gas spare parts for kitchen technicians (70, new, gap unverified, rules 33 and 45), I-319 digital prayer-time panels for mosques (67, new, rules 12, 37 and 42), I-320 sound-level limiters for bars and venues (66, new, rules 32 and 42); then run 32 additions: I-308 sign-shop application tape and plotter blades (72, new, gap unverified, rule 45), I-310 expansion-joint covers (70, new, rule 21 demand 3), I-313 dental-unit maintenance parts (70, new, gap unverified, rules 33 and 45), I-309 tea-bag filter paper (69, new, rule 18 tiny market), I-314 LED fuel-price signs (67, new, rule 42), I-311 tactile paving indicators (66, new, rules 12 and 46), I-312 legal-for-trade retail scales (62, new, rule 42, gap available); then I-066 black and silver mulch film (76, pushed out of the top 10 by I-301), I-114 logo-printed café napkins (75, down from 83: a Tirana tissue maker makes napkins; rule 22 risk), I-195 butcher wear parts (76), I-238 PVC strip curtains and cold-room door gaskets (76, gap unverified), I-247 FTTH drop cables and connectors for small ISPs (75, gap unverified), I-249 fire-extinguisher service parts (75, gap unverified), I-048 greenhouse film and shade nets (75), I-214 concrete-pump wear parts (75, gap unverified), I-049 drip tape (75), I-062 takeaway containers (75), I-068 egg trays (75), I-081 tinplate olive-oil cans (75), I-082 bag-in-box (75), I-149 jewellery
 boxes and pouches (75, gap unverified), I-192 roll-up stands and display hardware (75, gap unverified), I-202 steel shoring props and H20 beams (74, capped by rule 38), I-260 edge-protection guardrail systems for high-rise builders (72, new, gap unverified), I-248 polyester curtain fabric by the roll (74, gap unverified), I-252 sofa-bed and recliner mechanisms for upholstery workshops (74, capped by rule 45; raw 77, gap unverified), I-041 peshtemal (74), I-240 pastry-shop cake boards and piping bags (74, gap unverified), I-056 tomato clips (74), I-080 olive-mill filters and mats (74), I-087 apple trays (74), I-091 mesh bags (74), I-103 greenhouse sticky traps
 (74), I-151 call-centre task chairs (74), I-185 logo entrance mats (74, gap unverified), I-169 tiller blades and plough shares (74), I-206 VKM 649 lifeguard-point kits for beach stations (73), I-237 PVC waterstops and swelling strips (73), I-289 road studs, delineator posts and guardrail reflectors for road contractors (73, gap unverified, rules 12 and 45), I-293 bakery machine wear parts: slicer blades, divider parts, oven gaskets (73, new, gap unverified, rule 33), I-294 church candles and incense charcoal for parishes (73, new, gap unverified, rules 12 and 37), I-216 boat anodes and impellers (72, gap unverified), I-239 forklift solid tyres and wear parts (72, gap unverified), I-221 lift components and spare parts (72), I-229 crystal PVC film for terrace enclosures (72, rule 21 artefact), I-040 glass jars (73), I-065 peat and seedling trays (73, re-checked), I-083 formwork
 plywood (73), I-300 offset printing blankets and CTP plates for print houses (73, new, gap unverified, rules 25, 40 and 45), I-097 bale net wrap (73), I-121 courier mailer bags (73), I-142 milk filter socks (73), I-032 bathrobes
@@ -58,41 +60,42 @@ I-116, I-124, I-132, I-150 mannequins, I-172 ironer padding, I-180 in-room hotel
 
 ## New this run
 
-I-308 to I-314 (7 ideas): all 7 shortlisted (62-72), none new or rejected. None scores above ~78; none enters the top 10.
-- I-308 sign-shop vinyl finishing supplies: application tape rolls, cutting-plotter blades, weeding tools (72): tape 0% from any origin, blades 10% MFN, 0% with EU
-  origin; Algrafika sells self-adhesive PVC and digital vinyl but lists no tape or blades (rule 35); nothing on Megateksa; buyers 300+ print houses (Algrafika)
-  and 87 advertising agencies (InfobelPRO). Rule 45 (shops can import tape direct) holds buyers at 8; blades are cheap on Temu. Gap unverified.
-- I-310 architectural expansion-joint covers for high-rise builders (70): 7610.90 0%; no Albanian distributor of Profilpas, Profilitec or Schluter found; Megateksa
-  sells tile trims, so tile shops may stock floor joints; rule 21 holds demand at 3 (no source names the product); check local aluminium extruders (rule 22).
-- I-313 dental-unit maintenance parts (suction and amalgam-separator filters, handpiece spares, compressor filters) (70): 0%; no dental depot found; 1,200 dental
-  clinics and labs (Euronews 2025); chair technicians service units (rules 25/33) and small parts are on AliExpress (rule 45): buyers 8; regulation 5.
-- I-309 tea-bag filter paper and pyramid mesh for herbal-tea packers (69): 4823.20 0%; no supplier for Albania or Kosovo found; only a few packers named (Kraco,
-  Natyral ATC), so rule 18 holds buyers at 8; 500 kg MOQ. A side line to I-201 herbal-tea pouches.
-- I-314 LED fuel-price display signs for ~1,400 petrol stations (67): 8531.20 0%; no seller found; the Transparency Board changes maximum prices often, but the
-  station count is far above the optimum (closures likely) and signs are one-off (rule 42).
-- I-311 tactile walking-surface indicators under Law 93/2014 (66): no seller and no tender naming the product; law not enforced (rules 32/46), municipalities buy
-  by tender (rule 12); local concrete tactile pavers unchecked.
-- I-312 EU type-approved retail and price-computing scales (62): DPM verified about 10,191 shop scales in 2022, but Mettler-Toledo has a Tirana representation
-  and DPM-authorised scale-service firms (TUNAMAR, Elbasan) exist: gap available; one-off (rule 42).
-- Dropped before screening (7): olive-mill decanter and hammer-mill wear parts (already inside I-080, rule 52), dunnage air bags for container exporters (Port of
-  Durres handled ~190k TEU Jan-Oct 2025, but no evidence exporters use air bags, rule 21, same artefact as I-251), cheese wax (no evidence Albanian dairies
-  wax kashkaval, rule 21), EV-service insulated tools and gloves (Würth sells VDE insulated tools and dielectric gloves), hotel wall-mounted hair dryers
-  (Megateksa 6,049-17,599 ALL), water meters (Megateksa 2,200 ALL), Orthodox liturgical vestments (no purchase evidence; the church likely buys centrally, rules 12 and 18).
+I-315 to I-320 (6 ideas): all 6 shortlisted (66-72), none new or rejected. None scores above ~78; none enters the top 10.
+- I-315 road-marking glass microspheres, EN 1423 drop-on beads in 25 kg bags (72): 7018.20 15% MFN, 0% with EU or Turkish origin; Megateksa returns only
+  Christmas beads; no Albanian seller in Albanian or English searches (a Chinese maker claims Albania as a market). ARRSH specs ask for about 300 g/m2 of beads on
+  every thermoplastic or two-component line, so demand names the product. Contractors are the buyers (rules 12 and 18, count unverified) and a pallet is worth only
+  about EUR 1,000 (rule 16). Paint importers may bundle beads: phone check first. Same contractors as I-289 road studs.
+- I-316 forest-firefighting hand tools and 20 L backpack fire pumps (72): 10% / 0% MFN, 0% EU origin; Megateksa sells only farm backpack sprayers (rule 30), TIMAK
+  builds fire trucks, not tools; 2025 fires burned about 57,000 ha and the World Bank cites a lack of basic equipment. Buyers are public (rule 12, demand 8), so this is a
+  tender business with guarantees and slow payment (capital 9). Winter is the buying season.
+- I-317 colour-coded hygienic cleaning tools (food-grade brushes, squeegees, shovels; Vikan-type) for dairies, slaughterhouses and meat plants (71): 9603.90 15% MFN,
+  0% EU EUR.1; no Vikan distributor for Albania found; Megateksa sells household squeegees only (rule 30). No colour-coding rule found (demand 7). Fits the small-dairy pallet.
+- I-318 catering-equipment gas spare parts (thermocouples, pilot assemblies, gas safety valves, burner heads) (70): 0% any origin; nothing on Megateksa; no Tirana
+  parts seller or named technician found; 17,742 food-service firms and 341 new ones in April 2026. Rules 33 and 45 hold buyers at 8 (technicians, AliExpress lots).
+- I-319 digital prayer-time panels for about 800 mosques (67): 15% MFN, 0% Turkish EUR.1; no seller found (only free apps and the KMSH calendar); one-off (rule 42),
+  donors fund fit-outs (rule 12). A side line to I-217 mosque carpets.
+- I-320 sound-level limiters and venue noise monitors (66): 0%; Megateksa sells a consumer meter only; the July 2026 coastal directive sets hours and levels
+  (45 dB or 85 dB, reports conflict) but no device (rule 32); one-off (rule 42). Sell through audio installers such as Prosound.
+- Dropped before screening (15): chain-mail butcher gloves (already inside I-195, rule 52); 19 L water-cooler bottles (dropped in an earlier run, no new evidence, rule 51);
+  pet microchips (the Veterinary Chamber and AKVMB set up central supply and distribution of chips under the April 2025 agreement, rule 12); judo and karate tatami (no
+  club count; Megateksa sells a 100x100x3 cm puzzle mat, 1,919 ALL); billiard cloth, mattress pocket-spring units, optical frames, flour-mill sifter cloth, feed-mill pellet
+  dies and shoe-repair supplies (no buyer count found, rule 51; Megateksa sells Bison shoe glue); handheld metal detectors and guard-tour systems for security firms (33-43
+  firms, rule 18, one-off, rule 42); gas-leak detectors for restaurant kitchens (no mandate found, only voluntary EN standards on dps.gov.al, rule 46); shade sails
+  (Megateksa 12,990 ALL); wooden and bagasse cutlery (no single-use plastics ban beyond bags); silent-disco headsets for beach clubs (no evidence of use, rule 21).
 
 ## Changed this run
 
-- **Freshness check** of the 2 oldest open ideas: I-080 olive-mill consumables: Megateksa still has no filter cloths or press mats, and two more searches found no
-  Pieralisi or Alfa Laval dealer in Albania (Pieralisi sells original parts through its own e-commerce platform, which may serve mills direct); unchanged 74.
-  I-081 tinplate olive-oil cans: still no can seller on Megateksa; unchanged 75. Megateksa now lists stainless oil containers of 30 L (5,899 ALL) and 100 L
-  (10,499 ALL): noted on I-109 stainless tanks (already 'available', score unchanged 66).
+- **Freshness check** of the 2 oldest open ideas: I-082 bag-in-box: Megateksa still returns gift boxes and stainless oil containers only, and an Albanian search found
+  only foreign suppliers (Packly lists 3-5 L boxes from EUR 0.40-0.54 and bags from EUR 0.50-0.57, added to the price point); unchanged 75. I-083 formwork plywood:
+  Megateksa 'formwork' now shows only Dakota spacers in its first results; the gap stays 'available' until a phone check; unchanged 73.
 - Rule 44: no competition search found a local maker this run. No re-scores.
 - Top 10 unchanged.
-- New rule 52 (search the backlog by buyer group and HS code before screening).
+- New rule 53 (brainstorm from documents that name a consumable and its buyers; find the act before screening a regulation-driven candidate).
 
 ## Best candidates for the next deep-research batch
 
 1. **I-064 cheese moulds and shrink bags for small dairies (84), with I-142 milk filter socks (73), I-235 milk analysers (63),
-   I-178 cheese cultures and rennet (66) and I-094 dairy tubs (58) as a "small-dairy consumables" pallet.** Repeat consumables,
+   I-178 cheese cultures and rennet (66), I-094 dairy tubs (58) and now I-317 hygienic cleaning tools (71) as a "small-dairy consumables" pallet.** Repeat consumables,
    clear trigger (AKU upgrade of 253 operators), milk collected +6.9%, though small farms are closing (watch rule 10).
    First phone 3 dairies and 2 agro/vet shops in Gjirokaster/Korca: where do they buy moulds, bags, filters and rennet?
    *With host kits:* no shared buyers or supplier; demand runs all year, which helps in the host kits' quiet winter.
@@ -113,7 +116,8 @@ I-308 to I-314 (7 ideas): all 7 shortlisted (62-72), none new or rejected. None 
    check is logged. A "construction-site safety" bundle (I-061 netting 78, I-170 site fences 77, I-202 props 74, I-260 edge protection 72 and now I-275 debris
    chutes 69) could be checked with the same single call to one tower contractor (add: do you use rubble chutes? does Maccaferri sell you panels?).
 
-Cheap new phone tests (run 32): I-308 application tape (72): add one question to the print-shop call (do you buy tape and blades from Algrafika?); I-313 dental-unit
+Cheap new phone tests (run 33): I-315 glass beads (72): ask 2 road-marking contractors and the main road-paint importer who supplies beads, in the same call as I-289 road studs; I-318 gas spare parts (70): phone 3 Tirana kitchen-equipment technicians and ask about I-168 espresso parts and I-175 hood filters in the same call; I-317 cleaning tools (71): add one question to the small-dairy call; I-316 fire tools (72): search openprocurement.al for how often hand tools are tendered before any call.
+Run-32 tests still open: I-308 application tape (72): add one question to the print-shop call (do you buy tape and blades from Algrafika?); I-313 dental-unit
 parts (70): phone 3 Tirana clinics and 1 chair technician (who supplies suction filters and handpiece parts?), and ask about I-086 disposables in the same call;
 I-310 expansion joints (70): ask the tower contractor in the construction-safety call. Run-31 tests still open: I-301 and I-300 print-shop supplies (77 and 73): the 5-shop call above; I-305 draught-beer parts (69): ask Birra Tirana or
 Birra Korça and 1 independent dispense installer who supplies couplers, faucets and lines.
