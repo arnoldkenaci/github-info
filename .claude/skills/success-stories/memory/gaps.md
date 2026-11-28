@@ -68,6 +68,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    fraud network. 0 failures from 4 failure searches overall (Spanish and Polish open-web, MENA founder media). Next run: word
    2 failure searches as closures of host-service businesses in Serbia/Croatia (laundries, apartment agencies, linen rental),
    rule 51; the Albanian case stays with the user's accountant and couriers.
+   Run 18: 1 gap-1 search (Kosovo online shop closure, sq, Kosovo outlets) gave only customs and trade statistics; 2 failure
+   searches on closures of host-service businesses (Serbian laundries/agencies; Croatian apartment agencies, one refused for
+   jutarnji.hr, one run) gave only travel-agency bankruptcies and real-estate fraud. 0 failures again. The closest new evidence
+   is shock-hit mountain guesthouses still open (S-115, S-116, 2020).
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -142,6 +146,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    Run 17: two Croatian laundries that serve apartment renters (Pula, Pag) earn most in the season but stay open all year
    because locals use them too (S-109, S-110; one 2019 promo article). That is one off-season answer for a host-service
    business: a second, local customer group. Still no linen or kit seller's off-season example.
+   Run 18: first Albanian off-season outlet: over 20 Theth guesthouses stayed open in the 2025-26 winter and foreign groups
+   still filled Theth in October 2026 (S-120, Euronews); Valbonë guesthouses close October-April (S-116). So mountain
+   guesthouses near Shkodër are a small winter market for refills (L-046, our inference). Still no seller's own example.
 12. **Who owns the linen in Tirana managed flats: the manager or the flat owner?** (from S-027; decides who the buyer
     is, L-017). Look for Albanian property-manager service pages that list a linen fee, or interviews with Tirana
     co-hosts. Partly answered for France (L-025, low): managers bundle professional linen into a higher all-inclusive
@@ -178,6 +185,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     Run 17: 23 / 22 / 67. No new failure (0 from 4 failure searches); all 4 new stories are market or buyer evidence. Mixed
     stories are now 60% of the file: failure lessons are no longer being tested. Rule 51 shifts failure searches to
     host-service businesses in Serbia and Croatia.
+    Run 18: 23 / 22 / 75. No new failure for the third run (0 from 3 failure searches); all 8 new stories are market or buyer
+    evidence. Mixed is now 62.5%. Rule 52 asks for failure searches worded around named seasonal-guesthouse and small
+    hotel-supplier closures in Albanian regional news, and a cap on buyer-evidence logging.
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
     what price and minimum? A local maker could cover emergencies (L-003) and avoid the EUR.1 question for towels
@@ -274,3 +284,11 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     (new, run 17; L-045 low): a Zlatibor (Serbia) owner says guests increasingly take clean linen and small appliances (S-111,
     anonymous). If managers lose items every month, a top-up pack is a second repeat product. Ask managers on the call list
     (user's call, rule 20); at most 1 search per run (Serbian/Croatian host news).
+41. **Where do Albanian Alps guesthouses (Theth, Valbonë, Kelmend) buy towels and sheets, what do they pay, and when do they
+    restock?** (new, run 18; L-046 medium): sources show they reopen in April, add rooms step by step, pay high transport costs
+    and some stay open in winter (S-115-S-117, S-120), but none says how they buy linen. Ask 5 guesthouses by phone in
+    February (user's call, rule 20; Theth had over 35 guesthouses in 2020); at most 1 search per run (Shkodër regional news,
+    Euronews Albania "Njerëzit e fshatit").
+42. **Do Albanian managers run their own laundry, as Croatian ones do?** (new, run 18; S-114): a Rijeka manager says its own
+    laundry and cleaning team win owners' trust. If Tirana operators wash in-house, they buy more spare sets per flat; if they
+    use a laundry, the laundry is a channel. Ask on the call list (user's call).

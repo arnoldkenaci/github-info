@@ -1,6 +1,10 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
+Run 19 shortlist (best yield first): Albanian mountain-guesthouse reportage (Theth, Valbonë, Kelmend; run 18: S-115-S-117,
+S-120 from 2 searches; rule 52), Novi list Croatian manager pieces (run 18: S-113, S-114), Kurir Belgrade daily-rental pieces
+(run 18: S-118, S-119). Run 18: Pogradec/Korçë, Ulcinj (Albanian), Kosovo gap-1, Serbian cleaner-cost, guest-theft and all 3
+host-service closure searches gave 0; 2 searches were refused (slobodnadalmacija.hr, jutarnji.hr).
 Run 18 shortlist (best yield first): Serbian mainstream news on apartment owners (Kurir Biznis "nekretnine", Forbes Srbija
 "novac"; run 17: S-111, S-112 from 2 searches, buyer evidence), Croatian news on businesses that serve apartment renters (run 17:
 S-109, S-110 from 1 search, but Novi list "promo-sadrzaji" pages are advertorials, rule 51). Run 17: all 8 searches on Albanian
@@ -322,10 +326,25 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | kurir/nova/n1info/telegraf/021 izdavanje apartmana vlasnica posteljina peškiri nabavka troškovi gosti iskustvo | 1 | 1 | 1.0 | run 17: Forbes Srbija Apr 2024 → S-112 (Belgrade host, business-premises rule); nova.rs piece retelling Croatian hosts' Reddit posts (Pula host nets ~6,500 euros a season, mother cleans) skipped as anonymous retold posts (rule 35); S-111 again |
 | citizens/reporter/faktoje/monitor/euronews/top-channel/shqiptarja shitëse online mbylla faqen Instagram humba para mallra nga Turqia | 1 | 0 | 0 | gap-1 search (rule 45): logged Citizens/Monitor pieces; Reporter.al Jan 2026 fake-supplement network (fraud, not a seller story) |
 | **New for run 18** | | | | |
-| kurir.rs/nova.rs/forbes.n1info.rs (allowed_domains) vlasnici apartmana troškovi čistačica cena po izlasku gosta posteljina pranje | 0 | 0 | – | rule 51: Serbian host buyer evidence (gaps 2, 39, 40) |
-| novilist.hr (allowed_domains; check it is accepted) agencija za upravljanje apartmanima vlasnik posteljina praonica -promo | 0 | 0 | – | rule 51: Croatian managers and laundries in news, not promo pages (gaps 2, 16) |
-| kurir.rs/nova.rs/forbes.n1info.rs zatvorio praonicu OR agenciju za izdavanje apartmana zašto propao | 0 | 0 | – | rule 51: failures of host-service businesses in the region (gap 1, L-016) |
-| kurir.rs/nova.rs gosti odnose peškire posteljinu iz apartmana vlasnici računaju gubitak | 0 | 0 | – | L-045 confirmation (gap 40) |
+| kurir.rs/nova.rs/forbes.n1info.rs (allowed_domains) vlasnici apartmana troškovi čistačica cena po izlasku gosta posteljina pranje | 1 | 0 | 0 | run 18: Kurir pieces on Croatian cleaners' rates (20-30 euros an hour; laundry 3-4 euros/kg), anonymous Facebook-group voices; data only |
+| novilist.hr (allowed_domains) agencija za upravljanje apartmanima vlasnik posteljina praonica iznajmljivači | 1 | 2 | 2.0 | run 18: S-113 (Check-in point, Zagreb 2017 news), S-114 (Virtus/Molo Longo, 2021 promo); novilist.hr is accepted |
+| kurir.rs/nova.rs/forbes.n1info.rs zatvorio praonicu agenciju za izdavanje apartmana zašto propao | 1 | 0 | 0 | DROP candidate: travel-agency bankruptcies, S-024 and S-111 again |
+| kurir.rs/nova.rs gosti odnose peškire posteljinu iz apartmana vlasnici gubitak | 1 | 0 | 0 | DROP candidate: S-111 again, hotel-theft explainers, Airbnb checkout-rule news (hosts may still ask guests to gather towels) |
+| **Run 18 (2026-11-28)** (first four rows above were queued in run 17) | | | | |
+| reporter/citizens/faktoje/monitor/balkaninsight bujtina Theth Valbonë pronari tregon investimi dhomat sezoni | 1 | 3 | 3.0 | run 18: BIRN 2020 COVID reportage → S-115, S-116; Monitor 2018 Valbonë reportage → S-117; Faktoje 2023 (Bledar Kubani, power cuts only, not logged); new town angle per rule 51(a) |
+| reporter/citizens/monitor/faktoje Pogradec OR Korçë apartamente qira ditore pronarët tregojnë | 1 | 0 | 0 | DROP: national rental data (26.3k Airbnb units in 2025, +25.3%; 134m euros); a Pogradec boat renter |
+| hr (novilist/slobodnadalmacija/glasistre/dnevnik/index) otvorila praonicu rublja za iznajmljivače | 1 | 0 | 0 | ERROR: slobodnadalmacija.hr refused; whole search failed (rule 52) |
+| forbes.n1info.rs/nova.rs/kurir.rs/n1info.rs stan na dan Beograd vlasnik troškovi posteljina čišćenje iskustvo | 1 | 2 | 2.0 | run 18: Kurir 2025 → S-118 (Milena, anecdote, with a cost table incl. linen washing 5,000 RSD a month); Kurir 2023 → S-119 (agency: linen a main cost problem) |
+| Ulqin pronarët e apartamenteve sezoni pushuesit nga Kosova (open web, sq) | 1 | 0 | 0 | DROP: Telegrafi tourism-office notices and listings |
+| kallxo/koha/prishtinainsight/citizens/reporter dyqan online mbylla biznesin humba paratë mallra nga Kina Kosovë | 1 | 0 | 0 | gap-1 search (rule 45): customs and trade statistics only |
+| novilist/index/jutarnji/dnevnik/glasistre agencija za upravljanje apartmanima prestala raditi vlasnici ostali bez novca | 1 | 0 | 0 | ERROR: jutarnji.hr refused (rule 52) |
+| reporter/citizens/faktoje/monitor/balkanweb/euronews bujtina Theth Shkodër pronarja tregon si filloi 2024 | 1 | 1 | 1.0 | run 18: Euronews Albania Dec 2025 → S-120 (20+ guesthouses open in winter); balkanweb owner news (fire, blocked road) not logged |
+| novilist/index/dnevnik/glasistre propala agencija za upravljanje apartmanima vlasnici nisu dobili novac | 1 | 0 | 0 | DROP: real-estate fraud and fake-host scams; no management-agency closure |
+| **New for run 19** | | | | |
+| euronews.al/balkanweb.com/reporter.al bujtinat Kelmend Vermosh Lëpushë pronarët sezoni dimër furnizimi | 0 | 0 | – | rule 52: snowball from S-115/S-116 (Zef Nilaj, Besnik Pepushaj in Lëpushë); gap 41 |
+| reporter/monitor/euronews bujtina mbylli OR falimentoi OR shiti Theth Valbonë Dhërmi pronari | 0 | 0 | – | rule 52 failure search: guesthouse closures (gap 1) |
+| monitor.al/reporter.al hotel i vogël furnizuesi çarçafë peshqirë lavanteria Shkodër OR Velipojë OR Berat OR Gjirokastër | 0 | 0 | – | rule 52: other heritage/tourist towns with guesthouses (Berat, Gjirokastër) as new angles |
+| novilist.hr/index.hr (allowed_domains) praonica rublja apartmani vlasnik otvorio iznajmljivači sezona | 0 | 0 | – | rule 52: Croatian laundries in news (not promo); gap 42 |
 | **(Run-9 queue, results above)** | | | | |
 | monitor.al (allowed_domains) qira ditore pronarja tregon hoqi dorë apartament Durrës OR Vlorë OR Sarandë | 1 | 0 | 0 | run 9: only the run-8 articles (Entela = S-057, Suela = S-058) and price/occupancy pieces |
 | monitor.al (allowed_domains) Arrijnë 50 milionë euro fitimet qira ditore 2026 / "Konkurrenca me hotelet dhe informaliteti" | 1 | 0 | 0 | run 9: data only (27.7k listings H1 2026, +4.2% vs 2025 average, +1.1k units; hotels hold 22% of ~285k beds); no named managers (gap 23) |
@@ -340,8 +359,9 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | Failory (interviews + "31 failed e-commerce startups" list page) | 11 | 0.82 | S-008, S-009, S-013, S-021, S-022, S-023, S-039, S-047, S-048 (run 6); runs 7 and 10: 0 (run 10: only duplicates and relevance-2 SaaS/food); mostly US/UK/Mexico/India |
 | Side Hustle School (episode pages incl. full transcripts) | 5 | 1.2 | S-011, S-012, S-017, S-018, S-025, S-026; run 3 stories only relevance 2-3 (rule 15); run 7: 2 duplicates (rule 29) |
 | Kosovo 2.0 (archive.kosovotwopointzero.com readable; main site loads by JS) | 3 | 0.67 | S-019, S-020; runs 3-4: 0 |
-| Serbian mainstream news on apartment owners (Kurir Biznis "nekretnine", Forbes Srbija "novac"; readable by curl; Kurir body text sits in the page's JSON) | 2 | 1.0 | run 17: S-111, S-112 (buyer evidence, relevance 3-4); many Kurir/nova pieces retell anonymous Reddit or Facebook posts (rule 35) |
-| Croatian news (Novi list; "promo-sadrzaji" pages are advertorials) | 1 | 2.0 | run 17: S-109, S-110 from one 2019 promo article (market evidence only, rule 51) |
+| Serbian mainstream news on apartment owners (Kurir Biznis "nekretnine", Forbes Srbija "novac"; readable by curl; Kurir body text sits in the page's JSON) | 6 | 0.67 | run 18: S-118, S-119 from 4 searches (Belgrade host and agency; relevance 3); run 17: S-111, S-112 (buyer evidence, relevance 3-4); many Kurir/nova pieces retell anonymous Reddit or Facebook posts (rule 35) |
+| Croatian news (Novi list; "promo-sadrzaji" and "ostalo/promo" pages are advertorials; index.hr, dnevnik.hr, glasistre.hr accepted; jutarnji.hr and slobodnadalmacija.hr refused) | 4 | 1.0 | run 18: S-113 (2017 news), S-114 (2021 promo) from 3 searches (2 refused or fraud-only); run 17: S-109, S-110 from one 2019 promo article (market evidence only, rule 51) |
+| Albanian mountain-guesthouse reportage (Reporter.al 2020 COVID Alps piece, Monitor 2018 Valbonë reportage, Euronews Albania Theth reports; readable by curl) | 2 | 2.0 | run 18: S-115, S-116, S-117, S-120 (buyer and market evidence, relevance 4); new town angle (rule 52) |
 | Balkan "confession" news (Kurir Biznis "ispovest", retold Reddit posts) | 5 | 0.2 | S-024 only; run 4: 4 confession queries (sr, sq, mk, hr/bs) gave 0 |
 | French conciergerie podcasts (La Conciergerie on Ausha) | 4 | 1.0 | S-027, S-028, S-029, S-042; run 6 harvest: 0 (recent episodes are regulation and staffing); each episode page embeds the descriptions and slugs of many other episodes (rule 18); show notes only |
 | biznis.rs "99 najuspešnijih" (Serbian micro-firm profiles, CompanyWall financials) | 5 | 0.8 | S-030, S-031, S-032 (run 4), S-033 (run 5); excludes firms with losses or in bankruptcy, so no failures; run-5 ranking queries mostly returned tables |
@@ -554,3 +574,13 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
     pieces that retell anonymous Reddit or Facebook posts (rule 35), but a reporter's own anonymous interviewee may be logged
     as "anecdote" buyer evidence; (f) count a refused search toward the ~15 cap and never put blic.rs or vijesti.me in
     allowed_domains (run 17 repeated the rule-25 error; total 16 searches, over the cap). (run 17)
+52. **New-town angles on Albanian sources still work; buyer evidence is now crowding out seller stories** (run 18: a Theth/Valbonë
+    guesthouse query and a Theth follow-up gave 4 Albanian stories, S-115-S-117, S-120, when Pogradec/Korçë, Ulcinj and Kosovo
+    queries gave 0; all 8 new stories were buyer or market evidence and 0 failures came from 3 failure searches, the third run
+    running). Run 19: (a) keep rule 51(a) but name a tourist town or valley not yet in `stories.jsonl` (Kelmend/Lëpushë, Berat,
+    Gjirokastër, Dhërmi, Velipojë), at most 4 Albanian searches plus the gap-1 search; (b) at least 2 failure searches worded as
+    closures or sales of named guesthouses, small hotels or their suppliers in Albanian regional news, and 1 on Croatian/Serbian
+    laundry or linen-rental closures in index.hr/novilist.hr news; (c) log at most 3 new buyer-evidence stories per run unless they
+    answer an open gap's exact question (what hosts or guesthouses pay for linen, where they buy, how often), so the time goes to
+    seller stories; (d) never put jutarnji.hr, slobodnadalmacija.hr, blic.rs, vijesti.me or poslovni.hr in allowed_domains (each
+    refusal kills the whole search; run 18 lost 2 of 13 searches this way). (run 18)
