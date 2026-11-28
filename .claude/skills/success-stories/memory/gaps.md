@@ -64,6 +64,10 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    logged person (Valer Pinderi: individuals enter e-commerce, reach 30-100 orders a day and lose control, many enter and
    leave in the short term since 2015; not logged, rule 41). Closest new case: a Tirana used-clothing seller who closed her
    rented shop and moved to a rent-free market stall (S-103, mixed). Still no Albanian online/importer/B2B failure.
+   Run 17: 1 gap-1 search (Instagram seller closure, sq) gave only logged Citizens/Monitor pieces and a 2026 fake-supplement
+   fraud network. 0 failures from 4 failure searches overall (Spanish and Polish open-web, MENA founder media). Next run: word
+   2 failure searches as closures of host-service businesses in Serbia/Croatia (laundries, apartment agencies, linen rental),
+   rule 51; the Albanian case stays with the user's accountant and couriers.
 2. **Selling supplies to hosts and property managers in Europe/Balkans.** Partly answered: L-004, L-006, L-017 (US only).
    Missing: what price premium hosts accepted over cheap retail; how sellers found hosts (Facebook groups? cleaners?
    managers?); a Balkan example. Run 3: first European buyer evidence (S-027, France: conciergerie owns hotel linen
@@ -135,6 +139,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
    (S-098), and BIRN expected the 2026 Durrës season to last to mid-October (S-097); Shëngjin's seasonal businesses worked
    about 60 days a year in 2019 (S-102). So December-February is the dead period in Durrës (our inference). Still no
    host-supply seller's off-season example.
+   Run 17: two Croatian laundries that serve apartment renters (Pula, Pag) earn most in the season but stay open all year
+   because locals use them too (S-109, S-110; one 2019 promo article). That is one off-season answer for a host-service
+   business: a second, local customer group. Still no linen or kit seller's off-season example.
 12. **Who owns the linen in Tirana managed flats: the manager or the flat owner?** (from S-027; decides who the buyer
     is, L-017). Look for Albanian property-manager service pages that list a linen fee, or interviews with Tirana
     co-hosts. Partly answered for France (L-025, low): managers bundle professional linen into a higher all-inclusive
@@ -153,6 +160,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     daily linen rental for small and medium hotels, S-046, L-028): Piney Essentials (Athens, beta) delivers laundered
     linen per turnover with "no contracts, no upfront investment" (S-041). Is anyone offering this in Tirana/Durrës
     (laundries, hotel-linen rental firms)? If yes, owned kits must beat its cost per stay (L-028).
+    Run 17: in Croatia, an apartment-cleaning tradeswoman on Pag opened a service laundry in 2016 (S-110) and a supplier claims
+    150+ laundries opened in six years (company claim, promo article). Laundries, not linen-rental firms, are the regional
+    pattern seen so far; ask Durrës and Tirana laundries whether they rent linen or only wash it.
 17. **Confirm L-027 and L-029** (new, run 5; run 13: L-027 now medium with S-085, an Albanian furniture maker that
     opened its own shops to cut out traders; L-029 still open): a second story of a small supplier that lost margin through shops/chains,
     and a story of how small B2B sellers in the Balkans collect payment from hotels and managers (cash on delivery,
@@ -165,6 +175,9 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     by one Tirana host (S-057: "sheets and towels had to be bought often" in busy flats; anecdote, no numbers).
 20. **Survivorship check** (run 6; run 7: 15 success / 15 failure / 23 mixed; run 8: 16 / 16 / 28; run 9: 18 / 18 / 31; run 10: 20 / 19 / 37; run 11: 21 / 19 / 39; run 12: 22 / 19 / 41; run 13: 22 / 19 / 45; run 14: 22 / 19 / 52; run 15: 22 / 20 / 60, still balanced overall, but only 1 new failure in runs 12-15 (S-099, Egypt) and mixed stories now outnumber both); run 16: 23 / 22 / 63, both new failures Egyptian (S-106, S-107), so no survivorship skew overall, but
     all 6 Albanian failures are physical shops; no Albanian online seller, importer or B2B failure yet (gap 1).
+    Run 17: 23 / 22 / 67. No new failure (0 from 4 failure searches); all 4 new stories are market or buyer evidence. Mixed
+    stories are now 60% of the file: failure lessons are no longer being tested. Rule 51 shifts failure searches to
+    host-service businesses in Serbia and Croatia.
 21. **Local towel maker as a fallback supplier** (new, run 7): Florjan-V (Viktor Marku) held about a quarter of
     Albania's towel market in 2006 (S-049, USAID). Does it or another Albanian/Kosovar towel maker still produce, at
     what price and minimum? A local maker could cover emergencies (L-003) and avoid the EUR.1 question for towels
@@ -257,3 +270,7 @@ Priority order. "Partly answered" gaps stay open until a lesson reaches medium c
     S-104): a Tirana manager takes 30-euro bookings only for three nights or more to keep costs down. Turnovers drive linen
     wear and refill orders (L-005), so ask each manager on the call list for their minimum stay and monthly turnovers per
     flat (user's call, rule 20; at most 1 search per run, Monitor rental features only).
+40. **How many towels and sheets go missing per flat per month in Tirana/Durrës, and do managers replace them themselves?**
+    (new, run 17; L-045 low): a Zlatibor (Serbia) owner says guests increasingly take clean linen and small appliances (S-111,
+    anonymous). If managers lose items every month, a top-up pack is a second repeat product. Ask managers on the call list
+    (user's call, rule 20); at most 1 search per run (Serbian/Croatian host news).

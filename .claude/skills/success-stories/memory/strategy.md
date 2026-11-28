@@ -1,6 +1,11 @@
 # Search strategy (self-updated each run)
 
 Yield = new relevant stories ÷ times used. Drop at 0 after 2 uses.
+Run 18 shortlist (best yield first): Serbian mainstream news on apartment owners (Kurir Biznis "nekretnine", Forbes Srbija
+"novac"; run 17: S-111, S-112 from 2 searches, buyer evidence), Croatian news on businesses that serve apartment renters (run 17:
+S-109, S-110 from 1 search, but Novi list "promo-sadrzaji" pages are advertorials, rule 51). Run 17: all 8 searches on Albanian
+sources (monitor.al English titles, reporter.al market reportage, couriers, Durrës cleaners, Ksamil TV, Instagram closures)
+returned only logged articles or data; Spanish, Polish, Budva and English Tirana-manager queries gave 0.
 Run 17 shortlist (best yield first): monitor.al rental-market features found through English search-index titles and
 fetched by their Albanian slug (run 16: S-104, S-105 from an unlogged June 2025 feature; rule 50), Reporter.al (BIRN) market
 reportage that quotes named small traders (run 16: S-103 from a 2021 Selitë piece). Run 16: Citizens other-town reportage,
@@ -299,9 +304,28 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | reporter/citizens/faktoje tregu Shkozë OR "Kthesa e Kamzës" mallra nga Turqia tregtarja tregon | 1 | 0 | 0 | DROP: Selitë piece again, unrelated news |
 | citizens/faktoje/monitor Sarandë Ksamil pronarët e apartamenteve qira ditore tregojnë sezoni pastrimi çarçafë | 1 | 2 | 2.0 | run 16: English index title "Daily rental homes have increased so much that less is being earned" → Albanian slug → S-104, S-105; Sarandë piece 404 |
 | **New for run 17** | | | | |
-| monitor.al (allowed_domains) English title words: daily rental apartments owners managers earn less Tirana Durres Vlora | 0 | 0 | – | rule 50: find unlogged Monitor rental features via English index titles, fetch the Albanian slug (gaps 23, 39) |
-| reporter.al (allowed_domains) tregu tregtarët ankohen shitjet qiraja tezga Tiranë Durrës reportazh | 0 | 0 | – | rule 50: BIRN market reportage that quotes named small traders (S-103) |
-| monitor.al (allowed_domains) English title words: small shops close rent high Tirana owners say | 0 | 0 | – | rule 50: closure features via English titles (gap 1) |
+| monitor.al (allowed_domains) English title words: daily rental apartments owners managers earn less Tirana Durres Vlora | 1 | 0 | 0 | run 17: S-104/S-105 and S-057/S-058 articles again; unlogged March 2024 AirDNA piece (Vlorë ~1,163, Tirana ~700, Durrës ~930 euros a month per unit in 2023) is data only, no named people |
+| reporter.al (allowed_domains) tregu tregtarët ankohen shitjet qiraja tezga Tiranë Durrës reportazh | 1 | 0 | 0 | run 17: Selitë (S-103) again; 2015-2020 street-vendor and post-earthquake pieces |
+| monitor.al (allowed_domains) English title words: small shops close rent high Tirana owners say | 1 | 0 | 0 | DROP (with the two other run-17 Monitor queries): 2020 closure survey again; headline only: shop rents up to 66% since COVID, more rises expected in 2027 |
+| **Run 17 (2026-11-28)** (first three rows above were queued in run 16) | | | | |
+| citizens/reporter/faktoje/monitor/balkanweb/euronews korrieri pagesa e parave shitësit online vonesa porositë me para në dorë | 1 | 0 | 0 | gap 37: logged 2018/2019 Monitor online-retail pieces; no courier payout schedule (stays with the user) |
+| es: cerré mi tienda online pago contra entrega devoluciones emprendedor Colombia/Perú/México (open web) | 1 | 0 | 0 | DROP: Shopify/Tiendanube/Dropi vendor content (rule 3) |
+| hr: najam posteljine za apartmane pokrenuo posao iznajmljivači praonica (open web) | 1 | 2 | 2.0 | run 17: Novi list 2019 promo article → S-109 (Pula laundry), S-110 (Pag laundry run by an apartment cleaner); advertorial for Bijeli svijet (rule 51) |
+| pl: zamknęłam sklep internetowy dlaczego upadł za pobraniem towar z Chin (open web) | 1 | 0 | 0 | DROP: consumer-fraud and legal pages; Bezprawnik says emotional "closing our family shop" posts are often a Chinese sellers' marketing trick |
+| reporter/citizens/faktoje/monitor/balkanweb/euronews/top-channel pastruese apartamente qira ditore Durrës punon për pronarët | 1 | 0 | 0 | gap 35: logged Monitor rental and textile articles only |
+| Montenegro Budva apartment owners small business supplies linen cleaning story (open web, en) | 1 | 0 | 0 | DROP: Airbnb/Expedia listings only |
+| top-channel/a2news/reportv/euronews/panorama/shqiptarja pronarët e apartamenteve Ksamil Sarandë sezoni 2026 | 1 | 0 | 0 | data only: Top Channel July 2026 says listed prices up over 15% on 2025, Sarandë ~120 euros a night (an expert's figure); no owners quoted |
+| kurir/nova/n1info/biznis/021/bizlife iznajmljivači apartmana Zlatibor Kopaonik troškovi posteljina čišćenje | 1 | 1 | 1.0 | run 17: Kurir Biznis Jan 2024 → S-111 (anonymous Zlatibor owner: oversupply, guests take linen) |
+| thestartupscene/wamda/magnitt/menabytes founder shut down online store cash on delivery returns couriers | 1 | 0 | 0 | rule 50 quota (1): Accept and VOO (courier-data startup) profiles, GoNabit (VC); no small seller |
+| kurir/nova/n1info/telegraf/021/blic izdavanje apartmana vlasnica posteljina peškiri nabavka troškovi | 1 | 0 | 0 | ERROR: blic.rs refused again (rule 25); whole search failed |
+| tiranatimes/exit/euronews/albaniandailynews/balkaninsight/invest-in-albania Tirana short-term rental manager interview linen | 1 | 0 | 0 | DROP: market and tax pieces (categorisation certificate, AirDNA occupancy ~59% in Tirana); no operator interviews |
+| kurir/nova/n1info/telegraf/021 izdavanje apartmana vlasnica posteljina peškiri nabavka troškovi gosti iskustvo | 1 | 1 | 1.0 | run 17: Forbes Srbija Apr 2024 → S-112 (Belgrade host, business-premises rule); nova.rs piece retelling Croatian hosts' Reddit posts (Pula host nets ~6,500 euros a season, mother cleans) skipped as anonymous retold posts (rule 35); S-111 again |
+| citizens/reporter/faktoje/monitor/euronews/top-channel/shqiptarja shitëse online mbylla faqen Instagram humba para mallra nga Turqia | 1 | 0 | 0 | gap-1 search (rule 45): logged Citizens/Monitor pieces; Reporter.al Jan 2026 fake-supplement network (fraud, not a seller story) |
+| **New for run 18** | | | | |
+| kurir.rs/nova.rs/forbes.n1info.rs (allowed_domains) vlasnici apartmana troškovi čistačica cena po izlasku gosta posteljina pranje | 0 | 0 | – | rule 51: Serbian host buyer evidence (gaps 2, 39, 40) |
+| novilist.hr (allowed_domains; check it is accepted) agencija za upravljanje apartmanima vlasnik posteljina praonica -promo | 0 | 0 | – | rule 51: Croatian managers and laundries in news, not promo pages (gaps 2, 16) |
+| kurir.rs/nova.rs/forbes.n1info.rs zatvorio praonicu OR agenciju za izdavanje apartmana zašto propao | 0 | 0 | – | rule 51: failures of host-service businesses in the region (gap 1, L-016) |
+| kurir.rs/nova.rs gosti odnose peškire posteljinu iz apartmana vlasnici računaju gubitak | 0 | 0 | – | L-045 confirmation (gap 40) |
 | **(Run-9 queue, results above)** | | | | |
 | monitor.al (allowed_domains) qira ditore pronarja tregon hoqi dorë apartament Durrës OR Vlorë OR Sarandë | 1 | 0 | 0 | run 9: only the run-8 articles (Entela = S-057, Suela = S-058) and price/occupancy pieces |
 | monitor.al (allowed_domains) Arrijnë 50 milionë euro fitimet qira ditore 2026 / "Konkurrenca me hotelet dhe informaliteti" | 1 | 0 | 0 | run 9: data only (27.7k listings H1 2026, +4.2% vs 2025 average, +1.1k units; hotels hold 22% of ~285k beds); no named managers (gap 23) |
@@ -316,6 +340,8 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | Failory (interviews + "31 failed e-commerce startups" list page) | 11 | 0.82 | S-008, S-009, S-013, S-021, S-022, S-023, S-039, S-047, S-048 (run 6); runs 7 and 10: 0 (run 10: only duplicates and relevance-2 SaaS/food); mostly US/UK/Mexico/India |
 | Side Hustle School (episode pages incl. full transcripts) | 5 | 1.2 | S-011, S-012, S-017, S-018, S-025, S-026; run 3 stories only relevance 2-3 (rule 15); run 7: 2 duplicates (rule 29) |
 | Kosovo 2.0 (archive.kosovotwopointzero.com readable; main site loads by JS) | 3 | 0.67 | S-019, S-020; runs 3-4: 0 |
+| Serbian mainstream news on apartment owners (Kurir Biznis "nekretnine", Forbes Srbija "novac"; readable by curl; Kurir body text sits in the page's JSON) | 2 | 1.0 | run 17: S-111, S-112 (buyer evidence, relevance 3-4); many Kurir/nova pieces retell anonymous Reddit or Facebook posts (rule 35) |
+| Croatian news (Novi list; "promo-sadrzaji" pages are advertorials) | 1 | 2.0 | run 17: S-109, S-110 from one 2019 promo article (market evidence only, rule 51) |
 | Balkan "confession" news (Kurir Biznis "ispovest", retold Reddit posts) | 5 | 0.2 | S-024 only; run 4: 4 confession queries (sr, sq, mk, hr/bs) gave 0 |
 | French conciergerie podcasts (La Conciergerie on Ausha) | 4 | 1.0 | S-027, S-028, S-029, S-042; run 6 harvest: 0 (recent episodes are regulation and staffing); each episode page embeds the descriptions and slugs of many other episodes (rule 18); show notes only |
 | biznis.rs "99 najuspešnijih" (Serbian micro-firm profiles, CompanyWall financials) | 5 | 0.8 | S-030, S-031, S-032 (run 4), S-033 (run 5); excludes firms with losses or in bankruptcy, so no failures; run-5 ranking queries mostly returned tables |
@@ -329,17 +355,17 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
 | Balkan startup media (Trending Topics SEE, StartUs Magazine, The Recursive, StartupYard) | 3 | 0.67 | S-007, S-010; StartupYard only duplicated Gjirafa |
 | USAID / UNDP / EBRD / World Bank / UN Women case studies | 5 | 0.4 | S-006, S-049 (archived 2006 USAID story, rule 28); mostly producers/freelancers; UN Women 0 in run 3 |
 | Prishtina Insight (BIRN magazine; readable by curl) | 10 | 0.4 | run 12: 0 (same two articles); run 11: 0 (ATK enforcement pieces); run 10: 0 (same articles); run 9: S-061, S-062 from 4 searches; run 8: S-054, S-055 from 2 searches; run 3: COVID piece on producers |
-| Monitor.al short-term-rental market features (named hosts, managers, fit-out firms) | 2 | 3.0 | run 16: S-104, S-105 (June 2025 feature, found via its English index title; rule 37 was too strict); run 8: S-057, S-058 (Feb 2025), S-059, S-060 (May 2022); buyer evidence (rule 7, rule 31) |
+| Monitor.al short-term-rental market features (named hosts, managers, fit-out firms) | 3 | 2.0 | run 17: 0 (English-title query returned logged articles and a 2024 data piece); run 16: S-104, S-105 (June 2025 feature, found via its English index title; rule 37 was too strict); run 8: S-057, S-058 (Feb 2025), S-059, S-060 (May 2022); buyer evidence (rule 7, rule 31) |
 | Forbes Srbija "mali biznis" section (forbes.n1info.rs; readable by curl) | 9 | 0.33 | run 16: 0 (S-065/S-066 again; forbes.n1info.ba chain news); run 12: 0 (S-065 again); run 11: 0 from 3 searches (only S-065 again); exhausted, rule 43; run 10: S-068 (DaLux) from the 2024 "Opekao sam se" piece; S-065/S-066 again; run 9: S-065 (Ana Nešić), S-066 (Zanateria); rules 36, 39 |
 | biznis.rs small-retailer profiles (outside the "99" series) | 3 | 0.67 | run 12: 0 (paint maker, minimarket chain, sewing-machine importer: relevance 2); run 9: S-067 (Family, Kraljevo); run 10: S-069 (Miranita, Ljig) |
 | Pet trade press (Pet Age) | 1 | 0 | distributor news, no small dealer |
 | STR trade press (ShortTermRentalz, BizTimes, PhocusWire) | 2 | 0.5 | S-002 |
 | YourStory (India SMB stories) | 1 | 1.0 | S-014; bot check, use search snippets |
 | Faktoje.al (fact-checking site; "Përtej" features; readable by curl) | 5 | 0.4 | run 15: 0 from 2 searches (S-088 article again; fiscal-package fact for gap 25); 2020 Vlorë COVID piece quoted bars and market stalls only (rule 26); run 14: S-088, S-089 from one 2019 article pairing a registered shop with an Instagram seller; other searches repeated it |
-| Reporter.al (BIRN) reportage, esp. Gëzim Kabashi on Durrës (readable by curl) | 12 | 0.5 | run 16: S-103 (2021 Selitë market reportage) from 3 searches touching reporter.al; run 15: S-097 (Sept 2026 Lagjja 1) from 8 searches touching reporter.al; Vlorë/Sarandë, hotel-supplier, Turkish-import and Tirana-host queries gave 0; run 14: S-090-S-093 from three articles (2025-2026 hosts, hotels); closures and NIPT searches 0 |
+| Reporter.al (BIRN) reportage, esp. Gëzim Kabashi on Durrës (readable by curl) | 13 | 0.46 | run 17: 0 (market reportage query returned S-103 again); run 16: S-103 (2021 Selitë market reportage) from 3 searches touching reporter.al; run 15: S-097 (Sept 2026 Lagjja 1) from 8 searches touching reporter.al; Vlorë/Sarandë, hotel-supplier, Turkish-import and Tirana-host queries gave 0; run 14: S-090-S-093 from three articles (2025-2026 hosts, hotels); closures and NIPT searches 0 |
 | Citizens.al (readable by curl) | 11 | 0.45 | run 16: 0 from 2 other-town searches (Vlorë, Shkodër/Korçë not indexed); run 15: first sellers, S-094-S-096, from two 2020 shock reportages (Myslym Shyri, Durrës beach), found via a closure query; runs 13-14: S-083, S-087, both buyer evidence |
 | Balkan Insight (BIRN English; readable by curl) | 3 | 0.33 | run 16: 0 from 2 (old property pieces, crime/tax news); run 15: S-102 (2019 Shëngjin feature); features name small owners on the Albanian coast and in Kosovo |
-| MENA startup media founder profiles (The Startup Scene, Wamda; readable by curl) | 5 | 1.0 | run 16: S-106, S-107 (2015 failure list), S-108 (Wamda) from 4 searches, all relevance 2-3; run 15: S-099, S-100 from the Fincart profile; vendor-PR app articles (Egyptian Streets) excluded under rule 3 |
+| MENA startup media founder profiles (The Startup Scene, Wamda; readable by curl) | 6 | 0.83 | run 17: 0 from 1; run 16: S-106, S-107 (2015 failure list), S-108 (Wamda) from 4 searches, all relevance 2-3; run 15: S-099, S-100 from the Fincart profile; vendor-PR app articles (Egyptian Streets) excluded under rule 3 |
 | Blocked for curl (Kallxo, Médias24: Cloudflare; Monitor /en/: WAF; web.archive.org: egress) | 3 | 0 | run 14: leads seen only via search index; not logged (rule 47) |
 | Albanian/Kosovar business media (Euronews Albania, Scan TV, Shqiptarja, SeeNews, Kallxo, Koha, Telegrafi, Exit, Tirana Times, ADN; Monitor.al has its own rows) | 10 | 0 | run 12: Telegrafi 0 (podcast and event pages); run 11: 0 again; stats/reports, customs rules, smuggling news; SeeNews bot-checked |
 | Reddit | 2 | 0 | not surfaced by WebSearch |
@@ -515,3 +541,16 @@ interviews. Open-web Bulgarian, Romanian and Kosovo-towel-maker queries gave 0 i
     founder media yield only relevance 2-3 stories (VC or accelerator startups, rule 8): at most 1 search per run, for
     failure balance only. Run 16 logged 6 stories (3 at relevance 4-5, 2 of them from one article): not low yield by the
     rule, but below the 8-15 aim for the fourth run in five. (run 16)
+51. **Low yield in run 17 (1 new story with relevance 4-5, S-111, an anonymous anecdote; 0 failures from 4 failure searches).**
+    All 8 searches on Albanian sources (monitor.al English titles, reporter.al, citizens/faktoje, Albanian TV sites, English
+    Albanian outlets) returned only logged articles or data: the indexed Albanian archive looks exhausted for new named
+    sellers and hosts. Run 18: (a) at most 3 searches on Albanian sources, each with a new angle (a town, trade or year not yet
+    in `stories.jsonl`), plus the 1 gap-1 search (rule 45); (b) at least 4 on Serbian and Croatian mainstream news about
+    apartment owners and the businesses that serve them (kurir.rs, nova.rs, forbes.n1info.rs, novilist.hr), where run 17 found
+    S-109-S-112; (c) word 2 of the failure searches as closures of host-service businesses in the region (laundries,
+    apartment-management agencies, linen rental), not new-language e-commerce confessions (Spanish and Polish open-web
+    queries gave vendor and fraud pages); (d) pages whose URL or label says "promo-sadrzaji", "promo", "(P)" or
+    "sponzorirano" are advertorials: log them only as "Market evidence:", relevance 3 at most (rule 23); (e) skip Kurir/nova
+    pieces that retell anonymous Reddit or Facebook posts (rule 35), but a reporter's own anonymous interviewee may be logged
+    as "anecdote" buyer evidence; (f) count a refused search toward the ~15 cap and never put blic.rs or vijesti.me in
+    allowed_domains (run 17 repeated the rule-25 error; total 16 searches, over the cap). (run 17)
